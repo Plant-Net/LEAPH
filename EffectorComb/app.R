@@ -15,11 +15,11 @@ library(bslib)
 
 
 # load dataset 
-dset <- read_tsv("../tables/proteomes_putative_eff_scaled.tsv")
-dset_to_subset <- read_tsv("../tables/subsetting_tab.tsv")
+dset <- read_tsv("../tables/EC_predictions_to_be_mapped.tsv")
+dset_to_subset <- read_tsv("../tables/EC_subsetting_tab.tsv")
 features_colnames <- c("sequence length","signal peptide","transmembrane domain","aa in tr domain","first 60 aa",
-                       "prob N-in","MobiDB-lite", 
-                       "CAMP_PHOSPHO_SITE", "PKC_PHOSPHO_SITE", "CK2_PHOSPHO_SITE", "MYRISTYL", "AMIDATION", "ASN_GLYCOSYLATION","L=0", 
+                       "prob N-in","IDRs", 
+                       "CAMP_PHOSPHO_SITE", "PKC_PHOSPHO_SITE", "CK2_PHOSPHO_SITE", "MYRISTYL", "AMIDATION", "ASN_GLYCOSYLATION","ASPARAGINE_RICH", 
                        "LEUCINE_ZIPPER","MICROBODIES_CTER", "RGD", "TYR_PHOSPHO_SITE_1", "TYR_PHOSPHO_SITE_2",
                        "CLUMP0","CLUMP3","CLUMP5","CLUMP6","CLUMP7","CLUMP8", "bin1", "bin2", "bin3", "bin4")
 
@@ -57,7 +57,7 @@ ui <- fluidPage(
                  label = "Choose which features to plot",
                  choices = features_colnames,
                  selected = c("sequence length","signal peptide","transmembrane domain","aa in tr domain","first 60 aa",
-                              "prob N-in","MobiDB-lite"),
+                              "prob N-in","IDRs"),
                  multiple = TRUE,
                  selectize = TRUE
                ),
@@ -135,7 +135,7 @@ server <- function(input, output) {
   
   output$cloud_som <- renderUI({cloud_som_plot()})
   output$download <- downloadHandler(
-    filename = function() {paste("LEAF_SOM_clouds_", input$clouds_color, '.html', sep='')},
+    filename = function() {paste("EC_clouds_", input$clouds_color, '.html', sep='')},
     content = function(file) {
       saveWidget(cloud_som_plot(), file)
     })
@@ -162,7 +162,7 @@ server <- function(input, output) {
   
   output$pie_som <- renderUI({pie_som_plot()})
   output$download2 <- downloadHandler(
-    filename = function() {paste("LEAF_SOM_pie_", input$pie_label, '.html', sep='')},
+    filename = function() {paste("EC_pie_", input$pie_label, '.html', sep='')},
     content = function(file) {
       saveWidget(pie_som_plot(), file)
     })
@@ -211,7 +211,7 @@ server <- function(input, output) {
   
   output$cloud_map_som <- renderUI({cloud_map_som_plot()})
   output$download4 <- downloadHandler(
-    filename = function() {paste("LEAF_MAPPED_SOM_clouds", '.html', sep='')},
+    filename = function() {paste("LEAPH_MAPPED_SOM_clouds", '.html', sep='')},
     content = function(file) {
       saveWidget(cloud_map_som_plot(), file)
     })
