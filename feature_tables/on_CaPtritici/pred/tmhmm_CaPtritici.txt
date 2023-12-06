@@ -1,0 +1,4341 @@
+# 2570378666 Length: 184
+# 2570378666 Number of predicted TMHs:  0
+# 2570378666 Exp number of AAs in TMHs: 0.000950000000000001
+# 2570378666 Exp number, first 60 AAs:  0.000790000000000001
+# 2570378666 Total prob of N-in:        0.05173
+2570378666	TMHMM2.0	outside	     1   184
+# 2570378667 Length: 62
+# 2570378667 Number of predicted TMHs:  0
+# 2570378667 Exp number of AAs in TMHs: 0
+# 2570378667 Exp number, first 60 AAs:  0
+# 2570378667 Total prob of N-in:        0.34550
+2570378667	TMHMM2.0	outside	     1    62
+# 2570378668 Length: 169
+# 2570378668 Number of predicted TMHs:  0
+# 2570378668 Exp number of AAs in TMHs: 0.00021
+# 2570378668 Exp number, first 60 AAs:  0
+# 2570378668 Total prob of N-in:        0.07772
+2570378668	TMHMM2.0	outside	     1   169
+# 2570378669 Length: 112
+# 2570378669 Number of predicted TMHs:  1
+# 2570378669 Exp number of AAs in TMHs: 19.95028
+# 2570378669 Exp number, first 60 AAs:  19.95028
+# 2570378669 Total prob of N-in:        0.06004
+# 2570378669 POSSIBLE N-term signal sequence
+2570378669	TMHMM2.0	outside	     1     9
+2570378669	TMHMM2.0	TMhelix	    10    29
+2570378669	TMHMM2.0	inside	    30   112
+# 2570378670 Length: 76
+# 2570378670 Number of predicted TMHs:  0
+# 2570378670 Exp number of AAs in TMHs: 0.00898
+# 2570378670 Exp number, first 60 AAs:  0.00896
+# 2570378670 Total prob of N-in:        0.02271
+2570378670	TMHMM2.0	outside	     1    76
+# 2570378671 Length: 54
+# 2570378671 Number of predicted TMHs:  1
+# 2570378671 Exp number of AAs in TMHs: 23.00174
+# 2570378671 Exp number, first 60 AAs:  23.00174
+# 2570378671 Total prob of N-in:        0.99586
+# 2570378671 POSSIBLE N-term signal sequence
+2570378671	TMHMM2.0	inside	     1    19
+2570378671	TMHMM2.0	TMhelix	    20    42
+2570378671	TMHMM2.0	outside	    43    54
+# 2570378672 Length: 110
+# 2570378672 Number of predicted TMHs:  2
+# 2570378672 Exp number of AAs in TMHs: 45.71095
+# 2570378672 Exp number, first 60 AAs:  22.95401
+# 2570378672 Total prob of N-in:        0.84642
+# 2570378672 POSSIBLE N-term signal sequence
+2570378672	TMHMM2.0	inside	     1    32
+2570378672	TMHMM2.0	TMhelix	    33    55
+2570378672	TMHMM2.0	outside	    56    69
+2570378672	TMHMM2.0	TMhelix	    70    92
+2570378672	TMHMM2.0	inside	    93   110
+# 2570378673 Length: 182
+# 2570378673 Number of predicted TMHs:  1
+# 2570378673 Exp number of AAs in TMHs: 20.19435
+# 2570378673 Exp number, first 60 AAs:  20.19435
+# 2570378673 Total prob of N-in:        0.15283
+# 2570378673 POSSIBLE N-term signal sequence
+2570378673	TMHMM2.0	outside	     1     9
+2570378673	TMHMM2.0	TMhelix	    10    29
+2570378673	TMHMM2.0	inside	    30   182
+# 2570378674 Length: 153
+# 2570378674 Number of predicted TMHs:  1
+# 2570378674 Exp number of AAs in TMHs: 25.78371
+# 2570378674 Exp number, first 60 AAs:  20.94461
+# 2570378674 Total prob of N-in:        0.56275
+# 2570378674 POSSIBLE N-term signal sequence
+2570378674	TMHMM2.0	outside	     1    14
+2570378674	TMHMM2.0	TMhelix	    15    34
+2570378674	TMHMM2.0	inside	    35   153
+# 2570378675 Length: 204
+# 2570378675 Number of predicted TMHs:  5
+# 2570378675 Exp number of AAs in TMHs: 111.49059
+# 2570378675 Exp number, first 60 AAs:  31.0181
+# 2570378675 Total prob of N-in:        0.70424
+# 2570378675 POSSIBLE N-term signal sequence
+2570378675	TMHMM2.0	inside	     1    20
+2570378675	TMHMM2.0	TMhelix	    21    43
+2570378675	TMHMM2.0	outside	    44    52
+2570378675	TMHMM2.0	TMhelix	    53    75
+2570378675	TMHMM2.0	inside	    76    81
+2570378675	TMHMM2.0	TMhelix	    82   104
+2570378675	TMHMM2.0	outside	   105   132
+2570378675	TMHMM2.0	TMhelix	   133   155
+2570378675	TMHMM2.0	inside	   156   175
+2570378675	TMHMM2.0	TMhelix	   176   198
+2570378675	TMHMM2.0	outside	   199   204
+# 2570378676 Length: 265
+# 2570378676 Number of predicted TMHs:  6
+# 2570378676 Exp number of AAs in TMHs: 128.58977
+# 2570378676 Exp number, first 60 AAs:  19.21789
+# 2570378676 Total prob of N-in:        0.98188
+# 2570378676 POSSIBLE N-term signal sequence
+2570378676	TMHMM2.0	inside	     1    12
+2570378676	TMHMM2.0	TMhelix	    13    30
+2570378676	TMHMM2.0	outside	    31    64
+2570378676	TMHMM2.0	TMhelix	    65    87
+2570378676	TMHMM2.0	inside	    88    93
+2570378676	TMHMM2.0	TMhelix	    94   116
+2570378676	TMHMM2.0	outside	   117   130
+2570378676	TMHMM2.0	TMhelix	   131   153
+2570378676	TMHMM2.0	inside	   154   165
+2570378676	TMHMM2.0	TMhelix	   166   185
+2570378676	TMHMM2.0	outside	   186   225
+2570378676	TMHMM2.0	TMhelix	   226   248
+2570378676	TMHMM2.0	inside	   249   265
+# 2570378677 Length: 72
+# 2570378677 Number of predicted TMHs:  0
+# 2570378677 Exp number of AAs in TMHs: 19.14598
+# 2570378677 Exp number, first 60 AAs:  19.14576
+# 2570378677 Total prob of N-in:        0.24042
+# 2570378677 POSSIBLE N-term signal sequence
+2570378677	TMHMM2.0	outside	     1    72
+# 2570378678 Length: 604
+# 2570378678 Number of predicted TMHs:  6
+# 2570378678 Exp number of AAs in TMHs: 127.48508
+# 2570378678 Exp number, first 60 AAs:  20.84552
+# 2570378678 Total prob of N-in:        0.99888
+# 2570378678 POSSIBLE N-term signal sequence
+2570378678	TMHMM2.0	inside	     1    20
+2570378678	TMHMM2.0	TMhelix	    21    40
+2570378678	TMHMM2.0	outside	    41   388
+2570378678	TMHMM2.0	TMhelix	   389   411
+2570378678	TMHMM2.0	inside	   412   431
+2570378678	TMHMM2.0	TMhelix	   432   454
+2570378678	TMHMM2.0	outside	   455   468
+2570378678	TMHMM2.0	TMhelix	   469   489
+2570378678	TMHMM2.0	inside	   490   534
+2570378678	TMHMM2.0	TMhelix	   535   557
+2570378678	TMHMM2.0	outside	   558   566
+2570378678	TMHMM2.0	TMhelix	   567   589
+2570378678	TMHMM2.0	inside	   590   604
+# 2570378679 Length: 242
+# 2570378679 Number of predicted TMHs:  0
+# 2570378679 Exp number of AAs in TMHs: 0.00412999999999999
+# 2570378679 Exp number, first 60 AAs:  0.0039
+# 2570378679 Total prob of N-in:        0.03913
+2570378679	TMHMM2.0	outside	     1   242
+# 2570378680 Length: 86
+# 2570378680 Number of predicted TMHs:  0
+# 2570378680 Exp number of AAs in TMHs: 0.000690000000000001
+# 2570378680 Exp number, first 60 AAs:  0.000690000000000001
+# 2570378680 Total prob of N-in:        0.86115
+2570378680	TMHMM2.0	inside	     1    86
+# 2570378681 Length: 424
+# 2570378681 Number of predicted TMHs:  0
+# 2570378681 Exp number of AAs in TMHs: 0.04696
+# 2570378681 Exp number, first 60 AAs:  0
+# 2570378681 Total prob of N-in:        0.00341
+2570378681	TMHMM2.0	outside	     1   424
+# 2570378682 Length: 91
+# 2570378682 Number of predicted TMHs:  0
+# 2570378682 Exp number of AAs in TMHs: 0.06936
+# 2570378682 Exp number, first 60 AAs:  0.01327
+# 2570378682 Total prob of N-in:        0.40727
+2570378682	TMHMM2.0	outside	     1    91
+# 2570378683 Length: 308
+# 2570378683 Number of predicted TMHs:  0
+# 2570378683 Exp number of AAs in TMHs: 0.01247
+# 2570378683 Exp number, first 60 AAs:  0.01188
+# 2570378683 Total prob of N-in:        0.04204
+2570378683	TMHMM2.0	outside	     1   308
+# 2570378684 Length: 102
+# 2570378684 Number of predicted TMHs:  0
+# 2570378684 Exp number of AAs in TMHs: 0.00191
+# 2570378684 Exp number, first 60 AAs:  0.00191
+# 2570378684 Total prob of N-in:        0.24852
+2570378684	TMHMM2.0	outside	     1   102
+# 2570378685 Length: 111
+# 2570378685 Number of predicted TMHs:  0
+# 2570378685 Exp number of AAs in TMHs: 5.86079
+# 2570378685 Exp number, first 60 AAs:  5.84702
+# 2570378685 Total prob of N-in:        0.66202
+2570378685	TMHMM2.0	inside	     1   111
+# 2570378686 Length: 92
+# 2570378686 Number of predicted TMHs:  0
+# 2570378686 Exp number of AAs in TMHs: 0.00019
+# 2570378686 Exp number, first 60 AAs:  3e-05
+# 2570378686 Total prob of N-in:        0.04793
+2570378686	TMHMM2.0	outside	     1    92
+# 2570378687 Length: 419
+# 2570378687 Number of predicted TMHs:  0
+# 2570378687 Exp number of AAs in TMHs: 0.11853
+# 2570378687 Exp number, first 60 AAs:  0.07992
+# 2570378687 Total prob of N-in:        0.00525
+2570378687	TMHMM2.0	outside	     1   419
+# 2570378689 Length: 315
+# 2570378689 Number of predicted TMHs:  2
+# 2570378689 Exp number of AAs in TMHs: 45.1539
+# 2570378689 Exp number, first 60 AAs:  22.35927
+# 2570378689 Total prob of N-in:        0.24574
+# 2570378689 POSSIBLE N-term signal sequence
+2570378689	TMHMM2.0	outside	     1    14
+2570378689	TMHMM2.0	TMhelix	    15    37
+2570378689	TMHMM2.0	inside	    38   285
+2570378689	TMHMM2.0	TMhelix	   286   308
+2570378689	TMHMM2.0	outside	   309   315
+# 2570378690 Length: 380
+# 2570378690 Number of predicted TMHs:  1
+# 2570378690 Exp number of AAs in TMHs: 20.05595
+# 2570378690 Exp number, first 60 AAs:  20.00422
+# 2570378690 Total prob of N-in:        0.92984
+# 2570378690 POSSIBLE N-term signal sequence
+2570378690	TMHMM2.0	inside	     1    11
+2570378690	TMHMM2.0	TMhelix	    12    31
+2570378690	TMHMM2.0	outside	    32   380
+# 2570378691 Length: 254
+# 2570378691 Number of predicted TMHs:  0
+# 2570378691 Exp number of AAs in TMHs: 0.01727
+# 2570378691 Exp number, first 60 AAs:  0.00768
+# 2570378691 Total prob of N-in:        0.22957
+2570378691	TMHMM2.0	outside	     1   254
+# 2570378692 Length: 354
+# 2570378692 Number of predicted TMHs:  8
+# 2570378692 Exp number of AAs in TMHs: 181.9731
+# 2570378692 Exp number, first 60 AAs:  34.47337
+# 2570378692 Total prob of N-in:        0.49251
+# 2570378692 POSSIBLE N-term signal sequence
+2570378692	TMHMM2.0	inside	     1    12
+2570378692	TMHMM2.0	TMhelix	    13    32
+2570378692	TMHMM2.0	outside	    33    62
+2570378692	TMHMM2.0	TMhelix	    63    82
+2570378692	TMHMM2.0	inside	    83    94
+2570378692	TMHMM2.0	TMhelix	    95   114
+2570378692	TMHMM2.0	outside	   115   145
+2570378692	TMHMM2.0	TMhelix	   146   168
+2570378692	TMHMM2.0	inside	   169   174
+2570378692	TMHMM2.0	TMhelix	   175   197
+2570378692	TMHMM2.0	outside	   198   200
+2570378692	TMHMM2.0	TMhelix	   201   218
+2570378692	TMHMM2.0	inside	   219   224
+2570378692	TMHMM2.0	TMhelix	   225   247
+2570378692	TMHMM2.0	outside	   248   256
+2570378692	TMHMM2.0	TMhelix	   257   279
+2570378692	TMHMM2.0	inside	   280   354
+# 2570378693 Length: 364
+# 2570378693 Number of predicted TMHs:  9
+# 2570378693 Exp number of AAs in TMHs: 186.15868
+# 2570378693 Exp number, first 60 AAs:  39.28232
+# 2570378693 Total prob of N-in:        0.23163
+# 2570378693 POSSIBLE N-term signal sequence
+2570378693	TMHMM2.0	outside	     1    14
+2570378693	TMHMM2.0	TMhelix	    15    34
+2570378693	TMHMM2.0	inside	    35    38
+2570378693	TMHMM2.0	TMhelix	    39    61
+2570378693	TMHMM2.0	outside	    62    65
+2570378693	TMHMM2.0	TMhelix	    66    88
+2570378693	TMHMM2.0	inside	    89    96
+2570378693	TMHMM2.0	TMhelix	    97   119
+2570378693	TMHMM2.0	outside	   120   143
+2570378693	TMHMM2.0	TMhelix	   144   166
+2570378693	TMHMM2.0	inside	   167   172
+2570378693	TMHMM2.0	TMhelix	   173   195
+2570378693	TMHMM2.0	outside	   196   198
+2570378693	TMHMM2.0	TMhelix	   199   221
+2570378693	TMHMM2.0	inside	   222   227
+2570378693	TMHMM2.0	TMhelix	   228   247
+2570378693	TMHMM2.0	outside	   248   256
+2570378693	TMHMM2.0	TMhelix	   257   279
+2570378693	TMHMM2.0	inside	   280   364
+# 2570378694 Length: 392
+# 2570378694 Number of predicted TMHs:  2
+# 2570378694 Exp number of AAs in TMHs: 44.94244
+# 2570378694 Exp number, first 60 AAs:  22.54364
+# 2570378694 Total prob of N-in:        0.99369
+# 2570378694 POSSIBLE N-term signal sequence
+2570378694	TMHMM2.0	inside	     1    11
+2570378694	TMHMM2.0	TMhelix	    12    34
+2570378694	TMHMM2.0	outside	    35   344
+2570378694	TMHMM2.0	TMhelix	   345   367
+2570378694	TMHMM2.0	inside	   368   392
+# 2570378695 Length: 504
+# 2570378695 Number of predicted TMHs:  5
+# 2570378695 Exp number of AAs in TMHs: 96.5612400000001
+# 2570378695 Exp number, first 60 AAs:  0.01273
+# 2570378695 Total prob of N-in:        0.48543
+2570378695	TMHMM2.0	outside	     1   313
+2570378695	TMHMM2.0	TMhelix	   314   336
+2570378695	TMHMM2.0	inside	   337   347
+2570378695	TMHMM2.0	TMhelix	   348   370
+2570378695	TMHMM2.0	outside	   371   406
+2570378695	TMHMM2.0	TMhelix	   407   429
+2570378695	TMHMM2.0	inside	   430   435
+2570378695	TMHMM2.0	TMhelix	   436   458
+2570378695	TMHMM2.0	outside	   459   462
+2570378695	TMHMM2.0	TMhelix	   463   482
+2570378695	TMHMM2.0	inside	   483   504
+# 2570378696 Length: 287
+# 2570378696 Number of predicted TMHs:  0
+# 2570378696 Exp number of AAs in TMHs: 0.05211
+# 2570378696 Exp number, first 60 AAs:  0.00205
+# 2570378696 Total prob of N-in:        0.04741
+2570378696	TMHMM2.0	outside	     1   287
+# 2570378697 Length: 294
+# 2570378697 Number of predicted TMHs:  0
+# 2570378697 Exp number of AAs in TMHs: 0.00713999999999999
+# 2570378697 Exp number, first 60 AAs:  0
+# 2570378697 Total prob of N-in:        0.03164
+2570378697	TMHMM2.0	outside	     1   294
+# 2570378698 Length: 139
+# 2570378698 Number of predicted TMHs:  0
+# 2570378698 Exp number of AAs in TMHs: 0.74385
+# 2570378698 Exp number, first 60 AAs:  0.05933
+# 2570378698 Total prob of N-in:        0.16183
+2570378698	TMHMM2.0	outside	     1   139
+# 2570378699 Length: 321
+# 2570378699 Number of predicted TMHs:  0
+# 2570378699 Exp number of AAs in TMHs: 0.581899999999999
+# 2570378699 Exp number, first 60 AAs:  0.07028
+# 2570378699 Total prob of N-in:        0.09937
+2570378699	TMHMM2.0	outside	     1   321
+# 2570378700 Length: 429
+# 2570378700 Number of predicted TMHs:  0
+# 2570378700 Exp number of AAs in TMHs: 0.417760000000001
+# 2570378700 Exp number, first 60 AAs:  0.26673
+# 2570378700 Total prob of N-in:        0.07046
+2570378700	TMHMM2.0	outside	     1   429
+# 2570378701 Length: 161
+# 2570378701 Number of predicted TMHs:  0
+# 2570378701 Exp number of AAs in TMHs: 3.80403
+# 2570378701 Exp number, first 60 AAs:  0.00733
+# 2570378701 Total prob of N-in:        0.42947
+2570378701	TMHMM2.0	outside	     1   161
+# 2570378702 Length: 209
+# 2570378702 Number of predicted TMHs:  0
+# 2570378702 Exp number of AAs in TMHs: 1.25794
+# 2570378702 Exp number, first 60 AAs:  0.0143
+# 2570378702 Total prob of N-in:        0.10786
+2570378702	TMHMM2.0	outside	     1   209
+# 2570378703 Length: 90
+# 2570378703 Number of predicted TMHs:  0
+# 2570378703 Exp number of AAs in TMHs: 0.00896
+# 2570378703 Exp number, first 60 AAs:  0.00896
+# 2570378703 Total prob of N-in:        0.26436
+2570378703	TMHMM2.0	outside	     1    90
+# 2570378704 Length: 62
+# 2570378704 Number of predicted TMHs:  0
+# 2570378704 Exp number of AAs in TMHs: 0
+# 2570378704 Exp number, first 60 AAs:  0
+# 2570378704 Total prob of N-in:        0.77528
+2570378704	TMHMM2.0	inside	     1    62
+# 2570378705 Length: 149
+# 2570378705 Number of predicted TMHs:  1
+# 2570378705 Exp number of AAs in TMHs: 20.88836
+# 2570378705 Exp number, first 60 AAs:  20.88731
+# 2570378705 Total prob of N-in:        0.26308
+# 2570378705 POSSIBLE N-term signal sequence
+2570378705	TMHMM2.0	outside	     1     9
+2570378705	TMHMM2.0	TMhelix	    10    28
+2570378705	TMHMM2.0	inside	    29   149
+# 2570378706 Length: 185
+# 2570378706 Number of predicted TMHs:  0
+# 2570378706 Exp number of AAs in TMHs: 0.0462800000000001
+# 2570378706 Exp number, first 60 AAs:  0.0273
+# 2570378706 Total prob of N-in:        0.12534
+2570378706	TMHMM2.0	outside	     1   185
+# 2570378707 Length: 167
+# 2570378707 Number of predicted TMHs:  0
+# 2570378707 Exp number of AAs in TMHs: 0.00316
+# 2570378707 Exp number, first 60 AAs:  0.00115
+# 2570378707 Total prob of N-in:        0.14339
+2570378707	TMHMM2.0	outside	     1   167
+# 2570378708 Length: 113
+# 2570378708 Number of predicted TMHs:  0
+# 2570378708 Exp number of AAs in TMHs: 0.00199
+# 2570378708 Exp number, first 60 AAs:  0.00199
+# 2570378708 Total prob of N-in:        0.05232
+2570378708	TMHMM2.0	outside	     1   113
+# 2570378709 Length: 75
+# 2570378709 Number of predicted TMHs:  0
+# 2570378709 Exp number of AAs in TMHs: 0.52806
+# 2570378709 Exp number, first 60 AAs:  0.41228
+# 2570378709 Total prob of N-in:        0.66317
+2570378709	TMHMM2.0	inside	     1    75
+# 2570378710 Length: 202
+# 2570378710 Number of predicted TMHs:  0
+# 2570378710 Exp number of AAs in TMHs: 0.00900999999999999
+# 2570378710 Exp number, first 60 AAs:  5e-05
+# 2570378710 Total prob of N-in:        0.13977
+2570378710	TMHMM2.0	outside	     1   202
+# 2570378711 Length: 240
+# 2570378711 Number of predicted TMHs:  6
+# 2570378711 Exp number of AAs in TMHs: 141.42734
+# 2570378711 Exp number, first 60 AAs:  32.89172
+# 2570378711 Total prob of N-in:        0.99864
+# 2570378711 POSSIBLE N-term signal sequence
+2570378711	TMHMM2.0	inside	     1    12
+2570378711	TMHMM2.0	TMhelix	    13    32
+2570378711	TMHMM2.0	outside	    33    46
+2570378711	TMHMM2.0	TMhelix	    47    66
+2570378711	TMHMM2.0	inside	    67    70
+2570378711	TMHMM2.0	TMhelix	    71    93
+2570378711	TMHMM2.0	outside	    94   112
+2570378711	TMHMM2.0	TMhelix	   113   135
+2570378711	TMHMM2.0	inside	   136   147
+2570378711	TMHMM2.0	TMhelix	   148   170
+2570378711	TMHMM2.0	outside	   171   189
+2570378711	TMHMM2.0	TMhelix	   190   224
+2570378711	TMHMM2.0	inside	   225   240
+# 2570378712 Length: 89
+# 2570378712 Number of predicted TMHs:  0
+# 2570378712 Exp number of AAs in TMHs: 0.00024
+# 2570378712 Exp number, first 60 AAs:  0.00011
+# 2570378712 Total prob of N-in:        0.37900
+2570378712	TMHMM2.0	outside	     1    89
+# 2570378713 Length: 536
+# 2570378713 Number of predicted TMHs:  0
+# 2570378713 Exp number of AAs in TMHs: 0.25704
+# 2570378713 Exp number, first 60 AAs:  0.00119
+# 2570378713 Total prob of N-in:        0.00421
+2570378713	TMHMM2.0	outside	     1   536
+# 2570378714 Length: 164
+# 2570378714 Number of predicted TMHs:  2
+# 2570378714 Exp number of AAs in TMHs: 44.92247
+# 2570378714 Exp number, first 60 AAs:  22.35275
+# 2570378714 Total prob of N-in:        0.99890
+# 2570378714 POSSIBLE N-term signal sequence
+2570378714	TMHMM2.0	inside	     1     8
+2570378714	TMHMM2.0	TMhelix	     9    31
+2570378714	TMHMM2.0	outside	    32   135
+2570378714	TMHMM2.0	TMhelix	   136   158
+2570378714	TMHMM2.0	inside	   159   164
+# 2570378715 Length: 642
+# 2570378715 Number of predicted TMHs:  0
+# 2570378715 Exp number of AAs in TMHs: 4.69970999999999
+# 2570378715 Exp number, first 60 AAs:  0.632
+# 2570378715 Total prob of N-in:        0.20721
+2570378715	TMHMM2.0	outside	     1   642
+# 2570378716 Length: 378
+# 2570378716 Number of predicted TMHs:  0
+# 2570378716 Exp number of AAs in TMHs: 0.15724
+# 2570378716 Exp number, first 60 AAs:  0.1439
+# 2570378716 Total prob of N-in:        0.01389
+2570378716	TMHMM2.0	outside	     1   378
+# 2570378717 Length: 745
+# 2570378717 Number of predicted TMHs:  0
+# 2570378717 Exp number of AAs in TMHs: 0.0393300000000002
+# 2570378717 Exp number, first 60 AAs:  0.00028
+# 2570378717 Total prob of N-in:        0.00124
+2570378717	TMHMM2.0	outside	     1   745
+# 2570378718 Length: 422
+# 2570378718 Number of predicted TMHs:  0
+# 2570378718 Exp number of AAs in TMHs: 0.27739
+# 2570378718 Exp number, first 60 AAs:  0
+# 2570378718 Total prob of N-in:        0.01675
+2570378718	TMHMM2.0	outside	     1   422
+# 2570378719 Length: 587
+# 2570378719 Number of predicted TMHs:  0
+# 2570378719 Exp number of AAs in TMHs: 0.549859999999999
+# 2570378719 Exp number, first 60 AAs:  0.539029999999999
+# 2570378719 Total prob of N-in:        0.03773
+2570378719	TMHMM2.0	outside	     1   587
+# 2570378720 Length: 436
+# 2570378720 Number of predicted TMHs:  0
+# 2570378720 Exp number of AAs in TMHs: 9.89786999999996
+# 2570378720 Exp number, first 60 AAs:  8.68815
+# 2570378720 Total prob of N-in:        0.36486
+2570378720	TMHMM2.0	outside	     1   436
+# 2570378721 Length: 673
+# 2570378721 Number of predicted TMHs:  2
+# 2570378721 Exp number of AAs in TMHs: 42.0424000000001
+# 2570378721 Exp number, first 60 AAs:  19.92207
+# 2570378721 Total prob of N-in:        0.00705
+# 2570378721 POSSIBLE N-term signal sequence
+2570378721	TMHMM2.0	outside	     1    14
+2570378721	TMHMM2.0	TMhelix	    15    32
+2570378721	TMHMM2.0	inside	    33   114
+2570378721	TMHMM2.0	TMhelix	   115   137
+2570378721	TMHMM2.0	outside	   138   673
+# 2570378722 Length: 306
+# 2570378722 Number of predicted TMHs:  0
+# 2570378722 Exp number of AAs in TMHs: 0.00312
+# 2570378722 Exp number, first 60 AAs:  0.00023
+# 2570378722 Total prob of N-in:        0.02060
+2570378722	TMHMM2.0	outside	     1   306
+# 2570378723 Length: 231
+# 2570378723 Number of predicted TMHs:  0
+# 2570378723 Exp number of AAs in TMHs: 1.65144
+# 2570378723 Exp number, first 60 AAs:  1.56858
+# 2570378723 Total prob of N-in:        0.22627
+2570378723	TMHMM2.0	outside	     1   231
+# 2570378724 Length: 347
+# 2570378724 Number of predicted TMHs:  1
+# 2570378724 Exp number of AAs in TMHs: 22.31158
+# 2570378724 Exp number, first 60 AAs:  21.35659
+# 2570378724 Total prob of N-in:        0.45526
+# 2570378724 POSSIBLE N-term signal sequence
+2570378724	TMHMM2.0	inside	     1    12
+2570378724	TMHMM2.0	TMhelix	    13    35
+2570378724	TMHMM2.0	outside	    36   347
+# 2570378725 Length: 233
+# 2570378725 Number of predicted TMHs:  5
+# 2570378725 Exp number of AAs in TMHs: 111.44963
+# 2570378725 Exp number, first 60 AAs:  23.22364
+# 2570378725 Total prob of N-in:        0.03638
+# 2570378725 POSSIBLE N-term signal sequence
+2570378725	TMHMM2.0	outside	     1    28
+2570378725	TMHMM2.0	TMhelix	    29    51
+2570378725	TMHMM2.0	inside	    52    59
+2570378725	TMHMM2.0	TMhelix	    60    82
+2570378725	TMHMM2.0	outside	    83    91
+2570378725	TMHMM2.0	TMhelix	    92   114
+2570378725	TMHMM2.0	inside	   115   153
+2570378725	TMHMM2.0	TMhelix	   154   176
+2570378725	TMHMM2.0	outside	   177   203
+2570378725	TMHMM2.0	TMhelix	   204   223
+2570378725	TMHMM2.0	inside	   224   233
+# 2570378726 Length: 110
+# 2570378726 Number of predicted TMHs:  0
+# 2570378726 Exp number of AAs in TMHs: 0.67277
+# 2570378726 Exp number, first 60 AAs:  0.00039
+# 2570378726 Total prob of N-in:        0.25317
+2570378726	TMHMM2.0	outside	     1   110
+# 2570378727 Length: 74
+# 2570378727 Number of predicted TMHs:  0
+# 2570378727 Exp number of AAs in TMHs: 0
+# 2570378727 Exp number, first 60 AAs:  0
+# 2570378727 Total prob of N-in:        0.58162
+2570378727	TMHMM2.0	inside	     1    74
+# 2570378728 Length: 180
+# 2570378728 Number of predicted TMHs:  0
+# 2570378728 Exp number of AAs in TMHs: 0.14854
+# 2570378728 Exp number, first 60 AAs:  0.00172
+# 2570378728 Total prob of N-in:        0.02893
+2570378728	TMHMM2.0	outside	     1   180
+# 2570378729 Length: 152
+# 2570378729 Number of predicted TMHs:  0
+# 2570378729 Exp number of AAs in TMHs: 0.05657
+# 2570378729 Exp number, first 60 AAs:  0.00968
+# 2570378729 Total prob of N-in:        0.43018
+2570378729	TMHMM2.0	outside	     1   152
+# 2570378730 Length: 130
+# 2570378730 Number of predicted TMHs:  0
+# 2570378730 Exp number of AAs in TMHs: 0.21624
+# 2570378730 Exp number, first 60 AAs:  0.00953
+# 2570378730 Total prob of N-in:        0.37961
+2570378730	TMHMM2.0	outside	     1   130
+# 2570378731 Length: 449
+# 2570378731 Number of predicted TMHs:  0
+# 2570378731 Exp number of AAs in TMHs: 0.364940000000001
+# 2570378731 Exp number, first 60 AAs:  0.24323
+# 2570378731 Total prob of N-in:        0.03954
+2570378731	TMHMM2.0	outside	     1   449
+# 2570378732 Length: 438
+# 2570378732 Number of predicted TMHs:  0
+# 2570378732 Exp number of AAs in TMHs: 2.53877
+# 2570378732 Exp number, first 60 AAs:  0.01469
+# 2570378732 Total prob of N-in:        0.02008
+2570378732	TMHMM2.0	outside	     1   438
+# 2570378733 Length: 546
+# 2570378733 Number of predicted TMHs:  0
+# 2570378733 Exp number of AAs in TMHs: 1.65053
+# 2570378733 Exp number, first 60 AAs:  0.14295
+# 2570378733 Total prob of N-in:        0.05304
+2570378733	TMHMM2.0	outside	     1   546
+# 2570378734 Length: 429
+# 2570378734 Number of predicted TMHs:  0
+# 2570378734 Exp number of AAs in TMHs: 0.02586
+# 2570378734 Exp number, first 60 AAs:  0.00061
+# 2570378734 Total prob of N-in:        0.01183
+2570378734	TMHMM2.0	outside	     1   429
+# 2570378735 Length: 234
+# 2570378735 Number of predicted TMHs:  0
+# 2570378735 Exp number of AAs in TMHs: 0.0373
+# 2570378735 Exp number, first 60 AAs:  0.00016
+# 2570378735 Total prob of N-in:        0.08796
+2570378735	TMHMM2.0	outside	     1   234
+# 2570378736 Length: 180
+# 2570378736 Number of predicted TMHs:  0
+# 2570378736 Exp number of AAs in TMHs: 0.00501999999999999
+# 2570378736 Exp number, first 60 AAs:  0.00436
+# 2570378736 Total prob of N-in:        0.09034
+2570378736	TMHMM2.0	outside	     1   180
+# 2570378737 Length: 152
+# 2570378737 Number of predicted TMHs:  0
+# 2570378737 Exp number of AAs in TMHs: 0.13603
+# 2570378737 Exp number, first 60 AAs:  0.05218
+# 2570378737 Total prob of N-in:        0.68603
+2570378737	TMHMM2.0	inside	     1   152
+# 2570378738 Length: 618
+# 2570378738 Number of predicted TMHs:  0
+# 2570378738 Exp number of AAs in TMHs: 0.00729999999999998
+# 2570378738 Exp number, first 60 AAs:  0.00407
+# 2570378738 Total prob of N-in:        0.00260
+2570378738	TMHMM2.0	outside	     1   618
+# 2570378739 Length: 357
+# 2570378739 Number of predicted TMHs:  0
+# 2570378739 Exp number of AAs in TMHs: 0
+# 2570378739 Exp number, first 60 AAs:  0
+# 2570378739 Total prob of N-in:        0.00234
+2570378739	TMHMM2.0	outside	     1   357
+# 2570378740 Length: 85
+# 2570378740 Number of predicted TMHs:  0
+# 2570378740 Exp number of AAs in TMHs: 0.01009
+# 2570378740 Exp number, first 60 AAs:  0.01009
+# 2570378740 Total prob of N-in:        0.42093
+2570378740	TMHMM2.0	outside	     1    85
+# 2570378741 Length: 623
+# 2570378741 Number of predicted TMHs:  0
+# 2570378741 Exp number of AAs in TMHs: 0.279610000000001
+# 2570378741 Exp number, first 60 AAs:  0.24924
+# 2570378741 Total prob of N-in:        0.01691
+2570378741	TMHMM2.0	outside	     1   623
+# 2570378742 Length: 113
+# 2570378742 Number of predicted TMHs:  0
+# 2570378742 Exp number of AAs in TMHs: 0.00055
+# 2570378742 Exp number, first 60 AAs:  0.00055
+# 2570378742 Total prob of N-in:        0.31604
+2570378742	TMHMM2.0	outside	     1   113
+# 2570378743 Length: 188
+# 2570378743 Number of predicted TMHs:  0
+# 2570378743 Exp number of AAs in TMHs: 0.009
+# 2570378743 Exp number, first 60 AAs:  0.00143
+# 2570378743 Total prob of N-in:        0.02447
+2570378743	TMHMM2.0	outside	     1   188
+# 2570378744 Length: 421
+# 2570378744 Number of predicted TMHs:  4
+# 2570378744 Exp number of AAs in TMHs: 87.1724300000001
+# 2570378744 Exp number, first 60 AAs:  28.48574
+# 2570378744 Total prob of N-in:        0.00516
+# 2570378744 POSSIBLE N-term signal sequence
+2570378744	TMHMM2.0	outside	     1     3
+2570378744	TMHMM2.0	TMhelix	     4    26
+2570378744	TMHMM2.0	inside	    27    54
+2570378744	TMHMM2.0	TMhelix	    55    77
+2570378744	TMHMM2.0	outside	    78    91
+2570378744	TMHMM2.0	TMhelix	    92   109
+2570378744	TMHMM2.0	inside	   110   120
+2570378744	TMHMM2.0	TMhelix	   121   143
+2570378744	TMHMM2.0	outside	   144   421
+# 2570378745 Length: 813
+# 2570378745 Number of predicted TMHs:  0
+# 2570378745 Exp number of AAs in TMHs: 0.0509
+# 2570378745 Exp number, first 60 AAs:  0.00187
+# 2570378745 Total prob of N-in:        0.00071
+2570378745	TMHMM2.0	outside	     1   813
+# 2570378746 Length: 48
+# 2570378746 Number of predicted TMHs:  0
+# 2570378746 Exp number of AAs in TMHs: 0.00018
+# 2570378746 Exp number, first 60 AAs:  0.00018
+# 2570378746 Total prob of N-in:        0.65596
+2570378746	TMHMM2.0	inside	     1    48
+# 2570378747 Length: 141
+# 2570378747 Number of predicted TMHs:  3
+# 2570378747 Exp number of AAs in TMHs: 63.37429
+# 2570378747 Exp number, first 60 AAs:  40.65169
+# 2570378747 Total prob of N-in:        0.18790
+# 2570378747 POSSIBLE N-term signal sequence
+2570378747	TMHMM2.0	outside	     1    14
+2570378747	TMHMM2.0	TMhelix	    15    37
+2570378747	TMHMM2.0	inside	    38    38
+2570378747	TMHMM2.0	TMhelix	    39    58
+2570378747	TMHMM2.0	outside	    59    70
+2570378747	TMHMM2.0	TMhelix	    71    93
+2570378747	TMHMM2.0	inside	    94   141
+# 2570378748 Length: 78
+# 2570378748 Number of predicted TMHs:  2
+# 2570378748 Exp number of AAs in TMHs: 43.305
+# 2570378748 Exp number, first 60 AAs:  42.38764
+# 2570378748 Total prob of N-in:        0.96764
+# 2570378748 POSSIBLE N-term signal sequence
+2570378748	TMHMM2.0	inside	     1     4
+2570378748	TMHMM2.0	TMhelix	     5    27
+2570378748	TMHMM2.0	outside	    28    41
+2570378748	TMHMM2.0	TMhelix	    42    61
+2570378748	TMHMM2.0	inside	    62    78
+# 2570378749 Length: 303
+# 2570378749 Number of predicted TMHs:  1
+# 2570378749 Exp number of AAs in TMHs: 22.64229
+# 2570378749 Exp number, first 60 AAs:  22.64229
+# 2570378749 Total prob of N-in:        0.95277
+# 2570378749 POSSIBLE N-term signal sequence
+2570378749	TMHMM2.0	inside	     1    12
+2570378749	TMHMM2.0	TMhelix	    13    35
+2570378749	TMHMM2.0	outside	    36   303
+# 2570378750 Length: 40
+# 2570378750 Number of predicted TMHs:  0
+# 2570378750 Exp number of AAs in TMHs: 0.00018
+# 2570378750 Exp number, first 60 AAs:  0.00018
+# 2570378750 Total prob of N-in:        0.22529
+2570378750	TMHMM2.0	outside	     1    40
+# 2570378751 Length: 63
+# 2570378751 Number of predicted TMHs:  0
+# 2570378751 Exp number of AAs in TMHs: 0
+# 2570378751 Exp number, first 60 AAs:  0
+# 2570378751 Total prob of N-in:        0.19682
+2570378751	TMHMM2.0	outside	     1    63
+# 2570378752 Length: 64
+# 2570378752 Number of predicted TMHs:  0
+# 2570378752 Exp number of AAs in TMHs: 5.27171
+# 2570378752 Exp number, first 60 AAs:  5.27152
+# 2570378752 Total prob of N-in:        0.29081
+2570378752	TMHMM2.0	outside	     1    64
+# 2570378753 Length: 598
+# 2570378753 Number of predicted TMHs:  6
+# 2570378753 Exp number of AAs in TMHs: 126.84961
+# 2570378753 Exp number, first 60 AAs:  21.50285
+# 2570378753 Total prob of N-in:        0.99679
+# 2570378753 POSSIBLE N-term signal sequence
+2570378753	TMHMM2.0	inside	     1    16
+2570378753	TMHMM2.0	TMhelix	    17    39
+2570378753	TMHMM2.0	outside	    40    65
+2570378753	TMHMM2.0	TMhelix	    66    88
+2570378753	TMHMM2.0	inside	    89   136
+2570378753	TMHMM2.0	TMhelix	   137   159
+2570378753	TMHMM2.0	outside	   160   163
+2570378753	TMHMM2.0	TMhelix	   164   186
+2570378753	TMHMM2.0	inside	   187   247
+2570378753	TMHMM2.0	TMhelix	   248   270
+2570378753	TMHMM2.0	outside	   271   284
+2570378753	TMHMM2.0	TMhelix	   285   304
+2570378753	TMHMM2.0	inside	   305   598
+# 2570378754 Length: 574
+# 2570378754 Number of predicted TMHs:  6
+# 2570378754 Exp number of AAs in TMHs: 140.79379
+# 2570378754 Exp number, first 60 AAs:  33.71131
+# 2570378754 Total prob of N-in:        0.99530
+# 2570378754 POSSIBLE N-term signal sequence
+2570378754	TMHMM2.0	inside	     1    12
+2570378754	TMHMM2.0	TMhelix	    13    35
+2570378754	TMHMM2.0	outside	    36    49
+2570378754	TMHMM2.0	TMhelix	    50    72
+2570378754	TMHMM2.0	inside	    73   126
+2570378754	TMHMM2.0	TMhelix	   127   149
+2570378754	TMHMM2.0	outside	   150   152
+2570378754	TMHMM2.0	TMhelix	   153   172
+2570378754	TMHMM2.0	inside	   173   238
+2570378754	TMHMM2.0	TMhelix	   239   261
+2570378754	TMHMM2.0	outside	   262   280
+2570378754	TMHMM2.0	TMhelix	   281   303
+2570378754	TMHMM2.0	inside	   304   574
+# 2570378755 Length: 145
+# 2570378755 Number of predicted TMHs:  3
+# 2570378755 Exp number of AAs in TMHs: 53.00934
+# 2570378755 Exp number, first 60 AAs:  28.53
+# 2570378755 Total prob of N-in:        0.86168
+# 2570378755 POSSIBLE N-term signal sequence
+2570378755	TMHMM2.0	inside	     1    20
+2570378755	TMHMM2.0	TMhelix	    21    40
+2570378755	TMHMM2.0	outside	    41    43
+2570378755	TMHMM2.0	TMhelix	    44    66
+2570378755	TMHMM2.0	inside	    67    78
+2570378755	TMHMM2.0	TMhelix	    79   101
+2570378755	TMHMM2.0	outside	   102   145
+# 2570378756 Length: 350
+# 2570378756 Number of predicted TMHs:  1
+# 2570378756 Exp number of AAs in TMHs: 20.60424
+# 2570378756 Exp number, first 60 AAs:  0
+# 2570378756 Total prob of N-in:        0.92216
+2570378756	TMHMM2.0	inside	     1   185
+2570378756	TMHMM2.0	TMhelix	   186   208
+2570378756	TMHMM2.0	outside	   209   350
+# 2570378757 Length: 842
+# 2570378757 Number of predicted TMHs:  0
+# 2570378757 Exp number of AAs in TMHs: 0.025
+# 2570378757 Exp number, first 60 AAs:  0
+# 2570378757 Total prob of N-in:        0.00035
+2570378757	TMHMM2.0	outside	     1   842
+# 2570378758 Length: 64
+# 2570378758 Number of predicted TMHs:  0
+# 2570378758 Exp number of AAs in TMHs: 0
+# 2570378758 Exp number, first 60 AAs:  0
+# 2570378758 Total prob of N-in:        0.59608
+2570378758	TMHMM2.0	inside	     1    64
+# 2570378759 Length: 69
+# 2570378759 Number of predicted TMHs:  0
+# 2570378759 Exp number of AAs in TMHs: 0.00073
+# 2570378759 Exp number, first 60 AAs:  0.00059
+# 2570378759 Total prob of N-in:        0.30099
+2570378759	TMHMM2.0	outside	     1    69
+# 2570378760 Length: 56
+# 2570378760 Number of predicted TMHs:  0
+# 2570378760 Exp number of AAs in TMHs: 0.00644
+# 2570378760 Exp number, first 60 AAs:  0.00644
+# 2570378760 Total prob of N-in:        0.38024
+2570378760	TMHMM2.0	outside	     1    56
+# 2570378761 Length: 50
+# 2570378761 Number of predicted TMHs:  0
+# 2570378761 Exp number of AAs in TMHs: 0.01299
+# 2570378761 Exp number, first 60 AAs:  0.01299
+# 2570378761 Total prob of N-in:        0.11906
+2570378761	TMHMM2.0	outside	     1    50
+# 2570378762 Length: 95
+# 2570378762 Number of predicted TMHs:  0
+# 2570378762 Exp number of AAs in TMHs: 0.00078
+# 2570378762 Exp number, first 60 AAs:  0
+# 2570378762 Total prob of N-in:        0.40699
+2570378762	TMHMM2.0	outside	     1    95
+# 2570378763 Length: 44
+# 2570378763 Number of predicted TMHs:  0
+# 2570378763 Exp number of AAs in TMHs: 0.07888
+# 2570378763 Exp number, first 60 AAs:  0.07888
+# 2570378763 Total prob of N-in:        0.43773
+2570378763	TMHMM2.0	outside	     1    44
+# 2570378764 Length: 50
+# 2570378764 Number of predicted TMHs:  0
+# 2570378764 Exp number of AAs in TMHs: 0.00376
+# 2570378764 Exp number, first 60 AAs:  0.00376
+# 2570378764 Total prob of N-in:        0.32112
+2570378764	TMHMM2.0	outside	     1    50
+# 2570378765 Length: 79
+# 2570378765 Number of predicted TMHs:  0
+# 2570378765 Exp number of AAs in TMHs: 0.00039
+# 2570378765 Exp number, first 60 AAs:  4e-05
+# 2570378765 Total prob of N-in:        0.67559
+2570378765	TMHMM2.0	inside	     1    79
+# 2570378766 Length: 849
+# 2570378766 Number of predicted TMHs:  2
+# 2570378766 Exp number of AAs in TMHs: 42.6782500000002
+# 2570378766 Exp number, first 60 AAs:  19.48748
+# 2570378766 Total prob of N-in:        0.01079
+# 2570378766 POSSIBLE N-term signal sequence
+2570378766	TMHMM2.0	outside	     1    10
+2570378766	TMHMM2.0	TMhelix	    11    28
+2570378766	TMHMM2.0	inside	    29    65
+2570378766	TMHMM2.0	TMhelix	    66    88
+2570378766	TMHMM2.0	outside	    89   849
+# 2570378767 Length: 447
+# 2570378767 Number of predicted TMHs:  0
+# 2570378767 Exp number of AAs in TMHs: 0.00503
+# 2570378767 Exp number, first 60 AAs:  0.003
+# 2570378767 Total prob of N-in:        0.01496
+2570378767	TMHMM2.0	outside	     1   447
+# 2570378768 Length: 351
+# 2570378768 Number of predicted TMHs:  0
+# 2570378768 Exp number of AAs in TMHs: 0.00346
+# 2570378768 Exp number, first 60 AAs:  0.00018
+# 2570378768 Total prob of N-in:        0.03856
+2570378768	TMHMM2.0	outside	     1   351
+# 2570378769 Length: 195
+# 2570378769 Number of predicted TMHs:  0
+# 2570378769 Exp number of AAs in TMHs: 0.4108
+# 2570378769 Exp number, first 60 AAs:  0.00485999999999999
+# 2570378769 Total prob of N-in:        0.09709
+2570378769	TMHMM2.0	outside	     1   195
+# 2570378770 Length: 323
+# 2570378770 Number of predicted TMHs:  0
+# 2570378770 Exp number of AAs in TMHs: 0.00823999999999999
+# 2570378770 Exp number, first 60 AAs:  0
+# 2570378770 Total prob of N-in:        0.02474
+2570378770	TMHMM2.0	outside	     1   323
+# 2570378771 Length: 196
+# 2570378771 Number of predicted TMHs:  0
+# 2570378771 Exp number of AAs in TMHs: 0.24105
+# 2570378771 Exp number, first 60 AAs:  0.00188
+# 2570378771 Total prob of N-in:        0.25594
+2570378771	TMHMM2.0	outside	     1   196
+# 2570378772 Length: 882
+# 2570378772 Number of predicted TMHs:  0
+# 2570378772 Exp number of AAs in TMHs: 0.03911
+# 2570378772 Exp number, first 60 AAs:  0.00208
+# 2570378772 Total prob of N-in:        0.00090
+2570378772	TMHMM2.0	outside	     1   882
+# 2570378773 Length: 131
+# 2570378773 Number of predicted TMHs:  4
+# 2570378773 Exp number of AAs in TMHs: 84.98089
+# 2570378773 Exp number, first 60 AAs:  41.33807
+# 2570378773 Total prob of N-in:        0.70356
+# 2570378773 POSSIBLE N-term signal sequence
+2570378773	TMHMM2.0	inside	     1    12
+2570378773	TMHMM2.0	TMhelix	    13    35
+2570378773	TMHMM2.0	outside	    36    39
+2570378773	TMHMM2.0	TMhelix	    40    62
+2570378773	TMHMM2.0	inside	    63    74
+2570378773	TMHMM2.0	TMhelix	    75    94
+2570378773	TMHMM2.0	outside	    95   108
+2570378773	TMHMM2.0	TMhelix	   109   128
+2570378773	TMHMM2.0	inside	   129   131
+# 2570378774 Length: 588
+# 2570378774 Number of predicted TMHs:  0
+# 2570378774 Exp number of AAs in TMHs: 0.05979
+# 2570378774 Exp number, first 60 AAs:  7e-05
+# 2570378774 Total prob of N-in:        0.00033
+2570378774	TMHMM2.0	outside	     1   588
+# 2570378775 Length: 282
+# 2570378775 Number of predicted TMHs:  4
+# 2570378775 Exp number of AAs in TMHs: 110.12399
+# 2570378775 Exp number, first 60 AAs:  29.67008
+# 2570378775 Total prob of N-in:        0.50516
+# 2570378775 POSSIBLE N-term signal sequence
+2570378775	TMHMM2.0	outside	     1    34
+2570378775	TMHMM2.0	TMhelix	    35    57
+2570378775	TMHMM2.0	inside	    58    63
+2570378775	TMHMM2.0	TMhelix	    64    86
+2570378775	TMHMM2.0	outside	    87   111
+2570378775	TMHMM2.0	TMhelix	   112   134
+2570378775	TMHMM2.0	inside	   135   243
+2570378775	TMHMM2.0	TMhelix	   244   266
+2570378775	TMHMM2.0	outside	   267   282
+# 2570378776 Length: 1024
+# 2570378776 Number of predicted TMHs:  2
+# 2570378776 Exp number of AAs in TMHs: 42.2519199999999
+# 2570378776 Exp number, first 60 AAs:  20.94667
+# 2570378776 Total prob of N-in:        0.98976
+# 2570378776 POSSIBLE N-term signal sequence
+2570378776	TMHMM2.0	inside	     1     4
+2570378776	TMHMM2.0	TMhelix	     5    27
+2570378776	TMHMM2.0	outside	    28   986
+2570378776	TMHMM2.0	TMhelix	   987  1009
+2570378776	TMHMM2.0	inside	  1010  1024
+# 2570378777 Length: 137
+# 2570378777 Number of predicted TMHs:  0
+# 2570378777 Exp number of AAs in TMHs: 0
+# 2570378777 Exp number, first 60 AAs:  0
+# 2570378777 Total prob of N-in:        0.09890
+2570378777	TMHMM2.0	outside	     1   137
+# 2570378778 Length: 41
+# 2570378778 Number of predicted TMHs:  0
+# 2570378778 Exp number of AAs in TMHs: 0
+# 2570378778 Exp number, first 60 AAs:  0
+# 2570378778 Total prob of N-in:        0.17770
+2570378778	TMHMM2.0	outside	     1    41
+# 2570378779 Length: 925
+# 2570378779 Number of predicted TMHs:  8
+# 2570378779 Exp number of AAs in TMHs: 203.41086
+# 2570378779 Exp number, first 60 AAs:  0.86964
+# 2570378779 Total prob of N-in:        0.98356
+2570378779	TMHMM2.0	inside	     1    57
+2570378779	TMHMM2.0	TMhelix	    58    80
+2570378779	TMHMM2.0	outside	    81    84
+2570378779	TMHMM2.0	TMhelix	    85   104
+2570378779	TMHMM2.0	inside	   105   252
+2570378779	TMHMM2.0	TMhelix	   253   275
+2570378779	TMHMM2.0	outside	   276   708
+2570378779	TMHMM2.0	TMhelix	   709   731
+2570378779	TMHMM2.0	inside	   732   785
+2570378779	TMHMM2.0	TMhelix	   786   808
+2570378779	TMHMM2.0	outside	   809   813
+2570378779	TMHMM2.0	TMhelix	   814   836
+2570378779	TMHMM2.0	inside	   837   852
+2570378779	TMHMM2.0	TMhelix	   853   875
+2570378779	TMHMM2.0	outside	   876   884
+2570378779	TMHMM2.0	TMhelix	   885   905
+2570378779	TMHMM2.0	inside	   906   925
+# 2570378780 Length: 64
+# 2570378780 Number of predicted TMHs:  1
+# 2570378780 Exp number of AAs in TMHs: 19.58625
+# 2570378780 Exp number, first 60 AAs:  19.58625
+# 2570378780 Total prob of N-in:        0.57463
+# 2570378780 POSSIBLE N-term signal sequence
+2570378780	TMHMM2.0	outside	     1    27
+2570378780	TMHMM2.0	TMhelix	    28    45
+2570378780	TMHMM2.0	inside	    46    64
+# 2570378781 Length: 373
+# 2570378781 Number of predicted TMHs:  1
+# 2570378781 Exp number of AAs in TMHs: 20.37071
+# 2570378781 Exp number, first 60 AAs:  19.87265
+# 2570378781 Total prob of N-in:        0.89761
+# 2570378781 POSSIBLE N-term signal sequence
+2570378781	TMHMM2.0	inside	     1    11
+2570378781	TMHMM2.0	TMhelix	    12    29
+2570378781	TMHMM2.0	outside	    30   373
+# 2570378782 Length: 137
+# 2570378782 Number of predicted TMHs:  1
+# 2570378782 Exp number of AAs in TMHs: 20.3385
+# 2570378782 Exp number, first 60 AAs:  20.23727
+# 2570378782 Total prob of N-in:        0.93386
+# 2570378782 POSSIBLE N-term signal sequence
+2570378782	TMHMM2.0	inside	     1     6
+2570378782	TMHMM2.0	TMhelix	     7    26
+2570378782	TMHMM2.0	outside	    27   137
+# 2570378783 Length: 378
+# 2570378783 Number of predicted TMHs:  0
+# 2570378783 Exp number of AAs in TMHs: 0.01104
+# 2570378783 Exp number, first 60 AAs:  0
+# 2570378783 Total prob of N-in:        0.00741
+2570378783	TMHMM2.0	outside	     1   378
+# 2570378784 Length: 504
+# 2570378784 Number of predicted TMHs:  0
+# 2570378784 Exp number of AAs in TMHs: 0.01422
+# 2570378784 Exp number, first 60 AAs:  0.00018
+# 2570378784 Total prob of N-in:        0.00969
+2570378784	TMHMM2.0	outside	     1   504
+# 2570378785 Length: 503
+# 2570378785 Number of predicted TMHs:  0
+# 2570378785 Exp number of AAs in TMHs: 0.17597
+# 2570378785 Exp number, first 60 AAs:  0.00018
+# 2570378785 Total prob of N-in:        0.00849
+2570378785	TMHMM2.0	outside	     1   503
+# 2570378786 Length: 368
+# 2570378786 Number of predicted TMHs:  0
+# 2570378786 Exp number of AAs in TMHs: 0.42402
+# 2570378786 Exp number, first 60 AAs:  0.412
+# 2570378786 Total prob of N-in:        0.03334
+2570378786	TMHMM2.0	outside	     1   368
+# 2570378787 Length: 313
+# 2570378787 Number of predicted TMHs:  6
+# 2570378787 Exp number of AAs in TMHs: 133.91205
+# 2570378787 Exp number, first 60 AAs:  20.64907
+# 2570378787 Total prob of N-in:        0.99527
+# 2570378787 POSSIBLE N-term signal sequence
+2570378787	TMHMM2.0	inside	     1    20
+2570378787	TMHMM2.0	TMhelix	    21    40
+2570378787	TMHMM2.0	outside	    41    83
+2570378787	TMHMM2.0	TMhelix	    84   106
+2570378787	TMHMM2.0	inside	   107   118
+2570378787	TMHMM2.0	TMhelix	   119   141
+2570378787	TMHMM2.0	outside	   142   176
+2570378787	TMHMM2.0	TMhelix	   177   199
+2570378787	TMHMM2.0	inside	   200   219
+2570378787	TMHMM2.0	TMhelix	   220   242
+2570378787	TMHMM2.0	outside	   243   284
+2570378787	TMHMM2.0	TMhelix	   285   307
+2570378787	TMHMM2.0	inside	   308   313
+# 2570378788 Length: 296
+# 2570378788 Number of predicted TMHs:  6
+# 2570378788 Exp number of AAs in TMHs: 130.11122
+# 2570378788 Exp number, first 60 AAs:  21.97676
+# 2570378788 Total prob of N-in:        0.99948
+# 2570378788 POSSIBLE N-term signal sequence
+2570378788	TMHMM2.0	inside	     1    29
+2570378788	TMHMM2.0	TMhelix	    30    52
+2570378788	TMHMM2.0	outside	    53    89
+2570378788	TMHMM2.0	TMhelix	    90   112
+2570378788	TMHMM2.0	inside	   113   118
+2570378788	TMHMM2.0	TMhelix	   119   137
+2570378788	TMHMM2.0	outside	   138   156
+2570378788	TMHMM2.0	TMhelix	   157   179
+2570378788	TMHMM2.0	inside	   180   216
+2570378788	TMHMM2.0	TMhelix	   217   239
+2570378788	TMHMM2.0	outside	   240   258
+2570378788	TMHMM2.0	TMhelix	   259   281
+2570378788	TMHMM2.0	inside	   282   296
+# 2570378789 Length: 546
+# 2570378789 Number of predicted TMHs:  1
+# 2570378789 Exp number of AAs in TMHs: 19.53662
+# 2570378789 Exp number, first 60 AAs:  19.53662
+# 2570378789 Total prob of N-in:        0.99758
+# 2570378789 POSSIBLE N-term signal sequence
+2570378789	TMHMM2.0	inside	     1     6
+2570378789	TMHMM2.0	TMhelix	     7    26
+2570378789	TMHMM2.0	outside	    27   546
+# 2570378790 Length: 316
+# 2570378790 Number of predicted TMHs:  0
+# 2570378790 Exp number of AAs in TMHs: 1.29947
+# 2570378790 Exp number, first 60 AAs:  0.00049
+# 2570378790 Total prob of N-in:        0.18822
+2570378790	TMHMM2.0	outside	     1   316
+# 2570378791 Length: 460
+# 2570378791 Number of predicted TMHs:  0
+# 2570378791 Exp number of AAs in TMHs: 0.0536600000000001
+# 2570378791 Exp number, first 60 AAs:  0.04865
+# 2570378791 Total prob of N-in:        0.00353
+2570378791	TMHMM2.0	outside	     1   460
+# 2570378792 Length: 312
+# 2570378792 Number of predicted TMHs:  0
+# 2570378792 Exp number of AAs in TMHs: 2.66489
+# 2570378792 Exp number, first 60 AAs:  0
+# 2570378792 Total prob of N-in:        0.16154
+2570378792	TMHMM2.0	outside	     1   312
+# 2570378793 Length: 641
+# 2570378793 Number of predicted TMHs:  0
+# 2570378793 Exp number of AAs in TMHs: 0.2167
+# 2570378793 Exp number, first 60 AAs:  0.00227
+# 2570378793 Total prob of N-in:        0.00068
+2570378793	TMHMM2.0	outside	     1   641
+# 2570378794 Length: 70
+# 2570378794 Number of predicted TMHs:  0
+# 2570378794 Exp number of AAs in TMHs: 0.62932
+# 2570378794 Exp number, first 60 AAs:  0.62932
+# 2570378794 Total prob of N-in:        0.07318
+2570378794	TMHMM2.0	outside	     1    70
+# 2570378795 Length: 238
+# 2570378795 Number of predicted TMHs:  1
+# 2570378795 Exp number of AAs in TMHs: 21.71901
+# 2570378795 Exp number, first 60 AAs:  21.68521
+# 2570378795 Total prob of N-in:        0.73762
+# 2570378795 POSSIBLE N-term signal sequence
+2570378795	TMHMM2.0	outside	     1    14
+2570378795	TMHMM2.0	TMhelix	    15    37
+2570378795	TMHMM2.0	inside	    38   238
+# 2570378796 Length: 67
+# 2570378796 Number of predicted TMHs:  0
+# 2570378796 Exp number of AAs in TMHs: 0
+# 2570378796 Exp number, first 60 AAs:  0
+# 2570378796 Total prob of N-in:        0.75330
+2570378796	TMHMM2.0	inside	     1    67
+# 2570378797 Length: 228
+# 2570378797 Number of predicted TMHs:  1
+# 2570378797 Exp number of AAs in TMHs: 12.56373
+# 2570378797 Exp number, first 60 AAs:  0.65893
+# 2570378797 Total prob of N-in:        0.68675
+2570378797	TMHMM2.0	inside	     1    59
+2570378797	TMHMM2.0	TMhelix	    60    77
+2570378797	TMHMM2.0	outside	    78   228
+# 2570378798 Length: 209
+# 2570378798 Number of predicted TMHs:  6
+# 2570378798 Exp number of AAs in TMHs: 129.20943
+# 2570378798 Exp number, first 60 AAs:  41.77446
+# 2570378798 Total prob of N-in:        0.99975
+# 2570378798 POSSIBLE N-term signal sequence
+2570378798	TMHMM2.0	inside	     1    11
+2570378798	TMHMM2.0	TMhelix	    12    34
+2570378798	TMHMM2.0	outside	    35    43
+2570378798	TMHMM2.0	TMhelix	    44    61
+2570378798	TMHMM2.0	inside	    62    72
+2570378798	TMHMM2.0	TMhelix	    73    95
+2570378798	TMHMM2.0	outside	    96   112
+2570378798	TMHMM2.0	TMhelix	   113   135
+2570378798	TMHMM2.0	inside	   136   141
+2570378798	TMHMM2.0	TMhelix	   142   164
+2570378798	TMHMM2.0	outside	   165   173
+2570378798	TMHMM2.0	TMhelix	   174   191
+2570378798	TMHMM2.0	inside	   192   209
+# 2570378799 Length: 352
+# 2570378799 Number of predicted TMHs:  0
+# 2570378799 Exp number of AAs in TMHs: 0.00783999999999998
+# 2570378799 Exp number, first 60 AAs:  3e-05
+# 2570378799 Total prob of N-in:        0.00447
+2570378799	TMHMM2.0	outside	     1   352
+# 2570378800 Length: 76
+# 2570378800 Number of predicted TMHs:  0
+# 2570378800 Exp number of AAs in TMHs: 0.00035
+# 2570378800 Exp number, first 60 AAs:  0.00025
+# 2570378800 Total prob of N-in:        0.23343
+2570378800	TMHMM2.0	outside	     1    76
+# 2570378801 Length: 821
+# 2570378801 Number of predicted TMHs:  0
+# 2570378801 Exp number of AAs in TMHs: 0.10695
+# 2570378801 Exp number, first 60 AAs:  0.00379
+# 2570378801 Total prob of N-in:        0.00294
+2570378801	TMHMM2.0	outside	     1   821
+# 2570378802 Length: 212
+# 2570378802 Number of predicted TMHs:  0
+# 2570378802 Exp number of AAs in TMHs: 0.04324
+# 2570378802 Exp number, first 60 AAs:  0.04324
+# 2570378802 Total prob of N-in:        0.05594
+2570378802	TMHMM2.0	outside	     1   212
+# 2570378803 Length: 79
+# 2570378803 Number of predicted TMHs:  0
+# 2570378803 Exp number of AAs in TMHs: 0.00012
+# 2570378803 Exp number, first 60 AAs:  0.00012
+# 2570378803 Total prob of N-in:        0.79396
+2570378803	TMHMM2.0	inside	     1    79
+# 2570378804 Length: 304
+# 2570378804 Number of predicted TMHs:  0
+# 2570378804 Exp number of AAs in TMHs: 0.00541
+# 2570378804 Exp number, first 60 AAs:  0.00033
+# 2570378804 Total prob of N-in:        0.02866
+2570378804	TMHMM2.0	outside	     1   304
+# 2570378805 Length: 486
+# 2570378805 Number of predicted TMHs:  12
+# 2570378805 Exp number of AAs in TMHs: 263.03304
+# 2570378805 Exp number, first 60 AAs:  22.64416
+# 2570378805 Total prob of N-in:        0.99953
+# 2570378805 POSSIBLE N-term signal sequence
+2570378805	TMHMM2.0	inside	     1    20
+2570378805	TMHMM2.0	TMhelix	    21    43
+2570378805	TMHMM2.0	outside	    44    70
+2570378805	TMHMM2.0	TMhelix	    71    93
+2570378805	TMHMM2.0	inside	    94   112
+2570378805	TMHMM2.0	TMhelix	   113   135
+2570378805	TMHMM2.0	outside	   136   154
+2570378805	TMHMM2.0	TMhelix	   155   173
+2570378805	TMHMM2.0	inside	   174   184
+2570378805	TMHMM2.0	TMhelix	   185   207
+2570378805	TMHMM2.0	outside	   208   211
+2570378805	TMHMM2.0	TMhelix	   212   234
+2570378805	TMHMM2.0	inside	   235   260
+2570378805	TMHMM2.0	TMhelix	   261   283
+2570378805	TMHMM2.0	outside	   284   297
+2570378805	TMHMM2.0	TMhelix	   298   320
+2570378805	TMHMM2.0	inside	   321   345
+2570378805	TMHMM2.0	TMhelix	   346   368
+2570378805	TMHMM2.0	outside	   369   392
+2570378805	TMHMM2.0	TMhelix	   393   415
+2570378805	TMHMM2.0	inside	   416   421
+2570378805	TMHMM2.0	TMhelix	   422   439
+2570378805	TMHMM2.0	outside	   440   448
+2570378805	TMHMM2.0	TMhelix	   449   471
+2570378805	TMHMM2.0	inside	   472   486
+# 2570378806 Length: 666
+# 2570378806 Number of predicted TMHs:  8
+# 2570378806 Exp number of AAs in TMHs: 153.06388
+# 2570378806 Exp number, first 60 AAs:  33.00424
+# 2570378806 Total prob of N-in:        0.91105
+# 2570378806 POSSIBLE N-term signal sequence
+2570378806	TMHMM2.0	inside	     1    20
+2570378806	TMHMM2.0	TMhelix	    21    38
+2570378806	TMHMM2.0	outside	    39    47
+2570378806	TMHMM2.0	TMhelix	    48    70
+2570378806	TMHMM2.0	inside	    71    81
+2570378806	TMHMM2.0	TMhelix	    82   101
+2570378806	TMHMM2.0	outside	   102   105
+2570378806	TMHMM2.0	TMhelix	   106   123
+2570378806	TMHMM2.0	inside	   124   257
+2570378806	TMHMM2.0	TMhelix	   258   280
+2570378806	TMHMM2.0	outside	   281   294
+2570378806	TMHMM2.0	TMhelix	   295   317
+2570378806	TMHMM2.0	inside	   318   597
+2570378806	TMHMM2.0	TMhelix	   598   620
+2570378806	TMHMM2.0	outside	   621   623
+2570378806	TMHMM2.0	TMhelix	   624   646
+2570378806	TMHMM2.0	inside	   647   666
+# 2570378807 Length: 99
+# 2570378807 Number of predicted TMHs:  0
+# 2570378807 Exp number of AAs in TMHs: 0.00077
+# 2570378807 Exp number, first 60 AAs:  0.00077
+# 2570378807 Total prob of N-in:        0.74357
+2570378807	TMHMM2.0	inside	     1    99
+# 2570378808 Length: 268
+# 2570378808 Number of predicted TMHs:  0
+# 2570378808 Exp number of AAs in TMHs: 0.68605
+# 2570378808 Exp number, first 60 AAs:  0.00108
+# 2570378808 Total prob of N-in:        0.27719
+2570378808	TMHMM2.0	outside	     1   268
+# 2570378809 Length: 417
+# 2570378809 Number of predicted TMHs:  0
+# 2570378809 Exp number of AAs in TMHs: 0.04835
+# 2570378809 Exp number, first 60 AAs:  0.01604
+# 2570378809 Total prob of N-in:        0.02115
+2570378809	TMHMM2.0	outside	     1   417
+# 2570378810 Length: 191
+# 2570378810 Number of predicted TMHs:  0
+# 2570378810 Exp number of AAs in TMHs: 0
+# 2570378810 Exp number, first 60 AAs:  0
+# 2570378810 Total prob of N-in:        0.03476
+2570378810	TMHMM2.0	outside	     1   191
+# 2570378811 Length: 206
+# 2570378811 Number of predicted TMHs:  1
+# 2570378811 Exp number of AAs in TMHs: 26.82156
+# 2570378811 Exp number, first 60 AAs:  19.8972
+# 2570378811 Total prob of N-in:        0.16521
+# 2570378811 POSSIBLE N-term signal sequence
+2570378811	TMHMM2.0	outside	     1     9
+2570378811	TMHMM2.0	TMhelix	    10    29
+2570378811	TMHMM2.0	inside	    30   206
+# 2570378812 Length: 84
+# 2570378812 Number of predicted TMHs:  0
+# 2570378812 Exp number of AAs in TMHs: 0
+# 2570378812 Exp number, first 60 AAs:  0
+# 2570378812 Total prob of N-in:        0.14186
+2570378812	TMHMM2.0	outside	     1    84
+# 2570378813 Length: 267
+# 2570378813 Number of predicted TMHs:  1
+# 2570378813 Exp number of AAs in TMHs: 18.54157
+# 2570378813 Exp number, first 60 AAs:  18.18887
+# 2570378813 Total prob of N-in:        0.33738
+# 2570378813 POSSIBLE N-term signal sequence
+2570378813	TMHMM2.0	outside	     1    14
+2570378813	TMHMM2.0	TMhelix	    15    32
+2570378813	TMHMM2.0	inside	    33   267
+# 2570378814 Length: 60
+# 2570378814 Number of predicted TMHs:  0
+# 2570378814 Exp number of AAs in TMHs: 0.00018
+# 2570378814 Exp number, first 60 AAs:  0.00018
+# 2570378814 Total prob of N-in:        0.39591
+2570378814	TMHMM2.0	outside	     1    60
+# 2570378815 Length: 132
+# 2570378815 Number of predicted TMHs:  0
+# 2570378815 Exp number of AAs in TMHs: 0
+# 2570378815 Exp number, first 60 AAs:  0
+# 2570378815 Total prob of N-in:        0.16338
+2570378815	TMHMM2.0	outside	     1   132
+# 2570378816 Length: 139
+# 2570378816 Number of predicted TMHs:  0
+# 2570378816 Exp number of AAs in TMHs: 0.03685
+# 2570378816 Exp number, first 60 AAs:  0.033
+# 2570378816 Total prob of N-in:        0.29318
+2570378816	TMHMM2.0	outside	     1   139
+# 2570378817 Length: 329
+# 2570378817 Number of predicted TMHs:  0
+# 2570378817 Exp number of AAs in TMHs: 2.82415
+# 2570378817 Exp number, first 60 AAs:  0.14072
+# 2570378817 Total prob of N-in:        0.06654
+2570378817	TMHMM2.0	outside	     1   329
+# 2570378818 Length: 563
+# 2570378818 Number of predicted TMHs:  0
+# 2570378818 Exp number of AAs in TMHs: 0.591959999999999
+# 2570378818 Exp number, first 60 AAs:  0.53212
+# 2570378818 Total prob of N-in:        0.02052
+2570378818	TMHMM2.0	outside	     1   563
+# 2570378819 Length: 268
+# 2570378819 Number of predicted TMHs:  0
+# 2570378819 Exp number of AAs in TMHs: 0.0599800000000001
+# 2570378819 Exp number, first 60 AAs:  0.00273
+# 2570378819 Total prob of N-in:        0.03213
+2570378819	TMHMM2.0	outside	     1   268
+# 2570378824 Length: 287
+# 2570378824 Number of predicted TMHs:  0
+# 2570378824 Exp number of AAs in TMHs: 2.19406
+# 2570378824 Exp number, first 60 AAs:  0.00019
+# 2570378824 Total prob of N-in:        0.24615
+2570378824	TMHMM2.0	outside	     1   287
+# 2570378825 Length: 562
+# 2570378825 Number of predicted TMHs:  0
+# 2570378825 Exp number of AAs in TMHs: 0.02612
+# 2570378825 Exp number, first 60 AAs:  0.00388
+# 2570378825 Total prob of N-in:        0.00138
+2570378825	TMHMM2.0	outside	     1   562
+# 2570378826 Length: 86
+# 2570378826 Number of predicted TMHs:  0
+# 2570378826 Exp number of AAs in TMHs: 0.00993
+# 2570378826 Exp number, first 60 AAs:  0.00993
+# 2570378826 Total prob of N-in:        0.02396
+2570378826	TMHMM2.0	outside	     1    86
+# 2570378827 Length: 54
+# 2570378827 Number of predicted TMHs:  1
+# 2570378827 Exp number of AAs in TMHs: 23.06454
+# 2570378827 Exp number, first 60 AAs:  23.06454
+# 2570378827 Total prob of N-in:        0.98934
+# 2570378827 POSSIBLE N-term signal sequence
+2570378827	TMHMM2.0	inside	     1    19
+2570378827	TMHMM2.0	TMhelix	    20    42
+2570378827	TMHMM2.0	outside	    43    54
+# 2570378828 Length: 583
+# 2570378828 Number of predicted TMHs:  1
+# 2570378828 Exp number of AAs in TMHs: 22.74029
+# 2570378828 Exp number, first 60 AAs:  22.62159
+# 2570378828 Total prob of N-in:        0.98950
+# 2570378828 POSSIBLE N-term signal sequence
+2570378828	TMHMM2.0	inside	     1    34
+2570378828	TMHMM2.0	TMhelix	    35    57
+2570378828	TMHMM2.0	outside	    58   583
+# 2570378829 Length: 417
+# 2570378829 Number of predicted TMHs:  0
+# 2570378829 Exp number of AAs in TMHs: 0.06965
+# 2570378829 Exp number, first 60 AAs:  0.00251
+# 2570378829 Total prob of N-in:        0.00403
+2570378829	TMHMM2.0	outside	     1   417
+# 2570378830 Length: 280
+# 2570378830 Number of predicted TMHs:  5
+# 2570378830 Exp number of AAs in TMHs: 127.8985
+# 2570378830 Exp number, first 60 AAs:  22.58211
+# 2570378830 Total prob of N-in:        0.99979
+# 2570378830 POSSIBLE N-term signal sequence
+2570378830	TMHMM2.0	inside	     1    12
+2570378830	TMHMM2.0	TMhelix	    13    35
+2570378830	TMHMM2.0	outside	    36    71
+2570378830	TMHMM2.0	TMhelix	    72    94
+2570378830	TMHMM2.0	inside	    95   106
+2570378830	TMHMM2.0	TMhelix	   107   129
+2570378830	TMHMM2.0	outside	   130   148
+2570378830	TMHMM2.0	TMhelix	   149   171
+2570378830	TMHMM2.0	inside	   172   194
+2570378830	TMHMM2.0	TMhelix	   195   217
+2570378830	TMHMM2.0	outside	   218   280
+# 2570378831 Length: 322
+# 2570378831 Number of predicted TMHs:  6
+# 2570378831 Exp number of AAs in TMHs: 128.54827
+# 2570378831 Exp number, first 60 AAs:  22.43728
+# 2570378831 Total prob of N-in:        0.69147
+# 2570378831 POSSIBLE N-term signal sequence
+2570378831	TMHMM2.0	inside	     1    28
+2570378831	TMHMM2.0	TMhelix	    29    51
+2570378831	TMHMM2.0	outside	    52    86
+2570378831	TMHMM2.0	TMhelix	    87   109
+2570378831	TMHMM2.0	inside	   110   120
+2570378831	TMHMM2.0	TMhelix	   121   143
+2570378831	TMHMM2.0	outside	   144   157
+2570378831	TMHMM2.0	TMhelix	   158   180
+2570378831	TMHMM2.0	inside	   181   210
+2570378831	TMHMM2.0	TMhelix	   211   233
+2570378831	TMHMM2.0	outside	   234   252
+2570378831	TMHMM2.0	TMhelix	   253   275
+2570378831	TMHMM2.0	inside	   276   322
+# 2570378832 Length: 402
+# 2570378832 Number of predicted TMHs:  2
+# 2570378832 Exp number of AAs in TMHs: 40.94178
+# 2570378832 Exp number, first 60 AAs:  21.01019
+# 2570378832 Total prob of N-in:        0.68210
+# 2570378832 POSSIBLE N-term signal sequence
+2570378832	TMHMM2.0	outside	     1     4
+2570378832	TMHMM2.0	TMhelix	     5    27
+2570378832	TMHMM2.0	inside	    28   368
+2570378832	TMHMM2.0	TMhelix	   369   388
+2570378832	TMHMM2.0	outside	   389   402
+# 2570378833 Length: 81
+# 2570378833 Number of predicted TMHs:  0
+# 2570378833 Exp number of AAs in TMHs: 0
+# 2570378833 Exp number, first 60 AAs:  0
+# 2570378833 Total prob of N-in:        0.55970
+2570378833	TMHMM2.0	inside	     1    81
+# 2570378834 Length: 570
+# 2570378834 Number of predicted TMHs:  0
+# 2570378834 Exp number of AAs in TMHs: 0.28505
+# 2570378834 Exp number, first 60 AAs:  0.00037
+# 2570378834 Total prob of N-in:        0.01615
+2570378834	TMHMM2.0	outside	     1   570
+# 2570378836 Length: 84
+# 2570378836 Number of predicted TMHs:  0
+# 2570378836 Exp number of AAs in TMHs: 0
+# 2570378836 Exp number, first 60 AAs:  0
+# 2570378836 Total prob of N-in:        0.34721
+2570378836	TMHMM2.0	outside	     1    84
+# 2570378837 Length: 78
+# 2570378837 Number of predicted TMHs:  0
+# 2570378837 Exp number of AAs in TMHs: 0
+# 2570378837 Exp number, first 60 AAs:  0
+# 2570378837 Total prob of N-in:        0.78772
+2570378837	TMHMM2.0	inside	     1    78
+# 2570378838 Length: 141
+# 2570378838 Number of predicted TMHs:  0
+# 2570378838 Exp number of AAs in TMHs: 0.798509999999999
+# 2570378838 Exp number, first 60 AAs:  0.00095
+# 2570378838 Total prob of N-in:        0.24228
+2570378838	TMHMM2.0	outside	     1   141
+# 2570378839 Length: 63
+# 2570378839 Number of predicted TMHs:  0
+# 2570378839 Exp number of AAs in TMHs: 0.14466
+# 2570378839 Exp number, first 60 AAs:  0.14466
+# 2570378839 Total prob of N-in:        0.61390
+2570378839	TMHMM2.0	inside	     1    63
+# 2570378842 Length: 74
+# 2570378842 Number of predicted TMHs:  0
+# 2570378842 Exp number of AAs in TMHs: 0.0102
+# 2570378842 Exp number, first 60 AAs:  0.0102
+# 2570378842 Total prob of N-in:        0.69782
+2570378842	TMHMM2.0	inside	     1    74
+# 2570378844 Length: 272
+# 2570378844 Number of predicted TMHs:  0
+# 2570378844 Exp number of AAs in TMHs: 0.02728
+# 2570378844 Exp number, first 60 AAs:  4e-05
+# 2570378844 Total prob of N-in:        0.03863
+2570378844	TMHMM2.0	outside	     1   272
+# 2570378845 Length: 397
+# 2570378845 Number of predicted TMHs:  0
+# 2570378845 Exp number of AAs in TMHs: 0.583519999999999
+# 2570378845 Exp number, first 60 AAs:  0.5721
+# 2570378845 Total prob of N-in:        0.01780
+2570378845	TMHMM2.0	outside	     1   397
+# 2570378846 Length: 276
+# 2570378846 Number of predicted TMHs:  0
+# 2570378846 Exp number of AAs in TMHs: 0.13988
+# 2570378846 Exp number, first 60 AAs:  0.03473
+# 2570378846 Total prob of N-in:        0.01335
+2570378846	TMHMM2.0	outside	     1   276
+# 2570378847 Length: 793
+# 2570378847 Number of predicted TMHs:  0
+# 2570378847 Exp number of AAs in TMHs: 0.0449100000000001
+# 2570378847 Exp number, first 60 AAs:  0.00235
+# 2570378847 Total prob of N-in:        0.00029
+2570378847	TMHMM2.0	outside	     1   793
+# 2570378848 Length: 457
+# 2570378848 Number of predicted TMHs:  0
+# 2570378848 Exp number of AAs in TMHs: 0.00769999999999999
+# 2570378848 Exp number, first 60 AAs:  0
+# 2570378848 Total prob of N-in:        0.00176
+2570378848	TMHMM2.0	outside	     1   457
+# 2570378849 Length: 353
+# 2570378849 Number of predicted TMHs:  0
+# 2570378849 Exp number of AAs in TMHs: 0.0189
+# 2570378849 Exp number, first 60 AAs:  0.00079
+# 2570378849 Total prob of N-in:        0.00631
+2570378849	TMHMM2.0	outside	     1   353
+# 2570378850 Length: 97
+# 2570378850 Number of predicted TMHs:  2
+# 2570378850 Exp number of AAs in TMHs: 45.98136
+# 2570378850 Exp number, first 60 AAs:  26.00118
+# 2570378850 Total prob of N-in:        0.00450
+# 2570378850 POSSIBLE N-term signal sequence
+2570378850	TMHMM2.0	outside	     1    14
+2570378850	TMHMM2.0	TMhelix	    15    37
+2570378850	TMHMM2.0	inside	    38    57
+2570378850	TMHMM2.0	TMhelix	    58    80
+2570378850	TMHMM2.0	outside	    81    97
+# 2570378851 Length: 355
+# 2570378851 Number of predicted TMHs:  0
+# 2570378851 Exp number of AAs in TMHs: 1.07318
+# 2570378851 Exp number, first 60 AAs:  0
+# 2570378851 Total prob of N-in:        0.07758
+2570378851	TMHMM2.0	outside	     1   355
+# 2570378852 Length: 609
+# 2570378852 Number of predicted TMHs:  0
+# 2570378852 Exp number of AAs in TMHs: 0.0570800000000001
+# 2570378852 Exp number, first 60 AAs:  0.01512
+# 2570378852 Total prob of N-in:        0.00471
+2570378852	TMHMM2.0	outside	     1   609
+# 2570378853 Length: 241
+# 2570378853 Number of predicted TMHs:  0
+# 2570378853 Exp number of AAs in TMHs: 0.00039
+# 2570378853 Exp number, first 60 AAs:  0
+# 2570378853 Total prob of N-in:        0.03292
+2570378853	TMHMM2.0	outside	     1   241
+# 2570378854 Length: 341
+# 2570378854 Number of predicted TMHs:  0
+# 2570378854 Exp number of AAs in TMHs: 0.06093
+# 2570378854 Exp number, first 60 AAs:  0.00124
+# 2570378854 Total prob of N-in:        0.01393
+2570378854	TMHMM2.0	outside	     1   341
+# 2570378855 Length: 74
+# 2570378855 Number of predicted TMHs:  0
+# 2570378855 Exp number of AAs in TMHs: 0
+# 2570378855 Exp number, first 60 AAs:  0
+# 2570378855 Total prob of N-in:        0.29475
+2570378855	TMHMM2.0	outside	     1    74
+# 2570378856 Length: 165
+# 2570378856 Number of predicted TMHs:  1
+# 2570378856 Exp number of AAs in TMHs: 22.49505
+# 2570378856 Exp number, first 60 AAs:  0.06121
+# 2570378856 Total prob of N-in:        0.78343
+2570378856	TMHMM2.0	inside	     1    97
+2570378856	TMHMM2.0	TMhelix	    98   120
+2570378856	TMHMM2.0	outside	   121   165
+# 2570378857 Length: 217
+# 2570378857 Number of predicted TMHs:  1
+# 2570378857 Exp number of AAs in TMHs: 21.02157
+# 2570378857 Exp number, first 60 AAs:  21.02143
+# 2570378857 Total prob of N-in:        0.99215
+# 2570378857 POSSIBLE N-term signal sequence
+2570378857	TMHMM2.0	inside	     1     6
+2570378857	TMHMM2.0	TMhelix	     7    27
+2570378857	TMHMM2.0	outside	    28   217
+# 2570378858 Length: 548
+# 2570378858 Number of predicted TMHs:  0
+# 2570378858 Exp number of AAs in TMHs: 0.00148
+# 2570378858 Exp number, first 60 AAs:  0.00146
+# 2570378858 Total prob of N-in:        0.00043
+2570378858	TMHMM2.0	outside	     1   548
+# 2570378859 Length: 47
+# 2570378859 Number of predicted TMHs:  0
+# 2570378859 Exp number of AAs in TMHs: 0.30529
+# 2570378859 Exp number, first 60 AAs:  0.30529
+# 2570378859 Total prob of N-in:        0.24605
+2570378859	TMHMM2.0	outside	     1    47
+# 2570378860 Length: 218
+# 2570378860 Number of predicted TMHs:  6
+# 2570378860 Exp number of AAs in TMHs: 129.85513
+# 2570378860 Exp number, first 60 AAs:  42.68633
+# 2570378860 Total prob of N-in:        0.96440
+# 2570378860 POSSIBLE N-term signal sequence
+2570378860	TMHMM2.0	inside	     1     1
+2570378860	TMHMM2.0	TMhelix	     2    24
+2570378860	TMHMM2.0	outside	    25    33
+2570378860	TMHMM2.0	TMhelix	    34    54
+2570378860	TMHMM2.0	inside	    55    74
+2570378860	TMHMM2.0	TMhelix	    75    97
+2570378860	TMHMM2.0	outside	    98   106
+2570378860	TMHMM2.0	TMhelix	   107   129
+2570378860	TMHMM2.0	inside	   130   148
+2570378860	TMHMM2.0	TMhelix	   149   168
+2570378860	TMHMM2.0	outside	   169   182
+2570378860	TMHMM2.0	TMhelix	   183   205
+2570378860	TMHMM2.0	inside	   206   218
+# 2570378861 Length: 521
+# 2570378861 Number of predicted TMHs:  10
+# 2570378861 Exp number of AAs in TMHs: 258.17288
+# 2570378861 Exp number, first 60 AAs:  14.79224
+# 2570378861 Total prob of N-in:        0.74841
+# 2570378861 POSSIBLE N-term signal sequence
+2570378861	TMHMM2.0	inside	     1    44
+2570378861	TMHMM2.0	TMhelix	    45    67
+2570378861	TMHMM2.0	outside	    68    81
+2570378861	TMHMM2.0	TMhelix	    82    99
+2570378861	TMHMM2.0	inside	   100   111
+2570378861	TMHMM2.0	TMhelix	   112   131
+2570378861	TMHMM2.0	outside	   132   165
+2570378861	TMHMM2.0	TMhelix	   166   188
+2570378861	TMHMM2.0	inside	   189   200
+2570378861	TMHMM2.0	TMhelix	   201   223
+2570378861	TMHMM2.0	outside	   224   277
+2570378861	TMHMM2.0	TMhelix	   278   300
+2570378861	TMHMM2.0	inside	   301   335
+2570378861	TMHMM2.0	TMhelix	   336   358
+2570378861	TMHMM2.0	outside	   359   372
+2570378861	TMHMM2.0	TMhelix	   373   392
+2570378861	TMHMM2.0	inside	   393   432
+2570378861	TMHMM2.0	TMhelix	   433   455
+2570378861	TMHMM2.0	outside	   456   497
+2570378861	TMHMM2.0	TMhelix	   498   520
+2570378861	TMHMM2.0	inside	   521   521
+# 2570378862 Length: 390
+# 2570378862 Number of predicted TMHs:  0
+# 2570378862 Exp number of AAs in TMHs: 3.27937
+# 2570378862 Exp number, first 60 AAs:  0.02239
+# 2570378862 Total prob of N-in:        0.15512
+2570378862	TMHMM2.0	outside	     1   390
+# 2570378863 Length: 75
+# 2570378863 Number of predicted TMHs:  2
+# 2570378863 Exp number of AAs in TMHs: 35.5555
+# 2570378863 Exp number, first 60 AAs:  31.05453
+# 2570378863 Total prob of N-in:        0.90143
+# 2570378863 POSSIBLE N-term signal sequence
+2570378863	TMHMM2.0	inside	     1    20
+2570378863	TMHMM2.0	TMhelix	    21    40
+2570378863	TMHMM2.0	outside	    41    44
+2570378863	TMHMM2.0	TMhelix	    45    67
+2570378863	TMHMM2.0	inside	    68    75
+# 2570378864 Length: 70
+# 2570378864 Number of predicted TMHs:  0
+# 2570378864 Exp number of AAs in TMHs: 7.75433
+# 2570378864 Exp number, first 60 AAs:  6.16108
+# 2570378864 Total prob of N-in:        0.47375
+2570378864	TMHMM2.0	outside	     1    70
+# 2570378865 Length: 119
+# 2570378865 Number of predicted TMHs:  1
+# 2570378865 Exp number of AAs in TMHs: 23.37977
+# 2570378865 Exp number, first 60 AAs:  20.39349
+# 2570378865 Total prob of N-in:        0.16895
+# 2570378865 POSSIBLE N-term signal sequence
+2570378865	TMHMM2.0	outside	     1    14
+2570378865	TMHMM2.0	TMhelix	    15    34
+2570378865	TMHMM2.0	inside	    35   119
+# 2570378866 Length: 45
+# 2570378866 Number of predicted TMHs:  0
+# 2570378866 Exp number of AAs in TMHs: 11.05909
+# 2570378866 Exp number, first 60 AAs:  11.05909
+# 2570378866 Total prob of N-in:        0.29933
+# 2570378866 POSSIBLE N-term signal sequence
+2570378866	TMHMM2.0	inside	     1    45
+# 2570378867 Length: 163
+# 2570378867 Number of predicted TMHs:  0
+# 2570378867 Exp number of AAs in TMHs: 0.23407
+# 2570378867 Exp number, first 60 AAs:  0.23328
+# 2570378867 Total prob of N-in:        0.08877
+2570378867	TMHMM2.0	outside	     1   163
+# 2570378868 Length: 133
+# 2570378868 Number of predicted TMHs:  0
+# 2570378868 Exp number of AAs in TMHs: 0.0980399999999999
+# 2570378868 Exp number, first 60 AAs:  0.09788
+# 2570378868 Total prob of N-in:        0.45548
+2570378868	TMHMM2.0	outside	     1   133
+# 2570378869 Length: 147
+# 2570378869 Number of predicted TMHs:  0
+# 2570378869 Exp number of AAs in TMHs: 0.36238
+# 2570378869 Exp number, first 60 AAs:  0.00099
+# 2570378869 Total prob of N-in:        0.08279
+2570378869	TMHMM2.0	outside	     1   147
+# 2570378870 Length: 466
+# 2570378870 Number of predicted TMHs:  0
+# 2570378870 Exp number of AAs in TMHs: 0.00706999999999999
+# 2570378870 Exp number, first 60 AAs:  0
+# 2570378870 Total prob of N-in:        0.00351
+2570378870	TMHMM2.0	outside	     1   466
+# 2570378871 Length: 620
+# 2570378871 Number of predicted TMHs:  0
+# 2570378871 Exp number of AAs in TMHs: 0.00841
+# 2570378871 Exp number, first 60 AAs:  0
+# 2570378871 Total prob of N-in:        0.00281
+2570378871	TMHMM2.0	outside	     1   620
+# 2570378872 Length: 452
+# 2570378872 Number of predicted TMHs:  0
+# 2570378872 Exp number of AAs in TMHs: 0.1216
+# 2570378872 Exp number, first 60 AAs:  0.09876
+# 2570378872 Total prob of N-in:        0.00742
+2570378872	TMHMM2.0	outside	     1   452
+# 2570378873 Length: 291
+# 2570378873 Number of predicted TMHs:  0
+# 2570378873 Exp number of AAs in TMHs: 0.03516
+# 2570378873 Exp number, first 60 AAs:  0.0016
+# 2570378873 Total prob of N-in:        0.01190
+2570378873	TMHMM2.0	outside	     1   291
+# 2570378874 Length: 146
+# 2570378874 Number of predicted TMHs:  0
+# 2570378874 Exp number of AAs in TMHs: 0.900899999999999
+# 2570378874 Exp number, first 60 AAs:  0.89139
+# 2570378874 Total prob of N-in:        0.37948
+2570378874	TMHMM2.0	outside	     1   146
+# 2570378875 Length: 57
+# 2570378875 Number of predicted TMHs:  0
+# 2570378875 Exp number of AAs in TMHs: 0
+# 2570378875 Exp number, first 60 AAs:  0
+# 2570378875 Total prob of N-in:        0.83438
+2570378875	TMHMM2.0	inside	     1    57
+# 2570378876 Length: 190
+# 2570378876 Number of predicted TMHs:  0
+# 2570378876 Exp number of AAs in TMHs: 0.02773
+# 2570378876 Exp number, first 60 AAs:  0.00536
+# 2570378876 Total prob of N-in:        0.11118
+2570378876	TMHMM2.0	outside	     1   190
+# 2570378877 Length: 70
+# 2570378877 Number of predicted TMHs:  2
+# 2570378877 Exp number of AAs in TMHs: 39.6881
+# 2570378877 Exp number, first 60 AAs:  32.3759
+# 2570378877 Total prob of N-in:        0.74077
+# 2570378877 POSSIBLE N-term signal sequence
+2570378877	TMHMM2.0	inside	     1     4
+2570378877	TMHMM2.0	TMhelix	     5    22
+2570378877	TMHMM2.0	outside	    23    47
+2570378877	TMHMM2.0	TMhelix	    48    67
+2570378877	TMHMM2.0	inside	    68    70
+# 2570378878 Length: 752
+# 2570378878 Number of predicted TMHs:  0
+# 2570378878 Exp number of AAs in TMHs: 0.18658
+# 2570378878 Exp number, first 60 AAs:  0.18126
+# 2570378878 Total prob of N-in:        0.00845
+2570378878	TMHMM2.0	outside	     1   752
+# 2570378879 Length: 575
+# 2570378879 Number of predicted TMHs:  0
+# 2570378879 Exp number of AAs in TMHs: 0.10496
+# 2570378879 Exp number, first 60 AAs:  0.04753
+# 2570378879 Total prob of N-in:        0.00874
+2570378879	TMHMM2.0	outside	     1   575
+# 2570378880 Length: 47
+# 2570378880 Number of predicted TMHs:  0
+# 2570378880 Exp number of AAs in TMHs: 0
+# 2570378880 Exp number, first 60 AAs:  0
+# 2570378880 Total prob of N-in:        0.59174
+2570378880	TMHMM2.0	inside	     1    47
+# 2570378881 Length: 412
+# 2570378881 Number of predicted TMHs:  0
+# 2570378881 Exp number of AAs in TMHs: 0.00571000000000001
+# 2570378881 Exp number, first 60 AAs:  0.00142
+# 2570378881 Total prob of N-in:        0.01299
+2570378881	TMHMM2.0	outside	     1   412
+# 2570378882 Length: 164
+# 2570378882 Number of predicted TMHs:  0
+# 2570378882 Exp number of AAs in TMHs: 0.00135
+# 2570378882 Exp number, first 60 AAs:  0.00038
+# 2570378882 Total prob of N-in:        0.02439
+2570378882	TMHMM2.0	outside	     1   164
+# 2570378883 Length: 94
+# 2570378883 Number of predicted TMHs:  0
+# 2570378883 Exp number of AAs in TMHs: 0.01446
+# 2570378883 Exp number, first 60 AAs:  0.00622
+# 2570378883 Total prob of N-in:        0.38437
+2570378883	TMHMM2.0	outside	     1    94
+# 2570378884 Length: 169
+# 2570378884 Number of predicted TMHs:  0
+# 2570378884 Exp number of AAs in TMHs: 0.00097
+# 2570378884 Exp number, first 60 AAs:  0.00072
+# 2570378884 Total prob of N-in:        0.36987
+2570378884	TMHMM2.0	outside	     1   169
+# 2570378885 Length: 244
+# 2570378885 Number of predicted TMHs:  6
+# 2570378885 Exp number of AAs in TMHs: 131.81545
+# 2570378885 Exp number, first 60 AAs:  26.51304
+# 2570378885 Total prob of N-in:        0.55403
+# 2570378885 POSSIBLE N-term signal sequence
+2570378885	TMHMM2.0	inside	     1    20
+2570378885	TMHMM2.0	TMhelix	    21    43
+2570378885	TMHMM2.0	outside	    44    72
+2570378885	TMHMM2.0	TMhelix	    73    92
+2570378885	TMHMM2.0	inside	    93   104
+2570378885	TMHMM2.0	TMhelix	   105   127
+2570378885	TMHMM2.0	outside	   128   141
+2570378885	TMHMM2.0	TMhelix	   142   161
+2570378885	TMHMM2.0	inside	   162   180
+2570378885	TMHMM2.0	TMhelix	   181   199
+2570378885	TMHMM2.0	outside	   200   211
+2570378885	TMHMM2.0	TMhelix	   212   234
+2570378885	TMHMM2.0	inside	   235   244
+# 2570378886 Length: 334
+# 2570378886 Number of predicted TMHs:  0
+# 2570378886 Exp number of AAs in TMHs: 2.04779
+# 2570378886 Exp number, first 60 AAs:  2.03058
+# 2570378886 Total prob of N-in:        0.10696
+2570378886	TMHMM2.0	outside	     1   334
+# 2570378887 Length: 541
+# 2570378887 Number of predicted TMHs:  1
+# 2570378887 Exp number of AAs in TMHs: 20.21648
+# 2570378887 Exp number, first 60 AAs:  19.58221
+# 2570378887 Total prob of N-in:        0.84424
+# 2570378887 POSSIBLE N-term signal sequence
+2570378887	TMHMM2.0	inside	     1    12
+2570378887	TMHMM2.0	TMhelix	    13    35
+2570378887	TMHMM2.0	outside	    36   541
+# 2570378888 Length: 152
+# 2570378888 Number of predicted TMHs:  1
+# 2570378888 Exp number of AAs in TMHs: 21.90502
+# 2570378888 Exp number, first 60 AAs:  21.90502
+# 2570378888 Total prob of N-in:        0.47726
+# 2570378888 POSSIBLE N-term signal sequence
+2570378888	TMHMM2.0	outside	     1     9
+2570378888	TMHMM2.0	TMhelix	    10    32
+2570378888	TMHMM2.0	inside	    33   152
+# 2570378889 Length: 206
+# 2570378889 Number of predicted TMHs:  0
+# 2570378889 Exp number of AAs in TMHs: 0.26212
+# 2570378889 Exp number, first 60 AAs:  0.26101
+# 2570378889 Total prob of N-in:        0.15009
+2570378889	TMHMM2.0	outside	     1   206
+# 2570378890 Length: 236
+# 2570378890 Number of predicted TMHs:  0
+# 2570378890 Exp number of AAs in TMHs: 0.1805
+# 2570378890 Exp number, first 60 AAs:  0.00668
+# 2570378890 Total prob of N-in:        0.08749
+2570378890	TMHMM2.0	outside	     1   236
+# 2570378891 Length: 362
+# 2570378891 Number of predicted TMHs:  0
+# 2570378891 Exp number of AAs in TMHs: 0.13085
+# 2570378891 Exp number, first 60 AAs:  0.00108
+# 2570378891 Total prob of N-in:        0.01873
+2570378891	TMHMM2.0	outside	     1   362
+# 2570378892 Length: 112
+# 2570378892 Number of predicted TMHs:  0
+# 2570378892 Exp number of AAs in TMHs: 0
+# 2570378892 Exp number, first 60 AAs:  0
+# 2570378892 Total prob of N-in:        0.41322
+2570378892	TMHMM2.0	outside	     1   112
+# 2570378893 Length: 255
+# 2570378893 Number of predicted TMHs:  0
+# 2570378893 Exp number of AAs in TMHs: 0.0644199999999999
+# 2570378893 Exp number, first 60 AAs:  0
+# 2570378893 Total prob of N-in:        0.04589
+2570378893	TMHMM2.0	outside	     1   255
+# 2570378894 Length: 457
+# 2570378894 Number of predicted TMHs:  0
+# 2570378894 Exp number of AAs in TMHs: 1.98025
+# 2570378894 Exp number, first 60 AAs:  1.85171
+# 2570378894 Total prob of N-in:        0.09463
+2570378894	TMHMM2.0	outside	     1   457
+# 2570378895 Length: 427
+# 2570378895 Number of predicted TMHs:  0
+# 2570378895 Exp number of AAs in TMHs: 0.610229999999998
+# 2570378895 Exp number, first 60 AAs:  0.0002
+# 2570378895 Total prob of N-in:        0.04684
+2570378895	TMHMM2.0	outside	     1   427
+# 2570378896 Length: 324
+# 2570378896 Number of predicted TMHs:  0
+# 2570378896 Exp number of AAs in TMHs: 0.0993299999999999
+# 2570378896 Exp number, first 60 AAs:  0.02324
+# 2570378896 Total prob of N-in:        0.01295
+2570378896	TMHMM2.0	outside	     1   324
+# 2570378897 Length: 363
+# 2570378897 Number of predicted TMHs:  0
+# 2570378897 Exp number of AAs in TMHs: 3.31768
+# 2570378897 Exp number, first 60 AAs:  0.00018
+# 2570378897 Total prob of N-in:        0.05352
+2570378897	TMHMM2.0	outside	     1   363
+# 2570378898 Length: 602
+# 2570378898 Number of predicted TMHs:  5
+# 2570378898 Exp number of AAs in TMHs: 99.00489
+# 2570378898 Exp number, first 60 AAs:  0.11396
+# 2570378898 Total prob of N-in:        0.89654
+2570378898	TMHMM2.0	inside	     1   301
+2570378898	TMHMM2.0	TMhelix	   302   324
+2570378898	TMHMM2.0	outside	   325   398
+2570378898	TMHMM2.0	TMhelix	   399   419
+2570378898	TMHMM2.0	inside	   420   431
+2570378898	TMHMM2.0	TMhelix	   432   454
+2570378898	TMHMM2.0	outside	   455   457
+2570378898	TMHMM2.0	TMhelix	   458   480
+2570378898	TMHMM2.0	inside	   481   564
+2570378898	TMHMM2.0	TMhelix	   565   587
+2570378898	TMHMM2.0	outside	   588   602
+# 2570378899 Length: 822
+# 2570378899 Number of predicted TMHs:  0
+# 2570378899 Exp number of AAs in TMHs: 0.21504
+# 2570378899 Exp number, first 60 AAs:  0.00377
+# 2570378899 Total prob of N-in:        0.00823
+2570378899	TMHMM2.0	outside	     1   822
+# 2570378900 Length: 343
+# 2570378900 Number of predicted TMHs:  0
+# 2570378900 Exp number of AAs in TMHs: 0.0075
+# 2570378900 Exp number, first 60 AAs:  4e-05
+# 2570378900 Total prob of N-in:        0.07676
+2570378900	TMHMM2.0	outside	     1   343
+# 2570378901 Length: 117
+# 2570378901 Number of predicted TMHs:  3
+# 2570378901 Exp number of AAs in TMHs: 59.74272
+# 2570378901 Exp number, first 60 AAs:  20.71274
+# 2570378901 Total prob of N-in:        0.80414
+# 2570378901 POSSIBLE N-term signal sequence
+2570378901	TMHMM2.0	inside	     1    29
+2570378901	TMHMM2.0	TMhelix	    30    49
+2570378901	TMHMM2.0	outside	    50    63
+2570378901	TMHMM2.0	TMhelix	    64    82
+2570378901	TMHMM2.0	inside	    83    86
+2570378901	TMHMM2.0	TMhelix	    87   106
+2570378901	TMHMM2.0	outside	   107   117
+# 2570378902 Length: 55
+# 2570378902 Number of predicted TMHs:  1
+# 2570378902 Exp number of AAs in TMHs: 20.43651
+# 2570378902 Exp number, first 60 AAs:  20.43651
+# 2570378902 Total prob of N-in:        0.51849
+# 2570378902 POSSIBLE N-term signal sequence
+2570378902	TMHMM2.0	inside	     1    16
+2570378902	TMHMM2.0	TMhelix	    17    39
+2570378902	TMHMM2.0	outside	    40    55
+# 2570378903 Length: 79
+# 2570378903 Number of predicted TMHs:  0
+# 2570378903 Exp number of AAs in TMHs: 5.24094
+# 2570378903 Exp number, first 60 AAs:  5.24086
+# 2570378903 Total prob of N-in:        0.05577
+2570378903	TMHMM2.0	outside	     1    79
+# 2570378904 Length: 93
+# 2570378904 Number of predicted TMHs:  0
+# 2570378904 Exp number of AAs in TMHs: 0.04081
+# 2570378904 Exp number, first 60 AAs:  0.03597
+# 2570378904 Total prob of N-in:        0.60947
+2570378904	TMHMM2.0	inside	     1    93
+# 2570378905 Length: 917
+# 2570378905 Number of predicted TMHs:  0
+# 2570378905 Exp number of AAs in TMHs: 0.33329
+# 2570378905 Exp number, first 60 AAs:  0.00096
+# 2570378905 Total prob of N-in:        0.00025
+2570378905	TMHMM2.0	outside	     1   917
+# 2570378906 Length: 510
+# 2570378906 Number of predicted TMHs:  0
+# 2570378906 Exp number of AAs in TMHs: 0.03636
+# 2570378906 Exp number, first 60 AAs:  0.00045
+# 2570378906 Total prob of N-in:        0.00857
+2570378906	TMHMM2.0	outside	     1   510
+# 2570378907 Length: 561
+# 2570378907 Number of predicted TMHs:  6
+# 2570378907 Exp number of AAs in TMHs: 125.71456
+# 2570378907 Exp number, first 60 AAs:  18.03968
+# 2570378907 Total prob of N-in:        0.89681
+# 2570378907 POSSIBLE N-term signal sequence
+2570378907	TMHMM2.0	inside	     1    12
+2570378907	TMHMM2.0	TMhelix	    13    32
+2570378907	TMHMM2.0	outside	    33   351
+2570378907	TMHMM2.0	TMhelix	   352   374
+2570378907	TMHMM2.0	inside	   375   394
+2570378907	TMHMM2.0	TMhelix	   395   417
+2570378907	TMHMM2.0	outside	   418   426
+2570378907	TMHMM2.0	TMhelix	   427   449
+2570378907	TMHMM2.0	inside	   450   497
+2570378907	TMHMM2.0	TMhelix	   498   520
+2570378907	TMHMM2.0	outside	   521   534
+2570378907	TMHMM2.0	TMhelix	   535   552
+2570378907	TMHMM2.0	inside	   553   561
+# 2570378908 Length: 76
+# 2570378908 Number of predicted TMHs:  0
+# 2570378908 Exp number of AAs in TMHs: 0.09401
+# 2570378908 Exp number, first 60 AAs:  0.09401
+# 2570378908 Total prob of N-in:        0.02748
+2570378908	TMHMM2.0	outside	     1    76
+# 2570378909 Length: 208
+# 2570378909 Number of predicted TMHs:  1
+# 2570378909 Exp number of AAs in TMHs: 19.29159
+# 2570378909 Exp number, first 60 AAs:  19.28162
+# 2570378909 Total prob of N-in:        0.93834
+# 2570378909 POSSIBLE N-term signal sequence
+2570378909	TMHMM2.0	inside	     1     8
+2570378909	TMHMM2.0	TMhelix	     9    27
+2570378909	TMHMM2.0	outside	    28   208
+# 2570378910 Length: 113
+# 2570378910 Number of predicted TMHs:  0
+# 2570378910 Exp number of AAs in TMHs: 9.83508
+# 2570378910 Exp number, first 60 AAs:  0.00381
+# 2570378910 Total prob of N-in:        0.51495
+2570378910	TMHMM2.0	outside	     1   113
+# 2570378911 Length: 71
+# 2570378911 Number of predicted TMHs:  0
+# 2570378911 Exp number of AAs in TMHs: 11.30733
+# 2570378911 Exp number, first 60 AAs:  10.60395
+# 2570378911 Total prob of N-in:        0.83863
+# 2570378911 POSSIBLE N-term signal sequence
+2570378911	TMHMM2.0	inside	     1    71
+# 2570378912 Length: 203
+# 2570378912 Number of predicted TMHs:  0
+# 2570378912 Exp number of AAs in TMHs: 0.00645999999999999
+# 2570378912 Exp number, first 60 AAs:  0.0017
+# 2570378912 Total prob of N-in:        0.03338
+2570378912	TMHMM2.0	outside	     1   203
+# 2570378913 Length: 100
+# 2570378913 Number of predicted TMHs:  0
+# 2570378913 Exp number of AAs in TMHs: 4.40281
+# 2570378913 Exp number, first 60 AAs:  4.4002
+# 2570378913 Total prob of N-in:        0.37323
+2570378913	TMHMM2.0	outside	     1   100
+# 2570378914 Length: 68
+# 2570378914 Number of predicted TMHs:  0
+# 2570378914 Exp number of AAs in TMHs: 0.11063
+# 2570378914 Exp number, first 60 AAs:  0.11062
+# 2570378914 Total prob of N-in:        0.82134
+2570378914	TMHMM2.0	inside	     1    68
+# 2570378915 Length: 72
+# 2570378915 Number of predicted TMHs:  1
+# 2570378915 Exp number of AAs in TMHs: 22.27042
+# 2570378915 Exp number, first 60 AAs:  22.27042
+# 2570378915 Total prob of N-in:        0.65751
+# 2570378915 POSSIBLE N-term signal sequence
+2570378915	TMHMM2.0	inside	     1    11
+2570378915	TMHMM2.0	TMhelix	    12    34
+2570378915	TMHMM2.0	outside	    35    72
+# 2570378916 Length: 102
+# 2570378916 Number of predicted TMHs:  1
+# 2570378916 Exp number of AAs in TMHs: 18.50927
+# 2570378916 Exp number, first 60 AAs:  18.50927
+# 2570378916 Total prob of N-in:        0.06006
+# 2570378916 POSSIBLE N-term signal sequence
+2570378916	TMHMM2.0	outside	     1     9
+2570378916	TMHMM2.0	TMhelix	    10    27
+2570378916	TMHMM2.0	inside	    28   102
+# 2570378917 Length: 124
+# 2570378917 Number of predicted TMHs:  1
+# 2570378917 Exp number of AAs in TMHs: 20.35776
+# 2570378917 Exp number, first 60 AAs:  20.35776
+# 2570378917 Total prob of N-in:        0.21392
+# 2570378917 POSSIBLE N-term signal sequence
+2570378917	TMHMM2.0	outside	     1     9
+2570378917	TMHMM2.0	TMhelix	    10    29
+2570378917	TMHMM2.0	inside	    30   124
+# 2570378918 Length: 106
+# 2570378918 Number of predicted TMHs:  0
+# 2570378918 Exp number of AAs in TMHs: 0
+# 2570378918 Exp number, first 60 AAs:  0
+# 2570378918 Total prob of N-in:        0.13355
+2570378918	TMHMM2.0	outside	     1   106
+# 2570378919 Length: 142
+# 2570378919 Number of predicted TMHs:  1
+# 2570378919 Exp number of AAs in TMHs: 21.80426
+# 2570378919 Exp number, first 60 AAs:  21.80091
+# 2570378919 Total prob of N-in:        0.99273
+# 2570378919 POSSIBLE N-term signal sequence
+2570378919	TMHMM2.0	inside	     1    12
+2570378919	TMHMM2.0	TMhelix	    13    35
+2570378919	TMHMM2.0	outside	    36   142
+# 2570378920 Length: 198
+# 2570378920 Number of predicted TMHs:  0
+# 2570378920 Exp number of AAs in TMHs: 0.00515
+# 2570378920 Exp number, first 60 AAs:  0
+# 2570378920 Total prob of N-in:        0.17843
+2570378920	TMHMM2.0	outside	     1   198
+# 2570378921 Length: 889
+# 2570378921 Number of predicted TMHs:  10
+# 2570378921 Exp number of AAs in TMHs: 214.1453
+# 2570378921 Exp number, first 60 AAs:  0.0015
+# 2570378921 Total prob of N-in:        0.99817
+2570378921	TMHMM2.0	inside	     1    64
+2570378921	TMHMM2.0	TMhelix	    65    87
+2570378921	TMHMM2.0	outside	    88    96
+2570378921	TMHMM2.0	TMhelix	    97   119
+2570378921	TMHMM2.0	inside	   120   213
+2570378921	TMHMM2.0	TMhelix	   214   233
+2570378921	TMHMM2.0	outside	   234   257
+2570378921	TMHMM2.0	TMhelix	   258   280
+2570378921	TMHMM2.0	inside	   281   292
+2570378921	TMHMM2.0	TMhelix	   293   315
+2570378921	TMHMM2.0	outside	   316   707
+2570378921	TMHMM2.0	TMhelix	   708   730
+2570378921	TMHMM2.0	inside	   731   750
+2570378921	TMHMM2.0	TMhelix	   751   770
+2570378921	TMHMM2.0	outside	   771   784
+2570378921	TMHMM2.0	TMhelix	   785   804
+2570378921	TMHMM2.0	inside	   805   820
+2570378921	TMHMM2.0	TMhelix	   821   843
+2570378921	TMHMM2.0	outside	   844   857
+2570378921	TMHMM2.0	TMhelix	   858   877
+2570378921	TMHMM2.0	inside	   878   889
+# 2570378922 Length: 258
+# 2570378922 Number of predicted TMHs:  3
+# 2570378922 Exp number of AAs in TMHs: 60.80045
+# 2570378922 Exp number, first 60 AAs:  39.72253
+# 2570378922 Total prob of N-in:        0.07944
+# 2570378922 POSSIBLE N-term signal sequence
+2570378922	TMHMM2.0	outside	     1     4
+2570378922	TMHMM2.0	TMhelix	     5    24
+2570378922	TMHMM2.0	inside	    25    30
+2570378922	TMHMM2.0	TMhelix	    31    53
+2570378922	TMHMM2.0	outside	    54    72
+2570378922	TMHMM2.0	TMhelix	    73    95
+2570378922	TMHMM2.0	inside	    96   258
+# 2570378923 Length: 288
+# 2570378923 Number of predicted TMHs:  0
+# 2570378923 Exp number of AAs in TMHs: 2.84017
+# 2570378923 Exp number, first 60 AAs:  0.06426
+# 2570378923 Total prob of N-in:        0.11645
+2570378923	TMHMM2.0	outside	     1   288
+# 2570378924 Length: 199
+# 2570378924 Number of predicted TMHs:  1
+# 2570378924 Exp number of AAs in TMHs: 21.42961
+# 2570378924 Exp number, first 60 AAs:  21.40795
+# 2570378924 Total prob of N-in:        0.76652
+# 2570378924 POSSIBLE N-term signal sequence
+2570378924	TMHMM2.0	inside	     1    11
+2570378924	TMHMM2.0	TMhelix	    12    31
+2570378924	TMHMM2.0	outside	    32   199
+# 2570378925 Length: 89
+# 2570378925 Number of predicted TMHs:  0
+# 2570378925 Exp number of AAs in TMHs: 0.06333
+# 2570378925 Exp number, first 60 AAs:  0.01072
+# 2570378925 Total prob of N-in:        0.29029
+2570378925	TMHMM2.0	outside	     1    89
+# 2570378926 Length: 50
+# 2570378926 Number of predicted TMHs:  0
+# 2570378926 Exp number of AAs in TMHs: 8.54389
+# 2570378926 Exp number, first 60 AAs:  8.54389
+# 2570378926 Total prob of N-in:        0.35813
+2570378926	TMHMM2.0	outside	     1    50
+# 2570378927 Length: 66
+# 2570378927 Number of predicted TMHs:  0
+# 2570378927 Exp number of AAs in TMHs: 0.59178
+# 2570378927 Exp number, first 60 AAs:  0.43188
+# 2570378927 Total prob of N-in:        0.04495
+2570378927	TMHMM2.0	outside	     1    66
+# 2570378928 Length: 328
+# 2570378928 Number of predicted TMHs:  0
+# 2570378928 Exp number of AAs in TMHs: 1.16798
+# 2570378928 Exp number, first 60 AAs:  0.00055
+# 2570378928 Total prob of N-in:        0.04239
+2570378928	TMHMM2.0	outside	     1   328
+# 2570378929 Length: 86
+# 2570378929 Number of predicted TMHs:  0
+# 2570378929 Exp number of AAs in TMHs: 3.01891
+# 2570378929 Exp number, first 60 AAs:  3.01891
+# 2570378929 Total prob of N-in:        0.03186
+2570378929	TMHMM2.0	outside	     1    86
+# 2570378930 Length: 196
+# 2570378930 Number of predicted TMHs:  0
+# 2570378930 Exp number of AAs in TMHs: 1.73583
+# 2570378930 Exp number, first 60 AAs:  0.0689200000000001
+# 2570378930 Total prob of N-in:        0.11510
+2570378930	TMHMM2.0	outside	     1   196
+# 2570378931 Length: 162
+# 2570378931 Number of predicted TMHs:  0
+# 2570378931 Exp number of AAs in TMHs: 0.39405
+# 2570378931 Exp number, first 60 AAs:  0.15438
+# 2570378931 Total prob of N-in:        0.25762
+2570378931	TMHMM2.0	outside	     1   162
+# 2570378932 Length: 835
+# 2570378932 Number of predicted TMHs:  0
+# 2570378932 Exp number of AAs in TMHs: 0.462420000000001
+# 2570378932 Exp number, first 60 AAs:  0.01635
+# 2570378932 Total prob of N-in:        0.02116
+2570378932	TMHMM2.0	outside	     1   835
+# 2570378933 Length: 671
+# 2570378933 Number of predicted TMHs:  0
+# 2570378933 Exp number of AAs in TMHs: 0.547719999999998
+# 2570378933 Exp number, first 60 AAs:  0.00017
+# 2570378933 Total prob of N-in:        0.02614
+2570378933	TMHMM2.0	outside	     1   671
+# 2570378934 Length: 151
+# 2570378934 Number of predicted TMHs:  1
+# 2570378934 Exp number of AAs in TMHs: 21.02491
+# 2570378934 Exp number, first 60 AAs:  21.02491
+# 2570378934 Total prob of N-in:        0.39137
+# 2570378934 POSSIBLE N-term signal sequence
+2570378934	TMHMM2.0	outside	     1     9
+2570378934	TMHMM2.0	TMhelix	    10    29
+2570378934	TMHMM2.0	inside	    30   151
+# 2570378935 Length: 69
+# 2570378935 Number of predicted TMHs:  1
+# 2570378935 Exp number of AAs in TMHs: 20.33044
+# 2570378935 Exp number, first 60 AAs:  20.33043
+# 2570378935 Total prob of N-in:        0.23936
+# 2570378935 POSSIBLE N-term signal sequence
+2570378935	TMHMM2.0	outside	     1    30
+2570378935	TMHMM2.0	TMhelix	    31    53
+2570378935	TMHMM2.0	inside	    54    69
+# 2570378936 Length: 51
+# 2570378936 Number of predicted TMHs:  0
+# 2570378936 Exp number of AAs in TMHs: 0.00309
+# 2570378936 Exp number, first 60 AAs:  0.00309
+# 2570378936 Total prob of N-in:        0.74637
+2570378936	TMHMM2.0	inside	     1    51
+# 2570378937 Length: 368
+# 2570378937 Number of predicted TMHs:  2
+# 2570378937 Exp number of AAs in TMHs: 44.45384
+# 2570378937 Exp number, first 60 AAs:  22.24013
+# 2570378937 Total prob of N-in:        0.84993
+# 2570378937 POSSIBLE N-term signal sequence
+2570378937	TMHMM2.0	inside	     1    12
+2570378937	TMHMM2.0	TMhelix	    13    35
+2570378937	TMHMM2.0	outside	    36   340
+2570378937	TMHMM2.0	TMhelix	   341   363
+2570378937	TMHMM2.0	inside	   364   368
+# 2570378938 Length: 50
+# 2570378938 Number of predicted TMHs:  0
+# 2570378938 Exp number of AAs in TMHs: 0.00016
+# 2570378938 Exp number, first 60 AAs:  0.00016
+# 2570378938 Total prob of N-in:        0.82667
+2570378938	TMHMM2.0	inside	     1    50
+# 2570378939 Length: 194
+# 2570378939 Number of predicted TMHs:  0
+# 2570378939 Exp number of AAs in TMHs: 0.30734
+# 2570378939 Exp number, first 60 AAs:  0.00131
+# 2570378939 Total prob of N-in:        0.03582
+2570378939	TMHMM2.0	outside	     1   194
+# 2570378954 Length: 80
+# 2570378954 Number of predicted TMHs:  0
+# 2570378954 Exp number of AAs in TMHs: 0.1606
+# 2570378954 Exp number, first 60 AAs:  0.1601
+# 2570378954 Total prob of N-in:        0.31492
+2570378954	TMHMM2.0	outside	     1    80
+# 2570378955 Length: 63
+# 2570378955 Number of predicted TMHs:  2
+# 2570378955 Exp number of AAs in TMHs: 31.9437
+# 2570378955 Exp number, first 60 AAs:  31.54004
+# 2570378955 Total prob of N-in:        0.20326
+# 2570378955 POSSIBLE N-term signal sequence
+2570378955	TMHMM2.0	outside	     1    14
+2570378955	TMHMM2.0	TMhelix	    15    34
+2570378955	TMHMM2.0	inside	    35    40
+2570378955	TMHMM2.0	TMhelix	    41    59
+2570378955	TMHMM2.0	outside	    60    63
+# 2570378956 Length: 118
+# 2570378956 Number of predicted TMHs:  0
+# 2570378956 Exp number of AAs in TMHs: 0.00018
+# 2570378956 Exp number, first 60 AAs:  0
+# 2570378956 Total prob of N-in:        0.48879
+2570378956	TMHMM2.0	outside	     1   118
+# 2570378957 Length: 157
+# 2570378957 Number of predicted TMHs:  1
+# 2570378957 Exp number of AAs in TMHs: 22.8093
+# 2570378957 Exp number, first 60 AAs:  22.8093
+# 2570378957 Total prob of N-in:        0.95436
+# 2570378957 POSSIBLE N-term signal sequence
+2570378957	TMHMM2.0	inside	     1    12
+2570378957	TMHMM2.0	TMhelix	    13    35
+2570378957	TMHMM2.0	outside	    36   157
+# 2570378958 Length: 69
+# 2570378958 Number of predicted TMHs:  1
+# 2570378958 Exp number of AAs in TMHs: 22.3728
+# 2570378958 Exp number, first 60 AAs:  22.3728
+# 2570378958 Total prob of N-in:        0.36214
+# 2570378958 POSSIBLE N-term signal sequence
+2570378958	TMHMM2.0	outside	     1     9
+2570378958	TMHMM2.0	TMhelix	    10    32
+2570378958	TMHMM2.0	inside	    33    69
+# 2570378959 Length: 104
+# 2570378959 Number of predicted TMHs:  0
+# 2570378959 Exp number of AAs in TMHs: 0.00083
+# 2570378959 Exp number, first 60 AAs:  0.00083
+# 2570378959 Total prob of N-in:        0.21889
+2570378959	TMHMM2.0	outside	     1   104
+# 2570378960 Length: 67
+# 2570378960 Number of predicted TMHs:  0
+# 2570378960 Exp number of AAs in TMHs: 0
+# 2570378960 Exp number, first 60 AAs:  0
+# 2570378960 Total prob of N-in:        0.73675
+2570378960	TMHMM2.0	inside	     1    67
+# 2570378961 Length: 181
+# 2570378961 Number of predicted TMHs:  0
+# 2570378961 Exp number of AAs in TMHs: 0.00056
+# 2570378961 Exp number, first 60 AAs:  0.00033
+# 2570378961 Total prob of N-in:        0.03947
+2570378961	TMHMM2.0	outside	     1   181
+# 2570378962 Length: 129
+# 2570378962 Number of predicted TMHs:  1
+# 2570378962 Exp number of AAs in TMHs: 21.07465
+# 2570378962 Exp number, first 60 AAs:  21.0745
+# 2570378962 Total prob of N-in:        0.33966
+# 2570378962 POSSIBLE N-term signal sequence
+2570378962	TMHMM2.0	outside	     1    14
+2570378962	TMHMM2.0	TMhelix	    15    36
+2570378962	TMHMM2.0	inside	    37   129
+# 2570378963 Length: 156
+# 2570378963 Number of predicted TMHs:  1
+# 2570378963 Exp number of AAs in TMHs: 22.96303
+# 2570378963 Exp number, first 60 AAs:  22.96303
+# 2570378963 Total prob of N-in:        0.97045
+# 2570378963 POSSIBLE N-term signal sequence
+2570378963	TMHMM2.0	inside	     1    12
+2570378963	TMHMM2.0	TMhelix	    13    35
+2570378963	TMHMM2.0	outside	    36   156
+# 2570378964 Length: 74
+# 2570378964 Number of predicted TMHs:  0
+# 2570378964 Exp number of AAs in TMHs: 0.11624
+# 2570378964 Exp number, first 60 AAs:  0.10893
+# 2570378964 Total prob of N-in:        0.24741
+2570378964	TMHMM2.0	outside	     1    74
+# 2570378965 Length: 248
+# 2570378965 Number of predicted TMHs:  6
+# 2570378965 Exp number of AAs in TMHs: 131.92755
+# 2570378965 Exp number, first 60 AAs:  23.50443
+# 2570378965 Total prob of N-in:        0.99950
+# 2570378965 POSSIBLE N-term signal sequence
+2570378965	TMHMM2.0	inside	     1    19
+2570378965	TMHMM2.0	TMhelix	    20    37
+2570378965	TMHMM2.0	outside	    38    56
+2570378965	TMHMM2.0	TMhelix	    57    79
+2570378965	TMHMM2.0	inside	    80    90
+2570378965	TMHMM2.0	TMhelix	    91   113
+2570378965	TMHMM2.0	outside	   114   127
+2570378965	TMHMM2.0	TMhelix	   128   150
+2570378965	TMHMM2.0	inside	   151   156
+2570378965	TMHMM2.0	TMhelix	   157   179
+2570378965	TMHMM2.0	outside	   180   213
+2570378965	TMHMM2.0	TMhelix	   214   236
+2570378965	TMHMM2.0	inside	   237   248
+# 2570378966 Length: 244
+# 2570378966 Number of predicted TMHs:  4
+# 2570378966 Exp number of AAs in TMHs: 93.46508
+# 2570378966 Exp number, first 60 AAs:  22.94596
+# 2570378966 Total prob of N-in:        0.00751
+# 2570378966 POSSIBLE N-term signal sequence
+2570378966	TMHMM2.0	outside	     1    31
+2570378966	TMHMM2.0	TMhelix	    32    54
+2570378966	TMHMM2.0	inside	    55    74
+2570378966	TMHMM2.0	TMhelix	    75    96
+2570378966	TMHMM2.0	outside	    97   105
+2570378966	TMHMM2.0	TMhelix	   106   128
+2570378966	TMHMM2.0	inside	   129   211
+2570378966	TMHMM2.0	TMhelix	   212   234
+2570378966	TMHMM2.0	outside	   235   244
+# 2570378967 Length: 291
+# 2570378967 Number of predicted TMHs:  1
+# 2570378967 Exp number of AAs in TMHs: 21.66755
+# 2570378967 Exp number, first 60 AAs:  21.65081
+# 2570378967 Total prob of N-in:        0.99259
+# 2570378967 POSSIBLE N-term signal sequence
+2570378967	TMHMM2.0	inside	     1     6
+2570378967	TMHMM2.0	TMhelix	     7    28
+2570378967	TMHMM2.0	outside	    29   291
+# 2570378968 Length: 246
+# 2570378968 Number of predicted TMHs:  0
+# 2570378968 Exp number of AAs in TMHs: 0.0051
+# 2570378968 Exp number, first 60 AAs:  0.00067
+# 2570378968 Total prob of N-in:        0.05796
+2570378968	TMHMM2.0	outside	     1   246
+# 2570378969 Length: 275
+# 2570378969 Number of predicted TMHs:  5
+# 2570378969 Exp number of AAs in TMHs: 117.93937
+# 2570378969 Exp number, first 60 AAs:  6.90351
+# 2570378969 Total prob of N-in:        0.36090
+2570378969	TMHMM2.0	outside	     1    64
+2570378969	TMHMM2.0	TMhelix	    65    87
+2570378969	TMHMM2.0	inside	    88   107
+2570378969	TMHMM2.0	TMhelix	   108   130
+2570378969	TMHMM2.0	outside	   131   139
+2570378969	TMHMM2.0	TMhelix	   140   162
+2570378969	TMHMM2.0	inside	   163   208
+2570378969	TMHMM2.0	TMhelix	   209   231
+2570378969	TMHMM2.0	outside	   232   240
+2570378969	TMHMM2.0	TMhelix	   241   263
+2570378969	TMHMM2.0	inside	   264   275
+# 2570378970 Length: 195
+# 2570378970 Number of predicted TMHs:  1
+# 2570378970 Exp number of AAs in TMHs: 22.5283
+# 2570378970 Exp number, first 60 AAs:  22.52149
+# 2570378970 Total prob of N-in:        0.80297
+# 2570378970 POSSIBLE N-term signal sequence
+2570378970	TMHMM2.0	inside	     1    11
+2570378970	TMHMM2.0	TMhelix	    12    34
+2570378970	TMHMM2.0	outside	    35   195
+# 2570378971 Length: 70
+# 2570378971 Number of predicted TMHs:  1
+# 2570378971 Exp number of AAs in TMHs: 20.34685
+# 2570378971 Exp number, first 60 AAs:  20.34685
+# 2570378971 Total prob of N-in:        0.89630
+# 2570378971 POSSIBLE N-term signal sequence
+2570378971	TMHMM2.0	inside	     1    11
+2570378971	TMHMM2.0	TMhelix	    12    31
+2570378971	TMHMM2.0	outside	    32    70
+# 2570378973 Length: 136
+# 2570378973 Number of predicted TMHs:  1
+# 2570378973 Exp number of AAs in TMHs: 22.73726
+# 2570378973 Exp number, first 60 AAs:  0
+# 2570378973 Total prob of N-in:        0.93819
+2570378973	TMHMM2.0	inside	     1   106
+2570378973	TMHMM2.0	TMhelix	   107   129
+2570378973	TMHMM2.0	outside	   130   136
+# 2570378974 Length: 234
+# 2570378974 Number of predicted TMHs:  1
+# 2570378974 Exp number of AAs in TMHs: 22.31012
+# 2570378974 Exp number, first 60 AAs:  22.30304
+# 2570378974 Total prob of N-in:        0.83874
+# 2570378974 POSSIBLE N-term signal sequence
+2570378974	TMHMM2.0	inside	     1    30
+2570378974	TMHMM2.0	TMhelix	    31    53
+2570378974	TMHMM2.0	outside	    54   234
+# 2570378975 Length: 46
+# 2570378975 Number of predicted TMHs:  0
+# 2570378975 Exp number of AAs in TMHs: 0.0005
+# 2570378975 Exp number, first 60 AAs:  0.0005
+# 2570378975 Total prob of N-in:        0.36602
+2570378975	TMHMM2.0	outside	     1    46
+# 2570378976 Length: 103
+# 2570378976 Number of predicted TMHs:  0
+# 2570378976 Exp number of AAs in TMHs: 0.50317
+# 2570378976 Exp number, first 60 AAs:  0.0737
+# 2570378976 Total prob of N-in:        0.47635
+2570378976	TMHMM2.0	outside	     1   103
+# 2570378977 Length: 219
+# 2570378977 Number of predicted TMHs:  1
+# 2570378977 Exp number of AAs in TMHs: 21.75775
+# 2570378977 Exp number, first 60 AAs:  21.7432
+# 2570378977 Total prob of N-in:        0.52488
+# 2570378977 POSSIBLE N-term signal sequence
+2570378977	TMHMM2.0	outside	     1    19
+2570378977	TMHMM2.0	TMhelix	    20    42
+2570378977	TMHMM2.0	inside	    43   219
+# 2570378978 Length: 169
+# 2570378978 Number of predicted TMHs:  0
+# 2570378978 Exp number of AAs in TMHs: 1.07486
+# 2570378978 Exp number, first 60 AAs:  0.00285
+# 2570378978 Total prob of N-in:        0.40429
+2570378978	TMHMM2.0	outside	     1   169
+# 2570378979 Length: 835
+# 2570378979 Number of predicted TMHs:  0
+# 2570378979 Exp number of AAs in TMHs: 0.12581
+# 2570378979 Exp number, first 60 AAs:  0
+# 2570378979 Total prob of N-in:        0.00587
+2570378979	TMHMM2.0	outside	     1   835
+# 2570378980 Length: 370
+# 2570378980 Number of predicted TMHs:  0
+# 2570378980 Exp number of AAs in TMHs: 0.00666
+# 2570378980 Exp number, first 60 AAs:  0
+# 2570378980 Total prob of N-in:        0.01370
+2570378980	TMHMM2.0	outside	     1   370
+# 2570378981 Length: 87
+# 2570378981 Number of predicted TMHs:  0
+# 2570378981 Exp number of AAs in TMHs: 0.00036
+# 2570378981 Exp number, first 60 AAs:  0.00036
+# 2570378981 Total prob of N-in:        0.51346
+2570378981	TMHMM2.0	inside	     1    87
+# 2570378982 Length: 242
+# 2570378982 Number of predicted TMHs:  0
+# 2570378982 Exp number of AAs in TMHs: 0.09659
+# 2570378982 Exp number, first 60 AAs:  0.04154
+# 2570378982 Total prob of N-in:        0.01742
+2570378982	TMHMM2.0	outside	     1   242
+# 2570378983 Length: 118
+# 2570378983 Number of predicted TMHs:  0
+# 2570378983 Exp number of AAs in TMHs: 0.0204
+# 2570378983 Exp number, first 60 AAs:  0.00021
+# 2570378983 Total prob of N-in:        0.25459
+2570378983	TMHMM2.0	outside	     1   118
+# 2570378984 Length: 413
+# 2570378984 Number of predicted TMHs:  0
+# 2570378984 Exp number of AAs in TMHs: 0.21864
+# 2570378984 Exp number, first 60 AAs:  0.10251
+# 2570378984 Total prob of N-in:        0.01497
+2570378984	TMHMM2.0	outside	     1   413
+# 2570378985 Length: 401
+# 2570378985 Number of predicted TMHs:  0
+# 2570378985 Exp number of AAs in TMHs: 0.00823999999999999
+# 2570378985 Exp number, first 60 AAs:  0.00017
+# 2570378985 Total prob of N-in:        0.00640
+2570378985	TMHMM2.0	outside	     1   401
+# 2570378986 Length: 147
+# 2570378986 Number of predicted TMHs:  0
+# 2570378986 Exp number of AAs in TMHs: 0.07946
+# 2570378986 Exp number, first 60 AAs:  0.0016
+# 2570378986 Total prob of N-in:        0.26474
+2570378986	TMHMM2.0	outside	     1   147
+# 2570378987 Length: 335
+# 2570378987 Number of predicted TMHs:  0
+# 2570378987 Exp number of AAs in TMHs: 0.11522
+# 2570378987 Exp number, first 60 AAs:  0.06881
+# 2570378987 Total prob of N-in:        0.01433
+2570378987	TMHMM2.0	outside	     1   335
+# 2570378988 Length: 1568
+# 2570378988 Number of predicted TMHs:  0
+# 2570378988 Exp number of AAs in TMHs: 0.33364
+# 2570378988 Exp number, first 60 AAs:  0.03781
+# 2570378988 Total prob of N-in:        0.00198
+2570378988	TMHMM2.0	outside	     1  1568
+# 2570378990 Length: 608
+# 2570378990 Number of predicted TMHs:  6
+# 2570378990 Exp number of AAs in TMHs: 127.19806
+# 2570378990 Exp number, first 60 AAs:  21.92003
+# 2570378990 Total prob of N-in:        0.97593
+# 2570378990 POSSIBLE N-term signal sequence
+2570378990	TMHMM2.0	inside	     1    28
+2570378990	TMHMM2.0	TMhelix	    29    51
+2570378990	TMHMM2.0	outside	    52   399
+2570378990	TMHMM2.0	TMhelix	   400   422
+2570378990	TMHMM2.0	inside	   423   442
+2570378990	TMHMM2.0	TMhelix	   443   465
+2570378990	TMHMM2.0	outside	   466   479
+2570378990	TMHMM2.0	TMhelix	   480   502
+2570378990	TMHMM2.0	inside	   503   522
+2570378990	TMHMM2.0	TMhelix	   523   545
+2570378990	TMHMM2.0	outside	   546   575
+2570378990	TMHMM2.0	TMhelix	   576   598
+2570378990	TMHMM2.0	inside	   599   608
+# 2570378991 Length: 632
+# 2570378991 Number of predicted TMHs:  6
+# 2570378991 Exp number of AAs in TMHs: 126.33539
+# 2570378991 Exp number, first 60 AAs:  22.01778
+# 2570378991 Total prob of N-in:        0.98649
+# 2570378991 POSSIBLE N-term signal sequence
+2570378991	TMHMM2.0	inside	     1    25
+2570378991	TMHMM2.0	TMhelix	    26    48
+2570378991	TMHMM2.0	outside	    49   422
+2570378991	TMHMM2.0	TMhelix	   423   445
+2570378991	TMHMM2.0	inside	   446   464
+2570378991	TMHMM2.0	TMhelix	   465   487
+2570378991	TMHMM2.0	outside	   488   501
+2570378991	TMHMM2.0	TMhelix	   502   524
+2570378991	TMHMM2.0	inside	   525   544
+2570378991	TMHMM2.0	TMhelix	   545   567
+2570378991	TMHMM2.0	outside	   568   597
+2570378991	TMHMM2.0	TMhelix	   598   620
+2570378991	TMHMM2.0	inside	   621   632
+# 2570378992 Length: 557
+# 2570378992 Number of predicted TMHs:  0
+# 2570378992 Exp number of AAs in TMHs: 0.07357
+# 2570378992 Exp number, first 60 AAs:  1e-05
+# 2570378992 Total prob of N-in:        0.00637
+2570378992	TMHMM2.0	outside	     1   557
+# 2570378993 Length: 292
+# 2570378993 Number of predicted TMHs:  0
+# 2570378993 Exp number of AAs in TMHs: 2.43195
+# 2570378993 Exp number, first 60 AAs:  2.32588
+# 2570378993 Total prob of N-in:        0.00675
+2570378993	TMHMM2.0	outside	     1   292
+# 2570378994 Length: 449
+# 2570378994 Number of predicted TMHs:  0
+# 2570378994 Exp number of AAs in TMHs: 0.0884
+# 2570378994 Exp number, first 60 AAs:  0.05253
+# 2570378994 Total prob of N-in:        0.02752
+2570378994	TMHMM2.0	outside	     1   449
+# 2570378995 Length: 81
+# 2570378995 Number of predicted TMHs:  1
+# 2570378995 Exp number of AAs in TMHs: 23.04652
+# 2570378995 Exp number, first 60 AAs:  5.35853
+# 2570378995 Total prob of N-in:        0.83643
+2570378995	TMHMM2.0	inside	     1    55
+2570378995	TMHMM2.0	TMhelix	    56    78
+2570378995	TMHMM2.0	outside	    79    81
+# 2570378996 Length: 234
+# 2570378996 Number of predicted TMHs:  5
+# 2570378996 Exp number of AAs in TMHs: 119.71991
+# 2570378996 Exp number, first 60 AAs:  26.98988
+# 2570378996 Total prob of N-in:        0.09228
+# 2570378996 POSSIBLE N-term signal sequence
+2570378996	TMHMM2.0	outside	     1     3
+2570378996	TMHMM2.0	TMhelix	     4    26
+2570378996	TMHMM2.0	inside	    27    54
+2570378996	TMHMM2.0	TMhelix	    55    77
+2570378996	TMHMM2.0	outside	    78   123
+2570378996	TMHMM2.0	TMhelix	   124   146
+2570378996	TMHMM2.0	inside	   147   152
+2570378996	TMHMM2.0	TMhelix	   153   175
+2570378996	TMHMM2.0	outside	   176   194
+2570378996	TMHMM2.0	TMhelix	   195   217
+2570378996	TMHMM2.0	inside	   218   234
+# 2570378997 Length: 671
+# 2570378997 Number of predicted TMHs:  0
+# 2570378997 Exp number of AAs in TMHs: 0.30001
+# 2570378997 Exp number, first 60 AAs:  0
+# 2570378997 Total prob of N-in:        0.00146
+2570378997	TMHMM2.0	outside	     1   671
+# 2570378998 Length: 344
+# 2570378998 Number of predicted TMHs:  0
+# 2570378998 Exp number of AAs in TMHs: 0.17036
+# 2570378998 Exp number, first 60 AAs:  0.04124
+# 2570378998 Total prob of N-in:        0.03137
+2570378998	TMHMM2.0	outside	     1   344
+# 2570378999 Length: 126
+# 2570378999 Number of predicted TMHs:  0
+# 2570378999 Exp number of AAs in TMHs: 1.82971
+# 2570378999 Exp number, first 60 AAs:  0.00033
+# 2570378999 Total prob of N-in:        0.16809
+2570378999	TMHMM2.0	outside	     1   126
+# 2570379000 Length: 447
+# 2570379000 Number of predicted TMHs:  0
+# 2570379000 Exp number of AAs in TMHs: 3.12013000000001
+# 2570379000 Exp number, first 60 AAs:  2.98778
+# 2570379000 Total prob of N-in:        0.14693
+2570379000	TMHMM2.0	outside	     1   447
+# 2570379001 Length: 202
+# 2570379001 Number of predicted TMHs:  0
+# 2570379001 Exp number of AAs in TMHs: 0.15047
+# 2570379001 Exp number, first 60 AAs:  0
+# 2570379001 Total prob of N-in:        0.01616
+2570379001	TMHMM2.0	outside	     1   202
+# 2570379002 Length: 140
+# 2570379002 Number of predicted TMHs:  0
+# 2570379002 Exp number of AAs in TMHs: 0.07433
+# 2570379002 Exp number, first 60 AAs:  0.00865
+# 2570379002 Total prob of N-in:        0.39996
+2570379002	TMHMM2.0	outside	     1   140
+# 2570379003 Length: 306
+# 2570379003 Number of predicted TMHs:  1
+# 2570379003 Exp number of AAs in TMHs: 21.55824
+# 2570379003 Exp number, first 60 AAs:  21.48848
+# 2570379003 Total prob of N-in:        0.98947
+# 2570379003 POSSIBLE N-term signal sequence
+2570379003	TMHMM2.0	inside	     1    11
+2570379003	TMHMM2.0	TMhelix	    12    34
+2570379003	TMHMM2.0	outside	    35   306
+# 2570379004 Length: 605
+# 2570379004 Number of predicted TMHs:  0
+# 2570379004 Exp number of AAs in TMHs: 0.04559
+# 2570379004 Exp number, first 60 AAs:  0.00421
+# 2570379004 Total prob of N-in:        0.00375
+2570379004	TMHMM2.0	outside	     1   605
+# 2570379005 Length: 459
+# 2570379005 Number of predicted TMHs:  0
+# 2570379005 Exp number of AAs in TMHs: 0.01286
+# 2570379005 Exp number, first 60 AAs:  0.00154
+# 2570379005 Total prob of N-in:        0.00887
+2570379005	TMHMM2.0	outside	     1   459
+# 2570379006 Length: 459
+# 2570379006 Number of predicted TMHs:  0
+# 2570379006 Exp number of AAs in TMHs: 0.05915
+# 2570379006 Exp number, first 60 AAs:  2e-05
+# 2570379006 Total prob of N-in:        0.01220
+2570379006	TMHMM2.0	outside	     1   459
+# 2570379007 Length: 791
+# 2570379007 Number of predicted TMHs:  0
+# 2570379007 Exp number of AAs in TMHs: 0.03326
+# 2570379007 Exp number, first 60 AAs:  0.00063
+# 2570379007 Total prob of N-in:        0.00154
+2570379007	TMHMM2.0	outside	     1   791
+# 2570379008 Length: 431
+# 2570379008 Number of predicted TMHs:  0
+# 2570379008 Exp number of AAs in TMHs: 0.00033
+# 2570379008 Exp number, first 60 AAs:  0
+# 2570379008 Total prob of N-in:        0.03332
+2570379008	TMHMM2.0	outside	     1   431
+# 2570379009 Length: 970
+# 2570379009 Number of predicted TMHs:  0
+# 2570379009 Exp number of AAs in TMHs: 0.0864199999999999
+# 2570379009 Exp number, first 60 AAs:  0.07428
+# 2570379009 Total prob of N-in:        0.00420
+2570379009	TMHMM2.0	outside	     1   970
+# 2570379010 Length: 201
+# 2570379010 Number of predicted TMHs:  0
+# 2570379010 Exp number of AAs in TMHs: 0.08515
+# 2570379010 Exp number, first 60 AAs:  0.02882
+# 2570379010 Total prob of N-in:        0.12918
+2570379010	TMHMM2.0	outside	     1   201
+# 2570379011 Length: 589
+# 2570379011 Number of predicted TMHs:  0
+# 2570379011 Exp number of AAs in TMHs: 0.05952
+# 2570379011 Exp number, first 60 AAs:  0.00101
+# 2570379011 Total prob of N-in:        0.00169
+2570379011	TMHMM2.0	outside	     1   589
+# 2570379012 Length: 671
+# 2570379012 Number of predicted TMHs:  0
+# 2570379012 Exp number of AAs in TMHs: 0.02861
+# 2570379012 Exp number, first 60 AAs:  0.02174
+# 2570379012 Total prob of N-in:        0.00133
+2570379012	TMHMM2.0	outside	     1   671
+# 2570379013 Length: 338
+# 2570379013 Number of predicted TMHs:  0
+# 2570379013 Exp number of AAs in TMHs: 0.03742
+# 2570379013 Exp number, first 60 AAs:  0.007
+# 2570379013 Total prob of N-in:        0.03456
+2570379013	TMHMM2.0	outside	     1   338
+# 2570379014 Length: 247
+# 2570379014 Number of predicted TMHs:  6
+# 2570379014 Exp number of AAs in TMHs: 127.63848
+# 2570379014 Exp number, first 60 AAs:  21.40894
+# 2570379014 Total prob of N-in:        0.97922
+# 2570379014 POSSIBLE N-term signal sequence
+2570379014	TMHMM2.0	inside	     1    31
+2570379014	TMHMM2.0	TMhelix	    32    51
+2570379014	TMHMM2.0	outside	    52    60
+2570379014	TMHMM2.0	TMhelix	    61    80
+2570379014	TMHMM2.0	inside	    81    86
+2570379014	TMHMM2.0	TMhelix	    87   109
+2570379014	TMHMM2.0	outside	   110   128
+2570379014	TMHMM2.0	TMhelix	   129   148
+2570379014	TMHMM2.0	inside	   149   160
+2570379014	TMHMM2.0	TMhelix	   161   183
+2570379014	TMHMM2.0	outside	   184   208
+2570379014	TMHMM2.0	TMhelix	   209   231
+2570379014	TMHMM2.0	inside	   232   247
+# 2570379015 Length: 417
+# 2570379015 Number of predicted TMHs:  2
+# 2570379015 Exp number of AAs in TMHs: 44.62041
+# 2570379015 Exp number, first 60 AAs:  22.80389
+# 2570379015 Total prob of N-in:        0.50709
+# 2570379015 POSSIBLE N-term signal sequence
+2570379015	TMHMM2.0	inside	     1    11
+2570379015	TMHMM2.0	TMhelix	    12    34
+2570379015	TMHMM2.0	outside	    35   132
+2570379015	TMHMM2.0	TMhelix	   133   150
+2570379015	TMHMM2.0	inside	   151   417
+# 2570379016 Length: 439
+# 2570379016 Number of predicted TMHs:  7
+# 2570379016 Exp number of AAs in TMHs: 142.29279
+# 2570379016 Exp number, first 60 AAs:  23.95838
+# 2570379016 Total prob of N-in:        0.99973
+# 2570379016 POSSIBLE N-term signal sequence
+2570379016	TMHMM2.0	inside	     1    19
+2570379016	TMHMM2.0	TMhelix	    20    37
+2570379016	TMHMM2.0	outside	    38    56
+2570379016	TMHMM2.0	TMhelix	    57    74
+2570379016	TMHMM2.0	inside	    75    80
+2570379016	TMHMM2.0	TMhelix	    81   100
+2570379016	TMHMM2.0	outside	   101   119
+2570379016	TMHMM2.0	TMhelix	   120   139
+2570379016	TMHMM2.0	inside	   140   150
+2570379016	TMHMM2.0	TMhelix	   151   173
+2570379016	TMHMM2.0	outside	   174   187
+2570379016	TMHMM2.0	TMhelix	   188   210
+2570379016	TMHMM2.0	inside	   211   216
+2570379016	TMHMM2.0	TMhelix	   217   234
+2570379016	TMHMM2.0	outside	   235   439
+# 2570379017 Length: 864
+# 2570379017 Number of predicted TMHs:  0
+# 2570379017 Exp number of AAs in TMHs: 0.0187099999999999
+# 2570379017 Exp number, first 60 AAs:  0.000650000000000001
+# 2570379017 Total prob of N-in:        0.00085
+2570379017	TMHMM2.0	outside	     1   864
+# 2570379018 Length: 154
+# 2570379018 Number of predicted TMHs:  0
+# 2570379018 Exp number of AAs in TMHs: 0.10395
+# 2570379018 Exp number, first 60 AAs:  0.04024
+# 2570379018 Total prob of N-in:        0.20100
+2570379018	TMHMM2.0	outside	     1   154
+# 2570379019 Length: 194
+# 2570379019 Number of predicted TMHs:  0
+# 2570379019 Exp number of AAs in TMHs: 0.15731
+# 2570379019 Exp number, first 60 AAs:  0.11179
+# 2570379019 Total prob of N-in:        0.08494
+2570379019	TMHMM2.0	outside	     1   194
+# 2570379020 Length: 156
+# 2570379020 Number of predicted TMHs:  0
+# 2570379020 Exp number of AAs in TMHs: 0.00021
+# 2570379020 Exp number, first 60 AAs:  0
+# 2570379020 Total prob of N-in:        0.34282
+2570379020	TMHMM2.0	outside	     1   156
+# 2570379021 Length: 189
+# 2570379021 Number of predicted TMHs:  0
+# 2570379021 Exp number of AAs in TMHs: 0.708949999999998
+# 2570379021 Exp number, first 60 AAs:  0.54436
+# 2570379021 Total prob of N-in:        0.36583
+2570379021	TMHMM2.0	outside	     1   189
+# 2570379022 Length: 77
+# 2570379022 Number of predicted TMHs:  0
+# 2570379022 Exp number of AAs in TMHs: 0.00105
+# 2570379022 Exp number, first 60 AAs:  0.00105
+# 2570379022 Total prob of N-in:        0.28894
+2570379022	TMHMM2.0	outside	     1    77
+# 2570379023 Length: 186
+# 2570379023 Number of predicted TMHs:  0
+# 2570379023 Exp number of AAs in TMHs: 0.0115
+# 2570379023 Exp number, first 60 AAs:  0.00523
+# 2570379023 Total prob of N-in:        0.21376
+2570379023	TMHMM2.0	outside	     1   186
+# 2570379024 Length: 71
+# 2570379024 Number of predicted TMHs:  1
+# 2570379024 Exp number of AAs in TMHs: 22.79303
+# 2570379024 Exp number, first 60 AAs:  22.79303
+# 2570379024 Total prob of N-in:        0.12288
+# 2570379024 POSSIBLE N-term signal sequence
+2570379024	TMHMM2.0	outside	     1     3
+2570379024	TMHMM2.0	TMhelix	     4    26
+2570379024	TMHMM2.0	inside	    27    71
+# 2570379025 Length: 115
+# 2570379025 Number of predicted TMHs:  1
+# 2570379025 Exp number of AAs in TMHs: 22.14325
+# 2570379025 Exp number, first 60 AAs:  22.13541
+# 2570379025 Total prob of N-in:        0.06159
+# 2570379025 POSSIBLE N-term signal sequence
+2570379025	TMHMM2.0	outside	     1     4
+2570379025	TMHMM2.0	TMhelix	     5    27
+2570379025	TMHMM2.0	inside	    28   115
+# 2570379026 Length: 142
+# 2570379026 Number of predicted TMHs:  0
+# 2570379026 Exp number of AAs in TMHs: 0.01193
+# 2570379026 Exp number, first 60 AAs:  0.01081
+# 2570379026 Total prob of N-in:        0.16714
+2570379026	TMHMM2.0	outside	     1   142
+# 2570379027 Length: 269
+# 2570379027 Number of predicted TMHs:  2
+# 2570379027 Exp number of AAs in TMHs: 55.3402500000001
+# 2570379027 Exp number, first 60 AAs:  42.41139
+# 2570379027 Total prob of N-in:        0.68130
+# 2570379027 POSSIBLE N-term signal sequence
+2570379027	TMHMM2.0	inside	     1     1
+2570379027	TMHMM2.0	TMhelix	     2    19
+2570379027	TMHMM2.0	outside	    20    33
+2570379027	TMHMM2.0	TMhelix	    34    56
+2570379027	TMHMM2.0	inside	    57   269
+# 2570379028 Length: 163
+# 2570379028 Number of predicted TMHs:  0
+# 2570379028 Exp number of AAs in TMHs: 0.02895
+# 2570379028 Exp number, first 60 AAs:  8e-05
+# 2570379028 Total prob of N-in:        0.07047
+2570379028	TMHMM2.0	outside	     1   163
+# 2570379029 Length: 288
+# 2570379029 Number of predicted TMHs:  0
+# 2570379029 Exp number of AAs in TMHs: 7.52177
+# 2570379029 Exp number, first 60 AAs:  0.04282
+# 2570379029 Total prob of N-in:        0.28334
+2570379029	TMHMM2.0	outside	     1   288
+# 2570379030 Length: 458
+# 2570379030 Number of predicted TMHs:  0
+# 2570379030 Exp number of AAs in TMHs: 0.11557
+# 2570379030 Exp number, first 60 AAs:  0
+# 2570379030 Total prob of N-in:        0.00460
+2570379030	TMHMM2.0	outside	     1   458
+# 2570379031 Length: 342
+# 2570379031 Number of predicted TMHs:  2
+# 2570379031 Exp number of AAs in TMHs: 42.66782
+# 2570379031 Exp number, first 60 AAs:  19.70407
+# 2570379031 Total prob of N-in:        0.53696
+# 2570379031 POSSIBLE N-term signal sequence
+2570379031	TMHMM2.0	inside	     1    12
+2570379031	TMHMM2.0	TMhelix	    13    32
+2570379031	TMHMM2.0	outside	    33   312
+2570379031	TMHMM2.0	TMhelix	   313   335
+2570379031	TMHMM2.0	inside	   336   342
+# 2570379032 Length: 403
+# 2570379032 Number of predicted TMHs:  1
+# 2570379032 Exp number of AAs in TMHs: 20.24484
+# 2570379032 Exp number, first 60 AAs:  20.20483
+# 2570379032 Total prob of N-in:        0.92791
+# 2570379032 POSSIBLE N-term signal sequence
+2570379032	TMHMM2.0	inside	     1     8
+2570379032	TMHMM2.0	TMhelix	     9    28
+2570379032	TMHMM2.0	outside	    29   403
+# 2570379033 Length: 450
+# 2570379033 Number of predicted TMHs:  0
+# 2570379033 Exp number of AAs in TMHs: 0.011
+# 2570379033 Exp number, first 60 AAs:  0.00977
+# 2570379033 Total prob of N-in:        0.01940
+2570379033	TMHMM2.0	outside	     1   450
+# 2570379034 Length: 455
+# 2570379034 Number of predicted TMHs:  12
+# 2570379034 Exp number of AAs in TMHs: 257.39877
+# 2570379034 Exp number, first 60 AAs:  42.3126
+# 2570379034 Total prob of N-in:        0.99903
+# 2570379034 POSSIBLE N-term signal sequence
+2570379034	TMHMM2.0	inside	     1     6
+2570379034	TMHMM2.0	TMhelix	     7    29
+2570379034	TMHMM2.0	outside	    30    38
+2570379034	TMHMM2.0	TMhelix	    39    61
+2570379034	TMHMM2.0	inside	    62    67
+2570379034	TMHMM2.0	TMhelix	    68    90
+2570379034	TMHMM2.0	outside	    91   109
+2570379034	TMHMM2.0	TMhelix	   110   132
+2570379034	TMHMM2.0	inside	   133   143
+2570379034	TMHMM2.0	TMhelix	   144   166
+2570379034	TMHMM2.0	outside	   167   180
+2570379034	TMHMM2.0	TMhelix	   181   203
+2570379034	TMHMM2.0	inside	   204   223
+2570379034	TMHMM2.0	TMhelix	   224   246
+2570379034	TMHMM2.0	outside	   247   279
+2570379034	TMHMM2.0	TMhelix	   280   297
+2570379034	TMHMM2.0	inside	   298   301
+2570379034	TMHMM2.0	TMhelix	   302   321
+2570379034	TMHMM2.0	outside	   322   365
+2570379034	TMHMM2.0	TMhelix	   366   388
+2570379034	TMHMM2.0	inside	   389   394
+2570379034	TMHMM2.0	TMhelix	   395   417
+2570379034	TMHMM2.0	outside	   418   426
+2570379034	TMHMM2.0	TMhelix	   427   449
+2570379034	TMHMM2.0	inside	   450   455
+# 2570379035 Length: 512
+# 2570379035 Number of predicted TMHs:  0
+# 2570379035 Exp number of AAs in TMHs: 0.00686999999999996
+# 2570379035 Exp number, first 60 AAs:  0.00033
+# 2570379035 Total prob of N-in:        0.00233
+2570379035	TMHMM2.0	outside	     1   512
+# 2570379036 Length: 430
+# 2570379036 Number of predicted TMHs:  0
+# 2570379036 Exp number of AAs in TMHs: 0.0957400000000002
+# 2570379036 Exp number, first 60 AAs:  0
+# 2570379036 Total prob of N-in:        0.01206
+2570379036	TMHMM2.0	outside	     1   430
+# 2570379037 Length: 426
+# 2570379037 Number of predicted TMHs:  0
+# 2570379037 Exp number of AAs in TMHs: 5.19466
+# 2570379037 Exp number, first 60 AAs:  0
+# 2570379037 Total prob of N-in:        0.08823
+2570379037	TMHMM2.0	outside	     1   426
+# 2570379038 Length: 502
+# 2570379038 Number of predicted TMHs:  12
+# 2570379038 Exp number of AAs in TMHs: 252.82197
+# 2570379038 Exp number, first 60 AAs:  21.02864
+# 2570379038 Total prob of N-in:        0.99937
+# 2570379038 POSSIBLE N-term signal sequence
+2570379038	TMHMM2.0	inside	     1    25
+2570379038	TMHMM2.0	TMhelix	    26    48
+2570379038	TMHMM2.0	outside	    49    77
+2570379038	TMHMM2.0	TMhelix	    78    95
+2570379038	TMHMM2.0	inside	    96   110
+2570379038	TMHMM2.0	TMhelix	   111   133
+2570379038	TMHMM2.0	outside	   134   152
+2570379038	TMHMM2.0	TMhelix	   153   175
+2570379038	TMHMM2.0	inside	   176   183
+2570379038	TMHMM2.0	TMhelix	   184   206
+2570379038	TMHMM2.0	outside	   207   215
+2570379038	TMHMM2.0	TMhelix	   216   238
+2570379038	TMHMM2.0	inside	   239   258
+2570379038	TMHMM2.0	TMhelix	   259   281
+2570379038	TMHMM2.0	outside	   282   295
+2570379038	TMHMM2.0	TMhelix	   296   313
+2570379038	TMHMM2.0	inside	   314   338
+2570379038	TMHMM2.0	TMhelix	   339   361
+2570379038	TMHMM2.0	outside	   362   391
+2570379038	TMHMM2.0	TMhelix	   392   409
+2570379038	TMHMM2.0	inside	   410   415
+2570379038	TMHMM2.0	TMhelix	   416   435
+2570379038	TMHMM2.0	outside	   436   454
+2570379038	TMHMM2.0	TMhelix	   455   477
+2570379038	TMHMM2.0	inside	   478   502
+# 2570379039 Length: 330
+# 2570379039 Number of predicted TMHs:  0
+# 2570379039 Exp number of AAs in TMHs: 2.62529
+# 2570379039 Exp number, first 60 AAs:  0.16202
+# 2570379039 Total prob of N-in:        0.38572
+2570379039	TMHMM2.0	outside	     1   330
+# 2570379040 Length: 259
+# 2570379040 Number of predicted TMHs:  1
+# 2570379040 Exp number of AAs in TMHs: 19.12727
+# 2570379040 Exp number, first 60 AAs:  17.58972
+# 2570379040 Total prob of N-in:        0.72192
+# 2570379040 POSSIBLE N-term signal sequence
+2570379040	TMHMM2.0	inside	     1    15
+2570379040	TMHMM2.0	TMhelix	    16    30
+2570379040	TMHMM2.0	outside	    31   259
+# 2570379041 Length: 93
+# 2570379041 Number of predicted TMHs:  0
+# 2570379041 Exp number of AAs in TMHs: 0.00038
+# 2570379041 Exp number, first 60 AAs:  0.00011
+# 2570379041 Total prob of N-in:        0.92933
+2570379041	TMHMM2.0	inside	     1    93
+# 2570379042 Length: 508
+# 2570379042 Number of predicted TMHs:  12
+# 2570379042 Exp number of AAs in TMHs: 258.09361
+# 2570379042 Exp number, first 60 AAs:  29.44945
+# 2570379042 Total prob of N-in:        0.94607
+# 2570379042 POSSIBLE N-term signal sequence
+2570379042	TMHMM2.0	inside	     1    11
+2570379042	TMHMM2.0	TMhelix	    12    34
+2570379042	TMHMM2.0	outside	    35    53
+2570379042	TMHMM2.0	TMhelix	    54    71
+2570379042	TMHMM2.0	inside	    72    91
+2570379042	TMHMM2.0	TMhelix	    92   114
+2570379042	TMHMM2.0	outside	   115   141
+2570379042	TMHMM2.0	TMhelix	   142   161
+2570379042	TMHMM2.0	inside	   162   173
+2570379042	TMHMM2.0	TMhelix	   174   196
+2570379042	TMHMM2.0	outside	   197   205
+2570379042	TMHMM2.0	TMhelix	   206   228
+2570379042	TMHMM2.0	inside	   229   258
+2570379042	TMHMM2.0	TMhelix	   259   281
+2570379042	TMHMM2.0	outside	   282   300
+2570379042	TMHMM2.0	TMhelix	   301   323
+2570379042	TMHMM2.0	inside	   324   343
+2570379042	TMHMM2.0	TMhelix	   344   366
+2570379042	TMHMM2.0	outside	   367   408
+2570379042	TMHMM2.0	TMhelix	   409   431
+2570379042	TMHMM2.0	inside	   432   442
+2570379042	TMHMM2.0	TMhelix	   443   465
+2570379042	TMHMM2.0	outside	   466   479
+2570379042	TMHMM2.0	TMhelix	   480   502
+2570379042	TMHMM2.0	inside	   503   508
+# 2570379043 Length: 647
+# 2570379043 Number of predicted TMHs:  0
+# 2570379043 Exp number of AAs in TMHs: 0.00237
+# 2570379043 Exp number, first 60 AAs:  0.00018
+# 2570379043 Total prob of N-in:        0.00086
+2570379043	TMHMM2.0	outside	     1   647
+# 2570379044 Length: 295
+# 2570379044 Number of predicted TMHs:  0
+# 2570379044 Exp number of AAs in TMHs: 2.43333000000001
+# 2570379044 Exp number, first 60 AAs:  2.42882
+# 2570379044 Total prob of N-in:        0.13470
+2570379044	TMHMM2.0	outside	     1   295
+# 2570379045 Length: 254
+# 2570379045 Number of predicted TMHs:  1
+# 2570379045 Exp number of AAs in TMHs: 23.59118
+# 2570379045 Exp number, first 60 AAs:  22.74384
+# 2570379045 Total prob of N-in:        0.12524
+# 2570379045 POSSIBLE N-term signal sequence
+2570379045	TMHMM2.0	outside	     1    19
+2570379045	TMHMM2.0	TMhelix	    20    42
+2570379045	TMHMM2.0	inside	    43   254
+# 2570379046 Length: 189
+# 2570379046 Number of predicted TMHs:  0
+# 2570379046 Exp number of AAs in TMHs: 0.11131
+# 2570379046 Exp number, first 60 AAs:  0.0491
+# 2570379046 Total prob of N-in:        0.23520
+2570379046	TMHMM2.0	outside	     1   189
+# 2570379047 Length: 291
+# 2570379047 Number of predicted TMHs:  0
+# 2570379047 Exp number of AAs in TMHs: 0.25149
+# 2570379047 Exp number, first 60 AAs:  0.00185
+# 2570379047 Total prob of N-in:        0.05248
+2570379047	TMHMM2.0	outside	     1   291
+# 2570379048 Length: 253
+# 2570379048 Number of predicted TMHs:  0
+# 2570379048 Exp number of AAs in TMHs: 0.00142
+# 2570379048 Exp number, first 60 AAs:  0.00142
+# 2570379048 Total prob of N-in:        0.03218
+2570379048	TMHMM2.0	outside	     1   253
+# 2570379049 Length: 528
+# 2570379049 Number of predicted TMHs:  1
+# 2570379049 Exp number of AAs in TMHs: 22.74801
+# 2570379049 Exp number, first 60 AAs:  22.74702
+# 2570379049 Total prob of N-in:        0.99682
+# 2570379049 POSSIBLE N-term signal sequence
+2570379049	TMHMM2.0	inside	     1    12
+2570379049	TMHMM2.0	TMhelix	    13    35
+2570379049	TMHMM2.0	outside	    36   528
+# 2570379050 Length: 98
+# 2570379050 Number of predicted TMHs:  0
+# 2570379050 Exp number of AAs in TMHs: 0.0004
+# 2570379050 Exp number, first 60 AAs:  0.0004
+# 2570379050 Total prob of N-in:        0.02430
+2570379050	TMHMM2.0	outside	     1    98
+# 2570379051 Length: 361
+# 2570379051 Number of predicted TMHs:  1
+# 2570379051 Exp number of AAs in TMHs: 24.40153
+# 2570379051 Exp number, first 60 AAs:  23.54485
+# 2570379051 Total prob of N-in:        0.90676
+# 2570379051 POSSIBLE N-term signal sequence
+2570379051	TMHMM2.0	inside	     1     6
+2570379051	TMHMM2.0	TMhelix	     7    29
+2570379051	TMHMM2.0	outside	    30   361
+# 2570379054 Length: 228
+# 2570379054 Number of predicted TMHs:  2
+# 2570379054 Exp number of AAs in TMHs: 40.97376
+# 2570379054 Exp number, first 60 AAs:  0.00033
+# 2570379054 Total prob of N-in:        0.98124
+2570379054	TMHMM2.0	inside	     1   108
+2570379054	TMHMM2.0	TMhelix	   109   131
+2570379054	TMHMM2.0	outside	   132   135
+2570379054	TMHMM2.0	TMhelix	   136   158
+2570379054	TMHMM2.0	inside	   159   228
+# 2570379055 Length: 621
+# 2570379055 Number of predicted TMHs:  0
+# 2570379055 Exp number of AAs in TMHs: 0.213260000000001
+# 2570379055 Exp number, first 60 AAs:  0.17738
+# 2570379055 Total prob of N-in:        0.01055
+2570379055	TMHMM2.0	outside	     1   621
+# 2570379056 Length: 193
+# 2570379056 Number of predicted TMHs:  0
+# 2570379056 Exp number of AAs in TMHs: 0.09378
+# 2570379056 Exp number, first 60 AAs:  0.03135
+# 2570379056 Total prob of N-in:        0.34811
+2570379056	TMHMM2.0	outside	     1   193
+# 2570379057 Length: 77
+# 2570379057 Number of predicted TMHs:  0
+# 2570379057 Exp number of AAs in TMHs: 0.00102
+# 2570379057 Exp number, first 60 AAs:  0.00102
+# 2570379057 Total prob of N-in:        0.69836
+2570379057	TMHMM2.0	inside	     1    77
+# 2570379058 Length: 50
+# 2570379058 Number of predicted TMHs:  0
+# 2570379058 Exp number of AAs in TMHs: 0
+# 2570379058 Exp number, first 60 AAs:  0
+# 2570379058 Total prob of N-in:        0.80095
+2570379058	TMHMM2.0	inside	     1    50
+# 2570379059 Length: 115
+# 2570379059 Number of predicted TMHs:  0
+# 2570379059 Exp number of AAs in TMHs: 0.59309
+# 2570379059 Exp number, first 60 AAs:  0.59309
+# 2570379059 Total prob of N-in:        0.04187
+2570379059	TMHMM2.0	outside	     1   115
+# 2570379060 Length: 61
+# 2570379060 Number of predicted TMHs:  0
+# 2570379060 Exp number of AAs in TMHs: 0
+# 2570379060 Exp number, first 60 AAs:  0
+# 2570379060 Total prob of N-in:        0.12320
+2570379060	TMHMM2.0	outside	     1    61
+# 2570379061 Length: 48
+# 2570379061 Number of predicted TMHs:  0
+# 2570379061 Exp number of AAs in TMHs: 0.00783
+# 2570379061 Exp number, first 60 AAs:  0.00783
+# 2570379061 Total prob of N-in:        0.13073
+2570379061	TMHMM2.0	outside	     1    48
+# 2570379062 Length: 107
+# 2570379062 Number of predicted TMHs:  1
+# 2570379062 Exp number of AAs in TMHs: 20.08215
+# 2570379062 Exp number, first 60 AAs:  18.73717
+# 2570379062 Total prob of N-in:        0.71630
+# 2570379062 POSSIBLE N-term signal sequence
+2570379062	TMHMM2.0	inside	     1    11
+2570379062	TMHMM2.0	TMhelix	    12    29
+2570379062	TMHMM2.0	outside	    30   107
+# 2570379063 Length: 233
+# 2570379063 Number of predicted TMHs:  5
+# 2570379063 Exp number of AAs in TMHs: 114.21057
+# 2570379063 Exp number, first 60 AAs:  24.97653
+# 2570379063 Total prob of N-in:        0.04728
+# 2570379063 POSSIBLE N-term signal sequence
+2570379063	TMHMM2.0	outside	     1    28
+2570379063	TMHMM2.0	TMhelix	    29    51
+2570379063	TMHMM2.0	inside	    52    77
+2570379063	TMHMM2.0	TMhelix	    78   100
+2570379063	TMHMM2.0	outside	   101   114
+2570379063	TMHMM2.0	TMhelix	   115   137
+2570379063	TMHMM2.0	inside	   138   156
+2570379063	TMHMM2.0	TMhelix	   157   179
+2570379063	TMHMM2.0	outside	   180   198
+2570379063	TMHMM2.0	TMhelix	   199   221
+2570379063	TMHMM2.0	inside	   222   233
+# 2570379064 Length: 212
+# 2570379064 Number of predicted TMHs:  0
+# 2570379064 Exp number of AAs in TMHs: 0.20454
+# 2570379064 Exp number, first 60 AAs:  0.00017
+# 2570379064 Total prob of N-in:        0.50949
+2570379064	TMHMM2.0	inside	     1   212
+# 2570379065 Length: 210
+# 2570379065 Number of predicted TMHs:  0
+# 2570379065 Exp number of AAs in TMHs: 0.00386
+# 2570379065 Exp number, first 60 AAs:  0.00339
+# 2570379065 Total prob of N-in:        0.01578
+2570379065	TMHMM2.0	outside	     1   210
+# 2570379066 Length: 49
+# 2570379066 Number of predicted TMHs:  0
+# 2570379066 Exp number of AAs in TMHs: 0
+# 2570379066 Exp number, first 60 AAs:  0
+# 2570379066 Total prob of N-in:        0.81554
+2570379066	TMHMM2.0	inside	     1    49
+# 2570379067 Length: 203
+# 2570379067 Number of predicted TMHs:  0
+# 2570379067 Exp number of AAs in TMHs: 5.15368
+# 2570379067 Exp number, first 60 AAs:  0.01079
+# 2570379067 Total prob of N-in:        0.27482
+2570379067	TMHMM2.0	outside	     1   203
+# 2570379068 Length: 282
+# 2570379068 Number of predicted TMHs:  0
+# 2570379068 Exp number of AAs in TMHs: 7.4698
+# 2570379068 Exp number, first 60 AAs:  0
+# 2570379068 Total prob of N-in:        0.04940
+2570379068	TMHMM2.0	outside	     1   282
+# 2570379069 Length: 200
+# 2570379069 Number of predicted TMHs:  0
+# 2570379069 Exp number of AAs in TMHs: 0.05624
+# 2570379069 Exp number, first 60 AAs:  0
+# 2570379069 Total prob of N-in:        0.14373
+2570379069	TMHMM2.0	outside	     1   200
+# 2570379070 Length: 421
+# 2570379070 Number of predicted TMHs:  0
+# 2570379070 Exp number of AAs in TMHs: 0.00963
+# 2570379070 Exp number, first 60 AAs:  0.00494
+# 2570379070 Total prob of N-in:        0.02861
+2570379070	TMHMM2.0	outside	     1   421
+# 2570379071 Length: 211
+# 2570379071 Number of predicted TMHs:  0
+# 2570379071 Exp number of AAs in TMHs: 0.00178
+# 2570379071 Exp number, first 60 AAs:  0.00173
+# 2570379071 Total prob of N-in:        0.17921
+2570379071	TMHMM2.0	outside	     1   211
+# 2570379072 Length: 286
+# 2570379072 Number of predicted TMHs:  0
+# 2570379072 Exp number of AAs in TMHs: 0.0172
+# 2570379072 Exp number, first 60 AAs:  0
+# 2570379072 Total prob of N-in:        0.04592
+2570379072	TMHMM2.0	outside	     1   286
+# 2570379073 Length: 262
+# 2570379073 Number of predicted TMHs:  7
+# 2570379073 Exp number of AAs in TMHs: 153.79622
+# 2570379073 Exp number, first 60 AAs:  22.37468
+# 2570379073 Total prob of N-in:        0.96233
+# 2570379073 POSSIBLE N-term signal sequence
+2570379073	TMHMM2.0	inside	     1    34
+2570379073	TMHMM2.0	TMhelix	    35    57
+2570379073	TMHMM2.0	outside	    58    66
+2570379073	TMHMM2.0	TMhelix	    67    89
+2570379073	TMHMM2.0	inside	    90    97
+2570379073	TMHMM2.0	TMhelix	    98   120
+2570379073	TMHMM2.0	outside	   121   124
+2570379073	TMHMM2.0	TMhelix	   125   147
+2570379073	TMHMM2.0	inside	   148   159
+2570379073	TMHMM2.0	TMhelix	   160   178
+2570379073	TMHMM2.0	outside	   179   192
+2570379073	TMHMM2.0	TMhelix	   193   215
+2570379073	TMHMM2.0	inside	   216   235
+2570379073	TMHMM2.0	TMhelix	   236   258
+2570379073	TMHMM2.0	outside	   259   262
+# 2570379074 Length: 394
+# 2570379074 Number of predicted TMHs:  0
+# 2570379074 Exp number of AAs in TMHs: 0.02364
+# 2570379074 Exp number, first 60 AAs:  0.00847
+# 2570379074 Total prob of N-in:        0.03417
+2570379074	TMHMM2.0	outside	     1   394
+# 2570379075 Length: 689
+# 2570379075 Number of predicted TMHs:  0
+# 2570379075 Exp number of AAs in TMHs: 0.19001
+# 2570379075 Exp number, first 60 AAs:  0.00162
+# 2570379075 Total prob of N-in:        0.00073
+2570379075	TMHMM2.0	outside	     1   689
+# 2570379076 Length: 156
+# 2570379076 Number of predicted TMHs:  0
+# 2570379076 Exp number of AAs in TMHs: 0
+# 2570379076 Exp number, first 60 AAs:  0
+# 2570379076 Total prob of N-in:        0.62847
+2570379076	TMHMM2.0	inside	     1   156
+# 2570379077 Length: 139
+# 2570379077 Number of predicted TMHs:  0
+# 2570379077 Exp number of AAs in TMHs: 0.00333
+# 2570379077 Exp number, first 60 AAs:  0.00039
+# 2570379077 Total prob of N-in:        0.33070
+2570379077	TMHMM2.0	outside	     1   139
+# 2570379078 Length: 1353
+# 2570379078 Number of predicted TMHs:  0
+# 2570379078 Exp number of AAs in TMHs: 0.07835
+# 2570379078 Exp number, first 60 AAs:  0.00036
+# 2570379078 Total prob of N-in:        0.00004
+2570379078	TMHMM2.0	outside	     1  1353
+# 2570379079 Length: 1273
+# 2570379079 Number of predicted TMHs:  0
+# 2570379079 Exp number of AAs in TMHs: 0.02761
+# 2570379079 Exp number, first 60 AAs:  0.00119
+# 2570379079 Total prob of N-in:        0.00107
+2570379079	TMHMM2.0	outside	     1  1273
+# 2570379080 Length: 125
+# 2570379080 Number of predicted TMHs:  0
+# 2570379080 Exp number of AAs in TMHs: 0.00094
+# 2570379080 Exp number, first 60 AAs:  0.00038
+# 2570379080 Total prob of N-in:        0.12301
+2570379080	TMHMM2.0	outside	     1   125
+# 2570379081 Length: 169
+# 2570379081 Number of predicted TMHs:  1
+# 2570379081 Exp number of AAs in TMHs: 17.27251
+# 2570379081 Exp number, first 60 AAs:  0.17879
+# 2570379081 Total prob of N-in:        0.17761
+2570379081	TMHMM2.0	outside	     1   136
+2570379081	TMHMM2.0	TMhelix	   137   159
+2570379081	TMHMM2.0	inside	   160   169
+# 2570379082 Length: 230
+# 2570379082 Number of predicted TMHs:  0
+# 2570379082 Exp number of AAs in TMHs: 0.03583
+# 2570379082 Exp number, first 60 AAs:  8e-05
+# 2570379082 Total prob of N-in:        0.19870
+2570379082	TMHMM2.0	outside	     1   230
+# 2570379083 Length: 141
+# 2570379083 Number of predicted TMHs:  0
+# 2570379083 Exp number of AAs in TMHs: 0.03043
+# 2570379083 Exp number, first 60 AAs:  0.0171
+# 2570379083 Total prob of N-in:        0.65272
+2570379083	TMHMM2.0	inside	     1   141
+# 2570379084 Length: 199
+# 2570379084 Number of predicted TMHs:  0
+# 2570379084 Exp number of AAs in TMHs: 1.77258
+# 2570379084 Exp number, first 60 AAs:  0.00037
+# 2570379084 Total prob of N-in:        0.61587
+2570379084	TMHMM2.0	inside	     1   199
+# 2570379085 Length: 136
+# 2570379085 Number of predicted TMHs:  3
+# 2570379085 Exp number of AAs in TMHs: 66.3714300000001
+# 2570379085 Exp number, first 60 AAs:  29.13099
+# 2570379085 Total prob of N-in:        0.99134
+# 2570379085 POSSIBLE N-term signal sequence
+2570379085	TMHMM2.0	inside	     1    21
+2570379085	TMHMM2.0	TMhelix	    22    44
+2570379085	TMHMM2.0	outside	    45    53
+2570379085	TMHMM2.0	TMhelix	    54    76
+2570379085	TMHMM2.0	inside	    77    92
+2570379085	TMHMM2.0	TMhelix	    93   115
+2570379085	TMHMM2.0	outside	   116   136
+# 2570379086 Length: 235
+# 2570379086 Number of predicted TMHs:  1
+# 2570379086 Exp number of AAs in TMHs: 16.73821
+# 2570379086 Exp number, first 60 AAs:  0.12514
+# 2570379086 Total prob of N-in:        0.79511
+2570379086	TMHMM2.0	inside	     1   212
+2570379086	TMHMM2.0	TMhelix	   213   232
+2570379086	TMHMM2.0	outside	   233   235
+# 2570379087 Length: 816
+# 2570379087 Number of predicted TMHs:  10
+# 2570379087 Exp number of AAs in TMHs: 209.58306
+# 2570379087 Exp number, first 60 AAs:  13.34686
+# 2570379087 Total prob of N-in:        0.98069
+# 2570379087 POSSIBLE N-term signal sequence
+2570379087	TMHMM2.0	inside	     1    46
+2570379087	TMHMM2.0	TMhelix	    47    69
+2570379087	TMHMM2.0	outside	    70    73
+2570379087	TMHMM2.0	TMhelix	    74    91
+2570379087	TMHMM2.0	inside	    92   219
+2570379087	TMHMM2.0	TMhelix	   220   242
+2570379087	TMHMM2.0	outside	   243   261
+2570379087	TMHMM2.0	TMhelix	   262   284
+2570379087	TMHMM2.0	inside	   285   615
+2570379087	TMHMM2.0	TMhelix	   616   638
+2570379087	TMHMM2.0	outside	   639   652
+2570379087	TMHMM2.0	TMhelix	   653   670
+2570379087	TMHMM2.0	inside	   671   688
+2570379087	TMHMM2.0	TMhelix	   689   711
+2570379087	TMHMM2.0	outside	   712   720
+2570379087	TMHMM2.0	TMhelix	   721   740
+2570379087	TMHMM2.0	inside	   741   746
+2570379087	TMHMM2.0	TMhelix	   747   769
+2570379087	TMHMM2.0	outside	   770   783
+2570379087	TMHMM2.0	TMhelix	   784   801
+2570379087	TMHMM2.0	inside	   802   816
+# 2570379088 Length: 715
+# 2570379088 Number of predicted TMHs:  0
+# 2570379088 Exp number of AAs in TMHs: 0.15244
+# 2570379088 Exp number, first 60 AAs:  0.00411
+# 2570379088 Total prob of N-in:        0.00290
+2570379088	TMHMM2.0	outside	     1   715
+# 2570379095 Length: 513
+# 2570379095 Number of predicted TMHs:  6
+# 2570379095 Exp number of AAs in TMHs: 132.80596
+# 2570379095 Exp number, first 60 AAs:  18.02753
+# 2570379095 Total prob of N-in:        0.84182
+# 2570379095 POSSIBLE N-term signal sequence
+2570379095	TMHMM2.0	inside	     1    11
+2570379095	TMHMM2.0	TMhelix	    12    29
+2570379095	TMHMM2.0	outside	    30   251
+2570379095	TMHMM2.0	TMhelix	   252   274
+2570379095	TMHMM2.0	inside	   275   280
+2570379095	TMHMM2.0	TMhelix	   281   303
+2570379095	TMHMM2.0	outside	   304   351
+2570379095	TMHMM2.0	TMhelix	   352   370
+2570379095	TMHMM2.0	inside	   371   407
+2570379095	TMHMM2.0	TMhelix	   408   425
+2570379095	TMHMM2.0	outside	   426   477
+2570379095	TMHMM2.0	TMhelix	   478   497
+2570379095	TMHMM2.0	inside	   498   513
+# 2570379096 Length: 115
+# 2570379096 Number of predicted TMHs:  0
+# 2570379096 Exp number of AAs in TMHs: 12.13056
+# 2570379096 Exp number, first 60 AAs:  1.67411
+# 2570379096 Total prob of N-in:        0.83340
+2570379096	TMHMM2.0	inside	     1   115
+# 2570379097 Length: 44
+# 2570379097 Number of predicted TMHs:  0
+# 2570379097 Exp number of AAs in TMHs: 0.02939
+# 2570379097 Exp number, first 60 AAs:  0.02939
+# 2570379097 Total prob of N-in:        0.77447
+2570379097	TMHMM2.0	inside	     1    44
+# 2570379098 Length: 474
+# 2570379098 Number of predicted TMHs:  0
+# 2570379098 Exp number of AAs in TMHs: 0.405549999999999
+# 2570379098 Exp number, first 60 AAs:  0.38915
+# 2570379098 Total prob of N-in:        0.06241
+2570379098	TMHMM2.0	outside	     1   474
+# 2570379101 Length: 49
+# 2570379101 Number of predicted TMHs:  0
+# 2570379101 Exp number of AAs in TMHs: 0
+# 2570379101 Exp number, first 60 AAs:  0
+# 2570379101 Total prob of N-in:        0.57716
+2570379101	TMHMM2.0	inside	     1    49
+# 2570379102 Length: 323
+# 2570379102 Number of predicted TMHs:  6
+# 2570379102 Exp number of AAs in TMHs: 127.6019
+# 2570379102 Exp number, first 60 AAs:  18.86934
+# 2570379102 Total prob of N-in:        1.00000
+# 2570379102 POSSIBLE N-term signal sequence
+2570379102	TMHMM2.0	inside	     1    20
+2570379102	TMHMM2.0	TMhelix	    21    38
+2570379102	TMHMM2.0	outside	    39    93
+2570379102	TMHMM2.0	TMhelix	    94   113
+2570379102	TMHMM2.0	inside	   114   121
+2570379102	TMHMM2.0	TMhelix	   122   144
+2570379102	TMHMM2.0	outside	   145   158
+2570379102	TMHMM2.0	TMhelix	   159   178
+2570379102	TMHMM2.0	inside	   179   190
+2570379102	TMHMM2.0	TMhelix	   191   213
+2570379102	TMHMM2.0	outside	   214   281
+2570379102	TMHMM2.0	TMhelix	   282   304
+2570379102	TMHMM2.0	inside	   305   323
+# 2570379103 Length: 70
+# 2570379103 Number of predicted TMHs:  0
+# 2570379103 Exp number of AAs in TMHs: 0.01347
+# 2570379103 Exp number, first 60 AAs:  0.01347
+# 2570379103 Total prob of N-in:        0.45986
+2570379103	TMHMM2.0	outside	     1    70
+# 2570379104 Length: 94
+# 2570379104 Number of predicted TMHs:  0
+# 2570379104 Exp number of AAs in TMHs: 0
+# 2570379104 Exp number, first 60 AAs:  0
+# 2570379104 Total prob of N-in:        0.17051
+2570379104	TMHMM2.0	outside	     1    94
+# 2570379105 Length: 344
+# 2570379105 Number of predicted TMHs:  1
+# 2570379105 Exp number of AAs in TMHs: 19.03624
+# 2570379105 Exp number, first 60 AAs:  18.5369
+# 2570379105 Total prob of N-in:        0.82771
+# 2570379105 POSSIBLE N-term signal sequence
+2570379105	TMHMM2.0	inside	     1    12
+2570379105	TMHMM2.0	TMhelix	    13    35
+2570379105	TMHMM2.0	outside	    36   344
+# 2570379106 Length: 479
+# 2570379106 Number of predicted TMHs:  0
+# 2570379106 Exp number of AAs in TMHs: 0.23022
+# 2570379106 Exp number, first 60 AAs:  0.00991
+# 2570379106 Total prob of N-in:        0.00656
+2570379106	TMHMM2.0	outside	     1   479
+# 2570379107 Length: 223
+# 2570379107 Number of predicted TMHs:  0
+# 2570379107 Exp number of AAs in TMHs: 0.01556
+# 2570379107 Exp number, first 60 AAs:  0.00471
+# 2570379107 Total prob of N-in:        0.15601
+2570379107	TMHMM2.0	outside	     1   223
+# 2570379108 Length: 245
+# 2570379108 Number of predicted TMHs:  0
+# 2570379108 Exp number of AAs in TMHs: 0.03373
+# 2570379108 Exp number, first 60 AAs:  0.00043
+# 2570379108 Total prob of N-in:        0.09766
+2570379108	TMHMM2.0	outside	     1   245
+# 2570379109 Length: 283
+# 2570379109 Number of predicted TMHs:  0
+# 2570379109 Exp number of AAs in TMHs: 1.0123
+# 2570379109 Exp number, first 60 AAs:  1.007
+# 2570379109 Total prob of N-in:        0.01505
+2570379109	TMHMM2.0	outside	     1   283
+# 2570379110 Length: 105
+# 2570379110 Number of predicted TMHs:  0
+# 2570379110 Exp number of AAs in TMHs: 0.02578
+# 2570379110 Exp number, first 60 AAs:  0.0103
+# 2570379110 Total prob of N-in:        0.34103
+2570379110	TMHMM2.0	outside	     1   105
+# 2570379111 Length: 96
+# 2570379111 Number of predicted TMHs:  2
+# 2570379111 Exp number of AAs in TMHs: 42.89095
+# 2570379111 Exp number, first 60 AAs:  21.70358
+# 2570379111 Total prob of N-in:        0.39130
+# 2570379111 POSSIBLE N-term signal sequence
+2570379111	TMHMM2.0	inside	     1    33
+2570379111	TMHMM2.0	TMhelix	    34    56
+2570379111	TMHMM2.0	outside	    57    75
+2570379111	TMHMM2.0	TMhelix	    76    95
+2570379111	TMHMM2.0	inside	    96    96
+# 2570379112 Length: 520
+# 2570379112 Number of predicted TMHs:  0
+# 2570379112 Exp number of AAs in TMHs: 7.92125999999998
+# 2570379112 Exp number, first 60 AAs:  6.77038
+# 2570379112 Total prob of N-in:        0.34937
+2570379112	TMHMM2.0	outside	     1   520
+# 2570379113 Length: 287
+# 2570379113 Number of predicted TMHs:  0
+# 2570379113 Exp number of AAs in TMHs: 18.97443
+# 2570379113 Exp number, first 60 AAs:  0.13768
+# 2570379113 Total prob of N-in:        0.63269
+2570379113	TMHMM2.0	outside	     1   287
+# 2570379114 Length: 329
+# 2570379114 Number of predicted TMHs:  0
+# 2570379114 Exp number of AAs in TMHs: 0.20707
+# 2570379114 Exp number, first 60 AAs:  0.09348
+# 2570379114 Total prob of N-in:        0.03797
+2570379114	TMHMM2.0	outside	     1   329
+# 2570379115 Length: 207
+# 2570379115 Number of predicted TMHs:  0
+# 2570379115 Exp number of AAs in TMHs: 0.02202
+# 2570379115 Exp number, first 60 AAs:  0
+# 2570379115 Total prob of N-in:        0.01367
+2570379115	TMHMM2.0	outside	     1   207
+# 2570379116 Length: 243
+# 2570379116 Number of predicted TMHs:  0
+# 2570379116 Exp number of AAs in TMHs: 0.51505
+# 2570379116 Exp number, first 60 AAs:  0.00104
+# 2570379116 Total prob of N-in:        0.01722
+2570379116	TMHMM2.0	outside	     1   243
+# 2570379117 Length: 118
+# 2570379117 Number of predicted TMHs:  0
+# 2570379117 Exp number of AAs in TMHs: 0.00331
+# 2570379117 Exp number, first 60 AAs:  0.00182
+# 2570379117 Total prob of N-in:        0.18199
+2570379117	TMHMM2.0	outside	     1   118
+# 2570379118 Length: 330
+# 2570379118 Number of predicted TMHs:  0
+# 2570379118 Exp number of AAs in TMHs: 0.00905999999999999
+# 2570379118 Exp number, first 60 AAs:  0.00341
+# 2570379118 Total prob of N-in:        0.01226
+2570379118	TMHMM2.0	outside	     1   330
+# 2570379119 Length: 128
+# 2570379119 Number of predicted TMHs:  0
+# 2570379119 Exp number of AAs in TMHs: 0.1363
+# 2570379119 Exp number, first 60 AAs:  0.13508
+# 2570379119 Total prob of N-in:        0.83959
+2570379119	TMHMM2.0	inside	     1   128
+# 2570379120 Length: 121
+# 2570379120 Number of predicted TMHs:  0
+# 2570379120 Exp number of AAs in TMHs: 0.19853
+# 2570379120 Exp number, first 60 AAs:  0.19853
+# 2570379120 Total prob of N-in:        0.20930
+2570379120	TMHMM2.0	outside	     1   121
+# 2570379121 Length: 78
+# 2570379121 Number of predicted TMHs:  0
+# 2570379121 Exp number of AAs in TMHs: 0.00248
+# 2570379121 Exp number, first 60 AAs:  0.00248
+# 2570379121 Total prob of N-in:        0.73562
+2570379121	TMHMM2.0	inside	     1    78
+# 2570379122 Length: 247
+# 2570379122 Number of predicted TMHs:  0
+# 2570379122 Exp number of AAs in TMHs: 0.976629999999999
+# 2570379122 Exp number, first 60 AAs:  0.9323
+# 2570379122 Total prob of N-in:        0.13416
+2570379122	TMHMM2.0	outside	     1   247
+# 2570379123 Length: 217
+# 2570379123 Number of predicted TMHs:  0
+# 2570379123 Exp number of AAs in TMHs: 0.00664
+# 2570379123 Exp number, first 60 AAs:  0.00163
+# 2570379123 Total prob of N-in:        0.00288
+2570379123	TMHMM2.0	outside	     1   217
+# 2570379124 Length: 413
+# 2570379124 Number of predicted TMHs:  9
+# 2570379124 Exp number of AAs in TMHs: 212.2774
+# 2570379124 Exp number, first 60 AAs:  29.91725
+# 2570379124 Total prob of N-in:        0.95422
+# 2570379124 POSSIBLE N-term signal sequence
+2570379124	TMHMM2.0	inside	     1    15
+2570379124	TMHMM2.0	TMhelix	    16    38
+2570379124	TMHMM2.0	outside	    39    52
+2570379124	TMHMM2.0	TMhelix	    53    75
+2570379124	TMHMM2.0	inside	    76   100
+2570379124	TMHMM2.0	TMhelix	   101   118
+2570379124	TMHMM2.0	outside	   119   130
+2570379124	TMHMM2.0	TMhelix	   131   153
+2570379124	TMHMM2.0	inside	   154   159
+2570379124	TMHMM2.0	TMhelix	   160   182
+2570379124	TMHMM2.0	outside	   183   201
+2570379124	TMHMM2.0	TMhelix	   202   224
+2570379124	TMHMM2.0	inside	   225   244
+2570379124	TMHMM2.0	TMhelix	   245   267
+2570379124	TMHMM2.0	outside	   268   290
+2570379124	TMHMM2.0	TMhelix	   291   313
+2570379124	TMHMM2.0	inside	   314   347
+2570379124	TMHMM2.0	TMhelix	   348   370
+2570379124	TMHMM2.0	outside	   371   413
+# 2570379125 Length: 146
+# 2570379125 Number of predicted TMHs:  0
+# 2570379125 Exp number of AAs in TMHs: 0.00071
+# 2570379125 Exp number, first 60 AAs:  0
+# 2570379125 Total prob of N-in:        0.12921
+2570379125	TMHMM2.0	outside	     1   146
+# 2570379126 Length: 65
+# 2570379126 Number of predicted TMHs:  0
+# 2570379126 Exp number of AAs in TMHs: 0.0039
+# 2570379126 Exp number, first 60 AAs:  0.0039
+# 2570379126 Total prob of N-in:        0.55051
+2570379126	TMHMM2.0	inside	     1    65
+# 2570379127 Length: 172
+# 2570379127 Number of predicted TMHs:  0
+# 2570379127 Exp number of AAs in TMHs: 0.03459
+# 2570379127 Exp number, first 60 AAs:  0.00279
+# 2570379127 Total prob of N-in:        0.36203
+2570379127	TMHMM2.0	outside	     1   172
+# 2570379128 Length: 117
+# 2570379128 Number of predicted TMHs:  0
+# 2570379128 Exp number of AAs in TMHs: 0.000970000000000001
+# 2570379128 Exp number, first 60 AAs:  0
+# 2570379128 Total prob of N-in:        0.31409
+2570379128	TMHMM2.0	outside	     1   117
+# 2570379129 Length: 184
+# 2570379129 Number of predicted TMHs:  0
+# 2570379129 Exp number of AAs in TMHs: 0.00659
+# 2570379129 Exp number, first 60 AAs:  0
+# 2570379129 Total prob of N-in:        0.33549
+2570379129	TMHMM2.0	outside	     1   184
+# 2570379130 Length: 130
+# 2570379130 Number of predicted TMHs:  0
+# 2570379130 Exp number of AAs in TMHs: 0.03851
+# 2570379130 Exp number, first 60 AAs:  0.01849
+# 2570379130 Total prob of N-in:        0.17056
+2570379130	TMHMM2.0	outside	     1   130
+# 2570379131 Length: 89
+# 2570379131 Number of predicted TMHs:  0
+# 2570379131 Exp number of AAs in TMHs: 0.00018
+# 2570379131 Exp number, first 60 AAs:  1e-05
+# 2570379131 Total prob of N-in:        0.72121
+2570379131	TMHMM2.0	inside	     1    89
+# 2570379132 Length: 181
+# 2570379132 Number of predicted TMHs:  0
+# 2570379132 Exp number of AAs in TMHs: 0.00564999999999998
+# 2570379132 Exp number, first 60 AAs:  0.00524
+# 2570379132 Total prob of N-in:        0.24913
+2570379132	TMHMM2.0	outside	     1   181
+# 2570379133 Length: 115
+# 2570379133 Number of predicted TMHs:  0
+# 2570379133 Exp number of AAs in TMHs: 0
+# 2570379133 Exp number, first 60 AAs:  0
+# 2570379133 Total prob of N-in:        0.40830
+2570379133	TMHMM2.0	outside	     1   115
+# 2570379134 Length: 120
+# 2570379134 Number of predicted TMHs:  0
+# 2570379134 Exp number of AAs in TMHs: 0.0171
+# 2570379134 Exp number, first 60 AAs:  0.01608
+# 2570379134 Total prob of N-in:        0.27653
+2570379134	TMHMM2.0	outside	     1   120
+# 2570379135 Length: 87
+# 2570379135 Number of predicted TMHs:  0
+# 2570379135 Exp number of AAs in TMHs: 0
+# 2570379135 Exp number, first 60 AAs:  0
+# 2570379135 Total prob of N-in:        0.63565
+2570379135	TMHMM2.0	inside	     1    87
+# 2570379136 Length: 107
+# 2570379136 Number of predicted TMHs:  0
+# 2570379136 Exp number of AAs in TMHs: 0.00018
+# 2570379136 Exp number, first 60 AAs:  0.00018
+# 2570379136 Total prob of N-in:        0.33412
+2570379136	TMHMM2.0	outside	     1   107
+# 2570379137 Length: 140
+# 2570379137 Number of predicted TMHs:  0
+# 2570379137 Exp number of AAs in TMHs: 0.01149
+# 2570379137 Exp number, first 60 AAs:  0.00078
+# 2570379137 Total prob of N-in:        0.49769
+2570379137	TMHMM2.0	outside	     1   140
+# 2570379138 Length: 252
+# 2570379138 Number of predicted TMHs:  0
+# 2570379138 Exp number of AAs in TMHs: 0.02002
+# 2570379138 Exp number, first 60 AAs:  0.00018
+# 2570379138 Total prob of N-in:        0.05799
+2570379138	TMHMM2.0	outside	     1   252
+# 2570379139 Length: 129
+# 2570379139 Number of predicted TMHs:  0
+# 2570379139 Exp number of AAs in TMHs: 0.24071
+# 2570379139 Exp number, first 60 AAs:  0.23627
+# 2570379139 Total prob of N-in:        0.51721
+2570379139	TMHMM2.0	inside	     1   129
+# 2570379140 Length: 93
+# 2570379140 Number of predicted TMHs:  0
+# 2570379140 Exp number of AAs in TMHs: 0.19779
+# 2570379140 Exp number, first 60 AAs:  0.19725
+# 2570379140 Total prob of N-in:        0.52042
+2570379140	TMHMM2.0	inside	     1    93
+# 2570379141 Length: 276
+# 2570379141 Number of predicted TMHs:  0
+# 2570379141 Exp number of AAs in TMHs: 0.00671
+# 2570379141 Exp number, first 60 AAs:  0.00018
+# 2570379141 Total prob of N-in:        0.35852
+2570379141	TMHMM2.0	outside	     1   276
+# 2570379142 Length: 96
+# 2570379142 Number of predicted TMHs:  0
+# 2570379142 Exp number of AAs in TMHs: 0.00143
+# 2570379142 Exp number, first 60 AAs:  0.00137
+# 2570379142 Total prob of N-in:        0.53250
+2570379142	TMHMM2.0	inside	     1    96
+# 2570379143 Length: 207
+# 2570379143 Number of predicted TMHs:  0
+# 2570379143 Exp number of AAs in TMHs: 0.04212
+# 2570379143 Exp number, first 60 AAs:  0
+# 2570379143 Total prob of N-in:        0.11485
+2570379143	TMHMM2.0	outside	     1   207
+# 2570379144 Length: 221
+# 2570379144 Number of predicted TMHs:  0
+# 2570379144 Exp number of AAs in TMHs: 0.01164
+# 2570379144 Exp number, first 60 AAs:  0.00882
+# 2570379144 Total prob of N-in:        0.09079
+2570379144	TMHMM2.0	outside	     1   221
+# 2570379145 Length: 105
+# 2570379145 Number of predicted TMHs:  0
+# 2570379145 Exp number of AAs in TMHs: 0.01109
+# 2570379145 Exp number, first 60 AAs:  0.00019
+# 2570379145 Total prob of N-in:        0.67142
+2570379145	TMHMM2.0	inside	     1   105
+# 2570379146 Length: 68
+# 2570379146 Number of predicted TMHs:  0
+# 2570379146 Exp number of AAs in TMHs: 0.02606
+# 2570379146 Exp number, first 60 AAs:  0.02606
+# 2570379146 Total prob of N-in:        0.49335
+2570379146	TMHMM2.0	outside	     1    68
+# 2570379147 Length: 225
+# 2570379147 Number of predicted TMHs:  1
+# 2570379147 Exp number of AAs in TMHs: 20.55309
+# 2570379147 Exp number, first 60 AAs:  20.55309
+# 2570379147 Total prob of N-in:        0.84936
+# 2570379147 POSSIBLE N-term signal sequence
+2570379147	TMHMM2.0	inside	     1    12
+2570379147	TMHMM2.0	TMhelix	    13    32
+2570379147	TMHMM2.0	outside	    33   225
+# 2570379148 Length: 42
+# 2570379148 Number of predicted TMHs:  0
+# 2570379148 Exp number of AAs in TMHs: 0.00637
+# 2570379148 Exp number, first 60 AAs:  0.00637
+# 2570379148 Total prob of N-in:        0.49403
+2570379148	TMHMM2.0	inside	     1    42
+# 2570379149 Length: 160
+# 2570379149 Number of predicted TMHs:  0
+# 2570379149 Exp number of AAs in TMHs: 3.22461
+# 2570379149 Exp number, first 60 AAs:  3.10756
+# 2570379149 Total prob of N-in:        0.20335
+2570379149	TMHMM2.0	outside	     1   160
+# 2570379150 Length: 1028
+# 2570379150 Number of predicted TMHs:  0
+# 2570379150 Exp number of AAs in TMHs: 0.01101
+# 2570379150 Exp number, first 60 AAs:  0.00107
+# 2570379150 Total prob of N-in:        0.00011
+2570379150	TMHMM2.0	outside	     1  1028
+# 2570379151 Length: 338
+# 2570379151 Number of predicted TMHs:  0
+# 2570379151 Exp number of AAs in TMHs: 0.0408000000000001
+# 2570379151 Exp number, first 60 AAs:  0.00426
+# 2570379151 Total prob of N-in:        0.02223
+2570379151	TMHMM2.0	outside	     1   338
+# 2570379152 Length: 267
+# 2570379152 Number of predicted TMHs:  0
+# 2570379152 Exp number of AAs in TMHs: 0.0022
+# 2570379152 Exp number, first 60 AAs:  0.00039
+# 2570379152 Total prob of N-in:        0.01447
+2570379152	TMHMM2.0	outside	     1   267
+# 2570379153 Length: 511
+# 2570379153 Number of predicted TMHs:  1
+# 2570379153 Exp number of AAs in TMHs: 18.57968
+# 2570379153 Exp number, first 60 AAs:  18.57171
+# 2570379153 Total prob of N-in:        0.99321
+# 2570379153 POSSIBLE N-term signal sequence
+2570379153	TMHMM2.0	inside	     1     6
+2570379153	TMHMM2.0	TMhelix	     7    25
+2570379153	TMHMM2.0	outside	    26   511
+# 2570379154 Length: 311
+# 2570379154 Number of predicted TMHs:  6
+# 2570379154 Exp number of AAs in TMHs: 122.4282
+# 2570379154 Exp number, first 60 AAs:  22.48007
+# 2570379154 Total prob of N-in:        0.96908
+# 2570379154 POSSIBLE N-term signal sequence
+2570379154	TMHMM2.0	inside	     1     8
+2570379154	TMHMM2.0	TMhelix	     9    31
+2570379154	TMHMM2.0	outside	    32    99
+2570379154	TMHMM2.0	TMhelix	   100   122
+2570379154	TMHMM2.0	inside	   123   130
+2570379154	TMHMM2.0	TMhelix	   131   153
+2570379154	TMHMM2.0	outside	   154   167
+2570379154	TMHMM2.0	TMhelix	   168   190
+2570379154	TMHMM2.0	inside	   191   226
+2570379154	TMHMM2.0	TMhelix	   227   249
+2570379154	TMHMM2.0	outside	   250   278
+2570379154	TMHMM2.0	TMhelix	   279   301
+2570379154	TMHMM2.0	inside	   302   311
+# 2570379155 Length: 289
+# 2570379155 Number of predicted TMHs:  6
+# 2570379155 Exp number of AAs in TMHs: 133.17103
+# 2570379155 Exp number, first 60 AAs:  22.39121
+# 2570379155 Total prob of N-in:        0.99905
+# 2570379155 POSSIBLE N-term signal sequence
+2570379155	TMHMM2.0	inside	     1    25
+2570379155	TMHMM2.0	TMhelix	    26    48
+2570379155	TMHMM2.0	outside	    49    88
+2570379155	TMHMM2.0	TMhelix	    89   111
+2570379155	TMHMM2.0	inside	   112   122
+2570379155	TMHMM2.0	TMhelix	   123   145
+2570379155	TMHMM2.0	outside	   146   149
+2570379155	TMHMM2.0	TMhelix	   150   169
+2570379155	TMHMM2.0	inside	   170   207
+2570379155	TMHMM2.0	TMhelix	   208   230
+2570379155	TMHMM2.0	outside	   231   257
+2570379155	TMHMM2.0	TMhelix	   258   280
+2570379155	TMHMM2.0	inside	   281   289
+# 2570379156 Length: 498
+# 2570379156 Number of predicted TMHs:  0
+# 2570379156 Exp number of AAs in TMHs: 0.3421
+# 2570379156 Exp number, first 60 AAs:  0
+# 2570379156 Total prob of N-in:        0.00546
+2570379156	TMHMM2.0	outside	     1   498
+# 2570379157 Length: 918
+# 2570379157 Number of predicted TMHs:  10
+# 2570379157 Exp number of AAs in TMHs: 207.12821
+# 2570379157 Exp number, first 60 AAs:  0.13116
+# 2570379157 Total prob of N-in:        0.99378
+2570379157	TMHMM2.0	inside	     1    60
+2570379157	TMHMM2.0	TMhelix	    61    79
+2570379157	TMHMM2.0	outside	    80    88
+2570379157	TMHMM2.0	TMhelix	    89   106
+2570379157	TMHMM2.0	inside	   107   251
+2570379157	TMHMM2.0	TMhelix	   252   269
+2570379157	TMHMM2.0	outside	   270   288
+2570379157	TMHMM2.0	TMhelix	   289   311
+2570379157	TMHMM2.0	inside	   312   707
+2570379157	TMHMM2.0	TMhelix	   708   730
+2570379157	TMHMM2.0	outside	   731   739
+2570379157	TMHMM2.0	TMhelix	   740   762
+2570379157	TMHMM2.0	inside	   763   789
+2570379157	TMHMM2.0	TMhelix	   790   812
+2570379157	TMHMM2.0	outside	   813   816
+2570379157	TMHMM2.0	TMhelix	   817   839
+2570379157	TMHMM2.0	inside	   840   851
+2570379157	TMHMM2.0	TMhelix	   852   874
+2570379157	TMHMM2.0	outside	   875   888
+2570379157	TMHMM2.0	TMhelix	   889   906
+2570379157	TMHMM2.0	inside	   907   918
+# 2570379158 Length: 272
+# 2570379158 Number of predicted TMHs:  6
+# 2570379158 Exp number of AAs in TMHs: 130.74788
+# 2570379158 Exp number, first 60 AAs:  19.4755
+# 2570379158 Total prob of N-in:        0.99857
+# 2570379158 POSSIBLE N-term signal sequence
+2570379158	TMHMM2.0	inside	     1    26
+2570379158	TMHMM2.0	TMhelix	    27    45
+2570379158	TMHMM2.0	outside	    46    80
+2570379158	TMHMM2.0	TMhelix	    81   103
+2570379158	TMHMM2.0	inside	   104   107
+2570379158	TMHMM2.0	TMhelix	   108   130
+2570379158	TMHMM2.0	outside	   131   158
+2570379158	TMHMM2.0	TMhelix	   159   181
+2570379158	TMHMM2.0	inside	   182   200
+2570379158	TMHMM2.0	TMhelix	   201   223
+2570379158	TMHMM2.0	outside	   224   237
+2570379158	TMHMM2.0	TMhelix	   238   260
+2570379158	TMHMM2.0	inside	   261   272
+# 2570379159 Length: 900
+# 2570379159 Number of predicted TMHs:  0
+# 2570379159 Exp number of AAs in TMHs: 1.02866
+# 2570379159 Exp number, first 60 AAs:  0.0003
+# 2570379159 Total prob of N-in:        0.04556
+2570379159	TMHMM2.0	outside	     1   900
+# 2570379160 Length: 363
+# 2570379160 Number of predicted TMHs:  0
+# 2570379160 Exp number of AAs in TMHs: 0.00206
+# 2570379160 Exp number, first 60 AAs:  0.00194
+# 2570379160 Total prob of N-in:        0.00472
+2570379160	TMHMM2.0	outside	     1   363
+# 2570379161 Length: 306
+# 2570379161 Number of predicted TMHs:  0
+# 2570379161 Exp number of AAs in TMHs: 0.02168
+# 2570379161 Exp number, first 60 AAs:  0.01389
+# 2570379161 Total prob of N-in:        0.00539
+2570379161	TMHMM2.0	outside	     1   306
+# 2570379162 Length: 416
+# 2570379162 Number of predicted TMHs:  0
+# 2570379162 Exp number of AAs in TMHs: 0.05502
+# 2570379162 Exp number, first 60 AAs:  0.00319
+# 2570379162 Total prob of N-in:        0.01355
+2570379162	TMHMM2.0	outside	     1   416
+# 2570379163 Length: 347
+# 2570379163 Number of predicted TMHs:  8
+# 2570379163 Exp number of AAs in TMHs: 176.64359
+# 2570379163 Exp number, first 60 AAs:  21.71409
+# 2570379163 Total prob of N-in:        0.59280
+# 2570379163 POSSIBLE N-term signal sequence
+2570379163	TMHMM2.0	inside	     1    20
+2570379163	TMHMM2.0	TMhelix	    21    43
+2570379163	TMHMM2.0	outside	    44    62
+2570379163	TMHMM2.0	TMhelix	    63    85
+2570379163	TMHMM2.0	inside	    86    97
+2570379163	TMHMM2.0	TMhelix	    98   120
+2570379163	TMHMM2.0	outside	   121   123
+2570379163	TMHMM2.0	TMhelix	   124   146
+2570379163	TMHMM2.0	inside	   147   152
+2570379163	TMHMM2.0	TMhelix	   153   172
+2570379163	TMHMM2.0	outside	   173   191
+2570379163	TMHMM2.0	TMhelix	   192   214
+2570379163	TMHMM2.0	inside	   215   286
+2570379163	TMHMM2.0	TMhelix	   287   309
+2570379163	TMHMM2.0	outside	   310   323
+2570379163	TMHMM2.0	TMhelix	   324   346
+2570379163	TMHMM2.0	inside	   347   347
+# 2570379164 Length: 286
+# 2570379164 Number of predicted TMHs:  0
+# 2570379164 Exp number of AAs in TMHs: 0.04087
+# 2570379164 Exp number, first 60 AAs:  0.0063
+# 2570379164 Total prob of N-in:        0.01858
+2570379164	TMHMM2.0	outside	     1   286
+# 2570379165 Length: 289
+# 2570379165 Number of predicted TMHs:  0
+# 2570379165 Exp number of AAs in TMHs: 0.42267
+# 2570379165 Exp number, first 60 AAs:  0.32649
+# 2570379165 Total prob of N-in:        0.07920
+2570379165	TMHMM2.0	outside	     1   289
+# 2570379166 Length: 567
+# 2570379166 Number of predicted TMHs:  0
+# 2570379166 Exp number of AAs in TMHs: 0.33106
+# 2570379166 Exp number, first 60 AAs:  0.00138
+# 2570379166 Total prob of N-in:        0.00454
+2570379166	TMHMM2.0	outside	     1   567
+# 2570379167 Length: 219
+# 2570379167 Number of predicted TMHs:  5
+# 2570379167 Exp number of AAs in TMHs: 110.14875
+# 2570379167 Exp number, first 60 AAs:  25.66858
+# 2570379167 Total prob of N-in:        0.05237
+# 2570379167 POSSIBLE N-term signal sequence
+2570379167	TMHMM2.0	outside	     1    14
+2570379167	TMHMM2.0	TMhelix	    15    37
+2570379167	TMHMM2.0	inside	    38    56
+2570379167	TMHMM2.0	TMhelix	    57    79
+2570379167	TMHMM2.0	outside	    80    98
+2570379167	TMHMM2.0	TMhelix	    99   121
+2570379167	TMHMM2.0	inside	   122   127
+2570379167	TMHMM2.0	TMhelix	   128   150
+2570379167	TMHMM2.0	outside	   151   181
+2570379167	TMHMM2.0	TMhelix	   182   204
+2570379167	TMHMM2.0	inside	   205   219
+# 2570379168 Length: 226
+# 2570379168 Number of predicted TMHs:  6
+# 2570379168 Exp number of AAs in TMHs: 130.55751
+# 2570379168 Exp number, first 60 AAs:  34.58958
+# 2570379168 Total prob of N-in:        0.94255
+# 2570379168 POSSIBLE N-term signal sequence
+2570379168	TMHMM2.0	inside	     1    11
+2570379168	TMHMM2.0	TMhelix	    12    34
+2570379168	TMHMM2.0	outside	    35    43
+2570379168	TMHMM2.0	TMhelix	    44    66
+2570379168	TMHMM2.0	inside	    67    72
+2570379168	TMHMM2.0	TMhelix	    73    95
+2570379168	TMHMM2.0	outside	    96   109
+2570379168	TMHMM2.0	TMhelix	   110   132
+2570379168	TMHMM2.0	inside	   133   144
+2570379168	TMHMM2.0	TMhelix	   145   167
+2570379168	TMHMM2.0	outside	   168   188
+2570379168	TMHMM2.0	TMhelix	   189   211
+2570379168	TMHMM2.0	inside	   212   226
+# 2570379169 Length: 335
+# 2570379169 Number of predicted TMHs:  0
+# 2570379169 Exp number of AAs in TMHs: 0.09546
+# 2570379169 Exp number, first 60 AAs:  0.06297
+# 2570379169 Total prob of N-in:        0.02666
+2570379169	TMHMM2.0	outside	     1   335
+# 2570379170 Length: 398
+# 2570379170 Number of predicted TMHs:  0
+# 2570379170 Exp number of AAs in TMHs: 0.43768
+# 2570379170 Exp number, first 60 AAs:  0.00022
+# 2570379170 Total prob of N-in:        0.03732
+2570379170	TMHMM2.0	outside	     1   398
+# 2570379171 Length: 288
+# 2570379171 Number of predicted TMHs:  0
+# 2570379171 Exp number of AAs in TMHs: 0.00931999999999998
+# 2570379171 Exp number, first 60 AAs:  0.0045
+# 2570379171 Total prob of N-in:        0.01761
+2570379171	TMHMM2.0	outside	     1   288
+# 2570379172 Length: 265
+# 2570379172 Number of predicted TMHs:  0
+# 2570379172 Exp number of AAs in TMHs: 0.03052
+# 2570379172 Exp number, first 60 AAs:  0.00548
+# 2570379172 Total prob of N-in:        0.05531
+2570379172	TMHMM2.0	outside	     1   265
+# 2570379173 Length: 273
+# 2570379173 Number of predicted TMHs:  0
+# 2570379173 Exp number of AAs in TMHs: 0.34314
+# 2570379173 Exp number, first 60 AAs:  0.21309
+# 2570379173 Total prob of N-in:        0.25219
+2570379173	TMHMM2.0	outside	     1   273
+# 2570379174 Length: 299
+# 2570379174 Number of predicted TMHs:  8
+# 2570379174 Exp number of AAs in TMHs: 160.38352
+# 2570379174 Exp number, first 60 AAs:  26.60479
+# 2570379174 Total prob of N-in:        0.91205
+# 2570379174 POSSIBLE N-term signal sequence
+2570379174	TMHMM2.0	inside	     1    12
+2570379174	TMHMM2.0	TMhelix	    13    35
+2570379174	TMHMM2.0	outside	    36    57
+2570379174	TMHMM2.0	TMhelix	    58    80
+2570379174	TMHMM2.0	inside	    81   110
+2570379174	TMHMM2.0	TMhelix	   111   133
+2570379174	TMHMM2.0	outside	   134   142
+2570379174	TMHMM2.0	TMhelix	   143   162
+2570379174	TMHMM2.0	inside	   163   163
+2570379174	TMHMM2.0	TMhelix	   164   186
+2570379174	TMHMM2.0	outside	   187   209
+2570379174	TMHMM2.0	TMhelix	   210   229
+2570379174	TMHMM2.0	inside	   230   233
+2570379174	TMHMM2.0	TMhelix	   234   256
+2570379174	TMHMM2.0	outside	   257   275
+2570379174	TMHMM2.0	TMhelix	   276   298
+2570379174	TMHMM2.0	inside	   299   299
+# 2570379175 Length: 184
+# 2570379175 Number of predicted TMHs:  0
+# 2570379175 Exp number of AAs in TMHs: 0.03084
+# 2570379175 Exp number, first 60 AAs:  0.01775
+# 2570379175 Total prob of N-in:        0.10860
+2570379175	TMHMM2.0	outside	     1   184
+# 2570379176 Length: 239
+# 2570379176 Number of predicted TMHs:  0
+# 2570379176 Exp number of AAs in TMHs: 0.12293
+# 2570379176 Exp number, first 60 AAs:  0.01263
+# 2570379176 Total prob of N-in:        0.04363
+2570379176	TMHMM2.0	outside	     1   239
+# 2570379177 Length: 274
+# 2570379177 Number of predicted TMHs:  0
+# 2570379177 Exp number of AAs in TMHs: 0.01635
+# 2570379177 Exp number, first 60 AAs:  0.00454
+# 2570379177 Total prob of N-in:        0.11085
+2570379177	TMHMM2.0	outside	     1   274
+# 2570379178 Length: 269
+# 2570379178 Number of predicted TMHs:  0
+# 2570379178 Exp number of AAs in TMHs: 0.10252
+# 2570379178 Exp number, first 60 AAs:  0.00067
+# 2570379178 Total prob of N-in:        0.05315
+2570379178	TMHMM2.0	outside	     1   269
+# 2570379179 Length: 150
+# 2570379179 Number of predicted TMHs:  0
+# 2570379179 Exp number of AAs in TMHs: 0.33712
+# 2570379179 Exp number, first 60 AAs:  0.22312
+# 2570379179 Total prob of N-in:        0.39693
+2570379179	TMHMM2.0	outside	     1   150
+# 2570379180 Length: 212
+# 2570379180 Number of predicted TMHs:  0
+# 2570379180 Exp number of AAs in TMHs: 0.0429200000000001
+# 2570379180 Exp number, first 60 AAs:  0.0014
+# 2570379180 Total prob of N-in:        0.32186
+2570379180	TMHMM2.0	outside	     1   212
+# 2570379181 Length: 242
+# 2570379181 Number of predicted TMHs:  2
+# 2570379181 Exp number of AAs in TMHs: 51.75242
+# 2570379181 Exp number, first 60 AAs:  22.60384
+# 2570379181 Total prob of N-in:        0.55034
+# 2570379181 POSSIBLE N-term signal sequence
+2570379181	TMHMM2.0	inside	     1    19
+2570379181	TMHMM2.0	TMhelix	    20    42
+2570379181	TMHMM2.0	outside	    43   212
+2570379181	TMHMM2.0	TMhelix	   213   235
+2570379181	TMHMM2.0	inside	   236   242
+# 2570379182 Length: 235
+# 2570379182 Number of predicted TMHs:  1
+# 2570379182 Exp number of AAs in TMHs: 17.31135
+# 2570379182 Exp number, first 60 AAs:  17.3106
+# 2570379182 Total prob of N-in:        0.71793
+# 2570379182 POSSIBLE N-term signal sequence
+2570379182	TMHMM2.0	inside	     1     8
+2570379182	TMHMM2.0	TMhelix	     9    27
+2570379182	TMHMM2.0	outside	    28   235
+# 2570379183 Length: 229
+# 2570379183 Number of predicted TMHs:  1
+# 2570379183 Exp number of AAs in TMHs: 27.76245
+# 2570379183 Exp number, first 60 AAs:  27.76208
+# 2570379183 Total prob of N-in:        0.05872
+# 2570379183 POSSIBLE N-term signal sequence
+2570379183	TMHMM2.0	outside	     1    14
+2570379183	TMHMM2.0	TMhelix	    15    47
+2570379183	TMHMM2.0	inside	    48   229
+# 2570379189 Length: 410
+# 2570379189 Number of predicted TMHs:  0
+# 2570379189 Exp number of AAs in TMHs: 0.44725
+# 2570379189 Exp number, first 60 AAs:  0.00085
+# 2570379189 Total prob of N-in:        0.01531
+2570379189	TMHMM2.0	outside	     1   410
+# 2570379190 Length: 229
+# 2570379190 Number of predicted TMHs:  7
+# 2570379190 Exp number of AAs in TMHs: 145.68173
+# 2570379190 Exp number, first 60 AAs:  30.91537
+# 2570379190 Total prob of N-in:        0.97685
+# 2570379190 POSSIBLE N-term signal sequence
+2570379190	TMHMM2.0	inside	     1    19
+2570379190	TMHMM2.0	TMhelix	    20    37
+2570379190	TMHMM2.0	outside	    38    51
+2570379190	TMHMM2.0	TMhelix	    52    74
+2570379190	TMHMM2.0	inside	    75    86
+2570379190	TMHMM2.0	TMhelix	    87   107
+2570379190	TMHMM2.0	outside	   108   121
+2570379190	TMHMM2.0	TMhelix	   122   144
+2570379190	TMHMM2.0	inside	   145   150
+2570379190	TMHMM2.0	TMhelix	   151   170
+2570379190	TMHMM2.0	outside	   171   173
+2570379190	TMHMM2.0	TMhelix	   174   193
+2570379190	TMHMM2.0	inside	   194   199
+2570379190	TMHMM2.0	TMhelix	   200   219
+2570379190	TMHMM2.0	outside	   220   229
+# 2570379191 Length: 177
+# 2570379191 Number of predicted TMHs:  1
+# 2570379191 Exp number of AAs in TMHs: 17.58223
+# 2570379191 Exp number, first 60 AAs:  0.52926
+# 2570379191 Total prob of N-in:        0.02891
+2570379191	TMHMM2.0	outside	     1    59
+2570379191	TMHMM2.0	TMhelix	    60    82
+2570379191	TMHMM2.0	inside	    83   177
+# 2570379192 Length: 112
+# 2570379192 Number of predicted TMHs:  0
+# 2570379192 Exp number of AAs in TMHs: 0
+# 2570379192 Exp number, first 60 AAs:  0
+# 2570379192 Total prob of N-in:        0.56116
+2570379192	TMHMM2.0	inside	     1   112
+# 2570379193 Length: 113
+# 2570379193 Number of predicted TMHs:  0
+# 2570379193 Exp number of AAs in TMHs: 0.00513
+# 2570379193 Exp number, first 60 AAs:  7e-05
+# 2570379193 Total prob of N-in:        0.17597
+2570379193	TMHMM2.0	outside	     1   113
+# 2570379194 Length: 99
+# 2570379194 Number of predicted TMHs:  0
+# 2570379194 Exp number of AAs in TMHs: 0.00677
+# 2570379194 Exp number, first 60 AAs:  0.00526
+# 2570379194 Total prob of N-in:        0.29262
+2570379194	TMHMM2.0	outside	     1    99
+# 2570379195 Length: 104
+# 2570379195 Number of predicted TMHs:  0
+# 2570379195 Exp number of AAs in TMHs: 0
+# 2570379195 Exp number, first 60 AAs:  0
+# 2570379195 Total prob of N-in:        0.24229
+2570379195	TMHMM2.0	outside	     1   104
+# 2570379196 Length: 45
+# 2570379196 Number of predicted TMHs:  0
+# 2570379196 Exp number of AAs in TMHs: 0.00339
+# 2570379196 Exp number, first 60 AAs:  0.00339
+# 2570379196 Total prob of N-in:        0.57299
+2570379196	TMHMM2.0	inside	     1    45
+# 2570379197 Length: 46
+# 2570379197 Number of predicted TMHs:  1
+# 2570379197 Exp number of AAs in TMHs: 22.44462
+# 2570379197 Exp number, first 60 AAs:  22.44462
+# 2570379197 Total prob of N-in:        0.71938
+# 2570379197 POSSIBLE N-term signal sequence
+2570379197	TMHMM2.0	inside	     1    11
+2570379197	TMHMM2.0	TMhelix	    12    34
+2570379197	TMHMM2.0	outside	    35    46
+# 2570379198 Length: 41
+# 2570379198 Number of predicted TMHs:  0
+# 2570379198 Exp number of AAs in TMHs: 0
+# 2570379198 Exp number, first 60 AAs:  0
+# 2570379198 Total prob of N-in:        0.35773
+2570379198	TMHMM2.0	outside	     1    41
+# 2570379199 Length: 103
+# 2570379199 Number of predicted TMHs:  1
+# 2570379199 Exp number of AAs in TMHs: 20.38532
+# 2570379199 Exp number, first 60 AAs:  20.38528
+# 2570379199 Total prob of N-in:        0.79437
+# 2570379199 POSSIBLE N-term signal sequence
+2570379199	TMHMM2.0	inside	     1     6
+2570379199	TMHMM2.0	TMhelix	     7    26
+2570379199	TMHMM2.0	outside	    27   103
+# 2570379200 Length: 245
+# 2570379200 Number of predicted TMHs:  1
+# 2570379200 Exp number of AAs in TMHs: 21.36689
+# 2570379200 Exp number, first 60 AAs:  21.36647
+# 2570379200 Total prob of N-in:        0.99597
+# 2570379200 POSSIBLE N-term signal sequence
+2570379200	TMHMM2.0	inside	     1    12
+2570379200	TMHMM2.0	TMhelix	    13    35
+2570379200	TMHMM2.0	outside	    36   245
+# 2570379201 Length: 114
+# 2570379201 Number of predicted TMHs:  0
+# 2570379201 Exp number of AAs in TMHs: 0
+# 2570379201 Exp number, first 60 AAs:  0
+# 2570379201 Total prob of N-in:        0.01527
+2570379201	TMHMM2.0	outside	     1   114
+# 2570379202 Length: 125
+# 2570379202 Number of predicted TMHs:  2
+# 2570379202 Exp number of AAs in TMHs: 44.80692
+# 2570379202 Exp number, first 60 AAs:  29.68277
+# 2570379202 Total prob of N-in:        0.44300
+# 2570379202 POSSIBLE N-term signal sequence
+2570379202	TMHMM2.0	inside	     1    20
+2570379202	TMHMM2.0	TMhelix	    21    43
+2570379202	TMHMM2.0	outside	    44    52
+2570379202	TMHMM2.0	TMhelix	    53    75
+2570379202	TMHMM2.0	inside	    76   125
+# 2570379203 Length: 136
+# 2570379203 Number of predicted TMHs:  0
+# 2570379203 Exp number of AAs in TMHs: 0
+# 2570379203 Exp number, first 60 AAs:  0
+# 2570379203 Total prob of N-in:        0.10175
+2570379203	TMHMM2.0	outside	     1   136
+# 2570379204 Length: 111
+# 2570379204 Number of predicted TMHs:  0
+# 2570379204 Exp number of AAs in TMHs: 0
+# 2570379204 Exp number, first 60 AAs:  0
+# 2570379204 Total prob of N-in:        0.27786
+2570379204	TMHMM2.0	outside	     1   111
+# 2570379205 Length: 129
+# 2570379205 Number of predicted TMHs:  0
+# 2570379205 Exp number of AAs in TMHs: 0.00709
+# 2570379205 Exp number, first 60 AAs:  0
+# 2570379205 Total prob of N-in:        0.28339
+2570379205	TMHMM2.0	outside	     1   129
+# 2570379206 Length: 126
+# 2570379206 Number of predicted TMHs:  0
+# 2570379206 Exp number of AAs in TMHs: 0.0102
+# 2570379206 Exp number, first 60 AAs:  3e-05
+# 2570379206 Total prob of N-in:        0.44333
+2570379206	TMHMM2.0	outside	     1   126
+# 2570379207 Length: 161
+# 2570379207 Number of predicted TMHs:  1
+# 2570379207 Exp number of AAs in TMHs: 18.9873
+# 2570379207 Exp number, first 60 AAs:  18.98216
+# 2570379207 Total prob of N-in:        0.13015
+# 2570379207 POSSIBLE N-term signal sequence
+2570379207	TMHMM2.0	outside	     1     9
+2570379207	TMHMM2.0	TMhelix	    10    27
+2570379207	TMHMM2.0	inside	    28   161
+# 2570379208 Length: 129
+# 2570379208 Number of predicted TMHs:  0
+# 2570379208 Exp number of AAs in TMHs: 0.000780000000000001
+# 2570379208 Exp number, first 60 AAs:  0.0004
+# 2570379208 Total prob of N-in:        0.56597
+2570379208	TMHMM2.0	inside	     1   129
+# 2570379209 Length: 69
+# 2570379209 Number of predicted TMHs:  0
+# 2570379209 Exp number of AAs in TMHs: 0
+# 2570379209 Exp number, first 60 AAs:  0
+# 2570379209 Total prob of N-in:        0.39035
+2570379209	TMHMM2.0	outside	     1    69
+# 2570379210 Length: 170
+# 2570379210 Number of predicted TMHs:  1
+# 2570379210 Exp number of AAs in TMHs: 22.8784
+# 2570379210 Exp number, first 60 AAs:  22.87804
+# 2570379210 Total prob of N-in:        0.57992
+# 2570379210 POSSIBLE N-term signal sequence
+2570379210	TMHMM2.0	inside	     1    12
+2570379210	TMHMM2.0	TMhelix	    13    35
+2570379210	TMHMM2.0	outside	    36   170
+# 2570379211 Length: 72
+# 2570379211 Number of predicted TMHs:  0
+# 2570379211 Exp number of AAs in TMHs: 0.0119
+# 2570379211 Exp number, first 60 AAs:  0.01133
+# 2570379211 Total prob of N-in:        0.70627
+2570379211	TMHMM2.0	inside	     1    72
+# 2570379212 Length: 90
+# 2570379212 Number of predicted TMHs:  0
+# 2570379212 Exp number of AAs in TMHs: 26.14964
+# 2570379212 Exp number, first 60 AAs:  26.01851
+# 2570379212 Total prob of N-in:        0.55789
+# 2570379212 POSSIBLE N-term signal sequence
+2570379212	TMHMM2.0	outside	     1    90
+# 2570379213 Length: 47
+# 2570379213 Number of predicted TMHs:  0
+# 2570379213 Exp number of AAs in TMHs: 0
+# 2570379213 Exp number, first 60 AAs:  0
+# 2570379213 Total prob of N-in:        0.75429
+2570379213	TMHMM2.0	inside	     1    47
+# 2570379214 Length: 110
+# 2570379214 Number of predicted TMHs:  0
+# 2570379214 Exp number of AAs in TMHs: 0.00015
+# 2570379214 Exp number, first 60 AAs:  0.00015
+# 2570379214 Total prob of N-in:        0.43927
+2570379214	TMHMM2.0	outside	     1   110
+# 2570379215 Length: 83
+# 2570379215 Number of predicted TMHs:  0
+# 2570379215 Exp number of AAs in TMHs: 0.00044
+# 2570379215 Exp number, first 60 AAs:  0.00038
+# 2570379215 Total prob of N-in:        0.43432
+2570379215	TMHMM2.0	outside	     1    83
+# 2570379216 Length: 125
+# 2570379216 Number of predicted TMHs:  0
+# 2570379216 Exp number of AAs in TMHs: 6e-05
+# 2570379216 Exp number, first 60 AAs:  0
+# 2570379216 Total prob of N-in:        0.26561
+2570379216	TMHMM2.0	outside	     1   125
+# 2570379217 Length: 115
+# 2570379217 Number of predicted TMHs:  0
+# 2570379217 Exp number of AAs in TMHs: 0.00101
+# 2570379217 Exp number, first 60 AAs:  0.00019
+# 2570379217 Total prob of N-in:        0.26451
+2570379217	TMHMM2.0	outside	     1   115
+# 2570379218 Length: 175
+# 2570379218 Number of predicted TMHs:  0
+# 2570379218 Exp number of AAs in TMHs: 0.02887
+# 2570379218 Exp number, first 60 AAs:  0.00527
+# 2570379218 Total prob of N-in:        0.25698
+2570379218	TMHMM2.0	outside	     1   175
+# 2570379219 Length: 70
+# 2570379219 Number of predicted TMHs:  0
+# 2570379219 Exp number of AAs in TMHs: 0.04152
+# 2570379219 Exp number, first 60 AAs:  0.04132
+# 2570379219 Total prob of N-in:        0.82192
+2570379219	TMHMM2.0	inside	     1    70
+# 2570379220 Length: 71
+# 2570379220 Number of predicted TMHs:  0
+# 2570379220 Exp number of AAs in TMHs: 0
+# 2570379220 Exp number, first 60 AAs:  0
+# 2570379220 Total prob of N-in:        0.40345
+2570379220	TMHMM2.0	outside	     1    71
+# 2570379221 Length: 58
+# 2570379221 Number of predicted TMHs:  0
+# 2570379221 Exp number of AAs in TMHs: 0
+# 2570379221 Exp number, first 60 AAs:  0
+# 2570379221 Total prob of N-in:        0.11542
+2570379221	TMHMM2.0	outside	     1    58
+# 2570379222 Length: 155
+# 2570379222 Number of predicted TMHs:  0
+# 2570379222 Exp number of AAs in TMHs: 0.00562
+# 2570379222 Exp number, first 60 AAs:  0
+# 2570379222 Total prob of N-in:        0.21010
+2570379222	TMHMM2.0	outside	     1   155
+# 2570379223 Length: 101
+# 2570379223 Number of predicted TMHs:  0
+# 2570379223 Exp number of AAs in TMHs: 0
+# 2570379223 Exp number, first 60 AAs:  0
+# 2570379223 Total prob of N-in:        0.44527
+2570379223	TMHMM2.0	outside	     1   101
+# 2570379224 Length: 87
+# 2570379224 Number of predicted TMHs:  0
+# 2570379224 Exp number of AAs in TMHs: 0.00558
+# 2570379224 Exp number, first 60 AAs:  0.00037
+# 2570379224 Total prob of N-in:        0.28222
+2570379224	TMHMM2.0	outside	     1    87
+# 2570379225 Length: 201
+# 2570379225 Number of predicted TMHs:  0
+# 2570379225 Exp number of AAs in TMHs: 0.00806999999999999
+# 2570379225 Exp number, first 60 AAs:  0.00374
+# 2570379225 Total prob of N-in:        0.09368
+2570379225	TMHMM2.0	outside	     1   201
+# 2570379226 Length: 203
+# 2570379226 Number of predicted TMHs:  0
+# 2570379226 Exp number of AAs in TMHs: 0.16577
+# 2570379226 Exp number, first 60 AAs:  0.01827
+# 2570379226 Total prob of N-in:        0.10174
+2570379226	TMHMM2.0	outside	     1   203
+# 2570379227 Length: 47
+# 2570379227 Number of predicted TMHs:  0
+# 2570379227 Exp number of AAs in TMHs: 0
+# 2570379227 Exp number, first 60 AAs:  0
+# 2570379227 Total prob of N-in:        0.82003
+2570379227	TMHMM2.0	inside	     1    47
+# 2570379228 Length: 170
+# 2570379228 Number of predicted TMHs:  0
+# 2570379228 Exp number of AAs in TMHs: 0.01747
+# 2570379228 Exp number, first 60 AAs:  0.00082
+# 2570379228 Total prob of N-in:        0.02593
+2570379228	TMHMM2.0	outside	     1   170
+# 2570379229 Length: 127
+# 2570379229 Number of predicted TMHs:  0
+# 2570379229 Exp number of AAs in TMHs: 1.03231
+# 2570379229 Exp number, first 60 AAs:  0.55953
+# 2570379229 Total prob of N-in:        0.05353
+2570379229	TMHMM2.0	outside	     1   127
+# 2570379230 Length: 87
+# 2570379230 Number of predicted TMHs:  1
+# 2570379230 Exp number of AAs in TMHs: 19.94644
+# 2570379230 Exp number, first 60 AAs:  19.94644
+# 2570379230 Total prob of N-in:        0.16356
+# 2570379230 POSSIBLE N-term signal sequence
+2570379230	TMHMM2.0	outside	     1     9
+2570379230	TMHMM2.0	TMhelix	    10    27
+2570379230	TMHMM2.0	inside	    28    87
+# 2570379231 Length: 196
+# 2570379231 Number of predicted TMHs:  2
+# 2570379231 Exp number of AAs in TMHs: 43.46608
+# 2570379231 Exp number, first 60 AAs:  38.87568
+# 2570379231 Total prob of N-in:        0.23177
+# 2570379231 POSSIBLE N-term signal sequence
+2570379231	TMHMM2.0	inside	     1     6
+2570379231	TMHMM2.0	TMhelix	     7    28
+2570379231	TMHMM2.0	outside	    29    42
+2570379231	TMHMM2.0	TMhelix	    43    65
+2570379231	TMHMM2.0	inside	    66   196
+# 2570379232 Length: 558
+# 2570379232 Number of predicted TMHs:  1
+# 2570379232 Exp number of AAs in TMHs: 19.4594
+# 2570379232 Exp number, first 60 AAs:  0
+# 2570379232 Total prob of N-in:        0.01728
+2570379232	TMHMM2.0	outside	     1   522
+2570379232	TMHMM2.0	TMhelix	   523   545
+2570379232	TMHMM2.0	inside	   546   558
+# 2570379233 Length: 218
+# 2570379233 Number of predicted TMHs:  0
+# 2570379233 Exp number of AAs in TMHs: 0.00407
+# 2570379233 Exp number, first 60 AAs:  0.00362
+# 2570379233 Total prob of N-in:        0.06892
+2570379233	TMHMM2.0	outside	     1   218
+# 2570379234 Length: 104
+# 2570379234 Number of predicted TMHs:  0
+# 2570379234 Exp number of AAs in TMHs: 0
+# 2570379234 Exp number, first 60 AAs:  0
+# 2570379234 Total prob of N-in:        0.24014
+2570379234	TMHMM2.0	outside	     1   104
+# 2570379235 Length: 110
+# 2570379235 Number of predicted TMHs:  0
+# 2570379235 Exp number of AAs in TMHs: 0.00015
+# 2570379235 Exp number, first 60 AAs:  0.00015
+# 2570379235 Total prob of N-in:        0.43927
+2570379235	TMHMM2.0	outside	     1   110
+# 2570379236 Length: 47
+# 2570379236 Number of predicted TMHs:  0
+# 2570379236 Exp number of AAs in TMHs: 0
+# 2570379236 Exp number, first 60 AAs:  0
+# 2570379236 Total prob of N-in:        0.72854
+2570379236	TMHMM2.0	inside	     1    47
+# 2570379237 Length: 120
+# 2570379237 Number of predicted TMHs:  1
+# 2570379237 Exp number of AAs in TMHs: 21.88771
+# 2570379237 Exp number, first 60 AAs:  21.88771
+# 2570379237 Total prob of N-in:        0.94286
+# 2570379237 POSSIBLE N-term signal sequence
+2570379237	TMHMM2.0	inside	     1    11
+2570379237	TMHMM2.0	TMhelix	    12    34
+2570379237	TMHMM2.0	outside	    35   120
+# 2570379238 Length: 93
+# 2570379238 Number of predicted TMHs:  1
+# 2570379238 Exp number of AAs in TMHs: 22.76434
+# 2570379238 Exp number, first 60 AAs:  22.76434
+# 2570379238 Total prob of N-in:        0.48699
+# 2570379238 POSSIBLE N-term signal sequence
+2570379238	TMHMM2.0	outside	     1     9
+2570379238	TMHMM2.0	TMhelix	    10    32
+2570379238	TMHMM2.0	inside	    33    93
+# 2570379239 Length: 270
+# 2570379239 Number of predicted TMHs:  1
+# 2570379239 Exp number of AAs in TMHs: 22.8573
+# 2570379239 Exp number, first 60 AAs:  22.8573
+# 2570379239 Total prob of N-in:        0.99962
+# 2570379239 POSSIBLE N-term signal sequence
+2570379239	TMHMM2.0	inside	     1    20
+2570379239	TMHMM2.0	TMhelix	    21    43
+2570379239	TMHMM2.0	outside	    44   270
+# 2570379240 Length: 308
+# 2570379240 Number of predicted TMHs:  1
+# 2570379240 Exp number of AAs in TMHs: 21.36944
+# 2570379240 Exp number, first 60 AAs:  21.36017
+# 2570379240 Total prob of N-in:        0.87509
+# 2570379240 POSSIBLE N-term signal sequence
+2570379240	TMHMM2.0	inside	     1     6
+2570379240	TMHMM2.0	TMhelix	     7    29
+2570379240	TMHMM2.0	outside	    30   308
+# 2570379241 Length: 61
+# 2570379241 Number of predicted TMHs:  1
+# 2570379241 Exp number of AAs in TMHs: 21.61378
+# 2570379241 Exp number, first 60 AAs:  21.61378
+# 2570379241 Total prob of N-in:        0.71662
+# 2570379241 POSSIBLE N-term signal sequence
+2570379241	TMHMM2.0	outside	     1     5
+2570379241	TMHMM2.0	TMhelix	     6    28
+2570379241	TMHMM2.0	inside	    29    61

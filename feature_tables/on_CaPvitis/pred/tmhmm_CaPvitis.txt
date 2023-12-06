@@ -1,0 +1,4043 @@
+# USQ93624.1 Length: 117
+# USQ93624.1 Number of predicted TMHs:  0
+# USQ93624.1 Exp number of AAs in TMHs: 0.00673999999999999
+# USQ93624.1 Exp number, first 60 AAs:  0.00657
+# USQ93624.1 Total prob of N-in:        0.26976
+USQ93624.1	TMHMM2.0	outside	     1   117
+# USQ93623.1 Length: 837
+# USQ93623.1 Number of predicted TMHs:  0
+# USQ93623.1 Exp number of AAs in TMHs: 0.0330100000000002
+# USQ93623.1 Exp number, first 60 AAs:  0
+# USQ93623.1 Total prob of N-in:        0.00152
+USQ93623.1	TMHMM2.0	outside	     1   837
+# USQ93622.1 Length: 337
+# USQ93622.1 Number of predicted TMHs:  0
+# USQ93622.1 Exp number of AAs in TMHs: 1.32926
+# USQ93622.1 Exp number, first 60 AAs:  1.19661
+# USQ93622.1 Total prob of N-in:        0.10298
+USQ93622.1	TMHMM2.0	outside	     1   337
+# USQ93621.1 Length: 979
+# USQ93621.1 Number of predicted TMHs:  0
+# USQ93621.1 Exp number of AAs in TMHs: 0.0456900000000001
+# USQ93621.1 Exp number, first 60 AAs:  0
+# USQ93621.1 Total prob of N-in:        0.00161
+USQ93621.1	TMHMM2.0	outside	     1   979
+# USQ93620.1 Length: 154
+# USQ93620.1 Number of predicted TMHs:  0
+# USQ93620.1 Exp number of AAs in TMHs: 0.000910000000000001
+# USQ93620.1 Exp number, first 60 AAs:  0.00056
+# USQ93620.1 Total prob of N-in:        0.08652
+USQ93620.1	TMHMM2.0	outside	     1   154
+# USQ93619.1 Length: 347
+# USQ93619.1 Number of predicted TMHs:  0
+# USQ93619.1 Exp number of AAs in TMHs: 0.0329200000000001
+# USQ93619.1 Exp number, first 60 AAs:  0.0163
+# USQ93619.1 Total prob of N-in:        0.01493
+USQ93619.1	TMHMM2.0	outside	     1   347
+# USQ93618.1 Length: 208
+# USQ93618.1 Number of predicted TMHs:  0
+# USQ93618.1 Exp number of AAs in TMHs: 0.00279
+# USQ93618.1 Exp number, first 60 AAs:  0.0002
+# USQ93618.1 Total prob of N-in:        0.10622
+USQ93618.1	TMHMM2.0	outside	     1   208
+# USQ93617.1 Length: 89
+# USQ93617.1 Number of predicted TMHs:  0
+# USQ93617.1 Exp number of AAs in TMHs: 0.0029
+# USQ93617.1 Exp number, first 60 AAs:  0.0029
+# USQ93617.1 Total prob of N-in:        0.69819
+USQ93617.1	TMHMM2.0	inside	     1    89
+# USQ93616.1 Length: 114
+# USQ93616.1 Number of predicted TMHs:  0
+# USQ93616.1 Exp number of AAs in TMHs: 0.00016
+# USQ93616.1 Exp number, first 60 AAs:  0.00016
+# USQ93616.1 Total prob of N-in:        0.25127
+USQ93616.1	TMHMM2.0	outside	     1   114
+# USQ93615.1 Length: 125
+# USQ93615.1 Number of predicted TMHs:  0
+# USQ93615.1 Exp number of AAs in TMHs: 0.17147
+# USQ93615.1 Exp number, first 60 AAs:  0
+# USQ93615.1 Total prob of N-in:        0.09110
+USQ93615.1	TMHMM2.0	outside	     1   125
+# USQ93614.1 Length: 176
+# USQ93614.1 Number of predicted TMHs:  0
+# USQ93614.1 Exp number of AAs in TMHs: 0.01456
+# USQ93614.1 Exp number, first 60 AAs:  0.00145
+# USQ93614.1 Total prob of N-in:        0.45460
+USQ93614.1	TMHMM2.0	outside	     1   176
+# USQ93613.1 Length: 1070
+# USQ93613.1 Number of predicted TMHs:  0
+# USQ93613.1 Exp number of AAs in TMHs: 0.02473
+# USQ93613.1 Exp number, first 60 AAs:  0
+# USQ93613.1 Total prob of N-in:        0.00094
+USQ93613.1	TMHMM2.0	outside	     1  1070
+# USQ93612.1 Length: 395
+# USQ93612.1 Number of predicted TMHs:  0
+# USQ93612.1 Exp number of AAs in TMHs: 1.75375
+# USQ93612.1 Exp number, first 60 AAs:  0.00032
+# USQ93612.1 Total prob of N-in:        0.06069
+USQ93612.1	TMHMM2.0	outside	     1   395
+# USQ93611.1 Length: 27
+# USQ93611.1 Number of predicted TMHs:  0
+# USQ93611.1 Exp number of AAs in TMHs: 0.0011
+# USQ93611.1 Exp number, first 60 AAs:  0.0011
+# USQ93611.1 Total prob of N-in:        0.13909
+USQ93611.1	TMHMM2.0	outside	     1    27
+# USQ93610.1 Length: 827
+# USQ93610.1 Number of predicted TMHs:  0
+# USQ93610.1 Exp number of AAs in TMHs: 0.04769
+# USQ93610.1 Exp number, first 60 AAs:  0
+# USQ93610.1 Total prob of N-in:        0.00108
+USQ93610.1	TMHMM2.0	outside	     1   827
+# USQ93609.1 Length: 229
+# USQ93609.1 Number of predicted TMHs:  0
+# USQ93609.1 Exp number of AAs in TMHs: 0.11722
+# USQ93609.1 Exp number, first 60 AAs:  0
+# USQ93609.1 Total prob of N-in:        0.30678
+USQ93609.1	TMHMM2.0	outside	     1   229
+# USQ93608.1 Length: 152
+# USQ93608.1 Number of predicted TMHs:  0
+# USQ93608.1 Exp number of AAs in TMHs: 0.00627
+# USQ93608.1 Exp number, first 60 AAs:  0.00033
+# USQ93608.1 Total prob of N-in:        0.18787
+USQ93608.1	TMHMM2.0	outside	     1   152
+# USQ93607.1 Length: 460
+# USQ93607.1 Number of predicted TMHs:  1
+# USQ93607.1 Exp number of AAs in TMHs: 20.74673
+# USQ93607.1 Exp number, first 60 AAs:  20.74388
+# USQ93607.1 Total prob of N-in:        0.95485
+# USQ93607.1 POSSIBLE N-term signal sequence
+USQ93607.1	TMHMM2.0	inside	     1    11
+USQ93607.1	TMHMM2.0	TMhelix	    12    31
+USQ93607.1	TMHMM2.0	outside	    32   460
+# USQ93606.1 Length: 266
+# USQ93606.1 Number of predicted TMHs:  1
+# USQ93606.1 Exp number of AAs in TMHs: 22.94661
+# USQ93606.1 Exp number, first 60 AAs:  22.94661
+# USQ93606.1 Total prob of N-in:        0.99020
+# USQ93606.1 POSSIBLE N-term signal sequence
+USQ93606.1	TMHMM2.0	inside	     1     6
+USQ93606.1	TMHMM2.0	TMhelix	     7    29
+USQ93606.1	TMHMM2.0	outside	    30   266
+# USQ93605.1 Length: 493
+# USQ93605.1 Number of predicted TMHs:  1
+# USQ93605.1 Exp number of AAs in TMHs: 22.8203999999999
+# USQ93605.1 Exp number, first 60 AAs:  22.72505
+# USQ93605.1 Total prob of N-in:        0.96308
+# USQ93605.1 POSSIBLE N-term signal sequence
+USQ93605.1	TMHMM2.0	inside	     1    19
+USQ93605.1	TMHMM2.0	TMhelix	    20    42
+USQ93605.1	TMHMM2.0	outside	    43   493
+# USQ93604.1 Length: 1503
+# USQ93604.1 Number of predicted TMHs:  1
+# USQ93604.1 Exp number of AAs in TMHs: 22.60539
+# USQ93604.1 Exp number, first 60 AAs:  22.5988
+# USQ93604.1 Total prob of N-in:        0.99994
+# USQ93604.1 POSSIBLE N-term signal sequence
+USQ93604.1	TMHMM2.0	inside	     1    12
+USQ93604.1	TMHMM2.0	TMhelix	    13    35
+USQ93604.1	TMHMM2.0	outside	    36  1503
+# USQ93603.1 Length: 213
+# USQ93603.1 Number of predicted TMHs:  1
+# USQ93603.1 Exp number of AAs in TMHs: 26.95574
+# USQ93603.1 Exp number, first 60 AAs:  20.41863
+# USQ93603.1 Total prob of N-in:        0.99739
+# USQ93603.1 POSSIBLE N-term signal sequence
+USQ93603.1	TMHMM2.0	inside	     1    12
+USQ93603.1	TMHMM2.0	TMhelix	    13    32
+USQ93603.1	TMHMM2.0	outside	    33   213
+# USQ93602.1 Length: 104
+# USQ93602.1 Number of predicted TMHs:  1
+# USQ93602.1 Exp number of AAs in TMHs: 20.64921
+# USQ93602.1 Exp number, first 60 AAs:  20.64921
+# USQ93602.1 Total prob of N-in:        0.12138
+# USQ93602.1 POSSIBLE N-term signal sequence
+USQ93602.1	TMHMM2.0	outside	     1     9
+USQ93602.1	TMHMM2.0	TMhelix	    10    30
+USQ93602.1	TMHMM2.0	inside	    31   104
+# USQ93601.1 Length: 299
+# USQ93601.1 Number of predicted TMHs:  1
+# USQ93601.1 Exp number of AAs in TMHs: 18.88287
+# USQ93601.1 Exp number, first 60 AAs:  18.8792
+# USQ93601.1 Total prob of N-in:        0.09810
+# USQ93601.1 POSSIBLE N-term signal sequence
+USQ93601.1	TMHMM2.0	outside	     1     9
+USQ93601.1	TMHMM2.0	TMhelix	    10    27
+USQ93601.1	TMHMM2.0	inside	    28   299
+# USQ93600.1 Length: 160
+# USQ93600.1 Number of predicted TMHs:  0
+# USQ93600.1 Exp number of AAs in TMHs: 0.0008
+# USQ93600.1 Exp number, first 60 AAs:  0
+# USQ93600.1 Total prob of N-in:        0.44523
+USQ93600.1	TMHMM2.0	outside	     1   160
+# USQ93599.1 Length: 51
+# USQ93599.1 Number of predicted TMHs:  0
+# USQ93599.1 Exp number of AAs in TMHs: 0.13617
+# USQ93599.1 Exp number, first 60 AAs:  0.13617
+# USQ93599.1 Total prob of N-in:        0.54064
+USQ93599.1	TMHMM2.0	inside	     1    51
+# USQ93598.1 Length: 332
+# USQ93598.1 Number of predicted TMHs:  0
+# USQ93598.1 Exp number of AAs in TMHs: 0.00601999999999999
+# USQ93598.1 Exp number, first 60 AAs:  0.0054
+# USQ93598.1 Total prob of N-in:        0.02771
+USQ93598.1	TMHMM2.0	outside	     1   332
+# USQ93597.1 Length: 73
+# USQ93597.1 Number of predicted TMHs:  0
+# USQ93597.1 Exp number of AAs in TMHs: 0
+# USQ93597.1 Exp number, first 60 AAs:  0
+# USQ93597.1 Total prob of N-in:        0.90761
+USQ93597.1	TMHMM2.0	inside	     1    73
+# USQ93596.1 Length: 391
+# USQ93596.1 Number of predicted TMHs:  1
+# USQ93596.1 Exp number of AAs in TMHs: 19.71605
+# USQ93596.1 Exp number, first 60 AAs:  19.71605
+# USQ93596.1 Total prob of N-in:        0.99777
+# USQ93596.1 POSSIBLE N-term signal sequence
+USQ93596.1	TMHMM2.0	inside	     1     6
+USQ93596.1	TMHMM2.0	TMhelix	     7    26
+USQ93596.1	TMHMM2.0	outside	    27   391
+# USQ93595.1 Length: 277
+# USQ93595.1 Number of predicted TMHs:  1
+# USQ93595.1 Exp number of AAs in TMHs: 19.72079
+# USQ93595.1 Exp number, first 60 AAs:  19.72079
+# USQ93595.1 Total prob of N-in:        0.99197
+# USQ93595.1 POSSIBLE N-term signal sequence
+USQ93595.1	TMHMM2.0	inside	     1     6
+USQ93595.1	TMHMM2.0	TMhelix	     7    26
+USQ93595.1	TMHMM2.0	outside	    27   277
+# USQ93594.1 Length: 601
+# USQ93594.1 Number of predicted TMHs:  1
+# USQ93594.1 Exp number of AAs in TMHs: 18.72339
+# USQ93594.1 Exp number, first 60 AAs:  18.72293
+# USQ93594.1 Total prob of N-in:        0.99909
+# USQ93594.1 POSSIBLE N-term signal sequence
+USQ93594.1	TMHMM2.0	inside	     1    12
+USQ93594.1	TMHMM2.0	TMhelix	    13    30
+USQ93594.1	TMHMM2.0	outside	    31   601
+# USQ93593.1 Length: 584
+# USQ93593.1 Number of predicted TMHs:  1
+# USQ93593.1 Exp number of AAs in TMHs: 33.7673000000001
+# USQ93593.1 Exp number, first 60 AAs:  17.46324
+# USQ93593.1 Total prob of N-in:        0.93525
+# USQ93593.1 POSSIBLE N-term signal sequence
+USQ93593.1	TMHMM2.0	inside	     1    11
+USQ93593.1	TMHMM2.0	TMhelix	    12    26
+USQ93593.1	TMHMM2.0	outside	    27   584
+# USQ93592.1 Length: 52
+# USQ93592.1 Number of predicted TMHs:  0
+# USQ93592.1 Exp number of AAs in TMHs: 0
+# USQ93592.1 Exp number, first 60 AAs:  0
+# USQ93592.1 Total prob of N-in:        0.60612
+USQ93592.1	TMHMM2.0	inside	     1    52
+# USQ93591.1 Length: 140
+# USQ93591.1 Number of predicted TMHs:  0
+# USQ93591.1 Exp number of AAs in TMHs: 0
+# USQ93591.1 Exp number, first 60 AAs:  0
+# USQ93591.1 Total prob of N-in:        0.13803
+USQ93591.1	TMHMM2.0	outside	     1   140
+# USQ93590.1 Length: 170
+# USQ93590.1 Number of predicted TMHs:  1
+# USQ93590.1 Exp number of AAs in TMHs: 22.67248
+# USQ93590.1 Exp number, first 60 AAs:  22.67139
+# USQ93590.1 Total prob of N-in:        0.59215
+# USQ93590.1 POSSIBLE N-term signal sequence
+USQ93590.1	TMHMM2.0	inside	     1    12
+USQ93590.1	TMHMM2.0	TMhelix	    13    35
+USQ93590.1	TMHMM2.0	outside	    36   170
+# USQ93589.1 Length: 495
+# USQ93589.1 Number of predicted TMHs:  10
+# USQ93589.1 Exp number of AAs in TMHs: 251.92068
+# USQ93589.1 Exp number, first 60 AAs:  26.48186
+# USQ93589.1 Total prob of N-in:        0.99009
+# USQ93589.1 POSSIBLE N-term signal sequence
+USQ93589.1	TMHMM2.0	inside	     1    19
+USQ93589.1	TMHMM2.0	TMhelix	    20    42
+USQ93589.1	TMHMM2.0	outside	    43    56
+USQ93589.1	TMHMM2.0	TMhelix	    57    79
+USQ93589.1	TMHMM2.0	inside	    80    85
+USQ93589.1	TMHMM2.0	TMhelix	    86   108
+USQ93589.1	TMHMM2.0	outside	   109   161
+USQ93589.1	TMHMM2.0	TMhelix	   162   184
+USQ93589.1	TMHMM2.0	inside	   185   204
+USQ93589.1	TMHMM2.0	TMhelix	   205   227
+USQ93589.1	TMHMM2.0	outside	   228   241
+USQ93589.1	TMHMM2.0	TMhelix	   242   261
+USQ93589.1	TMHMM2.0	inside	   262   305
+USQ93589.1	TMHMM2.0	TMhelix	   306   328
+USQ93589.1	TMHMM2.0	outside	   329   342
+USQ93589.1	TMHMM2.0	TMhelix	   343   365
+USQ93589.1	TMHMM2.0	inside	   366   404
+USQ93589.1	TMHMM2.0	TMhelix	   405   427
+USQ93589.1	TMHMM2.0	outside	   428   470
+USQ93589.1	TMHMM2.0	TMhelix	   471   493
+USQ93589.1	TMHMM2.0	inside	   494   495
+# USQ93588.1 Length: 172
+# USQ93588.1 Number of predicted TMHs:  0
+# USQ93588.1 Exp number of AAs in TMHs: 0.04209
+# USQ93588.1 Exp number, first 60 AAs:  0.00119
+# USQ93588.1 Total prob of N-in:        0.05041
+USQ93588.1	TMHMM2.0	outside	     1   172
+# USQ93587.1 Length: 314
+# USQ93587.1 Number of predicted TMHs:  1
+# USQ93587.1 Exp number of AAs in TMHs: 21.04924
+# USQ93587.1 Exp number, first 60 AAs:  0.01403
+# USQ93587.1 Total prob of N-in:        0.00535
+USQ93587.1	TMHMM2.0	outside	     1   270
+USQ93587.1	TMHMM2.0	TMhelix	   271   290
+USQ93587.1	TMHMM2.0	inside	   291   314
+# USQ93586.1 Length: 114
+# USQ93586.1 Number of predicted TMHs:  0
+# USQ93586.1 Exp number of AAs in TMHs: 0.02491
+# USQ93586.1 Exp number, first 60 AAs:  0
+# USQ93586.1 Total prob of N-in:        0.16174
+USQ93586.1	TMHMM2.0	outside	     1   114
+# USQ93585.1 Length: 667
+# USQ93585.1 Number of predicted TMHs:  0
+# USQ93585.1 Exp number of AAs in TMHs: 0.02737
+# USQ93585.1 Exp number, first 60 AAs:  0
+# USQ93585.1 Total prob of N-in:        0.00189
+USQ93585.1	TMHMM2.0	outside	     1   667
+# USQ93584.1 Length: 253
+# USQ93584.1 Number of predicted TMHs:  0
+# USQ93584.1 Exp number of AAs in TMHs: 0.00723
+# USQ93584.1 Exp number, first 60 AAs:  0
+# USQ93584.1 Total prob of N-in:        0.03550
+USQ93584.1	TMHMM2.0	outside	     1   253
+# USQ93583.1 Length: 459
+# USQ93583.1 Number of predicted TMHs:  0
+# USQ93583.1 Exp number of AAs in TMHs: 0.306770000000001
+# USQ93583.1 Exp number, first 60 AAs:  0.1421
+# USQ93583.1 Total prob of N-in:        0.01780
+USQ93583.1	TMHMM2.0	outside	     1   459
+# USQ93582.1 Length: 252
+# USQ93582.1 Number of predicted TMHs:  0
+# USQ93582.1 Exp number of AAs in TMHs: 7.70595000000001
+# USQ93582.1 Exp number, first 60 AAs:  0.00018
+# USQ93582.1 Total prob of N-in:        0.62005
+USQ93582.1	TMHMM2.0	outside	     1   252
+# USQ93581.1 Length: 76
+# USQ93581.1 Number of predicted TMHs:  0
+# USQ93581.1 Exp number of AAs in TMHs: 0.00018
+# USQ93581.1 Exp number, first 60 AAs:  3e-05
+# USQ93581.1 Total prob of N-in:        0.08671
+USQ93581.1	TMHMM2.0	outside	     1    76
+# USQ93580.1 Length: 337
+# USQ93580.1 Number of predicted TMHs:  0
+# USQ93580.1 Exp number of AAs in TMHs: 0.916339999999998
+# USQ93580.1 Exp number, first 60 AAs:  0.03547
+# USQ93580.1 Total prob of N-in:        0.07174
+USQ93580.1	TMHMM2.0	outside	     1   337
+# USQ93579.1 Length: 363
+# USQ93579.1 Number of predicted TMHs:  0
+# USQ93579.1 Exp number of AAs in TMHs: 1.77273
+# USQ93579.1 Exp number, first 60 AAs:  0.00034
+# USQ93579.1 Total prob of N-in:        0.04453
+USQ93579.1	TMHMM2.0	outside	     1   363
+# USQ93578.1 Length: 251
+# USQ93578.1 Number of predicted TMHs:  1
+# USQ93578.1 Exp number of AAs in TMHs: 23.89969
+# USQ93578.1 Exp number, first 60 AAs:  23.64813
+# USQ93578.1 Total prob of N-in:        0.74782
+# USQ93578.1 POSSIBLE N-term signal sequence
+USQ93578.1	TMHMM2.0	inside	     1    12
+USQ93578.1	TMHMM2.0	TMhelix	    13    35
+USQ93578.1	TMHMM2.0	outside	    36   251
+# USQ93577.1 Length: 160
+# USQ93577.1 Number of predicted TMHs:  0
+# USQ93577.1 Exp number of AAs in TMHs: 0.04343
+# USQ93577.1 Exp number, first 60 AAs:  0.00283
+# USQ93577.1 Total prob of N-in:        0.04956
+USQ93577.1	TMHMM2.0	outside	     1   160
+# USQ93576.1 Length: 288
+# USQ93576.1 Number of predicted TMHs:  0
+# USQ93576.1 Exp number of AAs in TMHs: 3.29615
+# USQ93576.1 Exp number, first 60 AAs:  0.31001
+# USQ93576.1 Total prob of N-in:        0.04949
+USQ93576.1	TMHMM2.0	outside	     1   288
+# USQ93575.1 Length: 348
+# USQ93575.1 Number of predicted TMHs:  1
+# USQ93575.1 Exp number of AAs in TMHs: 21.86116
+# USQ93575.1 Exp number, first 60 AAs:  6e-05
+# USQ93575.1 Total prob of N-in:        0.97466
+USQ93575.1	TMHMM2.0	inside	     1   179
+USQ93575.1	TMHMM2.0	TMhelix	   180   202
+USQ93575.1	TMHMM2.0	outside	   203   348
+# USQ93574.1 Length: 332
+# USQ93574.1 Number of predicted TMHs:  0
+# USQ93574.1 Exp number of AAs in TMHs: 0.02431
+# USQ93574.1 Exp number, first 60 AAs:  0.01464
+# USQ93574.1 Total prob of N-in:        0.15924
+USQ93574.1	TMHMM2.0	outside	     1   332
+# USQ93573.1 Length: 212
+# USQ93573.1 Number of predicted TMHs:  6
+# USQ93573.1 Exp number of AAs in TMHs: 127.39873
+# USQ93573.1 Exp number, first 60 AAs:  38.15504
+# USQ93573.1 Total prob of N-in:        0.99771
+# USQ93573.1 POSSIBLE N-term signal sequence
+USQ93573.1	TMHMM2.0	inside	     1     6
+USQ93573.1	TMHMM2.0	TMhelix	     7    29
+USQ93573.1	TMHMM2.0	outside	    30    43
+USQ93573.1	TMHMM2.0	TMhelix	    44    63
+USQ93573.1	TMHMM2.0	inside	    64    83
+USQ93573.1	TMHMM2.0	TMhelix	    84   104
+USQ93573.1	TMHMM2.0	outside	   105   113
+USQ93573.1	TMHMM2.0	TMhelix	   114   136
+USQ93573.1	TMHMM2.0	inside	   137   142
+USQ93573.1	TMHMM2.0	TMhelix	   143   165
+USQ93573.1	TMHMM2.0	outside	   166   179
+USQ93573.1	TMHMM2.0	TMhelix	   180   202
+USQ93573.1	TMHMM2.0	inside	   203   212
+# USQ93572.1 Length: 73
+# USQ93572.1 Number of predicted TMHs:  0
+# USQ93572.1 Exp number of AAs in TMHs: 0
+# USQ93572.1 Exp number, first 60 AAs:  0
+# USQ93572.1 Total prob of N-in:        0.89791
+USQ93572.1	TMHMM2.0	inside	     1    73
+# USQ93571.1 Length: 332
+# USQ93571.1 Number of predicted TMHs:  0
+# USQ93571.1 Exp number of AAs in TMHs: 0.00601999999999999
+# USQ93571.1 Exp number, first 60 AAs:  0.0054
+# USQ93571.1 Total prob of N-in:        0.02771
+USQ93571.1	TMHMM2.0	outside	     1   332
+# USQ93570.1 Length: 102
+# USQ93570.1 Number of predicted TMHs:  0
+# USQ93570.1 Exp number of AAs in TMHs: 0
+# USQ93570.1 Exp number, first 60 AAs:  0
+# USQ93570.1 Total prob of N-in:        0.29830
+USQ93570.1	TMHMM2.0	outside	     1   102
+# USQ93569.1 Length: 117
+# USQ93569.1 Number of predicted TMHs:  0
+# USQ93569.1 Exp number of AAs in TMHs: 0.00042
+# USQ93569.1 Exp number, first 60 AAs:  0.00039
+# USQ93569.1 Total prob of N-in:        0.77965
+USQ93569.1	TMHMM2.0	inside	     1   117
+# USQ93568.1 Length: 423
+# USQ93568.1 Number of predicted TMHs:  4
+# USQ93568.1 Exp number of AAs in TMHs: 84.1185400000002
+# USQ93568.1 Exp number, first 60 AAs:  25.0423
+# USQ93568.1 Total prob of N-in:        0.04143
+# USQ93568.1 POSSIBLE N-term signal sequence
+USQ93568.1	TMHMM2.0	outside	     1     9
+USQ93568.1	TMHMM2.0	TMhelix	    10    32
+USQ93568.1	TMHMM2.0	inside	    33    56
+USQ93568.1	TMHMM2.0	TMhelix	    57    79
+USQ93568.1	TMHMM2.0	outside	    80    83
+USQ93568.1	TMHMM2.0	TMhelix	    84   103
+USQ93568.1	TMHMM2.0	inside	   104   115
+USQ93568.1	TMHMM2.0	TMhelix	   116   138
+USQ93568.1	TMHMM2.0	outside	   139   423
+# USQ93567.1 Length: 913
+# USQ93567.1 Number of predicted TMHs:  10
+# USQ93567.1 Exp number of AAs in TMHs: 205.5532
+# USQ93567.1 Exp number, first 60 AAs:  0.2823
+# USQ93567.1 Total prob of N-in:        0.69105
+USQ93567.1	TMHMM2.0	inside	     1    60
+USQ93567.1	TMHMM2.0	TMhelix	    61    79
+USQ93567.1	TMHMM2.0	outside	    80    88
+USQ93567.1	TMHMM2.0	TMhelix	    89   106
+USQ93567.1	TMHMM2.0	inside	   107   251
+USQ93567.1	TMHMM2.0	TMhelix	   252   274
+USQ93567.1	TMHMM2.0	outside	   275   288
+USQ93567.1	TMHMM2.0	TMhelix	   289   311
+USQ93567.1	TMHMM2.0	inside	   312   707
+USQ93567.1	TMHMM2.0	TMhelix	   708   730
+USQ93567.1	TMHMM2.0	outside	   731   739
+USQ93567.1	TMHMM2.0	TMhelix	   740   762
+USQ93567.1	TMHMM2.0	inside	   763   782
+USQ93567.1	TMHMM2.0	TMhelix	   783   805
+USQ93567.1	TMHMM2.0	outside	   806   819
+USQ93567.1	TMHMM2.0	TMhelix	   820   837
+USQ93567.1	TMHMM2.0	inside	   838   849
+USQ93567.1	TMHMM2.0	TMhelix	   850   872
+USQ93567.1	TMHMM2.0	outside	   873   881
+USQ93567.1	TMHMM2.0	TMhelix	   882   904
+USQ93567.1	TMHMM2.0	inside	   905   913
+# USQ93566.1 Length: 596
+# USQ93566.1 Number of predicted TMHs:  1
+# USQ93566.1 Exp number of AAs in TMHs: 42.6549
+# USQ93566.1 Exp number, first 60 AAs:  16.0915
+# USQ93566.1 Total prob of N-in:        0.65777
+# USQ93566.1 POSSIBLE N-term signal sequence
+USQ93566.1	TMHMM2.0	inside	     1    18
+USQ93566.1	TMHMM2.0	TMhelix	    19    36
+USQ93566.1	TMHMM2.0	outside	    37   596
+# USQ93565.1 Length: 86
+# USQ93565.1 Number of predicted TMHs:  1
+# USQ93565.1 Exp number of AAs in TMHs: 21.46426
+# USQ93565.1 Exp number, first 60 AAs:  21.46426
+# USQ93565.1 Total prob of N-in:        0.98601
+# USQ93565.1 POSSIBLE N-term signal sequence
+USQ93565.1	TMHMM2.0	inside	     1     6
+USQ93565.1	TMHMM2.0	TMhelix	     7    28
+USQ93565.1	TMHMM2.0	outside	    29    86
+# USQ93564.1 Length: 96
+# USQ93564.1 Number of predicted TMHs:  0
+# USQ93564.1 Exp number of AAs in TMHs: 0.0462
+# USQ93564.1 Exp number, first 60 AAs:  0.0462
+# USQ93564.1 Total prob of N-in:        0.20930
+USQ93564.1	TMHMM2.0	outside	     1    96
+# USQ93563.1 Length: 516
+# USQ93563.1 Number of predicted TMHs:  1
+# USQ93563.1 Exp number of AAs in TMHs: 19.5958899999999
+# USQ93563.1 Exp number, first 60 AAs:  19.5923
+# USQ93563.1 Total prob of N-in:        0.99431
+# USQ93563.1 POSSIBLE N-term signal sequence
+USQ93563.1	TMHMM2.0	inside	     1     6
+USQ93563.1	TMHMM2.0	TMhelix	     7    26
+USQ93563.1	TMHMM2.0	outside	    27   516
+# USQ93562.1 Length: 257
+# USQ93562.1 Number of predicted TMHs:  0
+# USQ93562.1 Exp number of AAs in TMHs: 0.00844999999999997
+# USQ93562.1 Exp number, first 60 AAs:  0.00536999999999999
+# USQ93562.1 Total prob of N-in:        0.02106
+USQ93562.1	TMHMM2.0	outside	     1   257
+# USQ93561.1 Length: 298
+# USQ93561.1 Number of predicted TMHs:  0
+# USQ93561.1 Exp number of AAs in TMHs: 0.0565200000000001
+# USQ93561.1 Exp number, first 60 AAs:  0.01797
+# USQ93561.1 Total prob of N-in:        0.02364
+USQ93561.1	TMHMM2.0	outside	     1   298
+# USQ93560.1 Length: 192
+# USQ93560.1 Number of predicted TMHs:  0
+# USQ93560.1 Exp number of AAs in TMHs: 0.06669
+# USQ93560.1 Exp number, first 60 AAs:  0.02961
+# USQ93560.1 Total prob of N-in:        0.52905
+USQ93560.1	TMHMM2.0	inside	     1   192
+# USQ93559.1 Length: 487
+# USQ93559.1 Number of predicted TMHs:  0
+# USQ93559.1 Exp number of AAs in TMHs: 4.75776
+# USQ93559.1 Exp number, first 60 AAs:  0.00093
+# USQ93559.1 Total prob of N-in:        0.15280
+USQ93559.1	TMHMM2.0	outside	     1   487
+# USQ93558.1 Length: 315
+# USQ93558.1 Number of predicted TMHs:  7
+# USQ93558.1 Exp number of AAs in TMHs: 151.34305
+# USQ93558.1 Exp number, first 60 AAs:  37.71443
+# USQ93558.1 Total prob of N-in:        0.99501
+# USQ93558.1 POSSIBLE N-term signal sequence
+USQ93558.1	TMHMM2.0	inside	     1    15
+USQ93558.1	TMHMM2.0	TMhelix	    16    38
+USQ93558.1	TMHMM2.0	outside	    39    47
+USQ93558.1	TMHMM2.0	TMhelix	    48    70
+USQ93558.1	TMHMM2.0	inside	    71    76
+USQ93558.1	TMHMM2.0	TMhelix	    77    99
+USQ93558.1	TMHMM2.0	outside	   100   113
+USQ93558.1	TMHMM2.0	TMhelix	   114   133
+USQ93558.1	TMHMM2.0	inside	   134   145
+USQ93558.1	TMHMM2.0	TMhelix	   146   168
+USQ93558.1	TMHMM2.0	outside	   169   187
+USQ93558.1	TMHMM2.0	TMhelix	   188   210
+USQ93558.1	TMHMM2.0	inside	   211   222
+USQ93558.1	TMHMM2.0	TMhelix	   223   245
+USQ93558.1	TMHMM2.0	outside	   246   315
+# USQ93557.1 Length: 412
+# USQ93557.1 Number of predicted TMHs:  1
+# USQ93557.1 Exp number of AAs in TMHs: 19.4744
+# USQ93557.1 Exp number, first 60 AAs:  19.47423
+# USQ93557.1 Total prob of N-in:        0.98805
+# USQ93557.1 POSSIBLE N-term signal sequence
+USQ93557.1	TMHMM2.0	inside	     1     6
+USQ93557.1	TMHMM2.0	TMhelix	     7    26
+USQ93557.1	TMHMM2.0	outside	    27   412
+# USQ93556.1 Length: 236
+# USQ93556.1 Number of predicted TMHs:  1
+# USQ93556.1 Exp number of AAs in TMHs: 18.35799
+# USQ93556.1 Exp number, first 60 AAs:  15.72593
+# USQ93556.1 Total prob of N-in:        0.88304
+# USQ93556.1 POSSIBLE N-term signal sequence
+USQ93556.1	TMHMM2.0	inside	     1    42
+USQ93556.1	TMHMM2.0	TMhelix	    43    65
+USQ93556.1	TMHMM2.0	outside	    66   236
+# USQ93555.1 Length: 358
+# USQ93555.1 Number of predicted TMHs:  0
+# USQ93555.1 Exp number of AAs in TMHs: 4.9869
+# USQ93555.1 Exp number, first 60 AAs:  0.00108
+# USQ93555.1 Total prob of N-in:        0.24864
+USQ93555.1	TMHMM2.0	outside	     1   358
+# USQ93554.1 Length: 490
+# USQ93554.1 Number of predicted TMHs:  0
+# USQ93554.1 Exp number of AAs in TMHs: 0.08688
+# USQ93554.1 Exp number, first 60 AAs:  0.00187
+# USQ93554.1 Total prob of N-in:        0.00251
+USQ93554.1	TMHMM2.0	outside	     1   490
+# USQ93553.1 Length: 79
+# USQ93553.1 Number of predicted TMHs:  0
+# USQ93553.1 Exp number of AAs in TMHs: 0.0184
+# USQ93553.1 Exp number, first 60 AAs:  0.0184
+# USQ93553.1 Total prob of N-in:        0.58735
+USQ93553.1	TMHMM2.0	inside	     1    79
+# USQ93552.1 Length: 36
+# USQ93552.1 Number of predicted TMHs:  1
+# USQ93552.1 Exp number of AAs in TMHs: 20.07071
+# USQ93552.1 Exp number, first 60 AAs:  20.07071
+# USQ93552.1 Total prob of N-in:        0.85440
+# USQ93552.1 POSSIBLE N-term signal sequence
+USQ93552.1	TMHMM2.0	inside	     1     6
+USQ93552.1	TMHMM2.0	TMhelix	     7    26
+USQ93552.1	TMHMM2.0	outside	    27    36
+# USQ93551.1 Length: 117
+# USQ93551.1 Number of predicted TMHs:  0
+# USQ93551.1 Exp number of AAs in TMHs: 1.93448
+# USQ93551.1 Exp number, first 60 AAs:  1.93448
+# USQ93551.1 Total prob of N-in:        0.25753
+USQ93551.1	TMHMM2.0	outside	     1   117
+# USQ93550.1 Length: 75
+# USQ93550.1 Number of predicted TMHs:  1
+# USQ93550.1 Exp number of AAs in TMHs: 15.67427
+# USQ93550.1 Exp number, first 60 AAs:  15.67427
+# USQ93550.1 Total prob of N-in:        0.47259
+# USQ93550.1 POSSIBLE N-term signal sequence
+USQ93550.1	TMHMM2.0	outside	     1     9
+USQ93550.1	TMHMM2.0	TMhelix	    10    27
+USQ93550.1	TMHMM2.0	inside	    28    75
+# USQ93549.1 Length: 50
+# USQ93549.1 Number of predicted TMHs:  0
+# USQ93549.1 Exp number of AAs in TMHs: 0
+# USQ93549.1 Exp number, first 60 AAs:  0
+# USQ93549.1 Total prob of N-in:        0.61076
+USQ93549.1	TMHMM2.0	inside	     1    50
+# USQ93548.1 Length: 595
+# USQ93548.1 Number of predicted TMHs:  2
+# USQ93548.1 Exp number of AAs in TMHs: 43.9441800000001
+# USQ93548.1 Exp number, first 60 AAs:  21.29782
+# USQ93548.1 Total prob of N-in:        0.21994
+# USQ93548.1 POSSIBLE N-term signal sequence
+USQ93548.1	TMHMM2.0	outside	     1     9
+USQ93548.1	TMHMM2.0	TMhelix	    10    29
+USQ93548.1	TMHMM2.0	inside	    30   125
+USQ93548.1	TMHMM2.0	TMhelix	   126   148
+USQ93548.1	TMHMM2.0	outside	   149   595
+# USQ93547.1 Length: 721
+# USQ93547.1 Number of predicted TMHs:  1
+# USQ93547.1 Exp number of AAs in TMHs: 22.58508
+# USQ93547.1 Exp number, first 60 AAs:  22.55768
+# USQ93547.1 Total prob of N-in:        0.99998
+# USQ93547.1 POSSIBLE N-term signal sequence
+USQ93547.1	TMHMM2.0	inside	     1     6
+USQ93547.1	TMHMM2.0	TMhelix	     7    29
+USQ93547.1	TMHMM2.0	outside	    30   721
+# USQ93546.1 Length: 325
+# USQ93546.1 Number of predicted TMHs:  1
+# USQ93546.1 Exp number of AAs in TMHs: 20.93488
+# USQ93546.1 Exp number, first 60 AAs:  20.90289
+# USQ93546.1 Total prob of N-in:        0.95326
+# USQ93546.1 POSSIBLE N-term signal sequence
+USQ93546.1	TMHMM2.0	inside	     1    12
+USQ93546.1	TMHMM2.0	TMhelix	    13    33
+USQ93546.1	TMHMM2.0	outside	    34   325
+# USQ93545.1 Length: 92
+# USQ93545.1 Number of predicted TMHs:  2
+# USQ93545.1 Exp number of AAs in TMHs: 40.01667
+# USQ93545.1 Exp number, first 60 AAs:  20.45217
+# USQ93545.1 Total prob of N-in:        0.94860
+# USQ93545.1 POSSIBLE N-term signal sequence
+USQ93545.1	TMHMM2.0	inside	     1    11
+USQ93545.1	TMHMM2.0	TMhelix	    12    29
+USQ93545.1	TMHMM2.0	outside	    30    67
+USQ93545.1	TMHMM2.0	TMhelix	    68    85
+USQ93545.1	TMHMM2.0	inside	    86    92
+# USQ93544.1 Length: 125
+# USQ93544.1 Number of predicted TMHs:  1
+# USQ93544.1 Exp number of AAs in TMHs: 19.1218
+# USQ93544.1 Exp number, first 60 AAs:  19.12171
+# USQ93544.1 Total prob of N-in:        0.18328
+# USQ93544.1 POSSIBLE N-term signal sequence
+USQ93544.1	TMHMM2.0	outside	     1     9
+USQ93544.1	TMHMM2.0	TMhelix	    10    27
+USQ93544.1	TMHMM2.0	inside	    28   125
+# USQ93543.1 Length: 323
+# USQ93543.1 Number of predicted TMHs:  7
+# USQ93543.1 Exp number of AAs in TMHs: 155.45495
+# USQ93543.1 Exp number, first 60 AAs:  0.42332
+# USQ93543.1 Total prob of N-in:        0.97159
+USQ93543.1	TMHMM2.0	inside	     1    62
+USQ93543.1	TMHMM2.0	TMhelix	    63    85
+USQ93543.1	TMHMM2.0	outside	    86   125
+USQ93543.1	TMHMM2.0	TMhelix	   126   148
+USQ93543.1	TMHMM2.0	inside	   149   154
+USQ93543.1	TMHMM2.0	TMhelix	   155   177
+USQ93543.1	TMHMM2.0	outside	   178   186
+USQ93543.1	TMHMM2.0	TMhelix	   187   209
+USQ93543.1	TMHMM2.0	inside	   210   220
+USQ93543.1	TMHMM2.0	TMhelix	   221   243
+USQ93543.1	TMHMM2.0	outside	   244   246
+USQ93543.1	TMHMM2.0	TMhelix	   247   269
+USQ93543.1	TMHMM2.0	inside	   270   288
+USQ93543.1	TMHMM2.0	TMhelix	   289   311
+USQ93543.1	TMHMM2.0	outside	   312   323
+# USQ93542.1 Length: 137
+# USQ93542.1 Number of predicted TMHs:  1
+# USQ93542.1 Exp number of AAs in TMHs: 22.37008
+# USQ93542.1 Exp number, first 60 AAs:  22.36985
+# USQ93542.1 Total prob of N-in:        0.95590
+# USQ93542.1 POSSIBLE N-term signal sequence
+USQ93542.1	TMHMM2.0	inside	     1    12
+USQ93542.1	TMHMM2.0	TMhelix	    13    35
+USQ93542.1	TMHMM2.0	outside	    36   137
+# USQ93541.1 Length: 107
+# USQ93541.1 Number of predicted TMHs:  0
+# USQ93541.1 Exp number of AAs in TMHs: 0.01102
+# USQ93541.1 Exp number, first 60 AAs:  0
+# USQ93541.1 Total prob of N-in:        0.13101
+USQ93541.1	TMHMM2.0	outside	     1   107
+# USQ93540.1 Length: 212
+# USQ93540.1 Number of predicted TMHs:  1
+# USQ93540.1 Exp number of AAs in TMHs: 19.66109
+# USQ93540.1 Exp number, first 60 AAs:  19.6608
+# USQ93540.1 Total prob of N-in:        0.26753
+# USQ93540.1 POSSIBLE N-term signal sequence
+USQ93540.1	TMHMM2.0	outside	     1     9
+USQ93540.1	TMHMM2.0	TMhelix	    10    29
+USQ93540.1	TMHMM2.0	inside	    30   212
+# USQ93539.1 Length: 713
+# USQ93539.1 Number of predicted TMHs:  0
+# USQ93539.1 Exp number of AAs in TMHs: 0.0464600000000001
+# USQ93539.1 Exp number, first 60 AAs:  0.01861
+# USQ93539.1 Total prob of N-in:        0.00194
+USQ93539.1	TMHMM2.0	outside	     1   713
+# USQ93538.1 Length: 191
+# USQ93538.1 Number of predicted TMHs:  0
+# USQ93538.1 Exp number of AAs in TMHs: 0.12919
+# USQ93538.1 Exp number, first 60 AAs:  0.12011
+# USQ93538.1 Total prob of N-in:        0.03223
+USQ93538.1	TMHMM2.0	outside	     1   191
+# USQ93537.1 Length: 939
+# USQ93537.1 Number of predicted TMHs:  10
+# USQ93537.1 Exp number of AAs in TMHs: 216.24053
+# USQ93537.1 Exp number, first 60 AAs:  3.47397
+# USQ93537.1 Total prob of N-in:        0.99864
+USQ93537.1	TMHMM2.0	inside	     1    56
+USQ93537.1	TMHMM2.0	TMhelix	    57    79
+USQ93537.1	TMHMM2.0	outside	    80    83
+USQ93537.1	TMHMM2.0	TMhelix	    84   101
+USQ93537.1	TMHMM2.0	inside	   102   248
+USQ93537.1	TMHMM2.0	TMhelix	   249   271
+USQ93537.1	TMHMM2.0	outside	   272   285
+USQ93537.1	TMHMM2.0	TMhelix	   286   308
+USQ93537.1	TMHMM2.0	inside	   309   710
+USQ93537.1	TMHMM2.0	TMhelix	   711   733
+USQ93537.1	TMHMM2.0	outside	   734   737
+USQ93537.1	TMHMM2.0	TMhelix	   738   760
+USQ93537.1	TMHMM2.0	inside	   761   787
+USQ93537.1	TMHMM2.0	TMhelix	   788   810
+USQ93537.1	TMHMM2.0	outside	   811   829
+USQ93537.1	TMHMM2.0	TMhelix	   830   852
+USQ93537.1	TMHMM2.0	inside	   853   868
+USQ93537.1	TMHMM2.0	TMhelix	   869   886
+USQ93537.1	TMHMM2.0	outside	   887   900
+USQ93537.1	TMHMM2.0	TMhelix	   901   923
+USQ93537.1	TMHMM2.0	inside	   924   939
+# USQ93536.1 Length: 856
+# USQ93536.1 Number of predicted TMHs:  0
+# USQ93536.1 Exp number of AAs in TMHs: 0.34385
+# USQ93536.1 Exp number, first 60 AAs:  0.03859
+# USQ93536.1 Total prob of N-in:        0.00693
+USQ93536.1	TMHMM2.0	outside	     1   856
+# USQ93535.1 Length: 196
+# USQ93535.1 Number of predicted TMHs:  0
+# USQ93535.1 Exp number of AAs in TMHs: 0.04507
+# USQ93535.1 Exp number, first 60 AAs:  0.00748
+# USQ93535.1 Total prob of N-in:        0.05260
+USQ93535.1	TMHMM2.0	outside	     1   196
+# USQ93534.1 Length: 247
+# USQ93534.1 Number of predicted TMHs:  1
+# USQ93534.1 Exp number of AAs in TMHs: 19.9884
+# USQ93534.1 Exp number, first 60 AAs:  19.97183
+# USQ93534.1 Total prob of N-in:        0.71457
+# USQ93534.1 POSSIBLE N-term signal sequence
+USQ93534.1	TMHMM2.0	inside	     1     8
+USQ93534.1	TMHMM2.0	TMhelix	     9    28
+USQ93534.1	TMHMM2.0	outside	    29   247
+# USQ93533.1 Length: 457
+# USQ93533.1 Number of predicted TMHs:  0
+# USQ93533.1 Exp number of AAs in TMHs: 0.00942999999999998
+# USQ93533.1 Exp number, first 60 AAs:  0.00055
+# USQ93533.1 Total prob of N-in:        0.00163
+USQ93533.1	TMHMM2.0	outside	     1   457
+# USQ93532.1 Length: 244
+# USQ93532.1 Number of predicted TMHs:  5
+# USQ93532.1 Exp number of AAs in TMHs: 114.96856
+# USQ93532.1 Exp number, first 60 AAs:  23.23282
+# USQ93532.1 Total prob of N-in:        0.00617
+# USQ93532.1 POSSIBLE N-term signal sequence
+USQ93532.1	TMHMM2.0	outside	     1    36
+USQ93532.1	TMHMM2.0	TMhelix	    37    59
+USQ93532.1	TMHMM2.0	inside	    60    67
+USQ93532.1	TMHMM2.0	TMhelix	    68    90
+USQ93532.1	TMHMM2.0	outside	    91    99
+USQ93532.1	TMHMM2.0	TMhelix	   100   122
+USQ93532.1	TMHMM2.0	inside	   123   160
+USQ93532.1	TMHMM2.0	TMhelix	   161   183
+USQ93532.1	TMHMM2.0	outside	   184   213
+USQ93532.1	TMHMM2.0	TMhelix	   214   236
+USQ93532.1	TMHMM2.0	inside	   237   244
+# USQ93531.1 Length: 329
+# USQ93531.1 Number of predicted TMHs:  1
+# USQ93531.1 Exp number of AAs in TMHs: 23.23792
+# USQ93531.1 Exp number, first 60 AAs:  22.79807
+# USQ93531.1 Total prob of N-in:        0.99668
+# USQ93531.1 POSSIBLE N-term signal sequence
+USQ93531.1	TMHMM2.0	inside	     1     6
+USQ93531.1	TMHMM2.0	TMhelix	     7    29
+USQ93531.1	TMHMM2.0	outside	    30   329
+# USQ93530.1 Length: 233
+# USQ93530.1 Number of predicted TMHs:  0
+# USQ93530.1 Exp number of AAs in TMHs: 0.0469500000000001
+# USQ93530.1 Exp number, first 60 AAs:  0.02918
+# USQ93530.1 Total prob of N-in:        0.10933
+USQ93530.1	TMHMM2.0	outside	     1   233
+# USQ93529.1 Length: 142
+# USQ93529.1 Number of predicted TMHs:  0
+# USQ93529.1 Exp number of AAs in TMHs: 0.36822
+# USQ93529.1 Exp number, first 60 AAs:  0.01557
+# USQ93529.1 Total prob of N-in:        0.22409
+USQ93529.1	TMHMM2.0	outside	     1   142
+# USQ93528.1 Length: 418
+# USQ93528.1 Number of predicted TMHs:  0
+# USQ93528.1 Exp number of AAs in TMHs: 1.89066
+# USQ93528.1 Exp number, first 60 AAs:  1.80801
+# USQ93528.1 Total prob of N-in:        0.07744
+USQ93528.1	TMHMM2.0	outside	     1   418
+# USQ93527.1 Length: 117
+# USQ93527.1 Number of predicted TMHs:  0
+# USQ93527.1 Exp number of AAs in TMHs: 0.00042
+# USQ93527.1 Exp number, first 60 AAs:  0
+# USQ93527.1 Total prob of N-in:        0.29664
+USQ93527.1	TMHMM2.0	outside	     1   117
+# USQ93526.1 Length: 249
+# USQ93526.1 Number of predicted TMHs:  0
+# USQ93526.1 Exp number of AAs in TMHs: 0.75438
+# USQ93526.1 Exp number, first 60 AAs:  0.01329
+# USQ93526.1 Total prob of N-in:        0.01803
+USQ93526.1	TMHMM2.0	outside	     1   249
+# USQ93525.1 Length: 84
+# USQ93525.1 Number of predicted TMHs:  0
+# USQ93525.1 Exp number of AAs in TMHs: 0.00015
+# USQ93525.1 Exp number, first 60 AAs:  0.00015
+# USQ93525.1 Total prob of N-in:        0.62313
+USQ93525.1	TMHMM2.0	inside	     1    84
+# USQ93524.1 Length: 257
+# USQ93524.1 Number of predicted TMHs:  7
+# USQ93524.1 Exp number of AAs in TMHs: 149.63414
+# USQ93524.1 Exp number, first 60 AAs:  21.13484
+# USQ93524.1 Total prob of N-in:        0.97825
+# USQ93524.1 POSSIBLE N-term signal sequence
+USQ93524.1	TMHMM2.0	inside	     1    37
+USQ93524.1	TMHMM2.0	TMhelix	    38    60
+USQ93524.1	TMHMM2.0	outside	    61    69
+USQ93524.1	TMHMM2.0	TMhelix	    70    92
+USQ93524.1	TMHMM2.0	inside	    93    98
+USQ93524.1	TMHMM2.0	TMhelix	    99   121
+USQ93524.1	TMHMM2.0	outside	   122   124
+USQ93524.1	TMHMM2.0	TMhelix	   125   147
+USQ93524.1	TMHMM2.0	inside	   148   163
+USQ93524.1	TMHMM2.0	TMhelix	   164   181
+USQ93524.1	TMHMM2.0	outside	   182   184
+USQ93524.1	TMHMM2.0	TMhelix	   185   207
+USQ93524.1	TMHMM2.0	inside	   208   227
+USQ93524.1	TMHMM2.0	TMhelix	   228   250
+USQ93524.1	TMHMM2.0	outside	   251   257
+# USQ93523.1 Length: 451
+# USQ93523.1 Number of predicted TMHs:  0
+# USQ93523.1 Exp number of AAs in TMHs: 0.03122
+# USQ93523.1 Exp number, first 60 AAs:  0.00247
+# USQ93523.1 Total prob of N-in:        0.00802
+USQ93523.1	TMHMM2.0	outside	     1   451
+# USQ93522.1 Length: 234
+# USQ93522.1 Number of predicted TMHs:  1
+# USQ93522.1 Exp number of AAs in TMHs: 20.46398
+# USQ93522.1 Exp number, first 60 AAs:  20.4636
+# USQ93522.1 Total prob of N-in:        0.93246
+# USQ93522.1 POSSIBLE N-term signal sequence
+USQ93522.1	TMHMM2.0	inside	     1    11
+USQ93522.1	TMHMM2.0	TMhelix	    12    31
+USQ93522.1	TMHMM2.0	outside	    32   234
+# USQ93521.1 Length: 54
+# USQ93521.1 Number of predicted TMHs:  0
+# USQ93521.1 Exp number of AAs in TMHs: 0.0067
+# USQ93521.1 Exp number, first 60 AAs:  0.0067
+# USQ93521.1 Total prob of N-in:        0.24128
+USQ93521.1	TMHMM2.0	outside	     1    54
+# USQ93520.1 Length: 95
+# USQ93520.1 Number of predicted TMHs:  1
+# USQ93520.1 Exp number of AAs in TMHs: 14.46379
+# USQ93520.1 Exp number, first 60 AAs:  0
+# USQ93520.1 Total prob of N-in:        0.62284
+USQ93520.1	TMHMM2.0	inside	     1    76
+USQ93520.1	TMHMM2.0	TMhelix	    77    94
+USQ93520.1	TMHMM2.0	outside	    95    95
+# USQ93519.1 Length: 114
+# USQ93519.1 Number of predicted TMHs:  0
+# USQ93519.1 Exp number of AAs in TMHs: 0.00023
+# USQ93519.1 Exp number, first 60 AAs:  0
+# USQ93519.1 Total prob of N-in:        0.27506
+USQ93519.1	TMHMM2.0	outside	     1   114
+# USQ93518.1 Length: 382
+# USQ93518.1 Number of predicted TMHs:  1
+# USQ93518.1 Exp number of AAs in TMHs: 22.48661
+# USQ93518.1 Exp number, first 60 AAs:  22.48105
+# USQ93518.1 Total prob of N-in:        0.98116
+# USQ93518.1 POSSIBLE N-term signal sequence
+USQ93518.1	TMHMM2.0	inside	     1    12
+USQ93518.1	TMHMM2.0	TMhelix	    13    35
+USQ93518.1	TMHMM2.0	outside	    36   382
+# USQ93517.1 Length: 528
+# USQ93517.1 Number of predicted TMHs:  1
+# USQ93517.1 Exp number of AAs in TMHs: 24.66266
+# USQ93517.1 Exp number, first 60 AAs:  22.01379
+# USQ93517.1 Total prob of N-in:        0.86774
+# USQ93517.1 POSSIBLE N-term signal sequence
+USQ93517.1	TMHMM2.0	inside	     1    12
+USQ93517.1	TMHMM2.0	TMhelix	    13    35
+USQ93517.1	TMHMM2.0	outside	    36   528
+# USQ93516.1 Length: 320
+# USQ93516.1 Number of predicted TMHs:  0
+# USQ93516.1 Exp number of AAs in TMHs: 6.49737999999997
+# USQ93516.1 Exp number, first 60 AAs:  6.03287
+# USQ93516.1 Total prob of N-in:        0.34479
+USQ93516.1	TMHMM2.0	outside	     1   320
+# USQ93515.1 Length: 250
+# USQ93515.1 Number of predicted TMHs:  0
+# USQ93515.1 Exp number of AAs in TMHs: 0.10095
+# USQ93515.1 Exp number, first 60 AAs:  0
+# USQ93515.1 Total prob of N-in:        0.19702
+USQ93515.1	TMHMM2.0	outside	     1   250
+# USQ93514.1 Length: 733
+# USQ93514.1 Number of predicted TMHs:  0
+# USQ93514.1 Exp number of AAs in TMHs: 0.83424
+# USQ93514.1 Exp number, first 60 AAs:  0.0104
+# USQ93514.1 Total prob of N-in:        0.03709
+USQ93514.1	TMHMM2.0	outside	     1   733
+# USQ93513.1 Length: 233
+# USQ93513.1 Number of predicted TMHs:  0
+# USQ93513.1 Exp number of AAs in TMHs: 0.266
+# USQ93513.1 Exp number, first 60 AAs:  0.0234
+# USQ93513.1 Total prob of N-in:        0.17658
+USQ93513.1	TMHMM2.0	outside	     1   233
+# USQ93512.1 Length: 178
+# USQ93512.1 Number of predicted TMHs:  0
+# USQ93512.1 Exp number of AAs in TMHs: 0.052
+# USQ93512.1 Exp number, first 60 AAs:  0.00843
+# USQ93512.1 Total prob of N-in:        0.20009
+USQ93512.1	TMHMM2.0	outside	     1   178
+# USQ93511.1 Length: 1010
+# USQ93511.1 Number of predicted TMHs:  0
+# USQ93511.1 Exp number of AAs in TMHs: 0.00719
+# USQ93511.1 Exp number, first 60 AAs:  0
+# USQ93511.1 Total prob of N-in:        0.00000
+USQ93511.1	TMHMM2.0	outside	     1  1010
+# USQ93510.1 Length: 185
+# USQ93510.1 Number of predicted TMHs:  0
+# USQ93510.1 Exp number of AAs in TMHs: 5.4886
+# USQ93510.1 Exp number, first 60 AAs:  2.40428
+# USQ93510.1 Total prob of N-in:        0.36599
+USQ93510.1	TMHMM2.0	outside	     1   185
+# USQ93509.1 Length: 332
+# USQ93509.1 Number of predicted TMHs:  0
+# USQ93509.1 Exp number of AAs in TMHs: 0.44474
+# USQ93509.1 Exp number, first 60 AAs:  0.01272
+# USQ93509.1 Total prob of N-in:        0.34882
+USQ93509.1	TMHMM2.0	outside	     1   332
+# USQ93508.1 Length: 75
+# USQ93508.1 Number of predicted TMHs:  0
+# USQ93508.1 Exp number of AAs in TMHs: 0.01046
+# USQ93508.1 Exp number, first 60 AAs:  0.00972
+# USQ93508.1 Total prob of N-in:        0.26406
+USQ93508.1	TMHMM2.0	outside	     1    75
+# USQ93507.1 Length: 60
+# USQ93507.1 Number of predicted TMHs:  1
+# USQ93507.1 Exp number of AAs in TMHs: 22.93459
+# USQ93507.1 Exp number, first 60 AAs:  22.93459
+# USQ93507.1 Total prob of N-in:        0.99557
+# USQ93507.1 POSSIBLE N-term signal sequence
+USQ93507.1	TMHMM2.0	inside	     1    12
+USQ93507.1	TMHMM2.0	TMhelix	    13    35
+USQ93507.1	TMHMM2.0	outside	    36    60
+# USQ93506.1 Length: 139
+# USQ93506.1 Number of predicted TMHs:  0
+# USQ93506.1 Exp number of AAs in TMHs: 0
+# USQ93506.1 Exp number, first 60 AAs:  0
+# USQ93506.1 Total prob of N-in:        0.36669
+USQ93506.1	TMHMM2.0	outside	     1   139
+# USQ93505.1 Length: 466
+# USQ93505.1 Number of predicted TMHs:  0
+# USQ93505.1 Exp number of AAs in TMHs: 0.14699
+# USQ93505.1 Exp number, first 60 AAs:  0.00038
+# USQ93505.1 Total prob of N-in:        0.00939
+USQ93505.1	TMHMM2.0	outside	     1   466
+# USQ93504.1 Length: 119
+# USQ93504.1 Number of predicted TMHs:  2
+# USQ93504.1 Exp number of AAs in TMHs: 40.70036
+# USQ93504.1 Exp number, first 60 AAs:  18.98851
+# USQ93504.1 Total prob of N-in:        0.99352
+# USQ93504.1 POSSIBLE N-term signal sequence
+USQ93504.1	TMHMM2.0	inside	     1    40
+USQ93504.1	TMHMM2.0	TMhelix	    41    60
+USQ93504.1	TMHMM2.0	outside	    61    74
+USQ93504.1	TMHMM2.0	TMhelix	    75    93
+USQ93504.1	TMHMM2.0	inside	    94   119
+# USQ93503.1 Length: 81
+# USQ93503.1 Number of predicted TMHs:  0
+# USQ93503.1 Exp number of AAs in TMHs: 0.0435
+# USQ93503.1 Exp number, first 60 AAs:  0.03635
+# USQ93503.1 Total prob of N-in:        0.46342
+USQ93503.1	TMHMM2.0	outside	     1    81
+# USQ93502.1 Length: 309
+# USQ93502.1 Number of predicted TMHs:  1
+# USQ93502.1 Exp number of AAs in TMHs: 19.64398
+# USQ93502.1 Exp number, first 60 AAs:  19.6438
+# USQ93502.1 Total prob of N-in:        0.04668
+# USQ93502.1 POSSIBLE N-term signal sequence
+USQ93502.1	TMHMM2.0	outside	     1     9
+USQ93502.1	TMHMM2.0	TMhelix	    10    29
+USQ93502.1	TMHMM2.0	inside	    30   309
+# USQ93501.1 Length: 387
+# USQ93501.1 Number of predicted TMHs:  0
+# USQ93501.1 Exp number of AAs in TMHs: 0.00646
+# USQ93501.1 Exp number, first 60 AAs:  0.00023
+# USQ93501.1 Total prob of N-in:        0.00444
+USQ93501.1	TMHMM2.0	outside	     1   387
+# USQ93500.1 Length: 689
+# USQ93500.1 Number of predicted TMHs:  0
+# USQ93500.1 Exp number of AAs in TMHs: 0.0724499999999999
+# USQ93500.1 Exp number, first 60 AAs:  0.00156
+# USQ93500.1 Total prob of N-in:        0.00083
+USQ93500.1	TMHMM2.0	outside	     1   689
+# USQ93499.1 Length: 156
+# USQ93499.1 Number of predicted TMHs:  0
+# USQ93499.1 Exp number of AAs in TMHs: 0.00037
+# USQ93499.1 Exp number, first 60 AAs:  2e-05
+# USQ93499.1 Total prob of N-in:        0.80790
+USQ93499.1	TMHMM2.0	inside	     1   156
+# USQ93498.1 Length: 139
+# USQ93498.1 Number of predicted TMHs:  0
+# USQ93498.1 Exp number of AAs in TMHs: 0.00091
+# USQ93498.1 Exp number, first 60 AAs:  0
+# USQ93498.1 Total prob of N-in:        0.30459
+USQ93498.1	TMHMM2.0	outside	     1   139
+# USQ93497.1 Length: 1358
+# USQ93497.1 Number of predicted TMHs:  0
+# USQ93497.1 Exp number of AAs in TMHs: 0.04812
+# USQ93497.1 Exp number, first 60 AAs:  0.00026
+# USQ93497.1 Total prob of N-in:        0.00081
+USQ93497.1	TMHMM2.0	outside	     1  1358
+# USQ93496.1 Length: 1243
+# USQ93496.1 Number of predicted TMHs:  0
+# USQ93496.1 Exp number of AAs in TMHs: 0.0603100000000001
+# USQ93496.1 Exp number, first 60 AAs:  0.00068
+# USQ93496.1 Total prob of N-in:        0.00253
+USQ93496.1	TMHMM2.0	outside	     1  1243
+# USQ93495.1 Length: 127
+# USQ93495.1 Number of predicted TMHs:  0
+# USQ93495.1 Exp number of AAs in TMHs: 0
+# USQ93495.1 Exp number, first 60 AAs:  0
+# USQ93495.1 Total prob of N-in:        0.17519
+USQ93495.1	TMHMM2.0	outside	     1   127
+# USQ93494.1 Length: 162
+# USQ93494.1 Number of predicted TMHs:  0
+# USQ93494.1 Exp number of AAs in TMHs: 0.87945
+# USQ93494.1 Exp number, first 60 AAs:  0.00022
+# USQ93494.1 Total prob of N-in:        0.22700
+USQ93494.1	TMHMM2.0	outside	     1   162
+# USQ93493.1 Length: 141
+# USQ93493.1 Number of predicted TMHs:  0
+# USQ93493.1 Exp number of AAs in TMHs: 0.00829
+# USQ93493.1 Exp number, first 60 AAs:  0.00708
+# USQ93493.1 Total prob of N-in:        0.54885
+USQ93493.1	TMHMM2.0	inside	     1   141
+# USQ93492.1 Length: 202
+# USQ93492.1 Number of predicted TMHs:  0
+# USQ93492.1 Exp number of AAs in TMHs: 4.85941999999999
+# USQ93492.1 Exp number, first 60 AAs:  0.01441
+# USQ93492.1 Total prob of N-in:        0.62545
+USQ93492.1	TMHMM2.0	inside	     1   202
+# USQ93491.1 Length: 131
+# USQ93491.1 Number of predicted TMHs:  3
+# USQ93491.1 Exp number of AAs in TMHs: 62.94096
+# USQ93491.1 Exp number, first 60 AAs:  23.99927
+# USQ93491.1 Total prob of N-in:        0.97371
+# USQ93491.1 POSSIBLE N-term signal sequence
+USQ93491.1	TMHMM2.0	inside	     1    27
+USQ93491.1	TMHMM2.0	TMhelix	    28    47
+USQ93491.1	TMHMM2.0	outside	    48    56
+USQ93491.1	TMHMM2.0	TMhelix	    57    76
+USQ93491.1	TMHMM2.0	inside	    77    95
+USQ93491.1	TMHMM2.0	TMhelix	    96   118
+USQ93491.1	TMHMM2.0	outside	   119   131
+# USQ93490.1 Length: 46
+# USQ93490.1 Number of predicted TMHs:  0
+# USQ93490.1 Exp number of AAs in TMHs: 0.00316
+# USQ93490.1 Exp number, first 60 AAs:  0.00316
+# USQ93490.1 Total prob of N-in:        0.51123
+USQ93490.1	TMHMM2.0	inside	     1    46
+# USQ93489.1 Length: 238
+# USQ93489.1 Number of predicted TMHs:  0
+# USQ93489.1 Exp number of AAs in TMHs: 7.8866
+# USQ93489.1 Exp number, first 60 AAs:  0
+# USQ93489.1 Total prob of N-in:        0.48472
+USQ93489.1	TMHMM2.0	outside	     1   238
+# USQ93488.1 Length: 768
+# USQ93488.1 Number of predicted TMHs:  9
+# USQ93488.1 Exp number of AAs in TMHs: 196.85777
+# USQ93488.1 Exp number, first 60 AAs:  11.26351
+# USQ93488.1 Total prob of N-in:        0.99550
+# USQ93488.1 POSSIBLE N-term signal sequence
+USQ93488.1	TMHMM2.0	inside	     1    50
+USQ93488.1	TMHMM2.0	TMhelix	    51    73
+USQ93488.1	TMHMM2.0	outside	    74    77
+USQ93488.1	TMHMM2.0	TMhelix	    78    95
+USQ93488.1	TMHMM2.0	inside	    96   218
+USQ93488.1	TMHMM2.0	TMhelix	   219   241
+USQ93488.1	TMHMM2.0	outside	   242   260
+USQ93488.1	TMHMM2.0	TMhelix	   261   283
+USQ93488.1	TMHMM2.0	inside	   284   609
+USQ93488.1	TMHMM2.0	TMhelix	   610   632
+USQ93488.1	TMHMM2.0	outside	   633   651
+USQ93488.1	TMHMM2.0	TMhelix	   652   671
+USQ93488.1	TMHMM2.0	inside	   672   691
+USQ93488.1	TMHMM2.0	TMhelix	   692   711
+USQ93488.1	TMHMM2.0	outside	   712   715
+USQ93488.1	TMHMM2.0	TMhelix	   716   738
+USQ93488.1	TMHMM2.0	inside	   739   744
+USQ93488.1	TMHMM2.0	TMhelix	   745   767
+USQ93488.1	TMHMM2.0	outside	   768   768
+# USQ93487.1 Length: 438
+# USQ93487.1 Number of predicted TMHs:  0
+# USQ93487.1 Exp number of AAs in TMHs: 0.894979999999999
+# USQ93487.1 Exp number, first 60 AAs:  0.81799
+# USQ93487.1 Total prob of N-in:        0.05845
+USQ93487.1	TMHMM2.0	outside	     1   438
+# USQ93486.1 Length: 444
+# USQ93486.1 Number of predicted TMHs:  0
+# USQ93486.1 Exp number of AAs in TMHs: 3.74068
+# USQ93486.1 Exp number, first 60 AAs:  0.47463
+# USQ93486.1 Total prob of N-in:        0.05220
+USQ93486.1	TMHMM2.0	outside	     1   444
+# USQ93485.1 Length: 130
+# USQ93485.1 Number of predicted TMHs:  0
+# USQ93485.1 Exp number of AAs in TMHs: 3.88703
+# USQ93485.1 Exp number, first 60 AAs:  0.00767
+# USQ93485.1 Total prob of N-in:        0.32918
+USQ93485.1	TMHMM2.0	outside	     1   130
+# USQ93484.1 Length: 98
+# USQ93484.1 Number of predicted TMHs:  0
+# USQ93484.1 Exp number of AAs in TMHs: 0.00038
+# USQ93484.1 Exp number, first 60 AAs:  0.00038
+# USQ93484.1 Total prob of N-in:        0.10205
+USQ93484.1	TMHMM2.0	outside	     1    98
+# USQ93483.1 Length: 59
+# USQ93483.1 Number of predicted TMHs:  0
+# USQ93483.1 Exp number of AAs in TMHs: 0.000950000000000001
+# USQ93483.1 Exp number, first 60 AAs:  0.000950000000000001
+# USQ93483.1 Total prob of N-in:        0.22727
+USQ93483.1	TMHMM2.0	outside	     1    59
+# USQ93482.1 Length: 200
+# USQ93482.1 Number of predicted TMHs:  0
+# USQ93482.1 Exp number of AAs in TMHs: 0.04172
+# USQ93482.1 Exp number, first 60 AAs:  0.00208
+# USQ93482.1 Total prob of N-in:        0.30076
+USQ93482.1	TMHMM2.0	outside	     1   200
+# USQ93481.1 Length: 212
+# USQ93481.1 Number of predicted TMHs:  0
+# USQ93481.1 Exp number of AAs in TMHs: 0.18114
+# USQ93481.1 Exp number, first 60 AAs:  0.17778
+# USQ93481.1 Total prob of N-in:        0.12096
+USQ93481.1	TMHMM2.0	outside	     1   212
+# USQ93480.1 Length: 357
+# USQ93480.1 Number of predicted TMHs:  0
+# USQ93480.1 Exp number of AAs in TMHs: 13.73597
+# USQ93480.1 Exp number, first 60 AAs:  0
+# USQ93480.1 Total prob of N-in:        0.69066
+USQ93480.1	TMHMM2.0	outside	     1   357
+# USQ93479.1 Length: 539
+# USQ93479.1 Number of predicted TMHs:  0
+# USQ93479.1 Exp number of AAs in TMHs: 0.00201
+# USQ93479.1 Exp number, first 60 AAs:  0.00143
+# USQ93479.1 Total prob of N-in:        0.00113
+USQ93479.1	TMHMM2.0	outside	     1   539
+# USQ93478.1 Length: 330
+# USQ93478.1 Number of predicted TMHs:  0
+# USQ93478.1 Exp number of AAs in TMHs: 0.827789999999999
+# USQ93478.1 Exp number, first 60 AAs:  0.00015
+# USQ93478.1 Total prob of N-in:        0.03143
+USQ93478.1	TMHMM2.0	outside	     1   330
+# USQ93477.1 Length: 189
+# USQ93477.1 Number of predicted TMHs:  0
+# USQ93477.1 Exp number of AAs in TMHs: 1.30627
+# USQ93477.1 Exp number, first 60 AAs:  0.22498
+# USQ93477.1 Total prob of N-in:        0.34301
+USQ93477.1	TMHMM2.0	outside	     1   189
+# USQ93476.1 Length: 169
+# USQ93476.1 Number of predicted TMHs:  0
+# USQ93476.1 Exp number of AAs in TMHs: 0.00394
+# USQ93476.1 Exp number, first 60 AAs:  0.00296
+# USQ93476.1 Total prob of N-in:        0.25081
+USQ93476.1	TMHMM2.0	outside	     1   169
+# USQ93475.1 Length: 839
+# USQ93475.1 Number of predicted TMHs:  0
+# USQ93475.1 Exp number of AAs in TMHs: 0.17422
+# USQ93475.1 Exp number, first 60 AAs:  0.00107
+# USQ93475.1 Total prob of N-in:        0.00828
+USQ93475.1	TMHMM2.0	outside	     1   839
+# USQ93474.1 Length: 637
+# USQ93474.1 Number of predicted TMHs:  0
+# USQ93474.1 Exp number of AAs in TMHs: 0.517019999999999
+# USQ93474.1 Exp number, first 60 AAs:  0.00123
+# USQ93474.1 Total prob of N-in:        0.02688
+USQ93474.1	TMHMM2.0	outside	     1   637
+# USQ93473.1 Length: 1059
+# USQ93473.1 Number of predicted TMHs:  2
+# USQ93473.1 Exp number of AAs in TMHs: 41.8321299999999
+# USQ93473.1 Exp number, first 60 AAs:  21.70433
+# USQ93473.1 Total prob of N-in:        0.99729
+# USQ93473.1 POSSIBLE N-term signal sequence
+USQ93473.1	TMHMM2.0	inside	     1    11
+USQ93473.1	TMHMM2.0	TMhelix	    12    34
+USQ93473.1	TMHMM2.0	outside	    35  1038
+USQ93473.1	TMHMM2.0	TMhelix	  1039  1058
+USQ93473.1	TMHMM2.0	inside	  1059  1059
+# USQ93472.1 Length: 264
+# USQ93472.1 Number of predicted TMHs:  0
+# USQ93472.1 Exp number of AAs in TMHs: 0.00195
+# USQ93472.1 Exp number, first 60 AAs:  0.00039
+# USQ93472.1 Total prob of N-in:        0.04015
+USQ93472.1	TMHMM2.0	outside	     1   264
+# USQ93471.1 Length: 288
+# USQ93471.1 Number of predicted TMHs:  0
+# USQ93471.1 Exp number of AAs in TMHs: 0.00990999999999998
+# USQ93471.1 Exp number, first 60 AAs:  0.00176
+# USQ93471.1 Total prob of N-in:        0.07233
+USQ93471.1	TMHMM2.0	outside	     1   288
+# USQ93470.1 Length: 335
+# USQ93470.1 Number of predicted TMHs:  0
+# USQ93470.1 Exp number of AAs in TMHs: 0.0438500000000001
+# USQ93470.1 Exp number, first 60 AAs:  0.01253
+# USQ93470.1 Total prob of N-in:        0.03865
+USQ93470.1	TMHMM2.0	outside	     1   335
+# USQ93469.1 Length: 402
+# USQ93469.1 Number of predicted TMHs:  0
+# USQ93469.1 Exp number of AAs in TMHs: 0.0443600000000001
+# USQ93469.1 Exp number, first 60 AAs:  0
+# USQ93469.1 Total prob of N-in:        0.01651
+USQ93469.1	TMHMM2.0	outside	     1   402
+# USQ93468.1 Length: 323
+# USQ93468.1 Number of predicted TMHs:  0
+# USQ93468.1 Exp number of AAs in TMHs: 0.0810199999999999
+# USQ93468.1 Exp number, first 60 AAs:  0.0249
+# USQ93468.1 Total prob of N-in:        0.06619
+USQ93468.1	TMHMM2.0	outside	     1   323
+# USQ93467.1 Length: 508
+# USQ93467.1 Number of predicted TMHs:  0
+# USQ93467.1 Exp number of AAs in TMHs: 0.00625999999999998
+# USQ93467.1 Exp number, first 60 AAs:  0
+# USQ93467.1 Total prob of N-in:        0.00078
+USQ93467.1	TMHMM2.0	outside	     1   508
+# USQ93466.1 Length: 430
+# USQ93466.1 Number of predicted TMHs:  0
+# USQ93466.1 Exp number of AAs in TMHs: 0.01801
+# USQ93466.1 Exp number, first 60 AAs:  0.0006
+# USQ93466.1 Total prob of N-in:        0.00941
+USQ93466.1	TMHMM2.0	outside	     1   430
+# USQ93465.1 Length: 80
+# USQ93465.1 Number of predicted TMHs:  1
+# USQ93465.1 Exp number of AAs in TMHs: 22.06387
+# USQ93465.1 Exp number, first 60 AAs:  22.05115
+# USQ93465.1 Total prob of N-in:        0.97048
+# USQ93465.1 POSSIBLE N-term signal sequence
+USQ93465.1	TMHMM2.0	inside	     1     6
+USQ93465.1	TMHMM2.0	TMhelix	     7    29
+USQ93465.1	TMHMM2.0	outside	    30    80
+# USQ93464.1 Length: 149
+# USQ93464.1 Number of predicted TMHs:  0
+# USQ93464.1 Exp number of AAs in TMHs: 0.00368000000000001
+# USQ93464.1 Exp number, first 60 AAs:  0.00297
+# USQ93464.1 Total prob of N-in:        0.42679
+USQ93464.1	TMHMM2.0	outside	     1   149
+# USQ93463.1 Length: 175
+# USQ93463.1 Number of predicted TMHs:  0
+# USQ93463.1 Exp number of AAs in TMHs: 0.00780999999999999
+# USQ93463.1 Exp number, first 60 AAs:  0.00666
+# USQ93463.1 Total prob of N-in:        0.14617
+USQ93463.1	TMHMM2.0	outside	     1   175
+# USQ93462.1 Length: 445
+# USQ93462.1 Number of predicted TMHs:  1
+# USQ93462.1 Exp number of AAs in TMHs: 19.94514
+# USQ93462.1 Exp number, first 60 AAs:  19.90418
+# USQ93462.1 Total prob of N-in:        0.99105
+# USQ93462.1 POSSIBLE N-term signal sequence
+USQ93462.1	TMHMM2.0	inside	     1    12
+USQ93462.1	TMHMM2.0	TMhelix	    13    30
+USQ93462.1	TMHMM2.0	outside	    31   445
+# USQ93461.1 Length: 381
+# USQ93461.1 Number of predicted TMHs:  2
+# USQ93461.1 Exp number of AAs in TMHs: 45.06327
+# USQ93461.1 Exp number, first 60 AAs:  22.2462
+# USQ93461.1 Total prob of N-in:        0.92414
+# USQ93461.1 POSSIBLE N-term signal sequence
+USQ93461.1	TMHMM2.0	inside	     1    12
+USQ93461.1	TMHMM2.0	TMhelix	    13    35
+USQ93461.1	TMHMM2.0	outside	    36   350
+USQ93461.1	TMHMM2.0	TMhelix	   351   373
+USQ93461.1	TMHMM2.0	inside	   374   381
+# USQ93460.1 Length: 176
+# USQ93460.1 Number of predicted TMHs:  0
+# USQ93460.1 Exp number of AAs in TMHs: 0.0139
+# USQ93460.1 Exp number, first 60 AAs:  0.00018
+# USQ93460.1 Total prob of N-in:        0.03626
+USQ93460.1	TMHMM2.0	outside	     1   176
+# USQ93459.1 Length: 653
+# USQ93459.1 Number of predicted TMHs:  7
+# USQ93459.1 Exp number of AAs in TMHs: 150.06103
+# USQ93459.1 Exp number, first 60 AAs:  31.93484
+# USQ93459.1 Total prob of N-in:        0.99900
+# USQ93459.1 POSSIBLE N-term signal sequence
+USQ93459.1	TMHMM2.0	inside	     1    15
+USQ93459.1	TMHMM2.0	TMhelix	    16    38
+USQ93459.1	TMHMM2.0	outside	    39    52
+USQ93459.1	TMHMM2.0	TMhelix	    53    72
+USQ93459.1	TMHMM2.0	inside	    73    84
+USQ93459.1	TMHMM2.0	TMhelix	    85   102
+USQ93459.1	TMHMM2.0	outside	   103   107
+USQ93459.1	TMHMM2.0	TMhelix	   108   125
+USQ93459.1	TMHMM2.0	inside	   126   255
+USQ93459.1	TMHMM2.0	TMhelix	   256   278
+USQ93459.1	TMHMM2.0	outside	   279   297
+USQ93459.1	TMHMM2.0	TMhelix	   298   320
+USQ93459.1	TMHMM2.0	inside	   321   600
+USQ93459.1	TMHMM2.0	TMhelix	   601   623
+USQ93459.1	TMHMM2.0	outside	   624   653
+# USQ93458.1 Length: 272
+# USQ93458.1 Number of predicted TMHs:  1
+# USQ93458.1 Exp number of AAs in TMHs: 17.33241
+# USQ93458.1 Exp number, first 60 AAs:  0.00018
+# USQ93458.1 Total prob of N-in:        0.81401
+USQ93458.1	TMHMM2.0	inside	     1   102
+USQ93458.1	TMHMM2.0	TMhelix	   103   125
+USQ93458.1	TMHMM2.0	outside	   126   272
+# USQ93457.1 Length: 435
+# USQ93457.1 Number of predicted TMHs:  0
+# USQ93457.1 Exp number of AAs in TMHs: 1.56199
+# USQ93457.1 Exp number, first 60 AAs:  0.42906
+# USQ93457.1 Total prob of N-in:        0.10975
+USQ93457.1	TMHMM2.0	outside	     1   435
+# USQ93456.1 Length: 193
+# USQ93456.1 Number of predicted TMHs:  0
+# USQ93456.1 Exp number of AAs in TMHs: 0.00017
+# USQ93456.1 Exp number, first 60 AAs:  0
+# USQ93456.1 Total prob of N-in:        0.01788
+USQ93456.1	TMHMM2.0	outside	     1   193
+# USQ93455.1 Length: 568
+# USQ93455.1 Number of predicted TMHs:  1
+# USQ93455.1 Exp number of AAs in TMHs: 22.66718
+# USQ93455.1 Exp number, first 60 AAs:  22.60632
+# USQ93455.1 Total prob of N-in:        0.98291
+# USQ93455.1 POSSIBLE N-term signal sequence
+USQ93455.1	TMHMM2.0	inside	     1    30
+USQ93455.1	TMHMM2.0	TMhelix	    31    53
+USQ93455.1	TMHMM2.0	outside	    54   568
+# USQ93454.1 Length: 283
+# USQ93454.1 Number of predicted TMHs:  0
+# USQ93454.1 Exp number of AAs in TMHs: 0.0608200000000001
+# USQ93454.1 Exp number, first 60 AAs:  0.0550300000000001
+# USQ93454.1 Total prob of N-in:        0.04551
+USQ93454.1	TMHMM2.0	outside	     1   283
+# USQ93453.1 Length: 449
+# USQ93453.1 Number of predicted TMHs:  0
+# USQ93453.1 Exp number of AAs in TMHs: 0.0332400000000001
+# USQ93453.1 Exp number, first 60 AAs:  0
+# USQ93453.1 Total prob of N-in:        0.00137
+USQ93453.1	TMHMM2.0	outside	     1   449
+# USQ93452.1 Length: 318
+# USQ93452.1 Number of predicted TMHs:  0
+# USQ93452.1 Exp number of AAs in TMHs: 0.10258
+# USQ93452.1 Exp number, first 60 AAs:  0.0001
+# USQ93452.1 Total prob of N-in:        0.00783
+USQ93452.1	TMHMM2.0	outside	     1   318
+# USQ93451.1 Length: 650
+# USQ93451.1 Number of predicted TMHs:  0
+# USQ93451.1 Exp number of AAs in TMHs: 0.000740000000000001
+# USQ93451.1 Exp number, first 60 AAs:  0.00036
+# USQ93451.1 Total prob of N-in:        0.00066
+USQ93451.1	TMHMM2.0	outside	     1   650
+# USQ93450.1 Length: 283
+# USQ93450.1 Number of predicted TMHs:  0
+# USQ93450.1 Exp number of AAs in TMHs: 0.966739999999997
+# USQ93450.1 Exp number, first 60 AAs:  0.78311
+# USQ93450.1 Total prob of N-in:        0.05429
+USQ93450.1	TMHMM2.0	outside	     1   283
+# USQ93449.1 Length: 245
+# USQ93449.1 Number of predicted TMHs:  1
+# USQ93449.1 Exp number of AAs in TMHs: 35.33361
+# USQ93449.1 Exp number, first 60 AAs:  22.96239
+# USQ93449.1 Total prob of N-in:        0.00254
+# USQ93449.1 POSSIBLE N-term signal sequence
+USQ93449.1	TMHMM2.0	outside	     1    14
+USQ93449.1	TMHMM2.0	TMhelix	    15    37
+USQ93449.1	TMHMM2.0	inside	    38   245
+# USQ93448.1 Length: 422
+# USQ93448.1 Number of predicted TMHs:  0
+# USQ93448.1 Exp number of AAs in TMHs: 0.943479999999999
+# USQ93448.1 Exp number, first 60 AAs:  0.87316
+# USQ93448.1 Total prob of N-in:        0.03830
+USQ93448.1	TMHMM2.0	outside	     1   422
+# USQ93447.1 Length: 581
+# USQ93447.1 Number of predicted TMHs:  0
+# USQ93447.1 Exp number of AAs in TMHs: 0.0654800000000001
+# USQ93447.1 Exp number, first 60 AAs:  0.04618
+# USQ93447.1 Total prob of N-in:        0.00653
+USQ93447.1	TMHMM2.0	outside	     1   581
+# USQ93446.1 Length: 421
+# USQ93446.1 Number of predicted TMHs:  0
+# USQ93446.1 Exp number of AAs in TMHs: 0.1162
+# USQ93446.1 Exp number, first 60 AAs:  0
+# USQ93446.1 Total prob of N-in:        0.01988
+USQ93446.1	TMHMM2.0	outside	     1   421
+# USQ93445.1 Length: 576
+# USQ93445.1 Number of predicted TMHs:  0
+# USQ93445.1 Exp number of AAs in TMHs: 0.2446
+# USQ93445.1 Exp number, first 60 AAs:  0
+# USQ93445.1 Total prob of N-in:        0.00194
+USQ93445.1	TMHMM2.0	outside	     1   576
+# USQ93444.1 Length: 382
+# USQ93444.1 Number of predicted TMHs:  0
+# USQ93444.1 Exp number of AAs in TMHs: 0.42525
+# USQ93444.1 Exp number, first 60 AAs:  0.40855
+# USQ93444.1 Total prob of N-in:        0.03905
+USQ93444.1	TMHMM2.0	outside	     1   382
+# USQ93443.1 Length: 587
+# USQ93443.1 Number of predicted TMHs:  0
+# USQ93443.1 Exp number of AAs in TMHs: 14.75787
+# USQ93443.1 Exp number, first 60 AAs:  0.0517
+# USQ93443.1 Total prob of N-in:        0.64306
+USQ93443.1	TMHMM2.0	outside	     1   587
+# USQ93442.1 Length: 243
+# USQ93442.1 Number of predicted TMHs:  6
+# USQ93442.1 Exp number of AAs in TMHs: 126.48973
+# USQ93442.1 Exp number, first 60 AAs:  22.88944
+# USQ93442.1 Total prob of N-in:        0.99961
+# USQ93442.1 POSSIBLE N-term signal sequence
+USQ93442.1	TMHMM2.0	inside	     1    11
+USQ93442.1	TMHMM2.0	TMhelix	    12    34
+USQ93442.1	TMHMM2.0	outside	    35    70
+USQ93442.1	TMHMM2.0	TMhelix	    71    93
+USQ93442.1	TMHMM2.0	inside	    94    99
+USQ93442.1	TMHMM2.0	TMhelix	   100   119
+USQ93442.1	TMHMM2.0	outside	   120   140
+USQ93442.1	TMHMM2.0	TMhelix	   141   160
+USQ93442.1	TMHMM2.0	inside	   161   180
+USQ93442.1	TMHMM2.0	TMhelix	   181   203
+USQ93442.1	TMHMM2.0	outside	   204   212
+USQ93442.1	TMHMM2.0	TMhelix	   213   230
+USQ93442.1	TMHMM2.0	inside	   231   243
+# USQ93441.1 Length: 361
+# USQ93441.1 Number of predicted TMHs:  0
+# USQ93441.1 Exp number of AAs in TMHs: 0.00671
+# USQ93441.1 Exp number, first 60 AAs:  0
+# USQ93441.1 Total prob of N-in:        0.04014
+USQ93441.1	TMHMM2.0	outside	     1   361
+# USQ93440.1 Length: 447
+# USQ93440.1 Number of predicted TMHs:  0
+# USQ93440.1 Exp number of AAs in TMHs: 1.67144
+# USQ93440.1 Exp number, first 60 AAs:  1.6255
+# USQ93440.1 Total prob of N-in:        0.10272
+USQ93440.1	TMHMM2.0	outside	     1   447
+# USQ93439.1 Length: 1518
+# USQ93439.1 Number of predicted TMHs:  0
+# USQ93439.1 Exp number of AAs in TMHs: 0.05278
+# USQ93439.1 Exp number, first 60 AAs:  0
+# USQ93439.1 Total prob of N-in:        0.00001
+USQ93439.1	TMHMM2.0	outside	     1  1518
+# USQ93438.1 Length: 285
+# USQ93438.1 Number of predicted TMHs:  2
+# USQ93438.1 Exp number of AAs in TMHs: 42.7955
+# USQ93438.1 Exp number, first 60 AAs:  20.26247
+# USQ93438.1 Total prob of N-in:        0.72146
+# USQ93438.1 POSSIBLE N-term signal sequence
+USQ93438.1	TMHMM2.0	outside	     1    14
+USQ93438.1	TMHMM2.0	TMhelix	    15    32
+USQ93438.1	TMHMM2.0	inside	    33   247
+USQ93438.1	TMHMM2.0	TMhelix	   248   270
+USQ93438.1	TMHMM2.0	outside	   271   285
+# USQ93437.1 Length: 673
+# USQ93437.1 Number of predicted TMHs:  2
+# USQ93437.1 Exp number of AAs in TMHs: 40.57703
+# USQ93437.1 Exp number, first 60 AAs:  20.60633
+# USQ93437.1 Total prob of N-in:        0.98311
+# USQ93437.1 POSSIBLE N-term signal sequence
+USQ93437.1	TMHMM2.0	inside	     1    12
+USQ93437.1	TMHMM2.0	TMhelix	    13    32
+USQ93437.1	TMHMM2.0	outside	    33   645
+USQ93437.1	TMHMM2.0	TMhelix	   646   665
+USQ93437.1	TMHMM2.0	inside	   666   673
+# USQ93436.1 Length: 352
+# USQ93436.1 Number of predicted TMHs:  0
+# USQ93436.1 Exp number of AAs in TMHs: 0.00119
+# USQ93436.1 Exp number, first 60 AAs:  0
+# USQ93436.1 Total prob of N-in:        0.03209
+USQ93436.1	TMHMM2.0	outside	     1   352
+# USQ93435.1 Length: 602
+# USQ93435.1 Number of predicted TMHs:  0
+# USQ93435.1 Exp number of AAs in TMHs: 0.82968
+# USQ93435.1 Exp number, first 60 AAs:  0.01274
+# USQ93435.1 Total prob of N-in:        0.00949
+USQ93435.1	TMHMM2.0	outside	     1   602
+# USQ93434.1 Length: 115
+# USQ93434.1 Number of predicted TMHs:  0
+# USQ93434.1 Exp number of AAs in TMHs: 0.05851
+# USQ93434.1 Exp number, first 60 AAs:  0.05552
+# USQ93434.1 Total prob of N-in:        0.82603
+USQ93434.1	TMHMM2.0	inside	     1   115
+# USQ93433.1 Length: 718
+# USQ93433.1 Number of predicted TMHs:  0
+# USQ93433.1 Exp number of AAs in TMHs: 1.34007
+# USQ93433.1 Exp number, first 60 AAs:  0.00012
+# USQ93433.1 Total prob of N-in:        0.01059
+USQ93433.1	TMHMM2.0	outside	     1   718
+# USQ93432.1 Length: 479
+# USQ93432.1 Number of predicted TMHs:  10
+# USQ93432.1 Exp number of AAs in TMHs: 218.68439
+# USQ93432.1 Exp number, first 60 AAs:  20.66848
+# USQ93432.1 Total prob of N-in:        0.98462
+# USQ93432.1 POSSIBLE N-term signal sequence
+USQ93432.1	TMHMM2.0	inside	     1    23
+USQ93432.1	TMHMM2.0	TMhelix	    24    41
+USQ93432.1	TMHMM2.0	outside	    42    73
+USQ93432.1	TMHMM2.0	TMhelix	    74    93
+USQ93432.1	TMHMM2.0	inside	    94   105
+USQ93432.1	TMHMM2.0	TMhelix	   106   128
+USQ93432.1	TMHMM2.0	outside	   129   147
+USQ93432.1	TMHMM2.0	TMhelix	   148   170
+USQ93432.1	TMHMM2.0	inside	   171   181
+USQ93432.1	TMHMM2.0	TMhelix	   182   200
+USQ93432.1	TMHMM2.0	outside	   201   209
+USQ93432.1	TMHMM2.0	TMhelix	   210   232
+USQ93432.1	TMHMM2.0	inside	   233   336
+USQ93432.1	TMHMM2.0	TMhelix	   337   359
+USQ93432.1	TMHMM2.0	outside	   360   383
+USQ93432.1	TMHMM2.0	TMhelix	   384   406
+USQ93432.1	TMHMM2.0	inside	   407   412
+USQ93432.1	TMHMM2.0	TMhelix	   413   435
+USQ93432.1	TMHMM2.0	outside	   436   444
+USQ93432.1	TMHMM2.0	TMhelix	   445   467
+USQ93432.1	TMHMM2.0	inside	   468   479
+# USQ93431.1 Length: 428
+# USQ93431.1 Number of predicted TMHs:  0
+# USQ93431.1 Exp number of AAs in TMHs: 11.60533
+# USQ93431.1 Exp number, first 60 AAs:  0
+# USQ93431.1 Total prob of N-in:        0.22375
+USQ93431.1	TMHMM2.0	outside	     1   428
+# USQ93430.1 Length: 261
+# USQ93430.1 Number of predicted TMHs:  2
+# USQ93430.1 Exp number of AAs in TMHs: 45.3636
+# USQ93430.1 Exp number, first 60 AAs:  22.54479
+# USQ93430.1 Total prob of N-in:        0.98062
+# USQ93430.1 POSSIBLE N-term signal sequence
+USQ93430.1	TMHMM2.0	inside	     1    11
+USQ93430.1	TMHMM2.0	TMhelix	    12    34
+USQ93430.1	TMHMM2.0	outside	    35   228
+USQ93430.1	TMHMM2.0	TMhelix	   229   251
+USQ93430.1	TMHMM2.0	inside	   252   261
+# USQ93429.1 Length: 496
+# USQ93429.1 Number of predicted TMHs:  0
+# USQ93429.1 Exp number of AAs in TMHs: 0.209020000000001
+# USQ93429.1 Exp number, first 60 AAs:  0
+# USQ93429.1 Total prob of N-in:        0.01258
+USQ93429.1	TMHMM2.0	outside	     1   496
+# USQ93428.1 Length: 463
+# USQ93428.1 Number of predicted TMHs:  0
+# USQ93428.1 Exp number of AAs in TMHs: 0.1419
+# USQ93428.1 Exp number, first 60 AAs:  0.02116
+# USQ93428.1 Total prob of N-in:        0.01638
+USQ93428.1	TMHMM2.0	outside	     1   463
+# USQ93427.1 Length: 363
+# USQ93427.1 Number of predicted TMHs:  0
+# USQ93427.1 Exp number of AAs in TMHs: 0.38579
+# USQ93427.1 Exp number, first 60 AAs:  0.09287
+# USQ93427.1 Total prob of N-in:        0.02090
+USQ93427.1	TMHMM2.0	outside	     1   363
+# USQ93426.1 Length: 308
+# USQ93426.1 Number of predicted TMHs:  6
+# USQ93426.1 Exp number of AAs in TMHs: 133.81669
+# USQ93426.1 Exp number, first 60 AAs:  22.5182
+# USQ93426.1 Total prob of N-in:        0.99348
+# USQ93426.1 POSSIBLE N-term signal sequence
+USQ93426.1	TMHMM2.0	inside	     1    12
+USQ93426.1	TMHMM2.0	TMhelix	    13    32
+USQ93426.1	TMHMM2.0	outside	    33    74
+USQ93426.1	TMHMM2.0	TMhelix	    75    97
+USQ93426.1	TMHMM2.0	inside	    98   109
+USQ93426.1	TMHMM2.0	TMhelix	   110   132
+USQ93426.1	TMHMM2.0	outside	   133   172
+USQ93426.1	TMHMM2.0	TMhelix	   173   195
+USQ93426.1	TMHMM2.0	inside	   196   215
+USQ93426.1	TMHMM2.0	TMhelix	   216   235
+USQ93426.1	TMHMM2.0	outside	   236   280
+USQ93426.1	TMHMM2.0	TMhelix	   281   303
+USQ93426.1	TMHMM2.0	inside	   304   308
+# USQ93425.1 Length: 303
+# USQ93425.1 Number of predicted TMHs:  6
+# USQ93425.1 Exp number of AAs in TMHs: 134.25875
+# USQ93425.1 Exp number, first 60 AAs:  22.74067
+# USQ93425.1 Total prob of N-in:        0.99972
+# USQ93425.1 POSSIBLE N-term signal sequence
+USQ93425.1	TMHMM2.0	inside	     1    26
+USQ93425.1	TMHMM2.0	TMhelix	    27    49
+USQ93425.1	TMHMM2.0	outside	    50    94
+USQ93425.1	TMHMM2.0	TMhelix	    95   117
+USQ93425.1	TMHMM2.0	inside	   118   129
+USQ93425.1	TMHMM2.0	TMhelix	   130   152
+USQ93425.1	TMHMM2.0	outside	   153   171
+USQ93425.1	TMHMM2.0	TMhelix	   172   194
+USQ93425.1	TMHMM2.0	inside	   195   213
+USQ93425.1	TMHMM2.0	TMhelix	   214   236
+USQ93425.1	TMHMM2.0	outside	   237   265
+USQ93425.1	TMHMM2.0	TMhelix	   266   288
+USQ93425.1	TMHMM2.0	inside	   289   303
+# USQ93424.1 Length: 497
+# USQ93424.1 Number of predicted TMHs:  1
+# USQ93424.1 Exp number of AAs in TMHs: 22.2732
+# USQ93424.1 Exp number, first 60 AAs:  22.27274
+# USQ93424.1 Total prob of N-in:        0.98059
+# USQ93424.1 POSSIBLE N-term signal sequence
+USQ93424.1	TMHMM2.0	inside	     1    11
+USQ93424.1	TMHMM2.0	TMhelix	    12    34
+USQ93424.1	TMHMM2.0	outside	    35   497
+# USQ93423.1 Length: 315
+# USQ93423.1 Number of predicted TMHs:  0
+# USQ93423.1 Exp number of AAs in TMHs: 0.02103
+# USQ93423.1 Exp number, first 60 AAs:  0
+# USQ93423.1 Total prob of N-in:        0.01805
+USQ93423.1	TMHMM2.0	outside	     1   315
+# USQ93422.1 Length: 457
+# USQ93422.1 Number of predicted TMHs:  0
+# USQ93422.1 Exp number of AAs in TMHs: 0.39218
+# USQ93422.1 Exp number, first 60 AAs:  0.39005
+# USQ93422.1 Total prob of N-in:        0.02232
+USQ93422.1	TMHMM2.0	outside	     1   457
+# USQ93421.1 Length: 643
+# USQ93421.1 Number of predicted TMHs:  0
+# USQ93421.1 Exp number of AAs in TMHs: 0.35901
+# USQ93421.1 Exp number, first 60 AAs:  0
+# USQ93421.1 Total prob of N-in:        0.00227
+USQ93421.1	TMHMM2.0	outside	     1   643
+# USQ93420.1 Length: 200
+# USQ93420.1 Number of predicted TMHs:  0
+# USQ93420.1 Exp number of AAs in TMHs: 5.0799
+# USQ93420.1 Exp number, first 60 AAs:  0.00172
+# USQ93420.1 Total prob of N-in:        0.27019
+USQ93420.1	TMHMM2.0	outside	     1   200
+# USQ93419.1 Length: 565
+# USQ93419.1 Number of predicted TMHs:  4
+# USQ93419.1 Exp number of AAs in TMHs: 106.86352
+# USQ93419.1 Exp number, first 60 AAs:  1.26467
+# USQ93419.1 Total prob of N-in:        0.74836
+USQ93419.1	TMHMM2.0	inside	     1   306
+USQ93419.1	TMHMM2.0	TMhelix	   307   326
+USQ93419.1	TMHMM2.0	outside	   327   379
+USQ93419.1	TMHMM2.0	TMhelix	   380   397
+USQ93419.1	TMHMM2.0	inside	   398   429
+USQ93419.1	TMHMM2.0	TMhelix	   430   452
+USQ93419.1	TMHMM2.0	outside	   453   528
+USQ93419.1	TMHMM2.0	TMhelix	   529   551
+USQ93419.1	TMHMM2.0	inside	   552   565
+# USQ93418.1 Length: 329
+# USQ93418.1 Number of predicted TMHs:  0
+# USQ93418.1 Exp number of AAs in TMHs: 0.01214
+# USQ93418.1 Exp number, first 60 AAs:  0.0038
+# USQ93418.1 Total prob of N-in:        0.03985
+USQ93418.1	TMHMM2.0	outside	     1   329
+# USQ93417.1 Length: 372
+# USQ93417.1 Number of predicted TMHs:  0
+# USQ93417.1 Exp number of AAs in TMHs: 0.00473
+# USQ93417.1 Exp number, first 60 AAs:  0
+# USQ93417.1 Total prob of N-in:        0.09339
+USQ93417.1	TMHMM2.0	outside	     1   372
+# USQ93416.1 Length: 624
+# USQ93416.1 Number of predicted TMHs:  0
+# USQ93416.1 Exp number of AAs in TMHs: 0.0257599999999999
+# USQ93416.1 Exp number, first 60 AAs:  0.00017
+# USQ93416.1 Total prob of N-in:        0.00287
+USQ93416.1	TMHMM2.0	outside	     1   624
+# USQ93415.1 Length: 299
+# USQ93415.1 Number of predicted TMHs:  0
+# USQ93415.1 Exp number of AAs in TMHs: 0.01054
+# USQ93415.1 Exp number, first 60 AAs:  0
+# USQ93415.1 Total prob of N-in:        0.27015
+USQ93415.1	TMHMM2.0	outside	     1   299
+# USQ93414.1 Length: 341
+# USQ93414.1 Number of predicted TMHs:  0
+# USQ93414.1 Exp number of AAs in TMHs: 0.03648
+# USQ93414.1 Exp number, first 60 AAs:  0.00019
+# USQ93414.1 Total prob of N-in:        0.02005
+USQ93414.1	TMHMM2.0	outside	     1   341
+# USQ93413.1 Length: 917
+# USQ93413.1 Number of predicted TMHs:  1
+# USQ93413.1 Exp number of AAs in TMHs: 21.45145
+# USQ93413.1 Exp number, first 60 AAs:  0.03246
+# USQ93413.1 Total prob of N-in:        0.00164
+USQ93413.1	TMHMM2.0	outside	     1   888
+USQ93413.1	TMHMM2.0	TMhelix	   889   911
+USQ93413.1	TMHMM2.0	inside	   912   917
+# USQ93412.1 Length: 320
+# USQ93412.1 Number of predicted TMHs:  2
+# USQ93412.1 Exp number of AAs in TMHs: 38.78746
+# USQ93412.1 Exp number, first 60 AAs:  19.74841
+# USQ93412.1 Total prob of N-in:        0.99381
+# USQ93412.1 POSSIBLE N-term signal sequence
+USQ93412.1	TMHMM2.0	inside	     1    12
+USQ93412.1	TMHMM2.0	TMhelix	    13    32
+USQ93412.1	TMHMM2.0	outside	    33   296
+USQ93412.1	TMHMM2.0	TMhelix	   297   314
+USQ93412.1	TMHMM2.0	inside	   315   320
+# USQ93411.1 Length: 367
+# USQ93411.1 Number of predicted TMHs:  0
+# USQ93411.1 Exp number of AAs in TMHs: 0.00884999999999998
+# USQ93411.1 Exp number, first 60 AAs:  0.00829
+# USQ93411.1 Total prob of N-in:        0.00487
+USQ93411.1	TMHMM2.0	outside	     1   367
+# USQ93410.1 Length: 918
+# USQ93410.1 Number of predicted TMHs:  0
+# USQ93410.1 Exp number of AAs in TMHs: 0.0283699999999999
+# USQ93410.1 Exp number, first 60 AAs:  0.00222
+# USQ93410.1 Total prob of N-in:        0.00120
+USQ93410.1	TMHMM2.0	outside	     1   918
+# USQ93409.1 Length: 260
+# USQ93409.1 Number of predicted TMHs:  6
+# USQ93409.1 Exp number of AAs in TMHs: 134.74631
+# USQ93409.1 Exp number, first 60 AAs:  22.47166
+# USQ93409.1 Total prob of N-in:        0.99622
+# USQ93409.1 POSSIBLE N-term signal sequence
+USQ93409.1	TMHMM2.0	inside	     1    18
+USQ93409.1	TMHMM2.0	TMhelix	    19    41
+USQ93409.1	TMHMM2.0	outside	    42    80
+USQ93409.1	TMHMM2.0	TMhelix	    81   103
+USQ93409.1	TMHMM2.0	inside	   104   109
+USQ93409.1	TMHMM2.0	TMhelix	   110   132
+USQ93409.1	TMHMM2.0	outside	   133   157
+USQ93409.1	TMHMM2.0	TMhelix	   158   180
+USQ93409.1	TMHMM2.0	inside	   181   200
+USQ93409.1	TMHMM2.0	TMhelix	   201   223
+USQ93409.1	TMHMM2.0	outside	   224   227
+USQ93409.1	TMHMM2.0	TMhelix	   228   250
+USQ93409.1	TMHMM2.0	inside	   251   260
+# USQ93408.1 Length: 302
+# USQ93408.1 Number of predicted TMHs:  0
+# USQ93408.1 Exp number of AAs in TMHs: 0.0101
+# USQ93408.1 Exp number, first 60 AAs:  0.00171
+# USQ93408.1 Total prob of N-in:        0.00565
+USQ93408.1	TMHMM2.0	outside	     1   302
+# USQ93407.1 Length: 325
+# USQ93407.1 Number of predicted TMHs:  0
+# USQ93407.1 Exp number of AAs in TMHs: 0.02651
+# USQ93407.1 Exp number, first 60 AAs:  0.0008
+# USQ93407.1 Total prob of N-in:        0.01029
+USQ93407.1	TMHMM2.0	outside	     1   325
+# USQ93406.1 Length: 183
+# USQ93406.1 Number of predicted TMHs:  0
+# USQ93406.1 Exp number of AAs in TMHs: 0.01896
+# USQ93406.1 Exp number, first 60 AAs:  0.00747999999999999
+# USQ93406.1 Total prob of N-in:        0.04618
+USQ93406.1	TMHMM2.0	outside	     1   183
+# USQ93405.1 Length: 353
+# USQ93405.1 Number of predicted TMHs:  0
+# USQ93405.1 Exp number of AAs in TMHs: 0.0029
+# USQ93405.1 Exp number, first 60 AAs:  0
+# USQ93405.1 Total prob of N-in:        0.01374
+USQ93405.1	TMHMM2.0	outside	     1   353
+# USQ93404.1 Length: 448
+# USQ93404.1 Number of predicted TMHs:  0
+# USQ93404.1 Exp number of AAs in TMHs: 0.00663999999999999
+# USQ93404.1 Exp number, first 60 AAs:  0.00582
+# USQ93404.1 Total prob of N-in:        0.00341
+USQ93404.1	TMHMM2.0	outside	     1   448
+# USQ93403.1 Length: 837
+# USQ93403.1 Number of predicted TMHs:  2
+# USQ93403.1 Exp number of AAs in TMHs: 45.6859200000002
+# USQ93403.1 Exp number, first 60 AAs:  25.83216
+# USQ93403.1 Total prob of N-in:        0.17477
+# USQ93403.1 POSSIBLE N-term signal sequence
+USQ93403.1	TMHMM2.0	outside	     1    14
+USQ93403.1	TMHMM2.0	TMhelix	    15    33
+USQ93403.1	TMHMM2.0	inside	    34    53
+USQ93403.1	TMHMM2.0	TMhelix	    54    76
+USQ93403.1	TMHMM2.0	outside	    77   837
+# USQ93402.1 Length: 79
+# USQ93402.1 Number of predicted TMHs:  0
+# USQ93402.1 Exp number of AAs in TMHs: 0.00291
+# USQ93402.1 Exp number, first 60 AAs:  0.00291
+# USQ93402.1 Total prob of N-in:        0.84707
+USQ93402.1	TMHMM2.0	inside	     1    79
+# USQ93401.1 Length: 138
+# USQ93401.1 Number of predicted TMHs:  0
+# USQ93401.1 Exp number of AAs in TMHs: 0.00554999999999999
+# USQ93401.1 Exp number, first 60 AAs:  0.005
+# USQ93401.1 Total prob of N-in:        0.18700
+USQ93401.1	TMHMM2.0	outside	     1   138
+# USQ93400.1 Length: 96
+# USQ93400.1 Number of predicted TMHs:  0
+# USQ93400.1 Exp number of AAs in TMHs: 0.00121
+# USQ93400.1 Exp number, first 60 AAs:  0
+# USQ93400.1 Total prob of N-in:        0.38395
+USQ93400.1	TMHMM2.0	outside	     1    96
+# USQ93399.1 Length: 287
+# USQ93399.1 Number of predicted TMHs:  7
+# USQ93399.1 Exp number of AAs in TMHs: 151.48296
+# USQ93399.1 Exp number, first 60 AAs:  37.40094
+# USQ93399.1 Total prob of N-in:        0.99821
+# USQ93399.1 POSSIBLE N-term signal sequence
+USQ93399.1	TMHMM2.0	inside	     1    11
+USQ93399.1	TMHMM2.0	TMhelix	    12    34
+USQ93399.1	TMHMM2.0	outside	    35    43
+USQ93399.1	TMHMM2.0	TMhelix	    44    66
+USQ93399.1	TMHMM2.0	inside	    67   104
+USQ93399.1	TMHMM2.0	TMhelix	   105   122
+USQ93399.1	TMHMM2.0	outside	   123   126
+USQ93399.1	TMHMM2.0	TMhelix	   127   149
+USQ93399.1	TMHMM2.0	inside	   150   169
+USQ93399.1	TMHMM2.0	TMhelix	   170   192
+USQ93399.1	TMHMM2.0	outside	   193   211
+USQ93399.1	TMHMM2.0	TMhelix	   212   234
+USQ93399.1	TMHMM2.0	inside	   235   261
+USQ93399.1	TMHMM2.0	TMhelix	   262   284
+USQ93399.1	TMHMM2.0	outside	   285   287
+# USQ93398.1 Length: 240
+# USQ93398.1 Number of predicted TMHs:  0
+# USQ93398.1 Exp number of AAs in TMHs: 0.1949
+# USQ93398.1 Exp number, first 60 AAs:  0.00146
+# USQ93398.1 Total prob of N-in:        0.09591
+USQ93398.1	TMHMM2.0	outside	     1   240
+# USQ93397.1 Length: 339
+# USQ93397.1 Number of predicted TMHs:  8
+# USQ93397.1 Exp number of AAs in TMHs: 175.41909
+# USQ93397.1 Exp number, first 60 AAs:  17.71037
+# USQ93397.1 Total prob of N-in:        0.03764
+# USQ93397.1 POSSIBLE N-term signal sequence
+USQ93397.1	TMHMM2.0	outside	     1     3
+USQ93397.1	TMHMM2.0	TMhelix	     4    21
+USQ93397.1	TMHMM2.0	inside	    22    86
+USQ93397.1	TMHMM2.0	TMhelix	    87   109
+USQ93397.1	TMHMM2.0	outside	   110   123
+USQ93397.1	TMHMM2.0	TMhelix	   124   146
+USQ93397.1	TMHMM2.0	inside	   147   157
+USQ93397.1	TMHMM2.0	TMhelix	   158   177
+USQ93397.1	TMHMM2.0	outside	   178   196
+USQ93397.1	TMHMM2.0	TMhelix	   197   219
+USQ93397.1	TMHMM2.0	inside	   220   231
+USQ93397.1	TMHMM2.0	TMhelix	   232   254
+USQ93397.1	TMHMM2.0	outside	   255   258
+USQ93397.1	TMHMM2.0	TMhelix	   259   281
+USQ93397.1	TMHMM2.0	inside	   282   300
+USQ93397.1	TMHMM2.0	TMhelix	   301   323
+USQ93397.1	TMHMM2.0	outside	   324   339
+# USQ93396.1 Length: 392
+# USQ93396.1 Number of predicted TMHs:  0
+# USQ93396.1 Exp number of AAs in TMHs: 34.8066800000001
+# USQ93396.1 Exp number, first 60 AAs:  0.0036
+# USQ93396.1 Total prob of N-in:        0.80187
+USQ93396.1	TMHMM2.0	outside	     1   392
+# USQ93395.1 Length: 210
+# USQ93395.1 Number of predicted TMHs:  1
+# USQ93395.1 Exp number of AAs in TMHs: 22.67911
+# USQ93395.1 Exp number, first 60 AAs:  22.67911
+# USQ93395.1 Total prob of N-in:        0.92704
+# USQ93395.1 POSSIBLE N-term signal sequence
+USQ93395.1	TMHMM2.0	inside	     1    20
+USQ93395.1	TMHMM2.0	TMhelix	    21    43
+USQ93395.1	TMHMM2.0	outside	    44   210
+# USQ93394.1 Length: 267
+# USQ93394.1 Number of predicted TMHs:  6
+# USQ93394.1 Exp number of AAs in TMHs: 130.27051
+# USQ93394.1 Exp number, first 60 AAs:  22.82632
+# USQ93394.1 Total prob of N-in:        0.99974
+# USQ93394.1 POSSIBLE N-term signal sequence
+USQ93394.1	TMHMM2.0	inside	     1    24
+USQ93394.1	TMHMM2.0	TMhelix	    25    47
+USQ93394.1	TMHMM2.0	outside	    48    61
+USQ93394.1	TMHMM2.0	TMhelix	    62    80
+USQ93394.1	TMHMM2.0	inside	    81    86
+USQ93394.1	TMHMM2.0	TMhelix	    87   109
+USQ93394.1	TMHMM2.0	outside	   110   135
+USQ93394.1	TMHMM2.0	TMhelix	   136   158
+USQ93394.1	TMHMM2.0	inside	   159   169
+USQ93394.1	TMHMM2.0	TMhelix	   170   192
+USQ93394.1	TMHMM2.0	outside	   193   229
+USQ93394.1	TMHMM2.0	TMhelix	   230   252
+USQ93394.1	TMHMM2.0	inside	   253   267
+# USQ93393.1 Length: 378
+# USQ93393.1 Number of predicted TMHs:  0
+# USQ93393.1 Exp number of AAs in TMHs: 0.70105
+# USQ93393.1 Exp number, first 60 AAs:  0.00581
+# USQ93393.1 Total prob of N-in:        0.04063
+USQ93393.1	TMHMM2.0	outside	     1   378
+# USQ93392.1 Length: 456
+# USQ93392.1 Number of predicted TMHs:  0
+# USQ93392.1 Exp number of AAs in TMHs: 0.15772
+# USQ93392.1 Exp number, first 60 AAs:  0
+# USQ93392.1 Total prob of N-in:        0.01411
+USQ93392.1	TMHMM2.0	outside	     1   456
+# USQ93391.1 Length: 825
+# USQ93391.1 Number of predicted TMHs:  0
+# USQ93391.1 Exp number of AAs in TMHs: 0.0311699999999999
+# USQ93391.1 Exp number, first 60 AAs:  1e-05
+# USQ93391.1 Total prob of N-in:        0.00126
+USQ93391.1	TMHMM2.0	outside	     1   825
+# USQ93390.1 Length: 221
+# USQ93390.1 Number of predicted TMHs:  0
+# USQ93390.1 Exp number of AAs in TMHs: 14.32006
+# USQ93390.1 Exp number, first 60 AAs:  0.00017
+# USQ93390.1 Total prob of N-in:        0.23265
+USQ93390.1	TMHMM2.0	outside	     1   221
+# USQ93389.1 Length: 419
+# USQ93389.1 Number of predicted TMHs:  0
+# USQ93389.1 Exp number of AAs in TMHs: 0.0969400000000001
+# USQ93389.1 Exp number, first 60 AAs:  0
+# USQ93389.1 Total prob of N-in:        0.01191
+USQ93389.1	TMHMM2.0	outside	     1   419
+# USQ93388.1 Length: 67
+# USQ93388.1 Number of predicted TMHs:  0
+# USQ93388.1 Exp number of AAs in TMHs: 0.10374
+# USQ93388.1 Exp number, first 60 AAs:  0.10366
+# USQ93388.1 Total prob of N-in:        0.74541
+USQ93388.1	TMHMM2.0	inside	     1    67
+# USQ93387.1 Length: 191
+# USQ93387.1 Number of predicted TMHs:  0
+# USQ93387.1 Exp number of AAs in TMHs: 0.02283
+# USQ93387.1 Exp number, first 60 AAs:  0.01495
+# USQ93387.1 Total prob of N-in:        0.05082
+USQ93387.1	TMHMM2.0	outside	     1   191
+# USQ93386.1 Length: 154
+# USQ93386.1 Number of predicted TMHs:  0
+# USQ93386.1 Exp number of AAs in TMHs: 12.88461
+# USQ93386.1 Exp number, first 60 AAs:  0.01956
+# USQ93386.1 Total prob of N-in:        0.55025
+USQ93386.1	TMHMM2.0	outside	     1   154
+# USQ93385.1 Length: 214
+# USQ93385.1 Number of predicted TMHs:  2
+# USQ93385.1 Exp number of AAs in TMHs: 40.13211
+# USQ93385.1 Exp number, first 60 AAs:  0.00087
+# USQ93385.1 Total prob of N-in:        0.99472
+USQ93385.1	TMHMM2.0	inside	     1   113
+USQ93385.1	TMHMM2.0	TMhelix	   114   133
+USQ93385.1	TMHMM2.0	outside	   134   142
+USQ93385.1	TMHMM2.0	TMhelix	   143   162
+USQ93385.1	TMHMM2.0	inside	   163   214
+# USQ93384.1 Length: 617
+# USQ93384.1 Number of predicted TMHs:  0
+# USQ93384.1 Exp number of AAs in TMHs: 0.11741
+# USQ93384.1 Exp number, first 60 AAs:  0.02914
+# USQ93384.1 Total prob of N-in:        0.00172
+USQ93384.1	TMHMM2.0	outside	     1   617
+# USQ93383.1 Length: 212
+# USQ93383.1 Number of predicted TMHs:  0
+# USQ93383.1 Exp number of AAs in TMHs: 1.79945
+# USQ93383.1 Exp number, first 60 AAs:  0.00043
+# USQ93383.1 Total prob of N-in:        0.13550
+USQ93383.1	TMHMM2.0	outside	     1   212
+# USQ93382.1 Length: 129
+# USQ93382.1 Number of predicted TMHs:  0
+# USQ93382.1 Exp number of AAs in TMHs: 0.00217
+# USQ93382.1 Exp number, first 60 AAs:  0.00033
+# USQ93382.1 Total prob of N-in:        0.43434
+USQ93382.1	TMHMM2.0	outside	     1   129
+# USQ93381.1 Length: 431
+# USQ93381.1 Number of predicted TMHs:  1
+# USQ93381.1 Exp number of AAs in TMHs: 14.67174
+# USQ93381.1 Exp number, first 60 AAs:  14.67063
+# USQ93381.1 Total prob of N-in:        0.79171
+# USQ93381.1 POSSIBLE N-term signal sequence
+USQ93381.1	TMHMM2.0	inside	     1     6
+USQ93381.1	TMHMM2.0	TMhelix	     7    24
+USQ93381.1	TMHMM2.0	outside	    25   431
+# USQ93380.1 Length: 122
+# USQ93380.1 Number of predicted TMHs:  1
+# USQ93380.1 Exp number of AAs in TMHs: 20.29202
+# USQ93380.1 Exp number, first 60 AAs:  20.29202
+# USQ93380.1 Total prob of N-in:        0.10652
+# USQ93380.1 POSSIBLE N-term signal sequence
+USQ93380.1	TMHMM2.0	outside	     1     9
+USQ93380.1	TMHMM2.0	TMhelix	    10    27
+USQ93380.1	TMHMM2.0	inside	    28   122
+# USQ93379.1 Length: 213
+# USQ93379.1 Number of predicted TMHs:  0
+# USQ93379.1 Exp number of AAs in TMHs: 0.10682
+# USQ93379.1 Exp number, first 60 AAs:  0.03841
+# USQ93379.1 Total prob of N-in:        0.39414
+USQ93379.1	TMHMM2.0	outside	     1   213
+# USQ93378.1 Length: 85
+# USQ93378.1 Number of predicted TMHs:  0
+# USQ93378.1 Exp number of AAs in TMHs: 0.00023
+# USQ93378.1 Exp number, first 60 AAs:  0.0001
+# USQ93378.1 Total prob of N-in:        0.17389
+USQ93378.1	TMHMM2.0	outside	     1    85
+# USQ93377.1 Length: 368
+# USQ93377.1 Number of predicted TMHs:  9
+# USQ93377.1 Exp number of AAs in TMHs: 195.8172
+# USQ93377.1 Exp number, first 60 AAs:  41.04241
+# USQ93377.1 Total prob of N-in:        0.02434
+# USQ93377.1 POSSIBLE N-term signal sequence
+USQ93377.1	TMHMM2.0	outside	     1    14
+USQ93377.1	TMHMM2.0	TMhelix	    15    34
+USQ93377.1	TMHMM2.0	inside	    35    40
+USQ93377.1	TMHMM2.0	TMhelix	    41    60
+USQ93377.1	TMHMM2.0	outside	    61    63
+USQ93377.1	TMHMM2.0	TMhelix	    64    86
+USQ93377.1	TMHMM2.0	inside	    87    97
+USQ93377.1	TMHMM2.0	TMhelix	    98   120
+USQ93377.1	TMHMM2.0	outside	   121   134
+USQ93377.1	TMHMM2.0	TMhelix	   135   157
+USQ93377.1	TMHMM2.0	inside	   158   169
+USQ93377.1	TMHMM2.0	TMhelix	   170   192
+USQ93377.1	TMHMM2.0	outside	   193   196
+USQ93377.1	TMHMM2.0	TMhelix	   197   219
+USQ93377.1	TMHMM2.0	inside	   220   225
+USQ93377.1	TMHMM2.0	TMhelix	   226   248
+USQ93377.1	TMHMM2.0	outside	   249   251
+USQ93377.1	TMHMM2.0	TMhelix	   252   270
+USQ93377.1	TMHMM2.0	inside	   271   368
+# USQ93376.1 Length: 357
+# USQ93376.1 Number of predicted TMHs:  8
+# USQ93376.1 Exp number of AAs in TMHs: 179.03063
+# USQ93376.1 Exp number, first 60 AAs:  27.2169
+# USQ93376.1 Total prob of N-in:        0.62281
+# USQ93376.1 POSSIBLE N-term signal sequence
+USQ93376.1	TMHMM2.0	inside	     1    20
+USQ93376.1	TMHMM2.0	TMhelix	    21    39
+USQ93376.1	TMHMM2.0	outside	    40    71
+USQ93376.1	TMHMM2.0	TMhelix	    72    91
+USQ93376.1	TMHMM2.0	inside	    92   102
+USQ93376.1	TMHMM2.0	TMhelix	   103   122
+USQ93376.1	TMHMM2.0	outside	   123   148
+USQ93376.1	TMHMM2.0	TMhelix	   149   171
+USQ93376.1	TMHMM2.0	inside	   172   182
+USQ93376.1	TMHMM2.0	TMhelix	   183   205
+USQ93376.1	TMHMM2.0	outside	   206   208
+USQ93376.1	TMHMM2.0	TMhelix	   209   230
+USQ93376.1	TMHMM2.0	inside	   231   236
+USQ93376.1	TMHMM2.0	TMhelix	   237   256
+USQ93376.1	TMHMM2.0	outside	   257   265
+USQ93376.1	TMHMM2.0	TMhelix	   266   288
+USQ93376.1	TMHMM2.0	inside	   289   357
+# USQ93375.1 Length: 245
+# USQ93375.1 Number of predicted TMHs:  0
+# USQ93375.1 Exp number of AAs in TMHs: 0.02865
+# USQ93375.1 Exp number, first 60 AAs:  0.00987
+# USQ93375.1 Total prob of N-in:        0.44270
+USQ93375.1	TMHMM2.0	outside	     1   245
+# USQ93374.1 Length: 364
+# USQ93374.1 Number of predicted TMHs:  1
+# USQ93374.1 Exp number of AAs in TMHs: 19.81547
+# USQ93374.1 Exp number, first 60 AAs:  19.8143
+# USQ93374.1 Total prob of N-in:        0.98758
+# USQ93374.1 POSSIBLE N-term signal sequence
+USQ93374.1	TMHMM2.0	inside	     1    11
+USQ93374.1	TMHMM2.0	TMhelix	    12    31
+USQ93374.1	TMHMM2.0	outside	    32   364
+# USQ93373.1 Length: 221
+# USQ93373.1 Number of predicted TMHs:  1
+# USQ93373.1 Exp number of AAs in TMHs: 19.12001
+# USQ93373.1 Exp number, first 60 AAs:  18.91786
+# USQ93373.1 Total prob of N-in:        0.82070
+# USQ93373.1 POSSIBLE N-term signal sequence
+USQ93373.1	TMHMM2.0	inside	     1     4
+USQ93373.1	TMHMM2.0	TMhelix	     5    23
+USQ93373.1	TMHMM2.0	outside	    24   221
+# USQ93372.1 Length: 212
+# USQ93372.1 Number of predicted TMHs:  0
+# USQ93372.1 Exp number of AAs in TMHs: 0.02112
+# USQ93372.1 Exp number, first 60 AAs:  0
+# USQ93372.1 Total prob of N-in:        0.04356
+USQ93372.1	TMHMM2.0	outside	     1   212
+# USQ93371.1 Length: 73
+# USQ93371.1 Number of predicted TMHs:  1
+# USQ93371.1 Exp number of AAs in TMHs: 21.36536
+# USQ93371.1 Exp number, first 60 AAs:  14.21156
+# USQ93371.1 Total prob of N-in:        0.83257
+# USQ93371.1 POSSIBLE N-term signal sequence
+USQ93371.1	TMHMM2.0	inside	     1    46
+USQ93371.1	TMHMM2.0	TMhelix	    47    69
+USQ93371.1	TMHMM2.0	outside	    70    73
+# USQ93370.1 Length: 412
+# USQ93370.1 Number of predicted TMHs:  0
+# USQ93370.1 Exp number of AAs in TMHs: 0.0579900000000002
+# USQ93370.1 Exp number, first 60 AAs:  0.00796
+# USQ93370.1 Total prob of N-in:        0.05241
+USQ93370.1	TMHMM2.0	outside	     1   412
+# USQ93369.1 Length: 291
+# USQ93369.1 Number of predicted TMHs:  0
+# USQ93369.1 Exp number of AAs in TMHs: 0.27523
+# USQ93369.1 Exp number, first 60 AAs:  0.26854
+# USQ93369.1 Total prob of N-in:        0.02250
+USQ93369.1	TMHMM2.0	outside	     1   291
+# USQ93368.1 Length: 243
+# USQ93368.1 Number of predicted TMHs:  6
+# USQ93368.1 Exp number of AAs in TMHs: 130.21618
+# USQ93368.1 Exp number, first 60 AAs:  34.37523
+# USQ93368.1 Total prob of N-in:        0.99729
+# USQ93368.1 POSSIBLE N-term signal sequence
+USQ93368.1	TMHMM2.0	inside	     1    12
+USQ93368.1	TMHMM2.0	TMhelix	    13    35
+USQ93368.1	TMHMM2.0	outside	    36    49
+USQ93368.1	TMHMM2.0	TMhelix	    50    67
+USQ93368.1	TMHMM2.0	inside	    68    68
+USQ93368.1	TMHMM2.0	TMhelix	    69    91
+USQ93368.1	TMHMM2.0	outside	    92   105
+USQ93368.1	TMHMM2.0	TMhelix	   106   128
+USQ93368.1	TMHMM2.0	inside	   129   139
+USQ93368.1	TMHMM2.0	TMhelix	   140   162
+USQ93368.1	TMHMM2.0	outside	   163   196
+USQ93368.1	TMHMM2.0	TMhelix	   197   219
+USQ93368.1	TMHMM2.0	inside	   220   243
+# USQ93367.1 Length: 194
+# USQ93367.1 Number of predicted TMHs:  0
+# USQ93367.1 Exp number of AAs in TMHs: 0
+# USQ93367.1 Exp number, first 60 AAs:  0
+# USQ93367.1 Total prob of N-in:        0.07467
+USQ93367.1	TMHMM2.0	outside	     1   194
+# USQ93366.1 Length: 99
+# USQ93366.1 Number of predicted TMHs:  0
+# USQ93366.1 Exp number of AAs in TMHs: 0.000660000000000001
+# USQ93366.1 Exp number, first 60 AAs:  0
+# USQ93366.1 Total prob of N-in:        0.25715
+USQ93366.1	TMHMM2.0	outside	     1    99
+# USQ93365.1 Length: 197
+# USQ93365.1 Number of predicted TMHs:  3
+# USQ93365.1 Exp number of AAs in TMHs: 73.2997900000001
+# USQ93365.1 Exp number, first 60 AAs:  0.22011
+# USQ93365.1 Total prob of N-in:        0.27886
+USQ93365.1	TMHMM2.0	inside	     1    68
+USQ93365.1	TMHMM2.0	TMhelix	    69    88
+USQ93365.1	TMHMM2.0	outside	    89   102
+USQ93365.1	TMHMM2.0	TMhelix	   103   125
+USQ93365.1	TMHMM2.0	inside	   126   177
+USQ93365.1	TMHMM2.0	TMhelix	   178   196
+USQ93365.1	TMHMM2.0	outside	   197   197
+# USQ93364.1 Length: 101
+# USQ93364.1 Number of predicted TMHs:  0
+# USQ93364.1 Exp number of AAs in TMHs: 0.0002
+# USQ93364.1 Exp number, first 60 AAs:  0
+# USQ93364.1 Total prob of N-in:        0.26532
+USQ93364.1	TMHMM2.0	outside	     1   101
+# USQ93363.1 Length: 204
+# USQ93363.1 Number of predicted TMHs:  4
+# USQ93363.1 Exp number of AAs in TMHs: 87.6035400000001
+# USQ93363.1 Exp number, first 60 AAs:  37.84819
+# USQ93363.1 Total prob of N-in:        0.99748
+# USQ93363.1 POSSIBLE N-term signal sequence
+USQ93363.1	TMHMM2.0	inside	     1     8
+USQ93363.1	TMHMM2.0	TMhelix	     9    28
+USQ93363.1	TMHMM2.0	outside	    29    42
+USQ93363.1	TMHMM2.0	TMhelix	    43    65
+USQ93363.1	TMHMM2.0	inside	    66   105
+USQ93363.1	TMHMM2.0	TMhelix	   106   128
+USQ93363.1	TMHMM2.0	outside	   129   132
+USQ93363.1	TMHMM2.0	TMhelix	   133   152
+USQ93363.1	TMHMM2.0	inside	   153   204
+# USQ93362.1 Length: 226
+# USQ93362.1 Number of predicted TMHs:  0
+# USQ93362.1 Exp number of AAs in TMHs: 0.0602200000000001
+# USQ93362.1 Exp number, first 60 AAs:  0.05463
+# USQ93362.1 Total prob of N-in:        0.14190
+USQ93362.1	TMHMM2.0	outside	     1   226
+# USQ93361.1 Length: 553
+# USQ93361.1 Number of predicted TMHs:  0
+# USQ93361.1 Exp number of AAs in TMHs: 0.000900000000000001
+# USQ93361.1 Exp number, first 60 AAs:  0.00018
+# USQ93361.1 Total prob of N-in:        0.00049
+USQ93361.1	TMHMM2.0	outside	     1   553
+# USQ93360.1 Length: 462
+# USQ93360.1 Number of predicted TMHs:  0
+# USQ93360.1 Exp number of AAs in TMHs: 0.0071
+# USQ93360.1 Exp number, first 60 AAs:  0.0015
+# USQ93360.1 Total prob of N-in:        0.00463
+USQ93360.1	TMHMM2.0	outside	     1   462
+# USQ93359.1 Length: 443
+# USQ93359.1 Number of predicted TMHs:  0
+# USQ93359.1 Exp number of AAs in TMHs: 0.1677
+# USQ93359.1 Exp number, first 60 AAs:  0.00016
+# USQ93359.1 Total prob of N-in:        0.03140
+USQ93359.1	TMHMM2.0	outside	     1   443
+# USQ93358.1 Length: 576
+# USQ93358.1 Number of predicted TMHs:  0
+# USQ93358.1 Exp number of AAs in TMHs: 0.10046
+# USQ93358.1 Exp number, first 60 AAs:  0.03635
+# USQ93358.1 Total prob of N-in:        0.00576
+USQ93358.1	TMHMM2.0	outside	     1   576
+# USQ93357.1 Length: 103
+# USQ93357.1 Number of predicted TMHs:  0
+# USQ93357.1 Exp number of AAs in TMHs: 0.00158
+# USQ93357.1 Exp number, first 60 AAs:  0.00143
+# USQ93357.1 Total prob of N-in:        0.43626
+USQ93357.1	TMHMM2.0	outside	     1   103
+# USQ93356.1 Length: 179
+# USQ93356.1 Number of predicted TMHs:  0
+# USQ93356.1 Exp number of AAs in TMHs: 1.14812
+# USQ93356.1 Exp number, first 60 AAs:  0.49224
+# USQ93356.1 Total prob of N-in:        0.49809
+USQ93356.1	TMHMM2.0	outside	     1   179
+# USQ93355.1 Length: 243
+# USQ93355.1 Number of predicted TMHs:  7
+# USQ93355.1 Exp number of AAs in TMHs: 138.30268
+# USQ93355.1 Exp number, first 60 AAs:  29.65524
+# USQ93355.1 Total prob of N-in:        0.47674
+# USQ93355.1 POSSIBLE N-term signal sequence
+USQ93355.1	TMHMM2.0	outside	     1     9
+USQ93355.1	TMHMM2.0	TMhelix	    10    32
+USQ93355.1	TMHMM2.0	inside	    33    44
+USQ93355.1	TMHMM2.0	TMhelix	    45    64
+USQ93355.1	TMHMM2.0	outside	    65    83
+USQ93355.1	TMHMM2.0	TMhelix	    84   106
+USQ93355.1	TMHMM2.0	inside	   107   117
+USQ93355.1	TMHMM2.0	TMhelix	   118   140
+USQ93355.1	TMHMM2.0	outside	   141   159
+USQ93355.1	TMHMM2.0	TMhelix	   160   182
+USQ93355.1	TMHMM2.0	inside	   183   194
+USQ93355.1	TMHMM2.0	TMhelix	   195   214
+USQ93355.1	TMHMM2.0	outside	   215   223
+USQ93355.1	TMHMM2.0	TMhelix	   224   242
+USQ93355.1	TMHMM2.0	inside	   243   243
+# USQ93354.1 Length: 274
+# USQ93354.1 Number of predicted TMHs:  0
+# USQ93354.1 Exp number of AAs in TMHs: 15.12609
+# USQ93354.1 Exp number, first 60 AAs:  14.84376
+# USQ93354.1 Total prob of N-in:        0.29396
+# USQ93354.1 POSSIBLE N-term signal sequence
+USQ93354.1	TMHMM2.0	outside	     1   274
+# USQ93353.1 Length: 542
+# USQ93353.1 Number of predicted TMHs:  1
+# USQ93353.1 Exp number of AAs in TMHs: 23.44158
+# USQ93353.1 Exp number, first 60 AAs:  22.69198
+# USQ93353.1 Total prob of N-in:        0.98536
+# USQ93353.1 POSSIBLE N-term signal sequence
+USQ93353.1	TMHMM2.0	inside	     1    11
+USQ93353.1	TMHMM2.0	TMhelix	    12    34
+USQ93353.1	TMHMM2.0	outside	    35   542
+# USQ93352.1 Length: 156
+# USQ93352.1 Number of predicted TMHs:  1
+# USQ93352.1 Exp number of AAs in TMHs: 22.67494
+# USQ93352.1 Exp number, first 60 AAs:  22.67476
+# USQ93352.1 Total prob of N-in:        0.20859
+# USQ93352.1 POSSIBLE N-term signal sequence
+USQ93352.1	TMHMM2.0	outside	     1    14
+USQ93352.1	TMHMM2.0	TMhelix	    15    37
+USQ93352.1	TMHMM2.0	inside	    38   156
+# USQ93351.1 Length: 204
+# USQ93351.1 Number of predicted TMHs:  0
+# USQ93351.1 Exp number of AAs in TMHs: 0.04203
+# USQ93351.1 Exp number, first 60 AAs:  0.04203
+# USQ93351.1 Total prob of N-in:        0.09894
+USQ93351.1	TMHMM2.0	outside	     1   204
+# USQ93350.1 Length: 228
+# USQ93350.1 Number of predicted TMHs:  0
+# USQ93350.1 Exp number of AAs in TMHs: 0.31096
+# USQ93350.1 Exp number, first 60 AAs:  0.06822
+# USQ93350.1 Total prob of N-in:        0.06778
+USQ93350.1	TMHMM2.0	outside	     1   228
+# USQ93349.1 Length: 339
+# USQ93349.1 Number of predicted TMHs:  0
+# USQ93349.1 Exp number of AAs in TMHs: 0.1018
+# USQ93349.1 Exp number, first 60 AAs:  0
+# USQ93349.1 Total prob of N-in:        0.01782
+USQ93349.1	TMHMM2.0	outside	     1   339
+# USQ93348.1 Length: 626
+# USQ93348.1 Number of predicted TMHs:  0
+# USQ93348.1 Exp number of AAs in TMHs: 8.91144999999998
+# USQ93348.1 Exp number, first 60 AAs:  0.00436
+# USQ93348.1 Total prob of N-in:        0.01434
+USQ93348.1	TMHMM2.0	outside	     1   626
+# USQ93347.1 Length: 1546
+# USQ93347.1 Number of predicted TMHs:  1
+# USQ93347.1 Exp number of AAs in TMHs: 20.95948
+# USQ93347.1 Exp number, first 60 AAs:  20.95735
+# USQ93347.1 Total prob of N-in:        0.99934
+# USQ93347.1 POSSIBLE N-term signal sequence
+USQ93347.1	TMHMM2.0	inside	     1     6
+USQ93347.1	TMHMM2.0	TMhelix	     7    29
+USQ93347.1	TMHMM2.0	outside	    30  1546
+# USQ93346.1 Length: 219
+# USQ93346.1 Number of predicted TMHs:  0
+# USQ93346.1 Exp number of AAs in TMHs: 0.00042
+# USQ93346.1 Exp number, first 60 AAs:  0.00042
+# USQ93346.1 Total prob of N-in:        0.01372
+USQ93346.1	TMHMM2.0	outside	     1   219
+# USQ93345.1 Length: 480
+# USQ93345.1 Number of predicted TMHs:  4
+# USQ93345.1 Exp number of AAs in TMHs: 91.1767000000001
+# USQ93345.1 Exp number, first 60 AAs:  0.06613
+# USQ93345.1 Total prob of N-in:        0.98917
+USQ93345.1	TMHMM2.0	inside	     1   302
+USQ93345.1	TMHMM2.0	TMhelix	   303   325
+USQ93345.1	TMHMM2.0	outside	   326   334
+USQ93345.1	TMHMM2.0	TMhelix	   335   357
+USQ93345.1	TMHMM2.0	inside	   358   392
+USQ93345.1	TMHMM2.0	TMhelix	   393   415
+USQ93345.1	TMHMM2.0	outside	   416   434
+USQ93345.1	TMHMM2.0	TMhelix	   435   457
+USQ93345.1	TMHMM2.0	inside	   458   480
+# USQ93344.1 Length: 88
+# USQ93344.1 Number of predicted TMHs:  0
+# USQ93344.1 Exp number of AAs in TMHs: 0
+# USQ93344.1 Exp number, first 60 AAs:  0
+# USQ93344.1 Total prob of N-in:        0.18806
+USQ93344.1	TMHMM2.0	outside	     1    88
+# USQ93343.1 Length: 538
+# USQ93343.1 Number of predicted TMHs:  0
+# USQ93343.1 Exp number of AAs in TMHs: 0.06499
+# USQ93343.1 Exp number, first 60 AAs:  0.0002
+# USQ93343.1 Total prob of N-in:        0.00111
+USQ93343.1	TMHMM2.0	outside	     1   538
+# USQ93342.1 Length: 572
+# USQ93342.1 Number of predicted TMHs:  6
+# USQ93342.1 Exp number of AAs in TMHs: 136.82178
+# USQ93342.1 Exp number, first 60 AAs:  34.25169
+# USQ93342.1 Total prob of N-in:        0.06607
+# USQ93342.1 POSSIBLE N-term signal sequence
+USQ93342.1	TMHMM2.0	outside	     1    14
+USQ93342.1	TMHMM2.0	TMhelix	    15    37
+USQ93342.1	TMHMM2.0	inside	    38    49
+USQ93342.1	TMHMM2.0	TMhelix	    50    72
+USQ93342.1	TMHMM2.0	outside	    73   122
+USQ93342.1	TMHMM2.0	TMhelix	   123   145
+USQ93342.1	TMHMM2.0	inside	   146   149
+USQ93342.1	TMHMM2.0	TMhelix	   150   172
+USQ93342.1	TMHMM2.0	outside	   173   232
+USQ93342.1	TMHMM2.0	TMhelix	   233   255
+USQ93342.1	TMHMM2.0	inside	   256   267
+USQ93342.1	TMHMM2.0	TMhelix	   268   290
+USQ93342.1	TMHMM2.0	outside	   291   572
+# USQ93341.1 Length: 590
+# USQ93341.1 Number of predicted TMHs:  6
+# USQ93341.1 Exp number of AAs in TMHs: 129.50253
+# USQ93341.1 Exp number, first 60 AAs:  24.73592
+# USQ93341.1 Total prob of N-in:        0.52252
+# USQ93341.1 POSSIBLE N-term signal sequence
+USQ93341.1	TMHMM2.0	outside	     1    14
+USQ93341.1	TMHMM2.0	TMhelix	    15    37
+USQ93341.1	TMHMM2.0	inside	    38    57
+USQ93341.1	TMHMM2.0	TMhelix	    58    80
+USQ93341.1	TMHMM2.0	outside	    81   138
+USQ93341.1	TMHMM2.0	TMhelix	   139   161
+USQ93341.1	TMHMM2.0	inside	   162   162
+USQ93341.1	TMHMM2.0	TMhelix	   163   181
+USQ93341.1	TMHMM2.0	outside	   182   248
+USQ93341.1	TMHMM2.0	TMhelix	   249   271
+USQ93341.1	TMHMM2.0	inside	   272   277
+USQ93341.1	TMHMM2.0	TMhelix	   278   300
+USQ93341.1	TMHMM2.0	outside	   301   590
+# USQ93340.1 Length: 673
+# USQ93340.1 Number of predicted TMHs:  2
+# USQ93340.1 Exp number of AAs in TMHs: 44.5914000000001
+# USQ93340.1 Exp number, first 60 AAs:  22.81537
+# USQ93340.1 Total prob of N-in:        0.04962
+# USQ93340.1 POSSIBLE N-term signal sequence
+USQ93340.1	TMHMM2.0	outside	     1    14
+USQ93340.1	TMHMM2.0	TMhelix	    15    37
+USQ93340.1	TMHMM2.0	inside	    38   199
+USQ93340.1	TMHMM2.0	TMhelix	   200   222
+USQ93340.1	TMHMM2.0	outside	   223   673
+# USQ93339.1 Length: 137
+# USQ93339.1 Number of predicted TMHs:  0
+# USQ93339.1 Exp number of AAs in TMHs: 0
+# USQ93339.1 Exp number, first 60 AAs:  0
+# USQ93339.1 Total prob of N-in:        0.16604
+USQ93339.1	TMHMM2.0	outside	     1   137
+# USQ93338.1 Length: 241
+# USQ93338.1 Number of predicted TMHs:  1
+# USQ93338.1 Exp number of AAs in TMHs: 19.89368
+# USQ93338.1 Exp number, first 60 AAs:  19.89353
+# USQ93338.1 Total prob of N-in:        0.89670
+# USQ93338.1 POSSIBLE N-term signal sequence
+USQ93338.1	TMHMM2.0	inside	     1    12
+USQ93338.1	TMHMM2.0	TMhelix	    13    31
+USQ93338.1	TMHMM2.0	outside	    32   241
+# USQ93337.1 Length: 538
+# USQ93337.1 Number of predicted TMHs:  12
+# USQ93337.1 Exp number of AAs in TMHs: 285.73684
+# USQ93337.1 Exp number, first 60 AAs:  34.96854
+# USQ93337.1 Total prob of N-in:        0.81611
+# USQ93337.1 POSSIBLE N-term signal sequence
+USQ93337.1	TMHMM2.0	inside	     1    12
+USQ93337.1	TMHMM2.0	TMhelix	    13    32
+USQ93337.1	TMHMM2.0	outside	    33    46
+USQ93337.1	TMHMM2.0	TMhelix	    47    69
+USQ93337.1	TMHMM2.0	inside	    70    73
+USQ93337.1	TMHMM2.0	TMhelix	    74    93
+USQ93337.1	TMHMM2.0	outside	    94   114
+USQ93337.1	TMHMM2.0	TMhelix	   115   134
+USQ93337.1	TMHMM2.0	inside	   135   145
+USQ93337.1	TMHMM2.0	TMhelix	   146   168
+USQ93337.1	TMHMM2.0	outside	   169   225
+USQ93337.1	TMHMM2.0	TMhelix	   226   248
+USQ93337.1	TMHMM2.0	inside	   249   280
+USQ93337.1	TMHMM2.0	TMhelix	   281   303
+USQ93337.1	TMHMM2.0	outside	   304   312
+USQ93337.1	TMHMM2.0	TMhelix	   313   332
+USQ93337.1	TMHMM2.0	inside	   333   362
+USQ93337.1	TMHMM2.0	TMhelix	   363   385
+USQ93337.1	TMHMM2.0	outside	   386   394
+USQ93337.1	TMHMM2.0	TMhelix	   395   412
+USQ93337.1	TMHMM2.0	inside	   413   456
+USQ93337.1	TMHMM2.0	TMhelix	   457   479
+USQ93337.1	TMHMM2.0	outside	   480   514
+USQ93337.1	TMHMM2.0	TMhelix	   515   537
+USQ93337.1	TMHMM2.0	inside	   538   538
+# USQ93336.1 Length: 526
+# USQ93336.1 Number of predicted TMHs:  6
+# USQ93336.1 Exp number of AAs in TMHs: 135.36877
+# USQ93336.1 Exp number, first 60 AAs:  19.93126
+# USQ93336.1 Total prob of N-in:        0.05379
+# USQ93336.1 POSSIBLE N-term signal sequence
+USQ93336.1	TMHMM2.0	outside	     1    14
+USQ93336.1	TMHMM2.0	TMhelix	    15    34
+USQ93336.1	TMHMM2.0	inside	    35   256
+USQ93336.1	TMHMM2.0	TMhelix	   257   279
+USQ93336.1	TMHMM2.0	outside	   280   288
+USQ93336.1	TMHMM2.0	TMhelix	   289   311
+USQ93336.1	TMHMM2.0	inside	   312   362
+USQ93336.1	TMHMM2.0	TMhelix	   363   385
+USQ93336.1	TMHMM2.0	outside	   386   417
+USQ93336.1	TMHMM2.0	TMhelix	   418   440
+USQ93336.1	TMHMM2.0	inside	   441   472
+USQ93336.1	TMHMM2.0	TMhelix	   473   495
+USQ93336.1	TMHMM2.0	outside	   496   526
+# USQ93335.1 Length: 111
+# USQ93335.1 Number of predicted TMHs:  0
+# USQ93335.1 Exp number of AAs in TMHs: 4.40508
+# USQ93335.1 Exp number, first 60 AAs:  0.02568
+# USQ93335.1 Total prob of N-in:        0.69170
+USQ93335.1	TMHMM2.0	inside	     1   111
+# USQ93334.1 Length: 44
+# USQ93334.1 Number of predicted TMHs:  0
+# USQ93334.1 Exp number of AAs in TMHs: 0
+# USQ93334.1 Exp number, first 60 AAs:  0
+# USQ93334.1 Total prob of N-in:        0.83877
+USQ93334.1	TMHMM2.0	inside	     1    44
+# USQ93333.1 Length: 353
+# USQ93333.1 Number of predicted TMHs:  0
+# USQ93333.1 Exp number of AAs in TMHs: 0.0036
+# USQ93333.1 Exp number, first 60 AAs:  8e-05
+# USQ93333.1 Total prob of N-in:        0.01241
+USQ93333.1	TMHMM2.0	outside	     1   353
+# USQ93332.1 Length: 205
+# USQ93332.1 Number of predicted TMHs:  6
+# USQ93332.1 Exp number of AAs in TMHs: 123.74665
+# USQ93332.1 Exp number, first 60 AAs:  35.91977
+# USQ93332.1 Total prob of N-in:        0.99915
+# USQ93332.1 POSSIBLE N-term signal sequence
+USQ93332.1	TMHMM2.0	inside	     1    11
+USQ93332.1	TMHMM2.0	TMhelix	    12    29
+USQ93332.1	TMHMM2.0	outside	    30    43
+USQ93332.1	TMHMM2.0	TMhelix	    44    63
+USQ93332.1	TMHMM2.0	inside	    64    74
+USQ93332.1	TMHMM2.0	TMhelix	    75    97
+USQ93332.1	TMHMM2.0	outside	    98   106
+USQ93332.1	TMHMM2.0	TMhelix	   107   129
+USQ93332.1	TMHMM2.0	inside	   130   135
+USQ93332.1	TMHMM2.0	TMhelix	   136   155
+USQ93332.1	TMHMM2.0	outside	   156   164
+USQ93332.1	TMHMM2.0	TMhelix	   165   184
+USQ93332.1	TMHMM2.0	inside	   185   205
+# USQ93331.1 Length: 233
+# USQ93331.1 Number of predicted TMHs:  0
+# USQ93331.1 Exp number of AAs in TMHs: 0.18333
+# USQ93331.1 Exp number, first 60 AAs:  0.02497
+# USQ93331.1 Total prob of N-in:        0.20677
+USQ93331.1	TMHMM2.0	outside	     1   233
+# USQ93330.1 Length: 62
+# USQ93330.1 Number of predicted TMHs:  0
+# USQ93330.1 Exp number of AAs in TMHs: 0.00016
+# USQ93330.1 Exp number, first 60 AAs:  0.00016
+# USQ93330.1 Total prob of N-in:        0.73681
+USQ93330.1	TMHMM2.0	inside	     1    62
+# USQ93329.1 Length: 324
+# USQ93329.1 Number of predicted TMHs:  0
+# USQ93329.1 Exp number of AAs in TMHs: 0.0679300000000001
+# USQ93329.1 Exp number, first 60 AAs:  0.00954999999999999
+# USQ93329.1 Total prob of N-in:        0.23438
+USQ93329.1	TMHMM2.0	outside	     1   324
+# USQ93328.1 Length: 312
+# USQ93328.1 Number of predicted TMHs:  1
+# USQ93328.1 Exp number of AAs in TMHs: 22.1095
+# USQ93328.1 Exp number, first 60 AAs:  22.10335
+# USQ93328.1 Total prob of N-in:        0.97297
+# USQ93328.1 POSSIBLE N-term signal sequence
+USQ93328.1	TMHMM2.0	inside	     1     8
+USQ93328.1	TMHMM2.0	TMhelix	     9    31
+USQ93328.1	TMHMM2.0	outside	    32   312
+# USQ93327.1 Length: 547
+# USQ93327.1 Number of predicted TMHs:  2
+# USQ93327.1 Exp number of AAs in TMHs: 40.26434
+# USQ93327.1 Exp number, first 60 AAs:  34.62357
+# USQ93327.1 Total prob of N-in:        0.00609
+# USQ93327.1 POSSIBLE N-term signal sequence
+USQ93327.1	TMHMM2.0	outside	     1    14
+USQ93327.1	TMHMM2.0	TMhelix	    15    34
+USQ93327.1	TMHMM2.0	inside	    35    46
+USQ93327.1	TMHMM2.0	TMhelix	    47    66
+USQ93327.1	TMHMM2.0	outside	    67   547
+# USQ93326.1 Length: 457
+# USQ93326.1 Number of predicted TMHs:  1
+# USQ93326.1 Exp number of AAs in TMHs: 23.22204
+# USQ93326.1 Exp number, first 60 AAs:  22.98362
+# USQ93326.1 Total prob of N-in:        0.98494
+# USQ93326.1 POSSIBLE N-term signal sequence
+USQ93326.1	TMHMM2.0	inside	     1    16
+USQ93326.1	TMHMM2.0	TMhelix	    17    39
+USQ93326.1	TMHMM2.0	outside	    40   457
+# USQ93325.1 Length: 210
+# USQ93325.1 Number of predicted TMHs:  1
+# USQ93325.1 Exp number of AAs in TMHs: 22.71109
+# USQ93325.1 Exp number, first 60 AAs:  22.71109
+# USQ93325.1 Total prob of N-in:        0.90050
+# USQ93325.1 POSSIBLE N-term signal sequence
+USQ93325.1	TMHMM2.0	inside	     1    12
+USQ93325.1	TMHMM2.0	TMhelix	    13    35
+USQ93325.1	TMHMM2.0	outside	    36   210
+# USQ93324.1 Length: 190
+# USQ93324.1 Number of predicted TMHs:  2
+# USQ93324.1 Exp number of AAs in TMHs: 42.20441
+# USQ93324.1 Exp number, first 60 AAs:  29.98619
+# USQ93324.1 Total prob of N-in:        0.26876
+# USQ93324.1 POSSIBLE N-term signal sequence
+USQ93324.1	TMHMM2.0	outside	     1    17
+USQ93324.1	TMHMM2.0	TMhelix	    18    40
+USQ93324.1	TMHMM2.0	inside	    41    52
+USQ93324.1	TMHMM2.0	TMhelix	    53    72
+USQ93324.1	TMHMM2.0	outside	    73   190
+# USQ93323.1 Length: 235
+# USQ93323.1 Number of predicted TMHs:  0
+# USQ93323.1 Exp number of AAs in TMHs: 10.94809
+# USQ93323.1 Exp number, first 60 AAs:  10.92267
+# USQ93323.1 Total prob of N-in:        0.59128
+# USQ93323.1 POSSIBLE N-term signal sequence
+USQ93323.1	TMHMM2.0	outside	     1   235
+# USQ93322.1 Length: 203
+# USQ93322.1 Number of predicted TMHs:  0
+# USQ93322.1 Exp number of AAs in TMHs: 0.0773299999999998
+# USQ93322.1 Exp number, first 60 AAs:  0.00307
+# USQ93322.1 Total prob of N-in:        0.10423
+USQ93322.1	TMHMM2.0	outside	     1   203
+# USQ93321.1 Length: 534
+# USQ93321.1 Number of predicted TMHs:  0
+# USQ93321.1 Exp number of AAs in TMHs: 0.01804
+# USQ93321.1 Exp number, first 60 AAs:  0.00315
+# USQ93321.1 Total prob of N-in:        0.00583
+USQ93321.1	TMHMM2.0	outside	     1   534
+# USQ93320.1 Length: 1039
+# USQ93320.1 Number of predicted TMHs:  0
+# USQ93320.1 Exp number of AAs in TMHs: 0.0933400000000001
+# USQ93320.1 Exp number, first 60 AAs:  0
+# USQ93320.1 Total prob of N-in:        0.00490
+USQ93320.1	TMHMM2.0	outside	     1  1039
+# USQ93319.1 Length: 306
+# USQ93319.1 Number of predicted TMHs:  0
+# USQ93319.1 Exp number of AAs in TMHs: 0.4851
+# USQ93319.1 Exp number, first 60 AAs:  0.00366
+# USQ93319.1 Total prob of N-in:        0.10635
+USQ93319.1	TMHMM2.0	outside	     1   306
+# USQ93318.1 Length: 267
+# USQ93318.1 Number of predicted TMHs:  0
+# USQ93318.1 Exp number of AAs in TMHs: 0.02306
+# USQ93318.1 Exp number, first 60 AAs:  0
+# USQ93318.1 Total prob of N-in:        0.21304
+USQ93318.1	TMHMM2.0	outside	     1   267
+# USQ93317.1 Length: 216
+# USQ93317.1 Number of predicted TMHs:  5
+# USQ93317.1 Exp number of AAs in TMHs: 116.85841
+# USQ93317.1 Exp number, first 60 AAs:  37.97168
+# USQ93317.1 Total prob of N-in:        0.24846
+# USQ93317.1 POSSIBLE N-term signal sequence
+USQ93317.1	TMHMM2.0	outside	     1     9
+USQ93317.1	TMHMM2.0	TMhelix	    10    32
+USQ93317.1	TMHMM2.0	inside	    33    43
+USQ93317.1	TMHMM2.0	TMhelix	    44    73
+USQ93317.1	TMHMM2.0	outside	    74    92
+USQ93317.1	TMHMM2.0	TMhelix	    93   112
+USQ93317.1	TMHMM2.0	inside	   113   132
+USQ93317.1	TMHMM2.0	TMhelix	   133   155
+USQ93317.1	TMHMM2.0	outside	   156   179
+USQ93317.1	TMHMM2.0	TMhelix	   180   202
+USQ93317.1	TMHMM2.0	inside	   203   216
+# USQ93316.1 Length: 181
+# USQ93316.1 Number of predicted TMHs:  0
+# USQ93316.1 Exp number of AAs in TMHs: 0.15061
+# USQ93316.1 Exp number, first 60 AAs:  0
+# USQ93316.1 Total prob of N-in:        0.19527
+USQ93316.1	TMHMM2.0	outside	     1   181
+# USQ93315.1 Length: 560
+# USQ93315.1 Number of predicted TMHs:  0
+# USQ93315.1 Exp number of AAs in TMHs: 0.0304399999999999
+# USQ93315.1 Exp number, first 60 AAs:  0.00131
+# USQ93315.1 Total prob of N-in:        0.00130
+USQ93315.1	TMHMM2.0	outside	     1   560
+# USQ93314.1 Length: 564
+# USQ93314.1 Number of predicted TMHs:  0
+# USQ93314.1 Exp number of AAs in TMHs: 3.10690000000001
+# USQ93314.1 Exp number, first 60 AAs:  2.70723
+# USQ93314.1 Total prob of N-in:        0.01246
+USQ93314.1	TMHMM2.0	outside	     1   564
+# USQ93313.1 Length: 110
+# USQ93313.1 Number of predicted TMHs:  0
+# USQ93313.1 Exp number of AAs in TMHs: 0.00088
+# USQ93313.1 Exp number, first 60 AAs:  0.00088
+# USQ93313.1 Total prob of N-in:        0.47716
+USQ93313.1	TMHMM2.0	outside	     1   110
+# USQ93312.1 Length: 270
+# USQ93312.1 Number of predicted TMHs:  0
+# USQ93312.1 Exp number of AAs in TMHs: 0.11466
+# USQ93312.1 Exp number, first 60 AAs:  0.02548
+# USQ93312.1 Total prob of N-in:        0.01258
+USQ93312.1	TMHMM2.0	outside	     1   270
+# USQ93311.1 Length: 396
+# USQ93311.1 Number of predicted TMHs:  0
+# USQ93311.1 Exp number of AAs in TMHs: 15.94151
+# USQ93311.1 Exp number, first 60 AAs:  15.85751
+# USQ93311.1 Total prob of N-in:        0.64960
+# USQ93311.1 POSSIBLE N-term signal sequence
+USQ93311.1	TMHMM2.0	outside	     1   396
+# USQ93310.1 Length: 271
+# USQ93310.1 Number of predicted TMHs:  0
+# USQ93310.1 Exp number of AAs in TMHs: 0.00937
+# USQ93310.1 Exp number, first 60 AAs:  0.00441
+# USQ93310.1 Total prob of N-in:        0.01961
+USQ93310.1	TMHMM2.0	outside	     1   271
+# USQ93309.1 Length: 84
+# USQ93309.1 Number of predicted TMHs:  0
+# USQ93309.1 Exp number of AAs in TMHs: 0
+# USQ93309.1 Exp number, first 60 AAs:  0
+# USQ93309.1 Total prob of N-in:        0.32650
+USQ93309.1	TMHMM2.0	outside	     1    84
+# USQ93308.1 Length: 482
+# USQ93308.1 Number of predicted TMHs:  0
+# USQ93308.1 Exp number of AAs in TMHs: 0.09782
+# USQ93308.1 Exp number, first 60 AAs:  9e-05
+# USQ93308.1 Total prob of N-in:        0.00692
+USQ93308.1	TMHMM2.0	outside	     1   482
+# USQ93307.1 Length: 313
+# USQ93307.1 Number of predicted TMHs:  0
+# USQ93307.1 Exp number of AAs in TMHs: 0.16337
+# USQ93307.1 Exp number, first 60 AAs:  0.00328
+# USQ93307.1 Total prob of N-in:        0.02962
+USQ93307.1	TMHMM2.0	outside	     1   313
+# USQ93306.1 Length: 779
+# USQ93306.1 Number of predicted TMHs:  0
+# USQ93306.1 Exp number of AAs in TMHs: 8e-05
+# USQ93306.1 Exp number, first 60 AAs:  8e-05
+# USQ93306.1 Total prob of N-in:        0.00002
+USQ93306.1	TMHMM2.0	outside	     1   779
+# USQ93305.1 Length: 117
+# USQ93305.1 Number of predicted TMHs:  0
+# USQ93305.1 Exp number of AAs in TMHs: 0.00467
+# USQ93305.1 Exp number, first 60 AAs:  0.00058
+# USQ93305.1 Total prob of N-in:        0.27183
+USQ93305.1	TMHMM2.0	outside	     1   117
+# USQ93304.1 Length: 129
+# USQ93304.1 Number of predicted TMHs:  1
+# USQ93304.1 Exp number of AAs in TMHs: 21.7026
+# USQ93304.1 Exp number, first 60 AAs:  21.7026
+# USQ93304.1 Total prob of N-in:        0.16728
+# USQ93304.1 POSSIBLE N-term signal sequence
+USQ93304.1	TMHMM2.0	outside	     1     9
+USQ93304.1	TMHMM2.0	TMhelix	    10    32
+USQ93304.1	TMHMM2.0	inside	    33   129
+# USQ93303.1 Length: 397
+# USQ93303.1 Number of predicted TMHs:  0
+# USQ93303.1 Exp number of AAs in TMHs: 0.05373
+# USQ93303.1 Exp number, first 60 AAs:  0.00207
+# USQ93303.1 Total prob of N-in:        0.02800
+USQ93303.1	TMHMM2.0	outside	     1   397
+# USQ93302.1 Length: 139
+# USQ93302.1 Number of predicted TMHs:  0
+# USQ93302.1 Exp number of AAs in TMHs: 0.0648200000000001
+# USQ93302.1 Exp number, first 60 AAs:  0.05242
+# USQ93302.1 Total prob of N-in:        0.22697
+USQ93302.1	TMHMM2.0	outside	     1   139
+# USQ93301.1 Length: 113
+# USQ93301.1 Number of predicted TMHs:  1
+# USQ93301.1 Exp number of AAs in TMHs: 21.99774
+# USQ93301.1 Exp number, first 60 AAs:  21.98748
+# USQ93301.1 Total prob of N-in:        0.10480
+# USQ93301.1 POSSIBLE N-term signal sequence
+USQ93301.1	TMHMM2.0	outside	     1     3
+USQ93301.1	TMHMM2.0	TMhelix	     4    26
+USQ93301.1	TMHMM2.0	inside	    27   113
+# USQ93300.1 Length: 68
+# USQ93300.1 Number of predicted TMHs:  1
+# USQ93300.1 Exp number of AAs in TMHs: 22.70816
+# USQ93300.1 Exp number, first 60 AAs:  22.70816
+# USQ93300.1 Total prob of N-in:        0.07147
+# USQ93300.1 POSSIBLE N-term signal sequence
+USQ93300.1	TMHMM2.0	outside	     1     3
+USQ93300.1	TMHMM2.0	TMhelix	     4    26
+USQ93300.1	TMHMM2.0	inside	    27    68
+# USQ93299.1 Length: 186
+# USQ93299.1 Number of predicted TMHs:  0
+# USQ93299.1 Exp number of AAs in TMHs: 3.82409
+# USQ93299.1 Exp number, first 60 AAs:  0.11883
+# USQ93299.1 Total prob of N-in:        0.19227
+USQ93299.1	TMHMM2.0	outside	     1   186
+# USQ93298.1 Length: 195
+# USQ93298.1 Number of predicted TMHs:  0
+# USQ93298.1 Exp number of AAs in TMHs: 0.01137
+# USQ93298.1 Exp number, first 60 AAs:  0
+# USQ93298.1 Total prob of N-in:        0.10368
+USQ93298.1	TMHMM2.0	outside	     1   195
+# USQ93297.1 Length: 186
+# USQ93297.1 Number of predicted TMHs:  0
+# USQ93297.1 Exp number of AAs in TMHs: 0.01617
+# USQ93297.1 Exp number, first 60 AAs:  0.00204
+# USQ93297.1 Total prob of N-in:        0.27826
+USQ93297.1	TMHMM2.0	outside	     1   186
+# USQ93296.1 Length: 159
+# USQ93296.1 Number of predicted TMHs:  0
+# USQ93296.1 Exp number of AAs in TMHs: 0.00024
+# USQ93296.1 Exp number, first 60 AAs:  0
+# USQ93296.1 Total prob of N-in:        0.56521
+USQ93296.1	TMHMM2.0	inside	     1   159
+# USQ93295.1 Length: 194
+# USQ93295.1 Number of predicted TMHs:  0
+# USQ93295.1 Exp number of AAs in TMHs: 1.10638
+# USQ93295.1 Exp number, first 60 AAs:  0.94334
+# USQ93295.1 Total prob of N-in:        0.28349
+USQ93295.1	TMHMM2.0	outside	     1   194
+# USQ93294.1 Length: 149
+# USQ93294.1 Number of predicted TMHs:  0
+# USQ93294.1 Exp number of AAs in TMHs: 0.01425
+# USQ93294.1 Exp number, first 60 AAs:  0.01375
+# USQ93294.1 Total prob of N-in:        0.06346
+USQ93294.1	TMHMM2.0	outside	     1   149
+# USQ93293.1 Length: 879
+# USQ93293.1 Number of predicted TMHs:  0
+# USQ93293.1 Exp number of AAs in TMHs: 0.180690000000001
+# USQ93293.1 Exp number, first 60 AAs:  0.00078
+# USQ93293.1 Total prob of N-in:        0.00861
+USQ93293.1	TMHMM2.0	outside	     1   879
+# USQ93292.1 Length: 66
+# USQ93292.1 Number of predicted TMHs:  0
+# USQ93292.1 Exp number of AAs in TMHs: 0.00151
+# USQ93292.1 Exp number, first 60 AAs:  0.00151
+# USQ93292.1 Total prob of N-in:        0.52882
+USQ93292.1	TMHMM2.0	inside	     1    66
+# USQ93291.1 Length: 147
+# USQ93291.1 Number of predicted TMHs:  0
+# USQ93291.1 Exp number of AAs in TMHs: 0.13103
+# USQ93291.1 Exp number, first 60 AAs:  0.11677
+# USQ93291.1 Total prob of N-in:        0.08221
+USQ93291.1	TMHMM2.0	outside	     1   147
+# USQ93290.1 Length: 421
+# USQ93290.1 Number of predicted TMHs:  0
+# USQ93290.1 Exp number of AAs in TMHs: 0.00692999999999999
+# USQ93290.1 Exp number, first 60 AAs:  0
+# USQ93290.1 Total prob of N-in:        0.03617
+USQ93290.1	TMHMM2.0	outside	     1   421
+# USQ93289.1 Length: 629
+# USQ93289.1 Number of predicted TMHs:  0
+# USQ93289.1 Exp number of AAs in TMHs: 0.09027
+# USQ93289.1 Exp number, first 60 AAs:  0.08463
+# USQ93289.1 Total prob of N-in:        0.00458
+USQ93289.1	TMHMM2.0	outside	     1   629
+# USQ93288.1 Length: 458
+# USQ93288.1 Number of predicted TMHs:  0
+# USQ93288.1 Exp number of AAs in TMHs: 0.12422
+# USQ93288.1 Exp number, first 60 AAs:  0.11348
+# USQ93288.1 Total prob of N-in:        0.01036
+USQ93288.1	TMHMM2.0	outside	     1   458
+# USQ93287.1 Length: 297
+# USQ93287.1 Number of predicted TMHs:  0
+# USQ93287.1 Exp number of AAs in TMHs: 0.03218
+# USQ93287.1 Exp number, first 60 AAs:  0.00134
+# USQ93287.1 Total prob of N-in:        0.01396
+USQ93287.1	TMHMM2.0	outside	     1   297
+# USQ93286.1 Length: 135
+# USQ93286.1 Number of predicted TMHs:  0
+# USQ93286.1 Exp number of AAs in TMHs: 0.00951999999999999
+# USQ93286.1 Exp number, first 60 AAs:  0.00809
+# USQ93286.1 Total prob of N-in:        0.50505
+USQ93286.1	TMHMM2.0	inside	     1   135
+# USQ93285.1 Length: 56
+# USQ93285.1 Number of predicted TMHs:  0
+# USQ93285.1 Exp number of AAs in TMHs: 0
+# USQ93285.1 Exp number, first 60 AAs:  0
+# USQ93285.1 Total prob of N-in:        0.91292
+USQ93285.1	TMHMM2.0	inside	     1    56
+# USQ93284.1 Length: 73
+# USQ93284.1 Number of predicted TMHs:  2
+# USQ93284.1 Exp number of AAs in TMHs: 41.3787
+# USQ93284.1 Exp number, first 60 AAs:  34.83377
+# USQ93284.1 Total prob of N-in:        0.59940
+# USQ93284.1 POSSIBLE N-term signal sequence
+USQ93284.1	TMHMM2.0	inside	     1     1
+USQ93284.1	TMHMM2.0	TMhelix	     2    24
+USQ93284.1	TMHMM2.0	outside	    25    43
+USQ93284.1	TMHMM2.0	TMhelix	    44    66
+USQ93284.1	TMHMM2.0	inside	    67    73
+# USQ93283.1 Length: 780
+# USQ93283.1 Number of predicted TMHs:  0
+# USQ93283.1 Exp number of AAs in TMHs: 0.13308
+# USQ93283.1 Exp number, first 60 AAs:  0.00117
+# USQ93283.1 Total prob of N-in:        0.00396
+USQ93283.1	TMHMM2.0	outside	     1   780
+# USQ93282.1 Length: 435
+# USQ93282.1 Number of predicted TMHs:  0
+# USQ93282.1 Exp number of AAs in TMHs: 0.00022
+# USQ93282.1 Exp number, first 60 AAs:  0
+# USQ93282.1 Total prob of N-in:        0.02131
+USQ93282.1	TMHMM2.0	outside	     1   435
+# USQ93281.1 Length: 443
+# USQ93281.1 Number of predicted TMHs:  7
+# USQ93281.1 Exp number of AAs in TMHs: 152.931060000001
+# USQ93281.1 Exp number, first 60 AAs:  20.19139
+# USQ93281.1 Total prob of N-in:        1.00000
+# USQ93281.1 POSSIBLE N-term signal sequence
+USQ93281.1	TMHMM2.0	inside	     1    21
+USQ93281.1	TMHMM2.0	TMhelix	    22    41
+USQ93281.1	TMHMM2.0	outside	    42    60
+USQ93281.1	TMHMM2.0	TMhelix	    61    83
+USQ93281.1	TMHMM2.0	inside	    84    94
+USQ93281.1	TMHMM2.0	TMhelix	    95   117
+USQ93281.1	TMHMM2.0	outside	   118   131
+USQ93281.1	TMHMM2.0	TMhelix	   132   151
+USQ93281.1	TMHMM2.0	inside	   152   162
+USQ93281.1	TMHMM2.0	TMhelix	   163   185
+USQ93281.1	TMHMM2.0	outside	   186   204
+USQ93281.1	TMHMM2.0	TMhelix	   205   227
+USQ93281.1	TMHMM2.0	inside	   228   233
+USQ93281.1	TMHMM2.0	TMhelix	   234   256
+USQ93281.1	TMHMM2.0	outside	   257   443
+# USQ93280.1 Length: 479
+# USQ93280.1 Number of predicted TMHs:  1
+# USQ93280.1 Exp number of AAs in TMHs: 19.1158199999999
+# USQ93280.1 Exp number, first 60 AAs:  19.10785
+# USQ93280.1 Total prob of N-in:        0.89524
+# USQ93280.1 POSSIBLE N-term signal sequence
+USQ93280.1	TMHMM2.0	inside	     1    12
+USQ93280.1	TMHMM2.0	TMhelix	    13    35
+USQ93280.1	TMHMM2.0	outside	    36   479
+# USQ93279.1 Length: 283
+# USQ93279.1 Number of predicted TMHs:  1
+# USQ93279.1 Exp number of AAs in TMHs: 24.96056
+# USQ93279.1 Exp number, first 60 AAs:  20.98525
+# USQ93279.1 Total prob of N-in:        0.81986
+# USQ93279.1 POSSIBLE N-term signal sequence
+USQ93279.1	TMHMM2.0	inside	     1    12
+USQ93279.1	TMHMM2.0	TMhelix	    13    33
+USQ93279.1	TMHMM2.0	outside	    34   283
+# USQ93278.1 Length: 244
+# USQ93278.1 Number of predicted TMHs:  0
+# USQ93278.1 Exp number of AAs in TMHs: 0.29025
+# USQ93278.1 Exp number, first 60 AAs:  0.11879
+# USQ93278.1 Total prob of N-in:        0.10481
+USQ93278.1	TMHMM2.0	outside	     1   244
+# USQ93277.1 Length: 324
+# USQ93277.1 Number of predicted TMHs:  1
+# USQ93277.1 Exp number of AAs in TMHs: 19.6256
+# USQ93277.1 Exp number, first 60 AAs:  19.62548
+# USQ93277.1 Total prob of N-in:        0.89225
+# USQ93277.1 POSSIBLE N-term signal sequence
+USQ93277.1	TMHMM2.0	inside	     1    12
+USQ93277.1	TMHMM2.0	TMhelix	    13    30
+USQ93277.1	TMHMM2.0	outside	    31   324
+# USQ93276.1 Length: 146
+# USQ93276.1 Number of predicted TMHs:  0
+# USQ93276.1 Exp number of AAs in TMHs: 0
+# USQ93276.1 Exp number, first 60 AAs:  0
+# USQ93276.1 Total prob of N-in:        0.17463
+USQ93276.1	TMHMM2.0	outside	     1   146
+# USQ93275.1 Length: 155
+# USQ93275.1 Number of predicted TMHs:  1
+# USQ93275.1 Exp number of AAs in TMHs: 21.48803
+# USQ93275.1 Exp number, first 60 AAs:  0
+# USQ93275.1 Total prob of N-in:        0.92207
+USQ93275.1	TMHMM2.0	inside	     1   119
+USQ93275.1	TMHMM2.0	TMhelix	   120   142
+USQ93275.1	TMHMM2.0	outside	   143   155
+# USQ93274.1 Length: 313
+# USQ93274.1 Number of predicted TMHs:  0
+# USQ93274.1 Exp number of AAs in TMHs: 0.03669
+# USQ93274.1 Exp number, first 60 AAs:  0.00138
+# USQ93274.1 Total prob of N-in:        0.01141
+USQ93274.1	TMHMM2.0	outside	     1   313
+# USQ93273.1 Length: 152
+# USQ93273.1 Number of predicted TMHs:  0
+# USQ93273.1 Exp number of AAs in TMHs: 0.00175
+# USQ93273.1 Exp number, first 60 AAs:  0.00168
+# USQ93273.1 Total prob of N-in:        0.11826
+USQ93273.1	TMHMM2.0	outside	     1   152
+# USQ93272.1 Length: 279
+# USQ93272.1 Number of predicted TMHs:  0
+# USQ93272.1 Exp number of AAs in TMHs: 0
+# USQ93272.1 Exp number, first 60 AAs:  0
+# USQ93272.1 Total prob of N-in:        0.05204
+USQ93272.1	TMHMM2.0	outside	     1   279
+# USQ93271.1 Length: 248
+# USQ93271.1 Number of predicted TMHs:  0
+# USQ93271.1 Exp number of AAs in TMHs: 1.58934
+# USQ93271.1 Exp number, first 60 AAs:  0.72911
+# USQ93271.1 Total prob of N-in:        0.07231
+USQ93271.1	TMHMM2.0	outside	     1   248
+# USQ93270.1 Length: 182
+# USQ93270.1 Number of predicted TMHs:  0
+# USQ93270.1 Exp number of AAs in TMHs: 0
+# USQ93270.1 Exp number, first 60 AAs:  0
+# USQ93270.1 Total prob of N-in:        0.07979
+USQ93270.1	TMHMM2.0	outside	     1   182
+# USQ93269.1 Length: 300
+# USQ93269.1 Number of predicted TMHs:  8
+# USQ93269.1 Exp number of AAs in TMHs: 172.65704
+# USQ93269.1 Exp number, first 60 AAs:  39.52553
+# USQ93269.1 Total prob of N-in:        0.88531
+# USQ93269.1 POSSIBLE N-term signal sequence
+USQ93269.1	TMHMM2.0	inside	     1     6
+USQ93269.1	TMHMM2.0	TMhelix	     7    29
+USQ93269.1	TMHMM2.0	outside	    30    32
+USQ93269.1	TMHMM2.0	TMhelix	    33    55
+USQ93269.1	TMHMM2.0	inside	    56    66
+USQ93269.1	TMHMM2.0	TMhelix	    67    89
+USQ93269.1	TMHMM2.0	outside	    90   115
+USQ93269.1	TMHMM2.0	TMhelix	   116   135
+USQ93269.1	TMHMM2.0	inside	   136   141
+USQ93269.1	TMHMM2.0	TMhelix	   142   164
+USQ93269.1	TMHMM2.0	outside	   165   168
+USQ93269.1	TMHMM2.0	TMhelix	   169   191
+USQ93269.1	TMHMM2.0	inside	   192   211
+USQ93269.1	TMHMM2.0	TMhelix	   212   234
+USQ93269.1	TMHMM2.0	outside	   235   277
+USQ93269.1	TMHMM2.0	TMhelix	   278   295
+USQ93269.1	TMHMM2.0	inside	   296   300
+# USQ93268.1 Length: 62
+# USQ93268.1 Number of predicted TMHs:  0
+# USQ93268.1 Exp number of AAs in TMHs: 0.00038
+# USQ93268.1 Exp number, first 60 AAs:  0.00038
+# USQ93268.1 Total prob of N-in:        0.83900
+USQ93268.1	TMHMM2.0	inside	     1    62
+# USQ93267.1 Length: 539
+# USQ93267.1 Number of predicted TMHs:  0
+# USQ93267.1 Exp number of AAs in TMHs: 0.0361900000000001
+# USQ93267.1 Exp number, first 60 AAs:  0.0017
+# USQ93267.1 Total prob of N-in:        0.00240
+USQ93267.1	TMHMM2.0	outside	     1   539
+# USQ93266.1 Length: 250
+# USQ93266.1 Number of predicted TMHs:  0
+# USQ93266.1 Exp number of AAs in TMHs: 0.04137
+# USQ93266.1 Exp number, first 60 AAs:  0.03879
+# USQ93266.1 Total prob of N-in:        0.21576
+USQ93266.1	TMHMM2.0	outside	     1   250
+# USQ93265.1 Length: 204
+# USQ93265.1 Number of predicted TMHs:  0
+# USQ93265.1 Exp number of AAs in TMHs: 0.27799
+# USQ93265.1 Exp number, first 60 AAs:  0.00757
+# USQ93265.1 Total prob of N-in:        0.21347
+USQ93265.1	TMHMM2.0	outside	     1   204
+# USQ93264.1 Length: 1090
+# USQ93264.1 Number of predicted TMHs:  0
+# USQ93264.1 Exp number of AAs in TMHs: 0.02941
+# USQ93264.1 Exp number, first 60 AAs:  0.00067
+# USQ93264.1 Total prob of N-in:        0.00050
+USQ93264.1	TMHMM2.0	outside	     1  1090
+# USQ93263.1 Length: 196
+# USQ93263.1 Number of predicted TMHs:  2
+# USQ93263.1 Exp number of AAs in TMHs: 45.26761
+# USQ93263.1 Exp number, first 60 AAs:  22.66739
+# USQ93263.1 Total prob of N-in:        0.67283
+# USQ93263.1 POSSIBLE N-term signal sequence
+USQ93263.1	TMHMM2.0	inside	     1    19
+USQ93263.1	TMHMM2.0	TMhelix	    20    39
+USQ93263.1	TMHMM2.0	outside	    40   163
+USQ93263.1	TMHMM2.0	TMhelix	   164   186
+USQ93263.1	TMHMM2.0	inside	   187   196
+# USQ93262.1 Length: 58
+# USQ93262.1 Number of predicted TMHs:  0
+# USQ93262.1 Exp number of AAs in TMHs: 0.00279
+# USQ93262.1 Exp number, first 60 AAs:  0.00279
+# USQ93262.1 Total prob of N-in:        0.53910
+USQ93262.1	TMHMM2.0	inside	     1    58
+# USQ93261.1 Length: 204
+# USQ93261.1 Number of predicted TMHs:  2
+# USQ93261.1 Exp number of AAs in TMHs: 42.40257
+# USQ93261.1 Exp number, first 60 AAs:  24.50408
+# USQ93261.1 Total prob of N-in:        0.83555
+# USQ93261.1 POSSIBLE N-term signal sequence
+USQ93261.1	TMHMM2.0	outside	     1    14
+USQ93261.1	TMHMM2.0	TMhelix	    15    37
+USQ93261.1	TMHMM2.0	inside	    38   169
+USQ93261.1	TMHMM2.0	TMhelix	   170   189
+USQ93261.1	TMHMM2.0	outside	   190   204
+# USQ93260.1 Length: 216
+# USQ93260.1 Number of predicted TMHs:  0
+# USQ93260.1 Exp number of AAs in TMHs: 0.00591
+# USQ93260.1 Exp number, first 60 AAs:  0.00237
+# USQ93260.1 Total prob of N-in:        0.08725
+USQ93260.1	TMHMM2.0	outside	     1   216
+# USQ93259.1 Length: 317
+# USQ93259.1 Number of predicted TMHs:  0
+# USQ93259.1 Exp number of AAs in TMHs: 0.311700000000001
+# USQ93259.1 Exp number, first 60 AAs:  0
+# USQ93259.1 Total prob of N-in:        0.09173
+USQ93259.1	TMHMM2.0	outside	     1   317
+# USQ93258.1 Length: 139
+# USQ93258.1 Number of predicted TMHs:  0
+# USQ93258.1 Exp number of AAs in TMHs: 0.0265
+# USQ93258.1 Exp number, first 60 AAs:  0.01549
+# USQ93258.1 Total prob of N-in:        0.34046
+USQ93258.1	TMHMM2.0	outside	     1   139
+# USQ93257.1 Length: 213
+# USQ93257.1 Number of predicted TMHs:  7
+# USQ93257.1 Exp number of AAs in TMHs: 145.72923
+# USQ93257.1 Exp number, first 60 AAs:  33.86566
+# USQ93257.1 Total prob of N-in:        0.81768
+# USQ93257.1 POSSIBLE N-term signal sequence
+USQ93257.1	TMHMM2.0	inside	     1    19
+USQ93257.1	TMHMM2.0	TMhelix	    20    37
+USQ93257.1	TMHMM2.0	outside	    38    46
+USQ93257.1	TMHMM2.0	TMhelix	    47    69
+USQ93257.1	TMHMM2.0	inside	    70    81
+USQ93257.1	TMHMM2.0	TMhelix	    82    99
+USQ93257.1	TMHMM2.0	outside	   100   103
+USQ93257.1	TMHMM2.0	TMhelix	   104   123
+USQ93257.1	TMHMM2.0	inside	   124   135
+USQ93257.1	TMHMM2.0	TMhelix	   136   158
+USQ93257.1	TMHMM2.0	outside	   159   162
+USQ93257.1	TMHMM2.0	TMhelix	   163   185
+USQ93257.1	TMHMM2.0	inside	   186   189
+USQ93257.1	TMHMM2.0	TMhelix	   190   212
+USQ93257.1	TMHMM2.0	outside	   213   213
+# USQ93256.1 Length: 107
+# USQ93256.1 Number of predicted TMHs:  0
+# USQ93256.1 Exp number of AAs in TMHs: 1.41253
+# USQ93256.1 Exp number, first 60 AAs:  0.00011
+# USQ93256.1 Total prob of N-in:        0.23894
+USQ93256.1	TMHMM2.0	outside	     1   107
+# USQ93255.1 Length: 76
+# USQ93255.1 Number of predicted TMHs:  0
+# USQ93255.1 Exp number of AAs in TMHs: 0
+# USQ93255.1 Exp number, first 60 AAs:  0
+# USQ93255.1 Total prob of N-in:        0.66303
+USQ93255.1	TMHMM2.0	inside	     1    76
+# USQ93254.1 Length: 116
+# USQ93254.1 Number of predicted TMHs:  0
+# USQ93254.1 Exp number of AAs in TMHs: 0.00989
+# USQ93254.1 Exp number, first 60 AAs:  0.00989
+# USQ93254.1 Total prob of N-in:        0.69922
+USQ93254.1	TMHMM2.0	inside	     1   116
+# USQ93253.1 Length: 384
+# USQ93253.1 Number of predicted TMHs:  0
+# USQ93253.1 Exp number of AAs in TMHs: 0.00441
+# USQ93253.1 Exp number, first 60 AAs:  0
+# USQ93253.1 Total prob of N-in:        0.01519
+USQ93253.1	TMHMM2.0	outside	     1   384
+# USQ93252.1 Length: 474
+# USQ93252.1 Number of predicted TMHs:  0
+# USQ93252.1 Exp number of AAs in TMHs: 1.25897
+# USQ93252.1 Exp number, first 60 AAs:  1.23656
+# USQ93252.1 Total prob of N-in:        0.07295
+USQ93252.1	TMHMM2.0	outside	     1   474
+# USQ93251.1 Length: 440
+# USQ93251.1 Number of predicted TMHs:  0
+# USQ93251.1 Exp number of AAs in TMHs: 0.0623700000000001
+# USQ93251.1 Exp number, first 60 AAs:  0.01287
+# USQ93251.1 Total prob of N-in:        0.00949
+USQ93251.1	TMHMM2.0	outside	     1   440
+# USQ93250.1 Length: 328
+# USQ93250.1 Number of predicted TMHs:  0
+# USQ93250.1 Exp number of AAs in TMHs: 0.12162
+# USQ93250.1 Exp number, first 60 AAs:  0.00418
+# USQ93250.1 Total prob of N-in:        0.01199
+USQ93250.1	TMHMM2.0	outside	     1   328
+# USQ93249.1 Length: 102
+# USQ93249.1 Number of predicted TMHs:  0
+# USQ93249.1 Exp number of AAs in TMHs: 0.000540000000000001
+# USQ93249.1 Exp number, first 60 AAs:  0.00032
+# USQ93249.1 Total prob of N-in:        0.29006
+USQ93249.1	TMHMM2.0	outside	     1   102
+# USQ93248.1 Length: 49
+# USQ93248.1 Number of predicted TMHs:  0
+# USQ93248.1 Exp number of AAs in TMHs: 0
+# USQ93248.1 Exp number, first 60 AAs:  0
+# USQ93248.1 Total prob of N-in:        0.42955
+USQ93248.1	TMHMM2.0	outside	     1    49
+# USQ93247.1 Length: 417
+# USQ93247.1 Number of predicted TMHs:  0
+# USQ93247.1 Exp number of AAs in TMHs: 0.1825
+# USQ93247.1 Exp number, first 60 AAs:  0.16617
+# USQ93247.1 Total prob of N-in:        0.02064
+USQ93247.1	TMHMM2.0	outside	     1   417
+# USQ93246.1 Length: 209
+# USQ93246.1 Number of predicted TMHs:  5
+# USQ93246.1 Exp number of AAs in TMHs: 115.32215
+# USQ93246.1 Exp number, first 60 AAs:  30.02936
+# USQ93246.1 Total prob of N-in:        0.12229
+# USQ93246.1 POSSIBLE N-term signal sequence
+USQ93246.1	TMHMM2.0	outside	     1     9
+USQ93246.1	TMHMM2.0	TMhelix	    10    32
+USQ93246.1	TMHMM2.0	inside	    33    52
+USQ93246.1	TMHMM2.0	TMhelix	    53    75
+USQ93246.1	TMHMM2.0	outside	    76   110
+USQ93246.1	TMHMM2.0	TMhelix	   111   133
+USQ93246.1	TMHMM2.0	inside	   134   137
+USQ93246.1	TMHMM2.0	TMhelix	   138   160
+USQ93246.1	TMHMM2.0	outside	   161   163
+USQ93246.1	TMHMM2.0	TMhelix	   164   181
+USQ93246.1	TMHMM2.0	inside	   182   209
+# USQ93245.1 Length: 124
+# USQ93245.1 Number of predicted TMHs:  3
+# USQ93245.1 Exp number of AAs in TMHs: 66.56949
+# USQ93245.1 Exp number, first 60 AAs:  24.76293
+# USQ93245.1 Total prob of N-in:        0.63364
+# USQ93245.1 POSSIBLE N-term signal sequence
+USQ93245.1	TMHMM2.0	inside	     1    20
+USQ93245.1	TMHMM2.0	TMhelix	    21    43
+USQ93245.1	TMHMM2.0	outside	    44    62
+USQ93245.1	TMHMM2.0	TMhelix	    63    85
+USQ93245.1	TMHMM2.0	inside	    86    97
+USQ93245.1	TMHMM2.0	TMhelix	    98   117
+USQ93245.1	TMHMM2.0	outside	   118   124
+# USQ93244.1 Length: 230
+# USQ93244.1 Number of predicted TMHs:  6
+# USQ93244.1 Exp number of AAs in TMHs: 127.97386
+# USQ93244.1 Exp number, first 60 AAs:  30.6325
+# USQ93244.1 Total prob of N-in:        0.99957
+# USQ93244.1 POSSIBLE N-term signal sequence
+USQ93244.1	TMHMM2.0	inside	     1    12
+USQ93244.1	TMHMM2.0	TMhelix	    13    35
+USQ93244.1	TMHMM2.0	outside	    36    49
+USQ93244.1	TMHMM2.0	TMhelix	    50    72
+USQ93244.1	TMHMM2.0	inside	    73    78
+USQ93244.1	TMHMM2.0	TMhelix	    79   101
+USQ93244.1	TMHMM2.0	outside	   102   115
+USQ93244.1	TMHMM2.0	TMhelix	   116   135
+USQ93244.1	TMHMM2.0	inside	   136   146
+USQ93244.1	TMHMM2.0	TMhelix	   147   166
+USQ93244.1	TMHMM2.0	outside	   167   199
+USQ93244.1	TMHMM2.0	TMhelix	   200   222
+USQ93244.1	TMHMM2.0	inside	   223   230
+# USQ93243.1 Length: 88
+# USQ93243.1 Number of predicted TMHs:  0
+# USQ93243.1 Exp number of AAs in TMHs: 0.00059
+# USQ93243.1 Exp number, first 60 AAs:  0.00044
+# USQ93243.1 Total prob of N-in:        0.86625
+USQ93243.1	TMHMM2.0	inside	     1    88
+# USQ93242.1 Length: 424
+# USQ93242.1 Number of predicted TMHs:  0
+# USQ93242.1 Exp number of AAs in TMHs: 0.03977
+# USQ93242.1 Exp number, first 60 AAs:  0
+# USQ93242.1 Total prob of N-in:        0.00212
+USQ93242.1	TMHMM2.0	outside	     1   424
+# USQ93241.1 Length: 674
+# USQ93241.1 Number of predicted TMHs:  2
+# USQ93241.1 Exp number of AAs in TMHs: 45.52976
+# USQ93241.1 Exp number, first 60 AAs:  22.82554
+# USQ93241.1 Total prob of N-in:        0.00527
+# USQ93241.1 POSSIBLE N-term signal sequence
+USQ93241.1	TMHMM2.0	outside	     1     9
+USQ93241.1	TMHMM2.0	TMhelix	    10    32
+USQ93241.1	TMHMM2.0	inside	    33   112
+USQ93241.1	TMHMM2.0	TMhelix	   113   135
+USQ93241.1	TMHMM2.0	outside	   136   674
+# USQ93240.1 Length: 299
+# USQ93240.1 Number of predicted TMHs:  0
+# USQ93240.1 Exp number of AAs in TMHs: 10.45774
+# USQ93240.1 Exp number, first 60 AAs:  0
+# USQ93240.1 Total prob of N-in:        0.47808
+USQ93240.1	TMHMM2.0	outside	     1   299
+# USQ93239.1 Length: 563
+# USQ93239.1 Number of predicted TMHs:  0
+# USQ93239.1 Exp number of AAs in TMHs: 0.28313
+# USQ93239.1 Exp number, first 60 AAs:  0.02408
+# USQ93239.1 Total prob of N-in:        0.00914
+USQ93239.1	TMHMM2.0	outside	     1   563
+# USQ93238.1 Length: 199
+# USQ93238.1 Number of predicted TMHs:  0
+# USQ93238.1 Exp number of AAs in TMHs: 0.13637
+# USQ93238.1 Exp number, first 60 AAs:  0.12723
+# USQ93238.1 Total prob of N-in:        0.09610
+USQ93238.1	TMHMM2.0	outside	     1   199
+# USQ93237.1 Length: 76
+# USQ93237.1 Number of predicted TMHs:  0
+# USQ93237.1 Exp number of AAs in TMHs: 0
+# USQ93237.1 Exp number, first 60 AAs:  0
+# USQ93237.1 Total prob of N-in:        0.44443
+USQ93237.1	TMHMM2.0	outside	     1    76
+# USQ93236.1 Length: 813
+# USQ93236.1 Number of predicted TMHs:  0
+# USQ93236.1 Exp number of AAs in TMHs: 0.10529
+# USQ93236.1 Exp number, first 60 AAs:  0.02319
+# USQ93236.1 Total prob of N-in:        0.00433
+USQ93236.1	TMHMM2.0	outside	     1   813
+# USQ93235.1 Length: 210
+# USQ93235.1 Number of predicted TMHs:  0
+# USQ93235.1 Exp number of AAs in TMHs: 0.007
+# USQ93235.1 Exp number, first 60 AAs:  0.007
+# USQ93235.1 Total prob of N-in:        0.05268
+USQ93235.1	TMHMM2.0	outside	     1   210
+# USQ93234.1 Length: 71
+# USQ93234.1 Number of predicted TMHs:  0
+# USQ93234.1 Exp number of AAs in TMHs: 0.00018
+# USQ93234.1 Exp number, first 60 AAs:  8e-05
+# USQ93234.1 Total prob of N-in:        0.44646
+USQ93234.1	TMHMM2.0	outside	     1    71
+# USQ93233.1 Length: 308
+# USQ93233.1 Number of predicted TMHs:  0
+# USQ93233.1 Exp number of AAs in TMHs: 0.00284
+# USQ93233.1 Exp number, first 60 AAs:  0.00019
+# USQ93233.1 Total prob of N-in:        0.00482
+USQ93233.1	TMHMM2.0	outside	     1   308
+# USQ93232.1 Length: 110
+# USQ93232.1 Number of predicted TMHs:  0
+# USQ93232.1 Exp number of AAs in TMHs: 0.7018
+# USQ93232.1 Exp number, first 60 AAs:  0
+# USQ93232.1 Total prob of N-in:        0.68318
+USQ93232.1	TMHMM2.0	inside	     1   110
+# USQ93231.1 Length: 216
+# USQ93231.1 Number of predicted TMHs:  0
+# USQ93231.1 Exp number of AAs in TMHs: 0.03425
+# USQ93231.1 Exp number, first 60 AAs:  0.03198
+# USQ93231.1 Total prob of N-in:        0.08667
+USQ93231.1	TMHMM2.0	outside	     1   216
+# USQ93230.1 Length: 99
+# USQ93230.1 Number of predicted TMHs:  0
+# USQ93230.1 Exp number of AAs in TMHs: 0.02127
+# USQ93230.1 Exp number, first 60 AAs:  0.01812
+# USQ93230.1 Total prob of N-in:        0.36573
+USQ93230.1	TMHMM2.0	outside	     1    99
+# USQ93229.1 Length: 276
+# USQ93229.1 Number of predicted TMHs:  0
+# USQ93229.1 Exp number of AAs in TMHs: 0.00023
+# USQ93229.1 Exp number, first 60 AAs:  0
+# USQ93229.1 Total prob of N-in:        0.18346
+USQ93229.1	TMHMM2.0	outside	     1   276
+# USQ93228.1 Length: 93
+# USQ93228.1 Number of predicted TMHs:  0
+# USQ93228.1 Exp number of AAs in TMHs: 0.00272
+# USQ93228.1 Exp number, first 60 AAs:  0.00271
+# USQ93228.1 Total prob of N-in:        0.42681
+USQ93228.1	TMHMM2.0	outside	     1    93
+# USQ93227.1 Length: 124
+# USQ93227.1 Number of predicted TMHs:  0
+# USQ93227.1 Exp number of AAs in TMHs: 0.03659
+# USQ93227.1 Exp number, first 60 AAs:  0.03366
+# USQ93227.1 Total prob of N-in:        0.30381
+USQ93227.1	TMHMM2.0	outside	     1   124
+# USQ93226.1 Length: 250
+# USQ93226.1 Number of predicted TMHs:  0
+# USQ93226.1 Exp number of AAs in TMHs: 0.03955
+# USQ93226.1 Exp number, first 60 AAs:  0
+# USQ93226.1 Total prob of N-in:        0.04601
+USQ93226.1	TMHMM2.0	outside	     1   250
+# USQ93225.1 Length: 140
+# USQ93225.1 Number of predicted TMHs:  0
+# USQ93225.1 Exp number of AAs in TMHs: 0.03707
+# USQ93225.1 Exp number, first 60 AAs:  0.0097
+# USQ93225.1 Total prob of N-in:        0.48865
+USQ93225.1	TMHMM2.0	outside	     1   140
+# USQ93224.1 Length: 79
+# USQ93224.1 Number of predicted TMHs:  0
+# USQ93224.1 Exp number of AAs in TMHs: 0
+# USQ93224.1 Exp number, first 60 AAs:  0
+# USQ93224.1 Total prob of N-in:        0.56450
+USQ93224.1	TMHMM2.0	inside	     1    79
+# USQ93223.1 Length: 126
+# USQ93223.1 Number of predicted TMHs:  0
+# USQ93223.1 Exp number of AAs in TMHs: 0.00188
+# USQ93223.1 Exp number, first 60 AAs:  0.00169
+# USQ93223.1 Total prob of N-in:        0.42736
+USQ93223.1	TMHMM2.0	outside	     1   126
+# USQ93222.1 Length: 180
+# USQ93222.1 Number of predicted TMHs:  0
+# USQ93222.1 Exp number of AAs in TMHs: 0.00925999999999997
+# USQ93222.1 Exp number, first 60 AAs:  0.00824999999999999
+# USQ93222.1 Total prob of N-in:        0.43610
+USQ93222.1	TMHMM2.0	outside	     1   180
+# USQ93221.1 Length: 89
+# USQ93221.1 Number of predicted TMHs:  0
+# USQ93221.1 Exp number of AAs in TMHs: 0
+# USQ93221.1 Exp number, first 60 AAs:  0
+# USQ93221.1 Total prob of N-in:        0.74970
+USQ93221.1	TMHMM2.0	inside	     1    89
+# USQ93220.1 Length: 180
+# USQ93220.1 Number of predicted TMHs:  0
+# USQ93220.1 Exp number of AAs in TMHs: 2.33704
+# USQ93220.1 Exp number, first 60 AAs:  5e-05
+# USQ93220.1 Total prob of N-in:        0.35506
+USQ93220.1	TMHMM2.0	outside	     1   180
+# USQ93219.1 Length: 117
+# USQ93219.1 Number of predicted TMHs:  0
+# USQ93219.1 Exp number of AAs in TMHs: 0.00031
+# USQ93219.1 Exp number, first 60 AAs:  0.00015
+# USQ93219.1 Total prob of N-in:        0.21791
+USQ93219.1	TMHMM2.0	outside	     1   117
+# USQ93218.1 Length: 65
+# USQ93218.1 Number of predicted TMHs:  0
+# USQ93218.1 Exp number of AAs in TMHs: 0.00055
+# USQ93218.1 Exp number, first 60 AAs:  0.00054
+# USQ93218.1 Total prob of N-in:        0.56375
+USQ93218.1	TMHMM2.0	inside	     1    65
+# USQ93217.1 Length: 146
+# USQ93217.1 Number of predicted TMHs:  0
+# USQ93217.1 Exp number of AAs in TMHs: 0
+# USQ93217.1 Exp number, first 60 AAs:  0
+# USQ93217.1 Total prob of N-in:        0.04448
+USQ93217.1	TMHMM2.0	outside	     1   146
+# USQ93216.1 Length: 413
+# USQ93216.1 Number of predicted TMHs:  10
+# USQ93216.1 Exp number of AAs in TMHs: 204.05255
+# USQ93216.1 Exp number, first 60 AAs:  20.31191
+# USQ93216.1 Total prob of N-in:        0.99898
+# USQ93216.1 POSSIBLE N-term signal sequence
+USQ93216.1	TMHMM2.0	inside	     1    19
+USQ93216.1	TMHMM2.0	TMhelix	    20    39
+USQ93216.1	TMHMM2.0	outside	    40    63
+USQ93216.1	TMHMM2.0	TMhelix	    64    86
+USQ93216.1	TMHMM2.0	inside	    87   106
+USQ93216.1	TMHMM2.0	TMhelix	   107   129
+USQ93216.1	TMHMM2.0	outside	   130   138
+USQ93216.1	TMHMM2.0	TMhelix	   139   158
+USQ93216.1	TMHMM2.0	inside	   159   164
+USQ93216.1	TMHMM2.0	TMhelix	   165   179
+USQ93216.1	TMHMM2.0	outside	   180   198
+USQ93216.1	TMHMM2.0	TMhelix	   199   221
+USQ93216.1	TMHMM2.0	inside	   222   246
+USQ93216.1	TMHMM2.0	TMhelix	   247   269
+USQ93216.1	TMHMM2.0	outside	   270   288
+USQ93216.1	TMHMM2.0	TMhelix	   289   311
+USQ93216.1	TMHMM2.0	inside	   312   347
+USQ93216.1	TMHMM2.0	TMhelix	   348   370
+USQ93216.1	TMHMM2.0	outside	   371   373
+USQ93216.1	TMHMM2.0	TMhelix	   374   396
+USQ93216.1	TMHMM2.0	inside	   397   413
+# USQ93215.1 Length: 247
+# USQ93215.1 Number of predicted TMHs:  0
+# USQ93215.1 Exp number of AAs in TMHs: 0.15038
+# USQ93215.1 Exp number, first 60 AAs:  0.03923
+# USQ93215.1 Total prob of N-in:        0.02324
+USQ93215.1	TMHMM2.0	outside	     1   247
+# USQ93214.1 Length: 81
+# USQ93214.1 Number of predicted TMHs:  0
+# USQ93214.1 Exp number of AAs in TMHs: 0.00187
+# USQ93214.1 Exp number, first 60 AAs:  0.00187
+# USQ93214.1 Total prob of N-in:        0.73610
+USQ93214.1	TMHMM2.0	inside	     1    81
+# USQ93213.1 Length: 38
+# USQ93213.1 Number of predicted TMHs:  0
+# USQ93213.1 Exp number of AAs in TMHs: 0
+# USQ93213.1 Exp number, first 60 AAs:  0
+# USQ93213.1 Total prob of N-in:        0.93564
+USQ93213.1	TMHMM2.0	inside	     1    38
+# USQ93212.1 Length: 120
+# USQ93212.1 Number of predicted TMHs:  0
+# USQ93212.1 Exp number of AAs in TMHs: 0.06578
+# USQ93212.1 Exp number, first 60 AAs:  0.06578
+# USQ93212.1 Total prob of N-in:        0.83330
+USQ93212.1	TMHMM2.0	inside	     1   120
+# USQ93211.1 Length: 133
+# USQ93211.1 Number of predicted TMHs:  0
+# USQ93211.1 Exp number of AAs in TMHs: 0.84705
+# USQ93211.1 Exp number, first 60 AAs:  0.84703
+# USQ93211.1 Total prob of N-in:        0.77259
+USQ93211.1	TMHMM2.0	inside	     1   133
+# USQ93210.1 Length: 316
+# USQ93210.1 Number of predicted TMHs:  0
+# USQ93210.1 Exp number of AAs in TMHs: 0.05677
+# USQ93210.1 Exp number, first 60 AAs:  0.04962
+# USQ93210.1 Total prob of N-in:        0.04153
+USQ93210.1	TMHMM2.0	outside	     1   316
+# USQ93209.1 Length: 118
+# USQ93209.1 Number of predicted TMHs:  0
+# USQ93209.1 Exp number of AAs in TMHs: 0.00717
+# USQ93209.1 Exp number, first 60 AAs:  0.00717
+# USQ93209.1 Total prob of N-in:        0.48329
+USQ93209.1	TMHMM2.0	outside	     1   118
+# USQ93208.1 Length: 273
+# USQ93208.1 Number of predicted TMHs:  0
+# USQ93208.1 Exp number of AAs in TMHs: 0.0546200000000001
+# USQ93208.1 Exp number, first 60 AAs:  0.05314
+# USQ93208.1 Total prob of N-in:        0.03788
+USQ93208.1	TMHMM2.0	outside	     1   273
+# USQ93207.1 Length: 282
+# USQ93207.1 Number of predicted TMHs:  0
+# USQ93207.1 Exp number of AAs in TMHs: 0.02459
+# USQ93207.1 Exp number, first 60 AAs:  0.0132
+# USQ93207.1 Total prob of N-in:        0.03813
+USQ93207.1	TMHMM2.0	outside	     1   282
+# USQ93206.1 Length: 326
+# USQ93206.1 Number of predicted TMHs:  9
+# USQ93206.1 Exp number of AAs in TMHs: 180.02693
+# USQ93206.1 Exp number, first 60 AAs:  32.69154
+# USQ93206.1 Total prob of N-in:        0.99580
+# USQ93206.1 POSSIBLE N-term signal sequence
+USQ93206.1	TMHMM2.0	inside	     1    20
+USQ93206.1	TMHMM2.0	TMhelix	    21    38
+USQ93206.1	TMHMM2.0	outside	    39    47
+USQ93206.1	TMHMM2.0	TMhelix	    48    65
+USQ93206.1	TMHMM2.0	inside	    66    77
+USQ93206.1	TMHMM2.0	TMhelix	    78    95
+USQ93206.1	TMHMM2.0	outside	    96   109
+USQ93206.1	TMHMM2.0	TMhelix	   110   128
+USQ93206.1	TMHMM2.0	inside	   129   134
+USQ93206.1	TMHMM2.0	TMhelix	   135   154
+USQ93206.1	TMHMM2.0	outside	   155   168
+USQ93206.1	TMHMM2.0	TMhelix	   169   191
+USQ93206.1	TMHMM2.0	inside	   192   211
+USQ93206.1	TMHMM2.0	TMhelix	   212   234
+USQ93206.1	TMHMM2.0	outside	   235   260
+USQ93206.1	TMHMM2.0	TMhelix	   261   283
+USQ93206.1	TMHMM2.0	inside	   284   309
+USQ93206.1	TMHMM2.0	TMhelix	   310   325
+USQ93206.1	TMHMM2.0	outside	   326   326
+# USQ93205.1 Length: 243
+# USQ93205.1 Number of predicted TMHs:  1
+# USQ93205.1 Exp number of AAs in TMHs: 18.02901
+# USQ93205.1 Exp number, first 60 AAs:  0.00019
+# USQ93205.1 Total prob of N-in:        0.10250
+USQ93205.1	TMHMM2.0	outside	     1   189
+USQ93205.1	TMHMM2.0	TMhelix	   190   207
+USQ93205.1	TMHMM2.0	inside	   208   243
+# USQ93204.1 Length: 206
+# USQ93204.1 Number of predicted TMHs:  0
+# USQ93204.1 Exp number of AAs in TMHs: 0.00471
+# USQ93204.1 Exp number, first 60 AAs:  0.0028
+# USQ93204.1 Total prob of N-in:        0.02028
+USQ93204.1	TMHMM2.0	outside	     1   206
+# USQ93203.1 Length: 310
+# USQ93203.1 Number of predicted TMHs:  0
+# USQ93203.1 Exp number of AAs in TMHs: 0.833239999999999
+# USQ93203.1 Exp number, first 60 AAs:  0.00076
+# USQ93203.1 Total prob of N-in:        0.04792
+USQ93203.1	TMHMM2.0	outside	     1   310
+# USQ93202.1 Length: 283
+# USQ93202.1 Number of predicted TMHs:  0
+# USQ93202.1 Exp number of AAs in TMHs: 18.12156
+# USQ93202.1 Exp number, first 60 AAs:  0.69941
+# USQ93202.1 Total prob of N-in:        0.18705
+USQ93202.1	TMHMM2.0	outside	     1   283
+# USQ93201.1 Length: 521
+# USQ93201.1 Number of predicted TMHs:  0
+# USQ93201.1 Exp number of AAs in TMHs: 1.917
+# USQ93201.1 Exp number, first 60 AAs:  1.66863
+# USQ93201.1 Total prob of N-in:        0.06773
+USQ93201.1	TMHMM2.0	outside	     1   521
+# USQ93200.1 Length: 1682
+# USQ93200.1 Number of predicted TMHs:  2
+# USQ93200.1 Exp number of AAs in TMHs: 44.5445
+# USQ93200.1 Exp number, first 60 AAs:  21.67298
+# USQ93200.1 Total prob of N-in:        1.00000
+# USQ93200.1 POSSIBLE N-term signal sequence
+USQ93200.1	TMHMM2.0	inside	     1    12
+USQ93200.1	TMHMM2.0	TMhelix	    13    35
+USQ93200.1	TMHMM2.0	outside	    36  1657
+USQ93200.1	TMHMM2.0	TMhelix	  1658  1680
+USQ93200.1	TMHMM2.0	inside	  1681  1682
+# USQ93199.1 Length: 240
+# USQ93199.1 Number of predicted TMHs:  5
+# USQ93199.1 Exp number of AAs in TMHs: 107.88537
+# USQ93199.1 Exp number, first 60 AAs:  30.24538
+# USQ93199.1 Total prob of N-in:        0.99939
+# USQ93199.1 POSSIBLE N-term signal sequence
+USQ93199.1	TMHMM2.0	inside	     1    12
+USQ93199.1	TMHMM2.0	TMhelix	    13    33
+USQ93199.1	TMHMM2.0	outside	    34    52
+USQ93199.1	TMHMM2.0	TMhelix	    53    75
+USQ93199.1	TMHMM2.0	inside	    76   123
+USQ93199.1	TMHMM2.0	TMhelix	   124   146
+USQ93199.1	TMHMM2.0	outside	   147   149
+USQ93199.1	TMHMM2.0	TMhelix	   150   172
+USQ93199.1	TMHMM2.0	inside	   173   220
+USQ93199.1	TMHMM2.0	TMhelix	   221   238
+USQ93199.1	TMHMM2.0	outside	   239   240
+# USQ93198.1 Length: 542
+# USQ93198.1 Number of predicted TMHs:  1
+# USQ93198.1 Exp number of AAs in TMHs: 21.02904
+# USQ93198.1 Exp number, first 60 AAs:  21.00317
+# USQ93198.1 Total prob of N-in:        0.90507
+# USQ93198.1 POSSIBLE N-term signal sequence
+USQ93198.1	TMHMM2.0	inside	     1     8
+USQ93198.1	TMHMM2.0	TMhelix	     9    31
+USQ93198.1	TMHMM2.0	outside	    32   542
+# USQ93197.1 Length: 210
+# USQ93197.1 Number of predicted TMHs:  0
+# USQ93197.1 Exp number of AAs in TMHs: 0
+# USQ93197.1 Exp number, first 60 AAs:  0
+# USQ93197.1 Total prob of N-in:        0.20898
+USQ93197.1	TMHMM2.0	outside	     1   210
+# USQ93196.1 Length: 601
+# USQ93196.1 Number of predicted TMHs:  2
+# USQ93196.1 Exp number of AAs in TMHs: 42.38355
+# USQ93196.1 Exp number, first 60 AAs:  20.21642
+# USQ93196.1 Total prob of N-in:        0.47533
+# USQ93196.1 POSSIBLE N-term signal sequence
+USQ93196.1	TMHMM2.0	outside	     1    19
+USQ93196.1	TMHMM2.0	TMhelix	    20    39
+USQ93196.1	TMHMM2.0	inside	    40   135
+USQ93196.1	TMHMM2.0	TMhelix	   136   158
+USQ93196.1	TMHMM2.0	outside	   159   601
+# USQ93195.1 Length: 699
+# USQ93195.1 Number of predicted TMHs:  1
+# USQ93195.1 Exp number of AAs in TMHs: 20.9509
+# USQ93195.1 Exp number, first 60 AAs:  20.94427
+# USQ93195.1 Total prob of N-in:        0.99891
+# USQ93195.1 POSSIBLE N-term signal sequence
+USQ93195.1	TMHMM2.0	inside	     1    12
+USQ93195.1	TMHMM2.0	TMhelix	    13    33
+USQ93195.1	TMHMM2.0	outside	    34   699
+# USQ93194.1 Length: 224
+# USQ93194.1 Number of predicted TMHs:  1
+# USQ93194.1 Exp number of AAs in TMHs: 20.8055
+# USQ93194.1 Exp number, first 60 AAs:  20.80366
+# USQ93194.1 Total prob of N-in:        0.52430
+# USQ93194.1 POSSIBLE N-term signal sequence
+USQ93194.1	TMHMM2.0	outside	     1    14
+USQ93194.1	TMHMM2.0	TMhelix	    15    37
+USQ93194.1	TMHMM2.0	inside	    38   224
+# USQ93193.1 Length: 140
+# USQ93193.1 Number of predicted TMHs:  0
+# USQ93193.1 Exp number of AAs in TMHs: 0
+# USQ93193.1 Exp number, first 60 AAs:  0
+# USQ93193.1 Total prob of N-in:        0.20473
+USQ93193.1	TMHMM2.0	outside	     1   140
+# USQ93192.1 Length: 214
+# USQ93192.1 Number of predicted TMHs:  0
+# USQ93192.1 Exp number of AAs in TMHs: 0
+# USQ93192.1 Exp number, first 60 AAs:  0
+# USQ93192.1 Total prob of N-in:        0.02058
+USQ93192.1	TMHMM2.0	outside	     1   214
+# USQ93191.1 Length: 148
+# USQ93191.1 Number of predicted TMHs:  2
+# USQ93191.1 Exp number of AAs in TMHs: 43.27702
+# USQ93191.1 Exp number, first 60 AAs:  21.35899
+# USQ93191.1 Total prob of N-in:        0.97497
+# USQ93191.1 POSSIBLE N-term signal sequence
+USQ93191.1	TMHMM2.0	inside	     1    24
+USQ93191.1	TMHMM2.0	TMhelix	    25    47
+USQ93191.1	TMHMM2.0	outside	    48    77
+USQ93191.1	TMHMM2.0	TMhelix	    78   100
+USQ93191.1	TMHMM2.0	inside	   101   148
+# USQ93190.1 Length: 289
+# USQ93190.1 Number of predicted TMHs:  0
+# USQ93190.1 Exp number of AAs in TMHs: 5.34392
+# USQ93190.1 Exp number, first 60 AAs:  0.23649
+# USQ93190.1 Total prob of N-in:        0.25777
+USQ93190.1	TMHMM2.0	outside	     1   289
+# USQ93189.1 Length: 252
+# USQ93189.1 Number of predicted TMHs:  3
+# USQ93189.1 Exp number of AAs in TMHs: 58.9413900000001
+# USQ93189.1 Exp number, first 60 AAs:  43.88113
+# USQ93189.1 Total prob of N-in:        0.14382
+# USQ93189.1 POSSIBLE N-term signal sequence
+USQ93189.1	TMHMM2.0	outside	     1     3
+USQ93189.1	TMHMM2.0	TMhelix	     4    26
+USQ93189.1	TMHMM2.0	inside	    27    30
+USQ93189.1	TMHMM2.0	TMhelix	    31    53
+USQ93189.1	TMHMM2.0	outside	    54    67
+USQ93189.1	TMHMM2.0	TMhelix	    68    90
+USQ93189.1	TMHMM2.0	inside	    91   252
+# USQ93188.1 Length: 199
+# USQ93188.1 Number of predicted TMHs:  0
+# USQ93188.1 Exp number of AAs in TMHs: 0.00029
+# USQ93188.1 Exp number, first 60 AAs:  0
+# USQ93188.1 Total prob of N-in:        0.28974
+USQ93188.1	TMHMM2.0	outside	     1   199
+# USQ93187.1 Length: 65
+# USQ93187.1 Number of predicted TMHs:  0
+# USQ93187.1 Exp number of AAs in TMHs: 0
+# USQ93187.1 Exp number, first 60 AAs:  0
+# USQ93187.1 Total prob of N-in:        0.87554
+USQ93187.1	TMHMM2.0	inside	     1    65
+# USQ93186.1 Length: 63
+# USQ93186.1 Number of predicted TMHs:  0
+# USQ93186.1 Exp number of AAs in TMHs: 0
+# USQ93186.1 Exp number, first 60 AAs:  0
+# USQ93186.1 Total prob of N-in:        0.83410
+USQ93186.1	TMHMM2.0	inside	     1    63
+# USQ93185.1 Length: 96
+# USQ93185.1 Number of predicted TMHs:  0
+# USQ93185.1 Exp number of AAs in TMHs: 0.00034
+# USQ93185.1 Exp number, first 60 AAs:  0.00031
+# USQ93185.1 Total prob of N-in:        0.64652
+USQ93185.1	TMHMM2.0	inside	     1    96
+# USQ93184.1 Length: 64
+# USQ93184.1 Number of predicted TMHs:  0
+# USQ93184.1 Exp number of AAs in TMHs: 0.00031
+# USQ93184.1 Exp number, first 60 AAs:  0.00031
+# USQ93184.1 Total prob of N-in:        0.58233
+USQ93184.1	TMHMM2.0	inside	     1    64
+# USQ93183.1 Length: 235
+# USQ93183.1 Number of predicted TMHs:  0
+# USQ93183.1 Exp number of AAs in TMHs: 0.2778
+# USQ93183.1 Exp number, first 60 AAs:  0.0002
+# USQ93183.1 Total prob of N-in:        0.03194
+USQ93183.1	TMHMM2.0	outside	     1   235
+# USQ93182.1 Length: 161
+# USQ93182.1 Number of predicted TMHs:  0
+# USQ93182.1 Exp number of AAs in TMHs: 0.05271
+# USQ93182.1 Exp number, first 60 AAs:  0.01136
+# USQ93182.1 Total prob of N-in:        0.58534
+USQ93182.1	TMHMM2.0	inside	     1   161
+# USQ93181.1 Length: 248
+# USQ93181.1 Number of predicted TMHs:  1
+# USQ93181.1 Exp number of AAs in TMHs: 21.87433
+# USQ93181.1 Exp number, first 60 AAs:  21.86138
+# USQ93181.1 Total prob of N-in:        0.99729
+# USQ93181.1 POSSIBLE N-term signal sequence
+USQ93181.1	TMHMM2.0	inside	     1     6
+USQ93181.1	TMHMM2.0	TMhelix	     7    29
+USQ93181.1	TMHMM2.0	outside	    30   248
+# USQ93180.1 Length: 550
+# USQ93180.1 Number of predicted TMHs:  1
+# USQ93180.1 Exp number of AAs in TMHs: 22.70812
+# USQ93180.1 Exp number, first 60 AAs:  22.70812
+# USQ93180.1 Total prob of N-in:        0.99880
+# USQ93180.1 POSSIBLE N-term signal sequence
+USQ93180.1	TMHMM2.0	inside	     1    11
+USQ93180.1	TMHMM2.0	TMhelix	    12    34
+USQ93180.1	TMHMM2.0	outside	    35   550
+# USQ93179.1 Length: 283
+# USQ93179.1 Number of predicted TMHs:  0
+# USQ93179.1 Exp number of AAs in TMHs: 0.0907299999999998
+# USQ93179.1 Exp number, first 60 AAs:  0.08968
+# USQ93179.1 Total prob of N-in:        0.01740
+USQ93179.1	TMHMM2.0	outside	     1   283
+# USQ93178.1 Length: 102
+# USQ93178.1 Number of predicted TMHs:  0
+# USQ93178.1 Exp number of AAs in TMHs: 0.03714
+# USQ93178.1 Exp number, first 60 AAs:  0.03625
+# USQ93178.1 Total prob of N-in:        0.23876
+USQ93178.1	TMHMM2.0	outside	     1   102
+# USQ93177.1 Length: 311
+# USQ93177.1 Number of predicted TMHs:  0
+# USQ93177.1 Exp number of AAs in TMHs: 0.07068
+# USQ93177.1 Exp number, first 60 AAs:  0.0033
+# USQ93177.1 Total prob of N-in:        0.04122
+USQ93177.1	TMHMM2.0	outside	     1   311
+# USQ93176.1 Length: 292
+# USQ93176.1 Number of predicted TMHs:  0
+# USQ93176.1 Exp number of AAs in TMHs: 0.21123
+# USQ93176.1 Exp number, first 60 AAs:  0.09703
+# USQ93176.1 Total prob of N-in:        0.27825
+USQ93176.1	TMHMM2.0	outside	     1   292
+# USQ93175.1 Length: 293
+# USQ93175.1 Number of predicted TMHs:  0
+# USQ93175.1 Exp number of AAs in TMHs: 0.10993
+# USQ93175.1 Exp number, first 60 AAs:  0.00018
+# USQ93175.1 Total prob of N-in:        0.28551
+USQ93175.1	TMHMM2.0	outside	     1   293
+# USQ93174.1 Length: 657
+# USQ93174.1 Number of predicted TMHs:  0
+# USQ93174.1 Exp number of AAs in TMHs: 4.08151
+# USQ93174.1 Exp number, first 60 AAs:  0.48673
+# USQ93174.1 Total prob of N-in:        0.19067
+USQ93174.1	TMHMM2.0	outside	     1   657
+# USQ93173.1 Length: 933
+# USQ93173.1 Number of predicted TMHs:  0
+# USQ93173.1 Exp number of AAs in TMHs: 2.73108
+# USQ93173.1 Exp number, first 60 AAs:  2.71051
+# USQ93173.1 Total prob of N-in:        0.12341
+USQ93173.1	TMHMM2.0	outside	     1   933
+# USQ93172.1 Length: 535
+# USQ93172.1 Number of predicted TMHs:  0
+# USQ93172.1 Exp number of AAs in TMHs: 0.05685
+# USQ93172.1 Exp number, first 60 AAs:  0
+# USQ93172.1 Total prob of N-in:        0.00069
+USQ93172.1	TMHMM2.0	outside	     1   535
+# USQ93171.1 Length: 74
+# USQ93171.1 Number of predicted TMHs:  1
+# USQ93171.1 Exp number of AAs in TMHs: 19.5333
+# USQ93171.1 Exp number, first 60 AAs:  19.53326
+# USQ93171.1 Total prob of N-in:        0.32532
+# USQ93171.1 POSSIBLE N-term signal sequence
+USQ93171.1	TMHMM2.0	outside	     1     3
+USQ93171.1	TMHMM2.0	TMhelix	     4    23
+USQ93171.1	TMHMM2.0	inside	    24    74
+# USQ93170.1 Length: 398
+# USQ93170.1 Number of predicted TMHs:  1
+# USQ93170.1 Exp number of AAs in TMHs: 22.93243
+# USQ93170.1 Exp number, first 60 AAs:  22.8899
+# USQ93170.1 Total prob of N-in:        0.99787
+# USQ93170.1 POSSIBLE N-term signal sequence
+USQ93170.1	TMHMM2.0	inside	     1    12
+USQ93170.1	TMHMM2.0	TMhelix	    13    35
+USQ93170.1	TMHMM2.0	outside	    36   398
+# USQ93169.1 Length: 333
+# USQ93169.1 Number of predicted TMHs:  8
+# USQ93169.1 Exp number of AAs in TMHs: 176.449
+# USQ93169.1 Exp number, first 60 AAs:  18.41544
+# USQ93169.1 Total prob of N-in:        0.01937
+# USQ93169.1 POSSIBLE N-term signal sequence
+USQ93169.1	TMHMM2.0	outside	     1     3
+USQ93169.1	TMHMM2.0	TMhelix	     4    21
+USQ93169.1	TMHMM2.0	inside	    22    86
+USQ93169.1	TMHMM2.0	TMhelix	    87   109
+USQ93169.1	TMHMM2.0	outside	   110   118
+USQ93169.1	TMHMM2.0	TMhelix	   119   141
+USQ93169.1	TMHMM2.0	inside	   142   152
+USQ93169.1	TMHMM2.0	TMhelix	   153   175
+USQ93169.1	TMHMM2.0	outside	   176   197
+USQ93169.1	TMHMM2.0	TMhelix	   198   220
+USQ93169.1	TMHMM2.0	inside	   221   232
+USQ93169.1	TMHMM2.0	TMhelix	   233   255
+USQ93169.1	TMHMM2.0	outside	   256   258
+USQ93169.1	TMHMM2.0	TMhelix	   259   281
+USQ93169.1	TMHMM2.0	inside	   282   300
+USQ93169.1	TMHMM2.0	TMhelix	   301   323
+USQ93169.1	TMHMM2.0	outside	   324   333
+# USQ93168.1 Length: 85
+# USQ93168.1 Number of predicted TMHs:  0
+# USQ93168.1 Exp number of AAs in TMHs: 0.00808
+# USQ93168.1 Exp number, first 60 AAs:  0.00546
+# USQ93168.1 Total prob of N-in:        0.19700
+USQ93168.1	TMHMM2.0	outside	     1    85
+# USQ93167.1 Length: 52
+# USQ93167.1 Number of predicted TMHs:  0
+# USQ93167.1 Exp number of AAs in TMHs: 0
+# USQ93167.1 Exp number, first 60 AAs:  0
+# USQ93167.1 Total prob of N-in:        0.41901
+USQ93167.1	TMHMM2.0	outside	     1    52
+# USQ93166.1 Length: 102
+# USQ93166.1 Number of predicted TMHs:  0
+# USQ93166.1 Exp number of AAs in TMHs: 0.00024
+# USQ93166.1 Exp number, first 60 AAs:  0
+# USQ93166.1 Total prob of N-in:        0.64388
+USQ93166.1	TMHMM2.0	inside	     1   102
+# USQ93165.1 Length: 599
+# USQ93165.1 Number of predicted TMHs:  1
+# USQ93165.1 Exp number of AAs in TMHs: 37.3474200000001
+# USQ93165.1 Exp number, first 60 AAs:  18.38325
+# USQ93165.1 Total prob of N-in:        0.98576
+# USQ93165.1 POSSIBLE N-term signal sequence
+USQ93165.1	TMHMM2.0	inside	     1    11
+USQ93165.1	TMHMM2.0	TMhelix	    12    29
+USQ93165.1	TMHMM2.0	outside	    30   599
+# USQ93164.1 Length: 419
+# USQ93164.1 Number of predicted TMHs:  0
+# USQ93164.1 Exp number of AAs in TMHs: 0.00037
+# USQ93164.1 Exp number, first 60 AAs:  0
+# USQ93164.1 Total prob of N-in:        0.00243
+USQ93164.1	TMHMM2.0	outside	     1   419
+# USQ93163.1 Length: 186
+# USQ93163.1 Number of predicted TMHs:  1
+# USQ93163.1 Exp number of AAs in TMHs: 22.29571
+# USQ93163.1 Exp number, first 60 AAs:  22.29349
+# USQ93163.1 Total prob of N-in:        0.23607
+# USQ93163.1 POSSIBLE N-term signal sequence
+USQ93163.1	TMHMM2.0	outside	     1     9
+USQ93163.1	TMHMM2.0	TMhelix	    10    32
+USQ93163.1	TMHMM2.0	inside	    33   186
+# USQ93162.1 Length: 787
+# USQ93162.1 Number of predicted TMHs:  0
+# USQ93162.1 Exp number of AAs in TMHs: 0.51054
+# USQ93162.1 Exp number, first 60 AAs:  0
+# USQ93162.1 Total prob of N-in:        0.01916
+USQ93162.1	TMHMM2.0	outside	     1   787
+# USQ93161.1 Length: 124
+# USQ93161.1 Number of predicted TMHs:  0
+# USQ93161.1 Exp number of AAs in TMHs: 0.00242
+# USQ93161.1 Exp number, first 60 AAs:  0.00017
+# USQ93161.1 Total prob of N-in:        0.28022
+USQ93161.1	TMHMM2.0	outside	     1   124
+# USQ93160.1 Length: 343
+# USQ93160.1 Number of predicted TMHs:  0
+# USQ93160.1 Exp number of AAs in TMHs: 0.0789
+# USQ93160.1 Exp number, first 60 AAs:  0
+# USQ93160.1 Total prob of N-in:        0.04607
+USQ93160.1	TMHMM2.0	outside	     1   343
+# USQ93159.1 Length: 793
+# USQ93159.1 Number of predicted TMHs:  0
+# USQ93159.1 Exp number of AAs in TMHs: 0.0735
+# USQ93159.1 Exp number, first 60 AAs:  0
+# USQ93159.1 Total prob of N-in:        0.00214
+USQ93159.1	TMHMM2.0	outside	     1   793
+# USQ93158.1 Length: 303
+# USQ93158.1 Number of predicted TMHs:  0
+# USQ93158.1 Exp number of AAs in TMHs: 0.0827800000000002
+# USQ93158.1 Exp number, first 60 AAs:  0
+# USQ93158.1 Total prob of N-in:        0.01841
+USQ93158.1	TMHMM2.0	outside	     1   303
+# USQ93157.1 Length: 607
+# USQ93157.1 Number of predicted TMHs:  0
+# USQ93157.1 Exp number of AAs in TMHs: 0.0771099999999997
+# USQ93157.1 Exp number, first 60 AAs:  0.0014
+# USQ93157.1 Total prob of N-in:        0.00485
+USQ93157.1	TMHMM2.0	outside	     1   607
+# USQ93156.1 Length: 437
+# USQ93156.1 Number of predicted TMHs:  0
+# USQ93156.1 Exp number of AAs in TMHs: 0.01955
+# USQ93156.1 Exp number, first 60 AAs:  0.00618
+# USQ93156.1 Total prob of N-in:        0.00528
+USQ93156.1	TMHMM2.0	outside	     1   437
+# USQ93155.1 Length: 280
+# USQ93155.1 Number of predicted TMHs:  6
+# USQ93155.1 Exp number of AAs in TMHs: 133.9967
+# USQ93155.1 Exp number, first 60 AAs:  22.81751
+# USQ93155.1 Total prob of N-in:        0.98477
+# USQ93155.1 POSSIBLE N-term signal sequence
+USQ93155.1	TMHMM2.0	inside	     1    16
+USQ93155.1	TMHMM2.0	TMhelix	    17    39
+USQ93155.1	TMHMM2.0	outside	    40    66
+USQ93155.1	TMHMM2.0	TMhelix	    67    89
+USQ93155.1	TMHMM2.0	inside	    90    95
+USQ93155.1	TMHMM2.0	TMhelix	    96   118
+USQ93155.1	TMHMM2.0	outside	   119   147
+USQ93155.1	TMHMM2.0	TMhelix	   148   170
+USQ93155.1	TMHMM2.0	inside	   171   193
+USQ93155.1	TMHMM2.0	TMhelix	   194   216
+USQ93155.1	TMHMM2.0	outside	   217   247
+USQ93155.1	TMHMM2.0	TMhelix	   248   267
+USQ93155.1	TMHMM2.0	inside	   268   280
+# USQ93154.1 Length: 265
+# USQ93154.1 Number of predicted TMHs:  6
+# USQ93154.1 Exp number of AAs in TMHs: 132.47599
+# USQ93154.1 Exp number, first 60 AAs:  22.5842
+# USQ93154.1 Total prob of N-in:        0.99619
+# USQ93154.1 POSSIBLE N-term signal sequence
+USQ93154.1	TMHMM2.0	inside	     1     8
+USQ93154.1	TMHMM2.0	TMhelix	     9    31
+USQ93154.1	TMHMM2.0	outside	    32    72
+USQ93154.1	TMHMM2.0	TMhelix	    73    95
+USQ93154.1	TMHMM2.0	inside	    96   107
+USQ93154.1	TMHMM2.0	TMhelix	   108   130
+USQ93154.1	TMHMM2.0	outside	   131   133
+USQ93154.1	TMHMM2.0	TMhelix	   134   156
+USQ93154.1	TMHMM2.0	inside	   157   191
+USQ93154.1	TMHMM2.0	TMhelix	   192   214
+USQ93154.1	TMHMM2.0	outside	   215   233
+USQ93154.1	TMHMM2.0	TMhelix	   234   256
+USQ93154.1	TMHMM2.0	inside	   257   265
+# USQ93153.1 Length: 381
+# USQ93153.1 Number of predicted TMHs:  2
+# USQ93153.1 Exp number of AAs in TMHs: 39.23497
+# USQ93153.1 Exp number, first 60 AAs:  19.36594
+# USQ93153.1 Total prob of N-in:        0.19232
+# USQ93153.1 POSSIBLE N-term signal sequence
+USQ93153.1	TMHMM2.0	outside	     1     4
+USQ93153.1	TMHMM2.0	TMhelix	     5    23
+USQ93153.1	TMHMM2.0	inside	    24   359
+USQ93153.1	TMHMM2.0	TMhelix	   360   379
+USQ93153.1	TMHMM2.0	outside	   380   381
+# USQ93152.1 Length: 131
+# USQ93152.1 Number of predicted TMHs:  2
+# USQ93152.1 Exp number of AAs in TMHs: 41.40803
+# USQ93152.1 Exp number, first 60 AAs:  20.11609
+# USQ93152.1 Total prob of N-in:        0.97036
+# USQ93152.1 POSSIBLE N-term signal sequence
+USQ93152.1	TMHMM2.0	inside	     1    12
+USQ93152.1	TMHMM2.0	TMhelix	    13    32
+USQ93152.1	TMHMM2.0	outside	    33    81
+USQ93152.1	TMHMM2.0	TMhelix	    82   104
+USQ93152.1	TMHMM2.0	inside	   105   131
+# USQ93151.1 Length: 104
+# USQ93151.1 Number of predicted TMHs:  0
+# USQ93151.1 Exp number of AAs in TMHs: 0.00122
+# USQ93151.1 Exp number, first 60 AAs:  0.00122
+# USQ93151.1 Total prob of N-in:        0.39969
+USQ93151.1	TMHMM2.0	outside	     1   104
+# USQ93150.1 Length: 385
+# USQ93150.1 Number of predicted TMHs:  0
+# USQ93150.1 Exp number of AAs in TMHs: 5.02827
+# USQ93150.1 Exp number, first 60 AAs:  0
+# USQ93150.1 Total prob of N-in:        0.08977
+USQ93150.1	TMHMM2.0	outside	     1   385
+# USQ93149.1 Length: 231
+# USQ93149.1 Number of predicted TMHs:  1
+# USQ93149.1 Exp number of AAs in TMHs: 23.9099
+# USQ93149.1 Exp number, first 60 AAs:  23.26282
+# USQ93149.1 Total prob of N-in:        0.83801
+# USQ93149.1 POSSIBLE N-term signal sequence
+USQ93149.1	TMHMM2.0	inside	     1    12
+USQ93149.1	TMHMM2.0	TMhelix	    13    35
+USQ93149.1	TMHMM2.0	outside	    36   231
+# USQ93148.1 Length: 103
+# USQ93148.1 Number of predicted TMHs:  0
+# USQ93148.1 Exp number of AAs in TMHs: 0
+# USQ93148.1 Exp number, first 60 AAs:  0
+# USQ93148.1 Total prob of N-in:        0.38630
+USQ93148.1	TMHMM2.0	outside	     1   103
+# USQ93147.1 Length: 383
+# USQ93147.1 Number of predicted TMHs:  0
+# USQ93147.1 Exp number of AAs in TMHs: 0.0530000000000001
+# USQ93147.1 Exp number, first 60 AAs:  0
+# USQ93147.1 Total prob of N-in:        0.01698
+USQ93147.1	TMHMM2.0	outside	     1   383
+# USQ93146.1 Length: 463
+# USQ93146.1 Number of predicted TMHs:  0
+# USQ93146.1 Exp number of AAs in TMHs: 0.1397
+# USQ93146.1 Exp number, first 60 AAs:  0.02116
+# USQ93146.1 Total prob of N-in:        0.01632
+USQ93146.1	TMHMM2.0	outside	     1   463
+# USQ93145.1 Length: 363
+# USQ93145.1 Number of predicted TMHs:  0
+# USQ93145.1 Exp number of AAs in TMHs: 0.38579
+# USQ93145.1 Exp number, first 60 AAs:  0.09287
+# USQ93145.1 Total prob of N-in:        0.02090
+USQ93145.1	TMHMM2.0	outside	     1   363
+# USQ93144.1 Length: 308
+# USQ93144.1 Number of predicted TMHs:  6
+# USQ93144.1 Exp number of AAs in TMHs: 133.81669
+# USQ93144.1 Exp number, first 60 AAs:  22.5182
+# USQ93144.1 Total prob of N-in:        0.99348
+# USQ93144.1 POSSIBLE N-term signal sequence
+USQ93144.1	TMHMM2.0	inside	     1    12
+USQ93144.1	TMHMM2.0	TMhelix	    13    32
+USQ93144.1	TMHMM2.0	outside	    33    74
+USQ93144.1	TMHMM2.0	TMhelix	    75    97
+USQ93144.1	TMHMM2.0	inside	    98   109
+USQ93144.1	TMHMM2.0	TMhelix	   110   132
+USQ93144.1	TMHMM2.0	outside	   133   172
+USQ93144.1	TMHMM2.0	TMhelix	   173   195
+USQ93144.1	TMHMM2.0	inside	   196   215
+USQ93144.1	TMHMM2.0	TMhelix	   216   235
+USQ93144.1	TMHMM2.0	outside	   236   280
+USQ93144.1	TMHMM2.0	TMhelix	   281   303
+USQ93144.1	TMHMM2.0	inside	   304   308
+# USQ93143.1 Length: 303
+# USQ93143.1 Number of predicted TMHs:  6
+# USQ93143.1 Exp number of AAs in TMHs: 134.25875
+# USQ93143.1 Exp number, first 60 AAs:  22.74067
+# USQ93143.1 Total prob of N-in:        0.99972
+# USQ93143.1 POSSIBLE N-term signal sequence
+USQ93143.1	TMHMM2.0	inside	     1    26
+USQ93143.1	TMHMM2.0	TMhelix	    27    49
+USQ93143.1	TMHMM2.0	outside	    50    94
+USQ93143.1	TMHMM2.0	TMhelix	    95   117
+USQ93143.1	TMHMM2.0	inside	   118   129
+USQ93143.1	TMHMM2.0	TMhelix	   130   152
+USQ93143.1	TMHMM2.0	outside	   153   171
+USQ93143.1	TMHMM2.0	TMhelix	   172   194
+USQ93143.1	TMHMM2.0	inside	   195   213
+USQ93143.1	TMHMM2.0	TMhelix	   214   236
+USQ93143.1	TMHMM2.0	outside	   237   265
+USQ93143.1	TMHMM2.0	TMhelix	   266   288
+USQ93143.1	TMHMM2.0	inside	   289   303
+# USQ93142.1 Length: 497
+# USQ93142.1 Number of predicted TMHs:  1
+# USQ93142.1 Exp number of AAs in TMHs: 22.2732
+# USQ93142.1 Exp number, first 60 AAs:  22.27274
+# USQ93142.1 Total prob of N-in:        0.98059
+# USQ93142.1 POSSIBLE N-term signal sequence
+USQ93142.1	TMHMM2.0	inside	     1    11
+USQ93142.1	TMHMM2.0	TMhelix	    12    34
+USQ93142.1	TMHMM2.0	outside	    35   497
+# USQ93141.1 Length: 315
+# USQ93141.1 Number of predicted TMHs:  0
+# USQ93141.1 Exp number of AAs in TMHs: 0.02103
+# USQ93141.1 Exp number, first 60 AAs:  0
+# USQ93141.1 Total prob of N-in:        0.01805
+USQ93141.1	TMHMM2.0	outside	     1   315
+# USQ93140.1 Length: 457
+# USQ93140.1 Number of predicted TMHs:  0
+# USQ93140.1 Exp number of AAs in TMHs: 0.39219
+# USQ93140.1 Exp number, first 60 AAs:  0.39005
+# USQ93140.1 Total prob of N-in:        0.02232
+USQ93140.1	TMHMM2.0	outside	     1   457
+# USQ93139.1 Length: 450
+# USQ93139.1 Number of predicted TMHs:  1
+# USQ93139.1 Exp number of AAs in TMHs: 22.27444
+# USQ93139.1 Exp number, first 60 AAs:  22.27444
+# USQ93139.1 Total prob of N-in:        0.99996
+# USQ93139.1 POSSIBLE N-term signal sequence
+USQ93139.1	TMHMM2.0	inside	     1    16
+USQ93139.1	TMHMM2.0	TMhelix	    17    39
+USQ93139.1	TMHMM2.0	outside	    40   450
+# USQ93138.1 Length: 626
+# USQ93138.1 Number of predicted TMHs:  1
+# USQ93138.1 Exp number of AAs in TMHs: 20.7678
+# USQ93138.1 Exp number, first 60 AAs:  20.76765
+# USQ93138.1 Total prob of N-in:        0.99474
+# USQ93138.1 POSSIBLE N-term signal sequence
+USQ93138.1	TMHMM2.0	inside	     1     8
+USQ93138.1	TMHMM2.0	TMhelix	     9    28
+USQ93138.1	TMHMM2.0	outside	    29   626
+# USQ93137.1 Length: 767
+# USQ93137.1 Number of predicted TMHs:  1
+# USQ93137.1 Exp number of AAs in TMHs: 22.76759
+# USQ93137.1 Exp number, first 60 AAs:  13.26607
+# USQ93137.1 Total prob of N-in:        0.99812
+# USQ93137.1 POSSIBLE N-term signal sequence
+USQ93137.1	TMHMM2.0	inside	     1    47
+USQ93137.1	TMHMM2.0	TMhelix	    48    70
+USQ93137.1	TMHMM2.0	outside	    71   767
+# USQ93136.1 Length: 498
+# USQ93136.1 Number of predicted TMHs:  0
+# USQ93136.1 Exp number of AAs in TMHs: 0.15449
+# USQ93136.1 Exp number, first 60 AAs:  0
+# USQ93136.1 Total prob of N-in:        0.05412
+USQ93136.1	TMHMM2.0	outside	     1   498
+# USQ93135.1 Length: 899
+# USQ93135.1 Number of predicted TMHs:  0
+# USQ93135.1 Exp number of AAs in TMHs: 0.0312
+# USQ93135.1 Exp number, first 60 AAs:  0.00354
+# USQ93135.1 Total prob of N-in:        0.00037
+USQ93135.1	TMHMM2.0	outside	     1   899
+# USQ93134.1 Length: 150
+# USQ93134.1 Number of predicted TMHs:  3
+# USQ93134.1 Exp number of AAs in TMHs: 63.84745
+# USQ93134.1 Exp number, first 60 AAs:  20.28619
+# USQ93134.1 Total prob of N-in:        0.59606
+# USQ93134.1 POSSIBLE N-term signal sequence
+USQ93134.1	TMHMM2.0	outside	     1    24
+USQ93134.1	TMHMM2.0	TMhelix	    25    47
+USQ93134.1	TMHMM2.0	inside	    48    88
+USQ93134.1	TMHMM2.0	TMhelix	    89   108
+USQ93134.1	TMHMM2.0	outside	   109   117
+USQ93134.1	TMHMM2.0	TMhelix	   118   140
+USQ93134.1	TMHMM2.0	inside	   141   150
+# USQ93133.1 Length: 192
+# USQ93133.1 Number of predicted TMHs:  5
+# USQ93133.1 Exp number of AAs in TMHs: 113.24964
+# USQ93133.1 Exp number, first 60 AAs:  41.8018
+# USQ93133.1 Total prob of N-in:        0.03075
+# USQ93133.1 POSSIBLE N-term signal sequence
+USQ93133.1	TMHMM2.0	outside	     1     9
+USQ93133.1	TMHMM2.0	TMhelix	    10    29
+USQ93133.1	TMHMM2.0	inside	    30    41
+USQ93133.1	TMHMM2.0	TMhelix	    42    64
+USQ93133.1	TMHMM2.0	outside	    65    83
+USQ93133.1	TMHMM2.0	TMhelix	    84   106
+USQ93133.1	TMHMM2.0	inside	   107   118
+USQ93133.1	TMHMM2.0	TMhelix	   119   141
+USQ93133.1	TMHMM2.0	outside	   142   155
+USQ93133.1	TMHMM2.0	TMhelix	   156   178
+USQ93133.1	TMHMM2.0	inside	   179   192
+# USQ93132.1 Length: 310
+# USQ93132.1 Number of predicted TMHs:  0
+# USQ93132.1 Exp number of AAs in TMHs: 0.00525
+# USQ93132.1 Exp number, first 60 AAs:  0.00525
+# USQ93132.1 Total prob of N-in:        0.05187
+USQ93132.1	TMHMM2.0	outside	     1   310
+# USQ93131.1 Length: 105
+# USQ93131.1 Number of predicted TMHs:  0
+# USQ93131.1 Exp number of AAs in TMHs: 0.00033
+# USQ93131.1 Exp number, first 60 AAs:  0.00012
+# USQ93131.1 Total prob of N-in:        0.30786
+USQ93131.1	TMHMM2.0	outside	     1   105
+# USQ93130.1 Length: 103
+# USQ93130.1 Number of predicted TMHs:  0
+# USQ93130.1 Exp number of AAs in TMHs: 6.65405
+# USQ93130.1 Exp number, first 60 AAs:  6.63934
+# USQ93130.1 Total prob of N-in:        0.34258
+USQ93130.1	TMHMM2.0	outside	     1   103
+# USQ93129.1 Length: 97
+# USQ93129.1 Number of predicted TMHs:  0
+# USQ93129.1 Exp number of AAs in TMHs: 0.04963
+# USQ93129.1 Exp number, first 60 AAs:  0.01078
+# USQ93129.1 Total prob of N-in:        0.10444
+USQ93129.1	TMHMM2.0	outside	     1    97
+# USQ93128.1 Length: 427
+# USQ93128.1 Number of predicted TMHs:  0
+# USQ93128.1 Exp number of AAs in TMHs: 0.02234
+# USQ93128.1 Exp number, first 60 AAs:  0.01974
+# USQ93128.1 Total prob of N-in:        0.00417
+USQ93128.1	TMHMM2.0	outside	     1   427
+# USQ93127.1 Length: 212
+# USQ93127.1 Number of predicted TMHs:  5
+# USQ93127.1 Exp number of AAs in TMHs: 112.08557
+# USQ93127.1 Exp number, first 60 AAs:  28.22591
+# USQ93127.1 Total prob of N-in:        0.85275
+# USQ93127.1 POSSIBLE N-term signal sequence
+USQ93127.1	TMHMM2.0	inside	     1    19
+USQ93127.1	TMHMM2.0	TMhelix	    20    37
+USQ93127.1	TMHMM2.0	outside	    38    51
+USQ93127.1	TMHMM2.0	TMhelix	    52    74
+USQ93127.1	TMHMM2.0	inside	    75    99
+USQ93127.1	TMHMM2.0	TMhelix	   100   122
+USQ93127.1	TMHMM2.0	outside	   123   136
+USQ93127.1	TMHMM2.0	TMhelix	   137   159
+USQ93127.1	TMHMM2.0	inside	   160   179
+USQ93127.1	TMHMM2.0	TMhelix	   180   202
+USQ93127.1	TMHMM2.0	outside	   203   212
