@@ -1,4 +1,4 @@
-# LEAPH - ()
+# LEAPH - (ensembLe model for Effector clAssification in PHytoplasmas)
 LEAPH is an ensemble machine learning predictor able to classify effector proteins form other function-generic proteins. It is compose by 4 classification models: Random Forest, XGBoost, Gaussian Naive Bayes and Multinomial Naive Bayes. 
 
 LEAPH output is a binary classification of proteins (effector/non effector), associated with the models agreement. 
