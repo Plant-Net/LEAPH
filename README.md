@@ -1,40 +1,40 @@
-# LEAF - (phytopLasmas Effector prediction via rAndom Forest/tobe changed)
-LEAF is an ensemble machine learning predictor able to classify effector proteins form other function-generic proteins. It is compose by 4 classification models: Random Forest, XGBoost, Gaussian Naive Bayes and Multinomial Naive Bayes. 
+# LEAPH - ()
+LEAPH is an ensemble machine learning predictor able to classify effector proteins form other function-generic proteins. It is compose by 4 classification models: Random Forest, XGBoost, Gaussian Naive Bayes and Multinomial Naive Bayes. 
 
-LEAF output is a binary classification of proteins (effector/non effector), associated with the models agreement. 
+LEAPH output is a binary classification of proteins (effector/non effector), associated with the models agreement. 
 To be considered effector, a protein has to reach a correcteness prediction-probability >= 90% by at least one of the models. 
 
-This repository contains both LEAF source code and scripts to build-up the feature tables necessary for its application along with a Singularity3.7 container for a smoother usage of this effector proteins predictor. Moreover in directory ```app_LEAF/LEAF_SOM/``` a Shiny App showing different configuration of Self-Organizing-Maps it's available to explore the results from LEAF application to 13 phytoplasma proteomes. The Shiny App usage is explained in the ```README_SOM.md``` file in the aforementioned directory
+This repository contains both LEAPH source code and scripts to build-up the feature tables necessary for its application along with a Singularity3.7 container for a smoother usage of this effector proteins predictor. Moreover in directory ```./EffectorComb``` a Shiny App showing different configuration of Self-Organizing-Maps it's available to explore the results from LEAPH application to 13 phytoplasma proteomes. The Shiny App usage is explained in the ```README_EffectorComb.md``` file in the aforementioned directory
 
 ## Usage
-LEAF can be used as a stand-alone script or with the available singularity3.7 container (recommended)
+LEAPH can be used as a stand-alone script or with the available singularity3.7 container (recommended)
 
-### LEAF from container
-To properly use LEAF you can clone the directory and execute the LEAF1.0.sh file in the provided container
+### LEAPH from container
+To properly use LEAPH you can clone the directory and execute the LEAF1.0.sh file in the provided container
 
-**---LEAF.sh help---**
+**---LEAPH.sh help---**
 ```
--first argument: -dft/pre_computed_feature_table.tsv	use "-dft" (do feature table) if no pre-computed feature table is available (LEAF will start the prediction of the features and feature table build-up)
+-first argument: -dft/pre_computed_feature_table.tsv	use "-dft" (do feature table) if no pre-computed feature table is available (LEAPH will start the prediction of the features and feature table build-up)
 							use /path/to/pre_computed_feature_table.tsv otherwise
 							(the column in feature_table must be in the same order of those in training_feature_tables.tsv) 
 if -dft:
 	-second argument: path/to/protein_sequence.fasta	the input file in FASTA format containing AA sequences (can be a selection of proteins or an entire proteome)
-	-third argument: path/to/output_directory		ouput directory in which to save both feature predictions/feature table/LEAF putative effector prediction 
-	-fourth argument: suffix/prefix				to distinguish the current run of LEAF (e.g. strain name, CaPmali_AT)
+	-third argument: path/to/output_directory		ouput directory in which to save both feature predictions/feature_table/LEAPH_putative_effector_predictions 
+	-fourth argument: suffix/prefix				to distinguish the current run of LEAPH (e.g. strain name, CaPmali_AT)
 
 otherwise:
-	-second argument: path/to/output_directory		ouput directory in which to save LEAF putative effector prediction 
-	-third argument: prefix					to distinguish the current run of LEAF (e.g. strain name, CaPmali_AT)
+	-second argument: path/to/output_directory		ouput directory in which to save LEAPH putative effector prediction 
+	-third argument: prefix					to distinguish the current run of LEAPH (e.g. strain name, CaPmali_AT)
 ```
 **Container Usage**
 ```
-singularity exec -B binding/dirs LEAF1.0.simg /opt/LEAF.sh -dft /path/to/aa_sequences.fasta /path/to/output_dir suffix/prefix
+singularity exec -B binding/dirs LEAPH1.0.simg /opt/LEAPH.sh -dft /path/to/aa_sequences.fasta /path/to/output_dir suffix/prefix
 ```
 **or**
 ```
-singularity exec -B /binding/dirs LEAF1.0.simg /opt/LEAF.sh /path/to/feature_table.tsv /path/to/output_dir prefix
+singularity exec -B /binding/dirs LEAFPH1.0.simg /opt/LEAPH.sh /path/to/feature_table.tsv /path/to/output_dir prefix
 ```
-### LEAF stand-alone 
+### LEAPH stand-alone 
 The required python3.8.10 libraries are:
 - biopython
 - pandas
@@ -46,7 +46,7 @@ The required software to be installed separately or used by other containers (e.
 - MobiDB-lite - v3.0
 - (Prosite - v1.86 if you are changing the training set of +)
 
-To properly use LEAF you can download the directory and execute the following steps:
+To properly use LEAPH you can download the directory and execute the following steps:
 
 **Predict features** 
 ```
@@ -84,7 +84,7 @@ python3.8.10 ./build_feature_table.py -i /path/to/aa_sequences.fasta\
 ```
 **Predict putative effector proteins with LEAF**
 ```
-python3.8.10 ./LEAF1.0.py -ft /path/to/feature_table_name.tsv -o /path/to/output_dir -px distinguishable_name 
+python3.8.10 ./LEAPH1.0.py -ft /path/to/feature_table_name.tsv -o /path/to/output_dir -px distinguishable_name 
 ```
 
 ## Feature Considered
