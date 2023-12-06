@@ -4,7 +4,7 @@ LEAPH is an ensemble machine learning predictor able to classify effector protei
 LEAPH output is a binary classification of proteins (effector/non effector), associated with the models agreement. 
 To be considered effector, a protein has to reach a correcteness prediction-probability >= 90% by at least one of the models. 
 
-This repository contains both LEAPH source code and scripts to build-up the feature tables necessary for its application along with a Singularity3.7 container for a smoother usage of this effector proteins predictor. Moreover in directory ```./EffectorComb``` a Shiny App showing different configuration of Self-Organizing-Maps it's available to explore the results from LEAPH application to 13 phytoplasma proteomes. The Shiny App usage is explained in the ```README_EffectorComb.md``` file in the aforementioned directory
+This repository contains both LEAPH source code and scripts to build-up the feature tables necessary for its application along with a Singularity3.7 container for a smoother usage of this effector proteins predictor. Moreover in directory ```./EffectorComb``` a Shiny App showing different configuration of Self-Organizing-Maps it's available to explore the results from LEAPH application to 13 phytoplasma proteomes. The Shiny App usage is explained in the ```./EffectorComb/README.md``` file in the aforementioned directory
 
 ## Usage
 LEAPH can be used as a stand-alone script or with the available singularity3.7 container (recommended)
