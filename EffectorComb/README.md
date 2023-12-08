@@ -22,4 +22,4 @@ singularity exec -B binding/dirs ./LEAPH1.0_EffectorComb.simg R -e "shiny::runAp
 ```
 **Copy and paste the URL written on terminal after the application opening**
 
-## To use the mapping function, please updload in the "Mapping" section, the feature table of ONLY the LEAPH predicted proteins
+#### To use the mapping function, please updload in the "Mapping" section, the feature table of ONLY the LEAPH predicted proteins
