@@ -15,8 +15,8 @@ library(bslib)
 
 
 # load dataset 
-dset <- read_tsv("../tables/EC_predictions_to_be_mapped.tsv")
-dset_to_subset <- read_tsv("../tables/EC_subsetting_tab.tsv")
+dset <- read_tsv("./tables/EC_predictions_to_be_mapped.tsv")
+dset_to_subset <- read_tsv("./tables/EC_subsetting_tab.tsv")
 features_colnames <- c("sequence length","signal peptide","transmembrane domain","aa in tr domain","first 60 aa",
                        "prob N-in","IDRs", 
                        "CAMP_PHOSPHO_SITE", "PKC_PHOSPHO_SITE", "CK2_PHOSPHO_SITE", "MYRISTYL", "AMIDATION", "ASN_GLYCOSYLATION","ASPARAGINE_RICH", 
@@ -42,8 +42,8 @@ ui <- fluidPage(
                sidebarPanel(selectInput(
                inputId = "clouds_color",
                label = "Choose how to color the Cloudplot",
-               choices = c("origin",	"ncs",	"PCA_group"),
-               selected = "ncs"
+               choices = c("origin",	"secretion",	"PCA_group"),
+               selected = "secretion"
                ),
                downloadButton("download")),
                # Show SOM
@@ -113,12 +113,13 @@ server <- function(input, output) {
   
   
   ### RNG Seed (for reproducibility)
-  set.seed(42)
+  set.seed(45)
   ### Initialization (PCA grid)
-  init <- somInit(features, 8, 8)
+  init <- somInit(features, 10, 10)
+  
   data.som <- kohonen::som(
     features, 
-    grid = kohonen::somgrid(8, 8, "hexagonal"),
+    grid = kohonen::somgrid(10, 10, "hexagonal"),
     rlen = 250,
     alpha = c(0.05, 0.01),
     radius = c(2.65, -2.65),
@@ -145,7 +146,7 @@ server <- function(input, output) {
     type = "Barplot", 
     data = features,
     variables = c(input$bars),
-    values = "prototype")})
+    values = "median")})
   
   output$bar_som <- renderUI({bar_som_plot()})
   output$download1 <- downloadHandler(
