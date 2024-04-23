@@ -120,8 +120,8 @@ Again, you can try with the DEMO application, remaining in the git directory (an
 ```
 python3.8.10 ./build_feature_table.py -i ./DEMO/DEMO_sequences.fasta\
 					-sp ./pred/signalp_DEMO.txt\
-					-tm ./tmhmm_DEMO.txt\
-					-mb ./mobidb_DEMO.txt\
+					-tm ./pred/tmhmm_DEMO.txt\
+					-mb ./pred/mobidb_DEMO.txt\
 					-pr ./essentials/prosite_eff.fasta\
 					-fte ./essentials/feature_table_eff_std.tsv\
 					-prm ./essentials/prosite_motifs_profiles_eff.txt\
