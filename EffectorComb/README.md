@@ -1,6 +1,6 @@
-# LEAPH-Self Organizing Map-Shiny
-In this shiny app you can have a more detailed overview of the putative effectors predicted by LEAPH at a feature-by-feature scale.
-In the last tab of the app it is possible to retrieve information on proteins belonging to one or more cell on the map.
+# EffectorComb - Self Organizing Map ShinyApp
+This shiny app provides a more detailed overview of the putative effectors predicted by LEAPH at a feature-by-feature scale.
+The app's ```Download subDataset``` tab allows users to retrieve information on proteins belonging to one or more cells on the map, while the last one, ```Map your proteins!```, allows users to map their just-predicted proteins on the background SOM landscape.
 
 ## Required packages
 - shiny (used here v1.8.0)
@@ -14,12 +14,31 @@ In the last tab of the app it is possible to retrieve information on proteins be
 ```
 R -e "shiny::runApp('./')"
 ```
-The app will directly read, as inputs, the 2 files contained in ./EffectorComb/tables directory 
+The app will directly read, as inputs, the 2 files contained in ```../essentials/EC_*.tsv``` 
 
 **Using the provided singularity container**
+Please use the provided definition file to build up the ```EffectorComb.simg``` container.
 ```
-singularity exec -B binding/dirs ./LEAPH1.0_EffectorComb.simg R -e "shiny::runApp('./')"
+sudo singularity build EffectorComb.simg ./EffectorComb.recipe
 ```
+Then use the container as follows:
 **Copy and paste the URL written on terminal after the application opening**
+```
+singularity exec -B binding/dirs ./EffectorComb.simg R -e "shiny::runApp('./')"
+```
 
-#### To use the mapping function, please updload in the "Mapping" section, the feature table of ONLY the LEAPH predicted proteins
+## Use the ```Map your proteins!``` section
+Please, before continuing, use the Python script provided here, ```EC_map_new_candidates.py```, to scale the actual predictions accordingly to be mapped to the background SOM.
+
+## Required packages
+- pandas v1.2.4
+- numpy v1.20.1
+  
+```
+python3.8.10 EC_map_new_candidates.py -ifl ../essentials/unify_proteomes_predictions.csv -i /path/to/just_created_feature_table.tsv -lp /path/to/LEAPH1.0_predictions.tsv -o ./ -p prefix
+```
+As for LEAPH predictions you can verify the usability of the Mapping, by using the DEMO predictions:
+```
+python3.8.10 EC_map_new_candidates.py -ifl ../essentials/unify_proteomes_predictions.csv -i ../LEAPH_results/feature_table.tsv -lp ../LEAPH_results/DEMO_LEAPH1.0_predictions.tsv -o ./ -p DEMO
+```
+And then upload the obtained table in the corresponding section in EffectorComb, ```Map your proteins!/Browse...```. 
