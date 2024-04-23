@@ -1,0 +1,86 @@
+Bootstrap: docker
+From: ubuntu:18.04
+
+%files
+	#/path/to/host /path/in/container
+	# --these are valid files only until the training set is unchanged-- 
+    
+    # files from GitHub repo
+	# copy file needed to build a correct feature table  
+	./essentials/prosite_eff.fasta /opt/pre_feature_predictions/
+	./essentials/training_feature_table.tsv /opt/pre_feature_tables/training_feature_table_eff.tsv
+	./essentials/prosite_motifs_profiles_eff.txt /opt/pre_feature_predictions/prosite_motifs.txt
+	./essentials/df_summary_results_monster.tsv /opt/pre_feature_predictions/monster_score.tsv
+	./essentials/df_motifs_CLUMPs.tsv /opt/pre_feature_predictions/df_motifs_CLUMPs.tsv
+
+	# copy pre-trained models 
+	./essentials/models/rf_gs_model.pkl /opt/models/
+	./essentials/models/xgb_gs_model.pkl /opt/models/
+	./essentials/models/gnb_model.pkl /opt/models/
+	./essentials/models/mnb_gs_model.pkl /opt/models/
+
+	# copy LEAPH executive files
+	./LEAPH1.0.py /opt/
+	./build_feature_table.py /opt/
+	./LEAPH1.0.sh /opt/
+
+
+    # Please modify the following paths after having downloaded the three sources for the following tools
+    # SignalP 4.1
+    /home/giulia/Workspace/PhytoPhD/VM_sharedfolder_redo/signalp-4.1g.Linux.tar.gz /opt/ 
+    # TMHMM 2.0
+    /home/giulia/Workspace/PhytoPhD/VM_sharedfolder_redo/tmhmm-2.0c.Linux.tar.gz /opt/
+    # MobiDB-lite 1.0
+    /home/giulia/Workspace/PhytoPhD/VM_sharedfolder_redo/mobidb-lite.tar.gz /opt/ 
+
+
+%post
+        cd /opt
+        apt-get -y update
+        apt -y install wget git vim locales
+        echo "################"
+        echo "Please indicate the right configuration by the following prompt questions. Usually indicate the number preceding en_US.* and/or it_IT.*"
+        echo "################"
+        dpkg-reconfigure locales
+
+        # install miniconda 3:
+        wget https://repo.anaconda.com/miniconda/Miniconda3-py38_4.10.3-Linux-x86_64.sh
+        bash Miniconda3-py38_4.10.3-Linux-x86_64.sh -b -p /opt/miniconda3_py38 # installed into /opt/miniconda3_py38 #
+        rm Miniconda3-py38_4.10.3-Linux-x86_64.sh
+        /opt/miniconda3_py38/bin/conda install -y pandas joblib
+        /opt/miniconda3_py38/bin/conda install -y -c anaconda biopython
+        
+        # install miniconda 2 for mobidb-lite
+        wget https://repo.anaconda.com/miniconda/Miniconda2-py27_4.8.3-Linux-x86_64.sh
+        bash Miniconda2-py27_4.8.3-Linux-x86_64.sh -b -p /opt/miniconda2_py27 # installed into /opt/miniconda2_py27 #
+        rm Miniconda2-py27_4.8.3-Linux-x86_64.sh
+
+        # install software for feature prediction        
+        # MobiDB-lite
+        gunzip -c mobidb-lite.tar.gz | tar xvf - 
+        
+        #SignalP4.1        
+        gunzip -c signalp-4.1g.Linux.tar.gz | tar xvf - 
+        mkdir /opt/signalp-4.1/tmp
+        sed -i 's|/usr/opt/www/pub/CBS/services/SignalP-4.1/signalp-4.1|/opt/signalp-4.1|' /opt/signalp-4.1/signalp
+        sed -i 's|/var/tmp";|/opt/signalp-4.1/tmp";|' /opt/signalp-4.1/signalp
+
+        #TMHMM2.0
+        gunzip -c tmhmm-2.0c.Linux.tar.gz | tar xvf - 
+        sed -i 's|#!/usr/local/bin/perl|#!/usr/bin/perl|' /opt/tmhmm-2.0c/bin/tmhmm   
+        sed -i 's|#!/usr/local/bin/perl|#!/usr/bin/perl|' /opt/tmhmm-2.0c/bin/tmhmmformat.pl
+
+        # make files executable
+	    chmod a=rx /opt/LEAPH1.0.sh
+	    chmod a=rx /opt/LEAPH1.0.py
+	    chmod a=rx /opt/build_feature_table.py
+        chmod a=rx /opt/mobidb-lite/mobidb-lite.py
+        chmod a=rx /opt/tmhmm-2.0c/bin/decodeanhmm.Linux_x86_64
+
+%environment 
+        
+	    PATH=$PATH:/opt/miniconda2_py27/bin:/opt:/opt/miniconda3_py38/bin:/opt/LEAPH1.0.sh:/opt/signalp-4.1:/opt/tmhmm-2.0c/bin:/opt/mobidb-lite
+        export PATH
+
+	
+

@@ -15,8 +15,8 @@ library(bslib)
 
 
 # load dataset 
-dset <- read_tsv("./tables/EC_predictions_to_be_mapped.tsv")
-dset_to_subset <- read_tsv("./tables/EC_subsetting_tab.tsv")
+dset <- read_tsv("../essentials/EC_predictions_to_be_mapped.tsv")
+dset_to_subset <- read_tsv("../essentials/EC_subsetting_tab.tsv")
 features_colnames <- c("sequence length","signal peptide","transmembrane domain","aa in tr domain","first 60 aa",
                        "prob N-in","IDRs", 
                        "CAMP_PHOSPHO_SITE", "PKC_PHOSPHO_SITE", "CK2_PHOSPHO_SITE", "MYRISTYL", "AMIDATION", "ASN_GLYCOSYLATION","ASPARAGINE_RICH", 
@@ -24,6 +24,8 @@ features_colnames <- c("sequence length","signal peptide","transmembrane domain"
                        "CLUMP0","CLUMP3","CLUMP5","CLUMP6","CLUMP7","CLUMP8", "bin1", "bin2", "bin3", "bin4")
 
 features <- as.matrix(dset[, features_colnames])
+dset_to_map_on <- dset[, c(features_colnames, "seq_id", "origin")]
+
 # Define UI for application that draws a histogram
 ui <- fluidPage(
   # Define app theme
@@ -83,7 +85,7 @@ ui <- fluidPage(
                 sidebarPanel(selectInput(
                   inputId = "cells",
                   label = "Choose which SOM_cell to download",
-                  choices = c(1:64),
+                  choices = c(1:100),
                   selected = 1,
                   multiple = TRUE,
                   selectize = TRUE
@@ -99,7 +101,10 @@ ui <- fluidPage(
                   inputId = "file", 
                   label = "Select a file"
                   ),
-                downloadButton("download4")),
+                downloadButton("download4", label = "Download SOM with mapped proteins"),
+                headerPanel(""),
+                downloadButton("download5",  label = "Download protein cell assignment table")
+                ),
              # Show SOM
              mainPanel(htmlOutput("cloud_map_som")
              ))
@@ -200,7 +205,7 @@ server <- function(input, output) {
                                          as.list(mapp$distances)))
   
   # append mapped values vectors to the original som
-  ref_and_maps <- rbind(dset, file_to_map())
+  ref_and_maps <- rbind(dset_to_map_on, file_to_map())
   data.som$data <- list(rbind(data.som$data[[1]], mapp_features))
   
   ### MAPPED COULDPLOT
@@ -209,12 +214,23 @@ server <- function(input, output) {
     type = "Cloud",
     data = ref_and_maps,
     variables = c("origin"))})
-  
   output$cloud_map_som <- renderUI({cloud_map_som_plot()})
+  
+  ### DOWNLOAD PLOT
   output$download4 <- downloadHandler(
-    filename = function() {paste("LEAPH_MAPPED_SOM_clouds", '.html', sep='')},
+    filename = function() {paste("EC_LEAPH_mapped_SOM_clouds", '.html', sep='')},
     content = function(file) {
-      saveWidget(cloud_map_som_plot(), file)
+      saveWidget(cloud_map_som_plot, file)
+    })
+  
+  ### Add column to dset with the cell assignment for each protein
+  ref_and_maps$cell <- data.som[["unit.classif"]]
+  
+  ### DOWNLOAD TABLE
+  output$download5 <- downloadHandler(
+    filename = function() {paste("EC_LEAPH_mapped_proteins_cells", ".tsv", sep="\t")},
+    content = function(file) {
+      write_tsv(ref_and_maps, file)
     })
   })
 }

@@ -1,0 +1,1823 @@
+# sp|B1V9I5|RSMA_PHYAS Length: 284
+# sp|B1V9I5|RSMA_PHYAS Number of predicted TMHs:  0
+# sp|B1V9I5|RSMA_PHYAS Exp number of AAs in TMHs: 4.78286999999999
+# sp|B1V9I5|RSMA_PHYAS Exp number, first 60 AAs:  0.00091
+# sp|B1V9I5|RSMA_PHYAS Total prob of N-in:        0.33414
+sp|B1V9I5|RSMA_PHYAS	TMHMM2.0	outside	     1   284
+# sp|B1V9R1|RSGA_PHYAS Length: 310
+# sp|B1V9R1|RSGA_PHYAS Number of predicted TMHs:  0
+# sp|B1V9R1|RSGA_PHYAS Exp number of AAs in TMHs: 0.65899
+# sp|B1V9R1|RSGA_PHYAS Exp number, first 60 AAs:  0.19791
+# sp|B1V9R1|RSGA_PHYAS Total prob of N-in:        0.05892
+sp|B1V9R1|RSGA_PHYAS	TMHMM2.0	outside	     1   310
+# sp|B3R0A1|RSGA_PHYMT Length: 304
+# sp|B3R0A1|RSGA_PHYMT Number of predicted TMHs:  0
+# sp|B3R0A1|RSGA_PHYMT Exp number of AAs in TMHs: 0.14385
+# sp|B3R0A1|RSGA_PHYMT Exp number, first 60 AAs:  0.00171
+# sp|B3R0A1|RSGA_PHYMT Total prob of N-in:        0.04133
+sp|B3R0A1|RSGA_PHYMT	TMHMM2.0	outside	     1   304
+# sp|P60397|RSMH_ONYPE Length: 304
+# sp|P60397|RSMH_ONYPE Number of predicted TMHs:  0
+# sp|P60397|RSMH_ONYPE Exp number of AAs in TMHs: 0.00704
+# sp|P60397|RSMH_ONYPE Exp number, first 60 AAs:  0.00098
+# sp|P60397|RSMH_ONYPE Total prob of N-in:        0.06054
+sp|P60397|RSMH_ONYPE	TMHMM2.0	outside	     1   304
+# sp|Q2NIH4|RSMH_AYWBP Length: 303
+# sp|Q2NIH4|RSMH_AYWBP Number of predicted TMHs:  0
+# sp|Q2NIH4|RSMH_AYWBP Exp number of AAs in TMHs: 0.01247
+# sp|Q2NIH4|RSMH_AYWBP Exp number, first 60 AAs:  0.00098
+# sp|Q2NIH4|RSMH_AYWBP Total prob of N-in:        0.06110
+sp|Q2NIH4|RSMH_AYWBP	TMHMM2.0	outside	     1   303
+# sp|Q2NIH8|RSMA_AYWBP Length: 268
+# sp|Q2NIH8|RSMA_AYWBP Number of predicted TMHs:  0
+# sp|Q2NIH8|RSMA_AYWBP Exp number of AAs in TMHs: 0.51016
+# sp|Q2NIH8|RSMA_AYWBP Exp number, first 60 AAs:  0.00096
+# sp|Q2NIH8|RSMA_AYWBP Total prob of N-in:        0.28393
+sp|Q2NIH8|RSMA_AYWBP	TMHMM2.0	outside	     1   268
+# sp|Q2NIT9|RSGA_AYWBP Length: 306
+# sp|Q2NIT9|RSGA_AYWBP Number of predicted TMHs:  0
+# sp|Q2NIT9|RSGA_AYWBP Exp number of AAs in TMHs: 0.0555700000000001
+# sp|Q2NIT9|RSGA_AYWBP Exp number, first 60 AAs:  0.02203
+# sp|Q2NIT9|RSGA_AYWBP Total prob of N-in:        0.01036
+sp|Q2NIT9|RSGA_AYWBP	TMHMM2.0	outside	     1   306
+# sp|B1V8Z1|RS4_PHYAS Length: 198
+# sp|B1V8Z1|RS4_PHYAS Number of predicted TMHs:  0
+# sp|B1V8Z1|RS4_PHYAS Exp number of AAs in TMHs: 0.00775
+# sp|B1V8Z1|RS4_PHYAS Exp number, first 60 AAs:  0
+# sp|B1V8Z1|RS4_PHYAS Total prob of N-in:        0.32759
+sp|B1V8Z1|RS4_PHYAS	TMHMM2.0	outside	     1   198
+# sp|B1V910|RSMH_PHYAS Length: 303
+# sp|B1V910|RSMH_PHYAS Number of predicted TMHs:  0
+# sp|B1V910|RSMH_PHYAS Exp number of AAs in TMHs: 0.00977999999999999
+# sp|B1V910|RSMH_PHYAS Exp number, first 60 AAs:  0.00942
+# sp|B1V910|RSMH_PHYAS Total prob of N-in:        0.03388
+sp|B1V910|RSMH_PHYAS	TMHMM2.0	outside	     1   303
+# sp|B1V955|RS6_PHYAS Length: 93
+# sp|B1V955|RS6_PHYAS Number of predicted TMHs:  0
+# sp|B1V955|RS6_PHYAS Exp number of AAs in TMHs: 0.000650000000000001
+# sp|B1V955|RS6_PHYAS Exp number, first 60 AAs:  5e-05
+# sp|B1V955|RS6_PHYAS Total prob of N-in:        0.40741
+sp|B1V955|RS6_PHYAS	TMHMM2.0	outside	     1    93
+# sp|B1VA80|RS2_PHYAS Length: 260
+# sp|B1VA80|RS2_PHYAS Number of predicted TMHs:  0
+# sp|B1VA80|RS2_PHYAS Exp number of AAs in TMHs: 0.03735
+# sp|B1VA80|RS2_PHYAS Exp number, first 60 AAs:  0
+# sp|B1VA80|RS2_PHYAS Total prob of N-in:        0.05359
+sp|B1VA80|RS2_PHYAS	TMHMM2.0	outside	     1   260
+# sp|B1VAC0|RL17_PHYAS Length: 118
+# sp|B1VAC0|RL17_PHYAS Number of predicted TMHs:  0
+# sp|B1VAC0|RL17_PHYAS Exp number of AAs in TMHs: 0.00127
+# sp|B1VAC0|RL17_PHYAS Exp number, first 60 AAs:  0.00127
+# sp|B1VAC0|RL17_PHYAS Total prob of N-in:        0.18442
+sp|B1VAC0|RL17_PHYAS	TMHMM2.0	outside	     1   118
+# sp|B1VAC2|RS11_PHYAS Length: 128
+# sp|B1VAC2|RS11_PHYAS Number of predicted TMHs:  0
+# sp|B1VAC2|RS11_PHYAS Exp number of AAs in TMHs: 0.12232
+# sp|B1VAC2|RS11_PHYAS Exp number, first 60 AAs:  0.12055
+# sp|B1VAC2|RS11_PHYAS Total prob of N-in:        0.91010
+sp|B1VAC2|RS11_PHYAS	TMHMM2.0	inside	     1   128
+# sp|B1VAC9|RL15_PHYAS Length: 145
+# sp|B1VAC9|RL15_PHYAS Number of predicted TMHs:  0
+# sp|B1VAC9|RL15_PHYAS Exp number of AAs in TMHs: 0.00125
+# sp|B1VAC9|RL15_PHYAS Exp number, first 60 AAs:  0
+# sp|B1VAC9|RL15_PHYAS Total prob of N-in:        0.15880
+sp|B1VAC9|RL15_PHYAS	TMHMM2.0	outside	     1   145
+# sp|B1VAD1|RS5_PHYAS Length: 171
+# sp|B1VAD1|RS5_PHYAS Number of predicted TMHs:  0
+# sp|B1VAD1|RS5_PHYAS Exp number of AAs in TMHs: 0.33642
+# sp|B1VAD1|RS5_PHYAS Exp number, first 60 AAs:  0.00043
+# sp|B1VAD1|RS5_PHYAS Total prob of N-in:        0.37914
+sp|B1VAD1|RS5_PHYAS	TMHMM2.0	outside	     1   171
+# sp|B1VAD2|RL18_PHYAS Length: 117
+# sp|B1VAD2|RL18_PHYAS Number of predicted TMHs:  0
+# sp|B1VAD2|RL18_PHYAS Exp number of AAs in TMHs: 0.10597
+# sp|B1VAD2|RL18_PHYAS Exp number, first 60 AAs:  0.00969
+# sp|B1VAD2|RL18_PHYAS Total prob of N-in:        0.22770
+sp|B1VAD2|RL18_PHYAS	TMHMM2.0	outside	     1   117
+# sp|B1VAD4|RS8_PHYAS Length: 130
+# sp|B1VAD4|RS8_PHYAS Number of predicted TMHs:  0
+# sp|B1VAD4|RS8_PHYAS Exp number of AAs in TMHs: 0.04319
+# sp|B1VAD4|RS8_PHYAS Exp number, first 60 AAs:  0.004
+# sp|B1VAD4|RS8_PHYAS Total prob of N-in:        0.16909
+sp|B1VAD4|RS8_PHYAS	TMHMM2.0	outside	     1   130
+# sp|B1VAD5|RS14_PHYAS Length: 89
+# sp|B1VAD5|RS14_PHYAS Number of predicted TMHs:  0
+# sp|B1VAD5|RS14_PHYAS Exp number of AAs in TMHs: 0
+# sp|B1VAD5|RS14_PHYAS Exp number, first 60 AAs:  0
+# sp|B1VAD5|RS14_PHYAS Total prob of N-in:        0.73564
+sp|B1VAD5|RS14_PHYAS	TMHMM2.0	inside	     1    89
+# sp|B1VAD7|RL24_PHYAS Length: 115
+# sp|B1VAD7|RL24_PHYAS Number of predicted TMHs:  0
+# sp|B1VAD7|RL24_PHYAS Exp number of AAs in TMHs: 0
+# sp|B1VAD7|RL24_PHYAS Exp number, first 60 AAs:  0
+# sp|B1VAD7|RL24_PHYAS Total prob of N-in:        0.36756
+sp|B1VAD7|RL24_PHYAS	TMHMM2.0	outside	     1   115
+# sp|B1VAD8|RL14_PHYAS Length: 120
+# sp|B1VAD8|RL14_PHYAS Number of predicted TMHs:  0
+# sp|B1VAD8|RL14_PHYAS Exp number of AAs in TMHs: 0.03515
+# sp|B1VAD8|RL14_PHYAS Exp number, first 60 AAs:  0.02643
+# sp|B1VAD8|RL14_PHYAS Total prob of N-in:        0.34854
+sp|B1VAD8|RL14_PHYAS	TMHMM2.0	outside	     1   120
+# sp|B1VAD9|RS17_PHYAS Length: 95
+# sp|B1VAD9|RS17_PHYAS Number of predicted TMHs:  0
+# sp|B1VAD9|RS17_PHYAS Exp number of AAs in TMHs: 0.00016
+# sp|B1VAD9|RS17_PHYAS Exp number, first 60 AAs:  0.00016
+# sp|B1VAD9|RS17_PHYAS Total prob of N-in:        0.72997
+sp|B1VAD9|RS17_PHYAS	TMHMM2.0	inside	     1    95
+# sp|B1VAE1|RL16_PHYAS Length: 140
+# sp|B1VAE1|RL16_PHYAS Number of predicted TMHs:  0
+# sp|B1VAE1|RL16_PHYAS Exp number of AAs in TMHs: 0.01958
+# sp|B1VAE1|RL16_PHYAS Exp number, first 60 AAs:  0.0091
+# sp|B1VAE1|RL16_PHYAS Total prob of N-in:        0.51042
+sp|B1VAE1|RL16_PHYAS	TMHMM2.0	inside	     1   140
+# sp|B1VAE2|RS3_PHYAS Length: 250
+# sp|B1VAE2|RS3_PHYAS Number of predicted TMHs:  0
+# sp|B1VAE2|RS3_PHYAS Exp number of AAs in TMHs: 0.03525
+# sp|B1VAE2|RS3_PHYAS Exp number, first 60 AAs:  0
+# sp|B1VAE2|RS3_PHYAS Total prob of N-in:        0.04936
+sp|B1VAE2|RS3_PHYAS	TMHMM2.0	outside	     1   250
+# sp|B1VAE4|RS19_PHYAS Length: 93
+# sp|B1VAE4|RS19_PHYAS Number of predicted TMHs:  0
+# sp|B1VAE4|RS19_PHYAS Exp number of AAs in TMHs: 0.06793
+# sp|B1VAE4|RS19_PHYAS Exp number, first 60 AAs:  0.06322
+# sp|B1VAE4|RS19_PHYAS Total prob of N-in:        0.41686
+sp|B1VAE4|RS19_PHYAS	TMHMM2.0	outside	     1    93
+# sp|B1VAE5|RL2_PHYAS Length: 276
+# sp|B1VAE5|RL2_PHYAS Number of predicted TMHs:  0
+# sp|B1VAE5|RL2_PHYAS Exp number of AAs in TMHs: 0.00538999999999999
+# sp|B1VAE5|RL2_PHYAS Exp number, first 60 AAs:  0.0007
+# sp|B1VAE5|RL2_PHYAS Total prob of N-in:        0.37164
+sp|B1VAE5|RL2_PHYAS	TMHMM2.0	outside	     1   276
+# sp|B1VAE6|RL23_PHYAS Length: 94
+# sp|B1VAE6|RL23_PHYAS Number of predicted TMHs:  0
+# sp|B1VAE6|RL23_PHYAS Exp number of AAs in TMHs: 0.0033
+# sp|B1VAE6|RL23_PHYAS Exp number, first 60 AAs:  0.00091
+# sp|B1VAE6|RL23_PHYAS Total prob of N-in:        0.31377
+sp|B1VAE6|RL23_PHYAS	TMHMM2.0	outside	     1    94
+# sp|B1VAE7|RL4_PHYAS Length: 207
+# sp|B1VAE7|RL4_PHYAS Number of predicted TMHs:  0
+# sp|B1VAE7|RL4_PHYAS Exp number of AAs in TMHs: 0.02151
+# sp|B1VAE7|RL4_PHYAS Exp number, first 60 AAs:  0
+# sp|B1VAE7|RL4_PHYAS Total prob of N-in:        0.11426
+sp|B1VAE7|RL4_PHYAS	TMHMM2.0	outside	     1   207
+# sp|B1VAE8|RL3_PHYAS Length: 221
+# sp|B1VAE8|RL3_PHYAS Number of predicted TMHs:  0
+# sp|B1VAE8|RL3_PHYAS Exp number of AAs in TMHs: 0.01371
+# sp|B1VAE8|RL3_PHYAS Exp number, first 60 AAs:  0.01052
+# sp|B1VAE8|RL3_PHYAS Total prob of N-in:        0.06919
+sp|B1VAE8|RL3_PHYAS	TMHMM2.0	outside	     1   221
+# sp|B1VAE9|RS10_PHYAS Length: 105
+# sp|B1VAE9|RS10_PHYAS Number of predicted TMHs:  0
+# sp|B1VAE9|RS10_PHYAS Exp number of AAs in TMHs: 0.00381
+# sp|B1VAE9|RS10_PHYAS Exp number, first 60 AAs:  0
+# sp|B1VAE9|RS10_PHYAS Total prob of N-in:        0.69868
+sp|B1VAE9|RS10_PHYAS	TMHMM2.0	inside	     1   105
+# sp|B1VAF5|RL21_PHYAS Length: 102
+# sp|B1VAF5|RL21_PHYAS Number of predicted TMHs:  0
+# sp|B1VAF5|RL21_PHYAS Exp number of AAs in TMHs: 0
+# sp|B1VAF5|RL21_PHYAS Exp number, first 60 AAs:  0
+# sp|B1VAF5|RL21_PHYAS Total prob of N-in:        0.26286
+sp|B1VAF5|RL21_PHYAS	TMHMM2.0	outside	     1   102
+# sp|B1VAG0|RS20_PHYAS Length: 88
+# sp|B1VAG0|RS20_PHYAS Number of predicted TMHs:  0
+# sp|B1VAG0|RS20_PHYAS Exp number of AAs in TMHs: 0.00098
+# sp|B1VAG0|RS20_PHYAS Exp number, first 60 AAs:  0.00098
+# sp|B1VAG0|RS20_PHYAS Total prob of N-in:        0.85913
+sp|B1VAG0|RS20_PHYAS	TMHMM2.0	inside	     1    88
+# sp|B1VAK6|RSMG_PHYAS Length: 208
+# sp|B1VAK6|RSMG_PHYAS Number of predicted TMHs:  0
+# sp|B1VAK6|RSMG_PHYAS Exp number of AAs in TMHs: 0.01096
+# sp|B1VAK6|RSMG_PHYAS Exp number, first 60 AAs:  0.00475
+# sp|B1VAK6|RSMG_PHYAS Total prob of N-in:        0.04775
+sp|B1VAK6|RSMG_PHYAS	TMHMM2.0	outside	     1   208
+# sp|B1VAM3|RS7_PHYAS Length: 156
+# sp|B1VAM3|RS7_PHYAS Number of predicted TMHs:  0
+# sp|B1VAM3|RS7_PHYAS Exp number of AAs in TMHs: 0.00018
+# sp|B1VAM3|RS7_PHYAS Exp number, first 60 AAs:  0.00018
+# sp|B1VAM3|RS7_PHYAS Total prob of N-in:        0.64120
+sp|B1VAM3|RS7_PHYAS	TMHMM2.0	inside	     1   156
+# sp|B1VAM4|RS12_PHYAS Length: 139
+# sp|B1VAM4|RS12_PHYAS Number of predicted TMHs:  0
+# sp|B1VAM4|RS12_PHYAS Exp number of AAs in TMHs: 0.00329
+# sp|B1VAM4|RS12_PHYAS Exp number, first 60 AAs:  0.00098
+# sp|B1VAM4|RS12_PHYAS Total prob of N-in:        0.28925
+sp|B1VAM4|RS12_PHYAS	TMHMM2.0	outside	     1   139
+# sp|B1VAM7|RL7_PHYAS Length: 124
+# sp|B1VAM7|RL7_PHYAS Number of predicted TMHs:  0
+# sp|B1VAM7|RL7_PHYAS Exp number of AAs in TMHs: 0.0004
+# sp|B1VAM7|RL7_PHYAS Exp number, first 60 AAs:  0
+# sp|B1VAM7|RL7_PHYAS Total prob of N-in:        0.11901
+sp|B1VAM7|RL7_PHYAS	TMHMM2.0	outside	     1   124
+# sp|B1VAM8|RL10_PHYAS Length: 166
+# sp|B1VAM8|RL10_PHYAS Number of predicted TMHs:  0
+# sp|B1VAM8|RL10_PHYAS Exp number of AAs in TMHs: 0.33056
+# sp|B1VAM8|RL10_PHYAS Exp number, first 60 AAs:  0.0027
+# sp|B1VAM8|RL10_PHYAS Total prob of N-in:        0.21369
+sp|B1VAM8|RL10_PHYAS	TMHMM2.0	outside	     1   166
+# sp|B1VAM9|RL1_PHYAS Length: 229
+# sp|B1VAM9|RL1_PHYAS Number of predicted TMHs:  0
+# sp|B1VAM9|RL1_PHYAS Exp number of AAs in TMHs: 0.04837
+# sp|B1VAM9|RL1_PHYAS Exp number, first 60 AAs:  0.00016
+# sp|B1VAM9|RL1_PHYAS Total prob of N-in:        0.24915
+sp|B1VAM9|RL1_PHYAS	TMHMM2.0	outside	     1   229
+# sp|B1VAN0|RL11_PHYAS Length: 141
+# sp|B1VAN0|RL11_PHYAS Number of predicted TMHs:  0
+# sp|B1VAN0|RL11_PHYAS Exp number of AAs in TMHs: 0.03356
+# sp|B1VAN0|RL11_PHYAS Exp number, first 60 AAs:  0.01692
+# sp|B1VAN0|RL11_PHYAS Total prob of N-in:        0.55865
+sp|B1VAN0|RL11_PHYAS	TMHMM2.0	inside	     1   141
+# sp|B3QZG6|RL11_PHYMT Length: 141
+# sp|B3QZG6|RL11_PHYMT Number of predicted TMHs:  0
+# sp|B3QZG6|RL11_PHYMT Exp number of AAs in TMHs: 0.04113
+# sp|B3QZG6|RL11_PHYMT Exp number, first 60 AAs:  0.02153
+# sp|B3QZG6|RL11_PHYMT Total prob of N-in:        0.63441
+sp|B3QZG6|RL11_PHYMT	TMHMM2.0	inside	     1   141
+# sp|B3QZG8|RL10_PHYMT Length: 162
+# sp|B3QZG8|RL10_PHYMT Number of predicted TMHs:  0
+# sp|B3QZG8|RL10_PHYMT Exp number of AAs in TMHs: 11.50818
+# sp|B3QZG8|RL10_PHYMT Exp number, first 60 AAs:  0.24647
+# sp|B3QZG8|RL10_PHYMT Total prob of N-in:        0.18104
+sp|B3QZG8|RL10_PHYMT	TMHMM2.0	outside	     1   162
+# sp|B3QZG9|RL7_PHYMT Length: 127
+# sp|B3QZG9|RL7_PHYMT Number of predicted TMHs:  0
+# sp|B3QZG9|RL7_PHYMT Exp number of AAs in TMHs: 0.00017
+# sp|B3QZG9|RL7_PHYMT Exp number, first 60 AAs:  0
+# sp|B3QZG9|RL7_PHYMT Total prob of N-in:        0.35717
+sp|B3QZG9|RL7_PHYMT	TMHMM2.0	outside	     1   127
+# sp|B3QZH2|RS12_PHYMT Length: 137
+# sp|B3QZH2|RS12_PHYMT Number of predicted TMHs:  0
+# sp|B3QZH2|RS12_PHYMT Exp number of AAs in TMHs: 0.00489
+# sp|B3QZH2|RS12_PHYMT Exp number, first 60 AAs:  0
+# sp|B3QZH2|RS12_PHYMT Total prob of N-in:        0.31414
+sp|B3QZH2|RS12_PHYMT	TMHMM2.0	outside	     1   137
+# sp|B3QZH3|RS7_PHYMT Length: 156
+# sp|B3QZH3|RS7_PHYMT Number of predicted TMHs:  0
+# sp|B3QZH3|RS7_PHYMT Exp number of AAs in TMHs: 0.00027
+# sp|B3QZH3|RS7_PHYMT Exp number, first 60 AAs:  0.00027
+# sp|B3QZH3|RS7_PHYMT Total prob of N-in:        0.64568
+sp|B3QZH3|RS7_PHYMT	TMHMM2.0	inside	     1   156
+# sp|B3QZT4|RL21_PHYMT Length: 102
+# sp|B3QZT4|RL21_PHYMT Number of predicted TMHs:  0
+# sp|B3QZT4|RL21_PHYMT Exp number of AAs in TMHs: 0.00212
+# sp|B3QZT4|RL21_PHYMT Exp number, first 60 AAs:  0.00201
+# sp|B3QZT4|RL21_PHYMT Total prob of N-in:        0.29621
+sp|B3QZT4|RL21_PHYMT	TMHMM2.0	outside	     1   102
+# sp|B3QZW0|RS4_PHYMT Length: 199
+# sp|B3QZW0|RS4_PHYMT Number of predicted TMHs:  0
+# sp|B3QZW0|RS4_PHYMT Exp number of AAs in TMHs: 0.00908
+# sp|B3QZW0|RS4_PHYMT Exp number, first 60 AAs:  0
+# sp|B3QZW0|RS4_PHYMT Total prob of N-in:        0.28161
+sp|B3QZW0|RS4_PHYMT	TMHMM2.0	outside	     1   199
+# sp|B3QZZ1|RL3_PHYMT Length: 219
+# sp|B3QZZ1|RL3_PHYMT Number of predicted TMHs:  0
+# sp|B3QZZ1|RL3_PHYMT Exp number of AAs in TMHs: 0.00103
+# sp|B3QZZ1|RL3_PHYMT Exp number, first 60 AAs:  0.00103
+# sp|B3QZZ1|RL3_PHYMT Total prob of N-in:        0.08482
+sp|B3QZZ1|RL3_PHYMT	TMHMM2.0	outside	     1   219
+# sp|B3QZZ2|RL4_PHYMT Length: 207
+# sp|B3QZZ2|RL4_PHYMT Number of predicted TMHs:  0
+# sp|B3QZZ2|RL4_PHYMT Exp number of AAs in TMHs: 0.11587
+# sp|B3QZZ2|RL4_PHYMT Exp number, first 60 AAs:  0.00017
+# sp|B3QZZ2|RL4_PHYMT Total prob of N-in:        0.18635
+sp|B3QZZ2|RL4_PHYMT	TMHMM2.0	outside	     1   207
+# sp|B3QZZ5|RS19_PHYMT Length: 93
+# sp|B3QZZ5|RS19_PHYMT Number of predicted TMHs:  0
+# sp|B3QZZ5|RS19_PHYMT Exp number of AAs in TMHs: 0.00354
+# sp|B3QZZ5|RS19_PHYMT Exp number, first 60 AAs:  0.00316
+# sp|B3QZZ5|RS19_PHYMT Total prob of N-in:        0.39303
+sp|B3QZZ5|RS19_PHYMT	TMHMM2.0	outside	     1    93
+# sp|B3QZZ6|RL22_PHYMT Length: 131
+# sp|B3QZZ6|RL22_PHYMT Number of predicted TMHs:  0
+# sp|B3QZZ6|RL22_PHYMT Exp number of AAs in TMHs: 0.01123
+# sp|B3QZZ6|RL22_PHYMT Exp number, first 60 AAs:  0.01117
+# sp|B3QZZ6|RL22_PHYMT Total prob of N-in:        0.41796
+sp|B3QZZ6|RL22_PHYMT	TMHMM2.0	outside	     1   131
+# sp|B3QZZ7|RS3_PHYMT Length: 245
+# sp|B3QZZ7|RS3_PHYMT Number of predicted TMHs:  0
+# sp|B3QZZ7|RS3_PHYMT Exp number of AAs in TMHs: 0.00426
+# sp|B3QZZ7|RS3_PHYMT Exp number, first 60 AAs:  0
+# sp|B3QZZ7|RS3_PHYMT Total prob of N-in:        0.04589
+sp|B3QZZ7|RS3_PHYMT	TMHMM2.0	outside	     1   245
+# sp|B3QZZ8|RL16_PHYMT Length: 140
+# sp|B3QZZ8|RL16_PHYMT Number of predicted TMHs:  0
+# sp|B3QZZ8|RL16_PHYMT Exp number of AAs in TMHs: 0.0111
+# sp|B3QZZ8|RL16_PHYMT Exp number, first 60 AAs:  0.00403
+# sp|B3QZZ8|RL16_PHYMT Total prob of N-in:        0.54513
+sp|B3QZZ8|RL16_PHYMT	TMHMM2.0	inside	     1   140
+# sp|B3R000|RS17_PHYMT Length: 89
+# sp|B3R000|RS17_PHYMT Number of predicted TMHs:  0
+# sp|B3R000|RS17_PHYMT Exp number of AAs in TMHs: 0.00183
+# sp|B3R000|RS17_PHYMT Exp number, first 60 AAs:  0.00183
+# sp|B3R000|RS17_PHYMT Total prob of N-in:        0.56493
+sp|B3R000|RS17_PHYMT	TMHMM2.0	inside	     1    89
+# sp|B3R001|RL14_PHYMT Length: 122
+# sp|B3R001|RL14_PHYMT Number of predicted TMHs:  0
+# sp|B3R001|RL14_PHYMT Exp number of AAs in TMHs: 17.05916
+# sp|B3R001|RL14_PHYMT Exp number, first 60 AAs:  16.976
+# sp|B3R001|RL14_PHYMT Total prob of N-in:        0.76569
+# sp|B3R001|RL14_PHYMT POSSIBLE N-term signal sequence
+sp|B3R001|RL14_PHYMT	TMHMM2.0	outside	     1   122
+# sp|B3R002|RL24_PHYMT Length: 115
+# sp|B3R002|RL24_PHYMT Number of predicted TMHs:  0
+# sp|B3R002|RL24_PHYMT Exp number of AAs in TMHs: 0.0006
+# sp|B3R002|RL24_PHYMT Exp number, first 60 AAs:  0
+# sp|B3R002|RL24_PHYMT Total prob of N-in:        0.23800
+sp|B3R002|RL24_PHYMT	TMHMM2.0	outside	     1   115
+# sp|B3R005|RS8_PHYMT Length: 130
+# sp|B3R005|RS8_PHYMT Number of predicted TMHs:  0
+# sp|B3R005|RS8_PHYMT Exp number of AAs in TMHs: 0.06388
+# sp|B3R005|RS8_PHYMT Exp number, first 60 AAs:  0.00235
+# sp|B3R005|RS8_PHYMT Total prob of N-in:        0.30901
+sp|B3R005|RS8_PHYMT	TMHMM2.0	outside	     1   130
+# sp|B3R006|RL6_PHYMT Length: 181
+# sp|B3R006|RL6_PHYMT Number of predicted TMHs:  0
+# sp|B3R006|RL6_PHYMT Exp number of AAs in TMHs: 0.00173
+# sp|B3R006|RL6_PHYMT Exp number, first 60 AAs:  0.00056
+# sp|B3R006|RL6_PHYMT Total prob of N-in:        0.35003
+sp|B3R006|RL6_PHYMT	TMHMM2.0	outside	     1   181
+# sp|B3R007|RL18_PHYMT Length: 117
+# sp|B3R007|RL18_PHYMT Number of predicted TMHs:  0
+# sp|B3R007|RL18_PHYMT Exp number of AAs in TMHs: 0.00849
+# sp|B3R007|RL18_PHYMT Exp number, first 60 AAs:  0
+# sp|B3R007|RL18_PHYMT Total prob of N-in:        0.28961
+sp|B3R007|RL18_PHYMT	TMHMM2.0	outside	     1   117
+# sp|B3R010|RL15_PHYMT Length: 146
+# sp|B3R010|RL15_PHYMT Number of predicted TMHs:  0
+# sp|B3R010|RL15_PHYMT Exp number of AAs in TMHs: 0.00182
+# sp|B3R010|RL15_PHYMT Exp number, first 60 AAs:  0
+# sp|B3R010|RL15_PHYMT Total prob of N-in:        0.08269
+sp|B3R010|RL15_PHYMT	TMHMM2.0	outside	     1   146
+# sp|B3R015|RS13_PHYMT Length: 127
+# sp|B3R015|RS13_PHYMT Number of predicted TMHs:  0
+# sp|B3R015|RS13_PHYMT Exp number of AAs in TMHs: 0.01728
+# sp|B3R015|RS13_PHYMT Exp number, first 60 AAs:  0.01728
+# sp|B3R015|RS13_PHYMT Total prob of N-in:        0.17921
+sp|B3R015|RS13_PHYMT	TMHMM2.0	outside	     1   127
+# sp|B3R016|RS11_PHYMT Length: 130
+# sp|B3R016|RS11_PHYMT Number of predicted TMHs:  0
+# sp|B3R016|RS11_PHYMT Exp number of AAs in TMHs: 0.703519999999999
+# sp|B3R016|RS11_PHYMT Exp number, first 60 AAs:  0.70059
+# sp|B3R016|RS11_PHYMT Total prob of N-in:        0.68577
+sp|B3R016|RS11_PHYMT	TMHMM2.0	inside	     1   130
+# sp|B3R018|RL17_PHYMT Length: 118
+# sp|B3R018|RL17_PHYMT Number of predicted TMHs:  0
+# sp|B3R018|RL17_PHYMT Exp number of AAs in TMHs: 0.0008
+# sp|B3R018|RL17_PHYMT Exp number, first 60 AAs:  0
+# sp|B3R018|RL17_PHYMT Total prob of N-in:        0.62543
+sp|B3R018|RL17_PHYMT	TMHMM2.0	inside	     1   118
+# sp|B3R0F6|RS20_PHYMT Length: 87
+# sp|B3R0F6|RS20_PHYMT Number of predicted TMHs:  0
+# sp|B3R0F6|RS20_PHYMT Exp number of AAs in TMHs: 0
+# sp|B3R0F6|RS20_PHYMT Exp number, first 60 AAs:  0
+# sp|B3R0F6|RS20_PHYMT Total prob of N-in:        0.78558
+sp|B3R0F6|RS20_PHYMT	TMHMM2.0	inside	     1    87
+# sp|B3R0G4|RL31_PHYMT Length: 69
+# sp|B3R0G4|RL31_PHYMT Number of predicted TMHs:  0
+# sp|B3R0G4|RL31_PHYMT Exp number of AAs in TMHs: 0.00102
+# sp|B3R0G4|RL31_PHYMT Exp number, first 60 AAs:  0.00102
+# sp|B3R0G4|RL31_PHYMT Total prob of N-in:        0.59047
+sp|B3R0G4|RL31_PHYMT	TMHMM2.0	inside	     1    69
+# sp|B3R0K3|RS6_PHYMT Length: 94
+# sp|B3R0K3|RS6_PHYMT Number of predicted TMHs:  0
+# sp|B3R0K3|RS6_PHYMT Exp number of AAs in TMHs: 0.02126
+# sp|B3R0K3|RS6_PHYMT Exp number, first 60 AAs:  0.00562
+# sp|B3R0K3|RS6_PHYMT Total prob of N-in:        0.38297
+sp|B3R0K3|RS6_PHYMT	TMHMM2.0	outside	     1    94
+# sp|B3R0Q2|RSMH_PHYMT Length: 300
+# sp|B3R0Q2|RSMH_PHYMT Number of predicted TMHs:  0
+# sp|B3R0Q2|RSMH_PHYMT Exp number of AAs in TMHs: 0.0642500000000001
+# sp|B3R0Q2|RSMH_PHYMT Exp number, first 60 AAs:  0.01747
+# sp|B3R0Q2|RSMH_PHYMT Total prob of N-in:        0.01095
+sp|B3R0Q2|RSMH_PHYMT	TMHMM2.0	outside	     1   300
+# sp|O66093|RS19_PHYS1 Length: 28
+# sp|O66093|RS19_PHYS1 Number of predicted TMHs:  0
+# sp|O66093|RS19_PHYS1 Exp number of AAs in TMHs: 0
+# sp|O66093|RS19_PHYS1 Exp number, first 60 AAs:  0
+# sp|O66093|RS19_PHYS1 Total prob of N-in:        0.43449
+sp|O66093|RS19_PHYS1	TMHMM2.0	outside	     1    28
+# sp|O66094|RL22_PHYS1 Length: 131
+# sp|O66094|RL22_PHYS1 Number of predicted TMHs:  0
+# sp|O66094|RL22_PHYS1 Exp number of AAs in TMHs: 0.67218
+# sp|O66094|RL22_PHYS1 Exp number, first 60 AAs:  0.6497
+# sp|O66094|RL22_PHYS1 Total prob of N-in:        0.55038
+sp|O66094|RL22_PHYS1	TMHMM2.0	inside	     1   131
+# sp|O66095|RS3_PHYS1 Length: 251
+# sp|O66095|RS3_PHYS1 Number of predicted TMHs:  0
+# sp|O66095|RS3_PHYS1 Exp number of AAs in TMHs: 0.15543
+# sp|O66095|RS3_PHYS1 Exp number, first 60 AAs:  0.00018
+# sp|O66095|RS3_PHYS1 Total prob of N-in:        0.04763
+sp|O66095|RS3_PHYS1	TMHMM2.0	outside	     1   251
+# sp|O66097|RL22_PHYS2 Length: 129
+# sp|O66097|RL22_PHYS2 Number of predicted TMHs:  0
+# sp|O66097|RL22_PHYS2 Exp number of AAs in TMHs: 0.31941
+# sp|O66097|RL22_PHYS2 Exp number, first 60 AAs:  0.31321
+# sp|O66097|RL22_PHYS2 Total prob of N-in:        0.51762
+sp|O66097|RL22_PHYS2	TMHMM2.0	inside	     1   129
+# sp|O66098|RS3_PHYS2 Length: 252
+# sp|O66098|RS3_PHYS2 Number of predicted TMHs:  0
+# sp|O66098|RS3_PHYS2 Exp number of AAs in TMHs: 0.03468
+# sp|O66098|RS3_PHYS2 Exp number, first 60 AAs:  0.00018
+# sp|O66098|RS3_PHYS2 Total prob of N-in:        0.06116
+sp|O66098|RS3_PHYS2	TMHMM2.0	outside	     1   252
+# sp|P0A4C1|RS3_ELMPH Length: 250
+# sp|P0A4C1|RS3_ELMPH Number of predicted TMHs:  0
+# sp|P0A4C1|RS3_ELMPH Exp number of AAs in TMHs: 0.06275
+# sp|P0A4C1|RS3_ELMPH Exp number, first 60 AAs:  0
+# sp|P0A4C1|RS3_ELMPH Total prob of N-in:        0.04226
+sp|P0A4C1|RS3_ELMPH	TMHMM2.0	outside	     1   250
+# sp|P60743|RL24_ONYPE Length: 79
+# sp|P60743|RL24_ONYPE Number of predicted TMHs:  0
+# sp|P60743|RL24_ONYPE Exp number of AAs in TMHs: 0.00023
+# sp|P60743|RL24_ONYPE Exp number, first 60 AAs:  0.00023
+# sp|P60743|RL24_ONYPE Total prob of N-in:        0.16952
+sp|P60743|RL24_ONYPE	TMHMM2.0	outside	     1    79
+# sp|P61067|RL4_ONYPE Length: 207
+# sp|P61067|RL4_ONYPE Number of predicted TMHs:  0
+# sp|P61067|RL4_ONYPE Exp number of AAs in TMHs: 0.0208
+# sp|P61067|RL4_ONYPE Exp number, first 60 AAs:  0
+# sp|P61067|RL4_ONYPE Total prob of N-in:        0.11260
+sp|P61067|RL4_ONYPE	TMHMM2.0	outside	     1   207
+# sp|P62439|RL11_ONYPE Length: 141
+# sp|P62439|RL11_ONYPE Number of predicted TMHs:  0
+# sp|P62439|RL11_ONYPE Exp number of AAs in TMHs: 0.02966
+# sp|P62439|RL11_ONYPE Exp number, first 60 AAs:  0.01633
+# sp|P62439|RL11_ONYPE Total prob of N-in:        0.65272
+sp|P62439|RL11_ONYPE	TMHMM2.0	inside	     1   141
+# sp|Q2NIG6|RL20_AYWBP Length: 227
+# sp|Q2NIG6|RL20_AYWBP Number of predicted TMHs:  0
+# sp|Q2NIG6|RL20_AYWBP Exp number of AAs in TMHs: 9.51792999999999
+# sp|Q2NIG6|RL20_AYWBP Exp number, first 60 AAs:  0.50768
+# sp|Q2NIG6|RL20_AYWBP Total prob of N-in:        0.55409
+sp|Q2NIG6|RL20_AYWBP	TMHMM2.0	outside	     1   227
+# sp|Q2NIJ3|RS20_AYWBP Length: 86
+# sp|Q2NIJ3|RS20_AYWBP Number of predicted TMHs:  0
+# sp|Q2NIJ3|RS20_AYWBP Exp number of AAs in TMHs: 0.00095
+# sp|Q2NIJ3|RS20_AYWBP Exp number, first 60 AAs:  0.00095
+# sp|Q2NIJ3|RS20_AYWBP Total prob of N-in:        0.86429
+sp|Q2NIJ3|RS20_AYWBP	TMHMM2.0	inside	     1    86
+# sp|Q2NIJ7|RL21_AYWBP Length: 102
+# sp|Q2NIJ7|RL21_AYWBP Number of predicted TMHs:  0
+# sp|Q2NIJ7|RL21_AYWBP Exp number of AAs in TMHs: 0.00803
+# sp|Q2NIJ7|RL21_AYWBP Exp number, first 60 AAs:  0.008
+# sp|Q2NIJ7|RL21_AYWBP Total prob of N-in:        0.24904
+sp|Q2NIJ7|RL21_AYWBP	TMHMM2.0	outside	     1   102
+# sp|Q2NIM2|RL31_AYWBP Length: 90
+# sp|Q2NIM2|RL31_AYWBP Number of predicted TMHs:  0
+# sp|Q2NIM2|RL31_AYWBP Exp number of AAs in TMHs: 0.00385
+# sp|Q2NIM2|RL31_AYWBP Exp number, first 60 AAs:  0.00385
+# sp|Q2NIM2|RL31_AYWBP Total prob of N-in:        0.37212
+sp|Q2NIM2|RL31_AYWBP	TMHMM2.0	outside	     1    90
+# sp|Q2NIP1|RS15_AYWBP Length: 74
+# sp|Q2NIP1|RS15_AYWBP Number of predicted TMHs:  0
+# sp|Q2NIP1|RS15_AYWBP Exp number of AAs in TMHs: 0
+# sp|Q2NIP1|RS15_AYWBP Exp number, first 60 AAs:  0
+# sp|Q2NIP1|RS15_AYWBP Total prob of N-in:        0.58850
+sp|Q2NIP1|RS15_AYWBP	TMHMM2.0	inside	     1    74
+# sp|Q2NIV4|RL3_AYWBP Length: 221
+# sp|Q2NIV4|RL3_AYWBP Number of predicted TMHs:  0
+# sp|Q2NIV4|RL3_AYWBP Exp number of AAs in TMHs: 0.0208799999999999
+# sp|Q2NIV4|RL3_AYWBP Exp number, first 60 AAs:  0.00549
+# sp|Q2NIV4|RL3_AYWBP Total prob of N-in:        0.07245
+sp|Q2NIV4|RL3_AYWBP	TMHMM2.0	outside	     1   221
+# sp|Q2NIV6|RL23_AYWBP Length: 96
+# sp|Q2NIV6|RL23_AYWBP Number of predicted TMHs:  0
+# sp|Q2NIV6|RL23_AYWBP Exp number of AAs in TMHs: 0.00129
+# sp|Q2NIV6|RL23_AYWBP Exp number, first 60 AAs:  0.00123
+# sp|Q2NIV6|RL23_AYWBP Total prob of N-in:        0.54691
+sp|Q2NIV6|RL23_AYWBP	TMHMM2.0	inside	     1    96
+# sp|Q2NIV7|RL2_AYWBP Length: 276
+# sp|Q2NIV7|RL2_AYWBP Number of predicted TMHs:  0
+# sp|Q2NIV7|RL2_AYWBP Exp number of AAs in TMHs: 0.00626
+# sp|Q2NIV7|RL2_AYWBP Exp number, first 60 AAs:  0.00018
+# sp|Q2NIV7|RL2_AYWBP Total prob of N-in:        0.48100
+sp|Q2NIV7|RL2_AYWBP	TMHMM2.0	outside	     1   276
+# sp|Q2NIW3|RS17_AYWBP Length: 87
+# sp|Q2NIW3|RS17_AYWBP Number of predicted TMHs:  0
+# sp|Q2NIW3|RS17_AYWBP Exp number of AAs in TMHs: 0
+# sp|Q2NIW3|RS17_AYWBP Exp number, first 60 AAs:  0
+# sp|Q2NIW3|RS17_AYWBP Total prob of N-in:        0.60239
+sp|Q2NIW3|RS17_AYWBP	TMHMM2.0	inside	     1    87
+# sp|Q2NIW4|RL14_AYWBP Length: 120
+# sp|Q2NIW4|RL14_AYWBP Number of predicted TMHs:  0
+# sp|Q2NIW4|RL14_AYWBP Exp number of AAs in TMHs: 0.01002
+# sp|Q2NIW4|RL14_AYWBP Exp number, first 60 AAs:  0.00849999999999999
+# sp|Q2NIW4|RL14_AYWBP Total prob of N-in:        0.27637
+sp|Q2NIW4|RL14_AYWBP	TMHMM2.0	outside	     1   120
+# sp|Q2NIW5|RL24_AYWBP Length: 115
+# sp|Q2NIW5|RL24_AYWBP Number of predicted TMHs:  0
+# sp|Q2NIW5|RL24_AYWBP Exp number of AAs in TMHs: 0.00018
+# sp|Q2NIW5|RL24_AYWBP Exp number, first 60 AAs:  0.00018
+# sp|Q2NIW5|RL24_AYWBP Total prob of N-in:        0.38559
+sp|Q2NIW5|RL24_AYWBP	TMHMM2.0	outside	     1   115
+# sp|Q2NIW6|RL5_AYWBP Length: 181
+# sp|Q2NIW6|RL5_AYWBP Number of predicted TMHs:  0
+# sp|Q2NIW6|RL5_AYWBP Exp number of AAs in TMHs: 0.00338
+# sp|Q2NIW6|RL5_AYWBP Exp number, first 60 AAs:  0.00298
+# sp|Q2NIW6|RL5_AYWBP Total prob of N-in:        0.22880
+sp|Q2NIW6|RL5_AYWBP	TMHMM2.0	outside	     1   181
+# sp|Q2NIW7|RS14_AYWBP Length: 89
+# sp|Q2NIW7|RS14_AYWBP Number of predicted TMHs:  0
+# sp|Q2NIW7|RS14_AYWBP Exp number of AAs in TMHs: 0.00018
+# sp|Q2NIW7|RS14_AYWBP Exp number, first 60 AAs:  1e-05
+# sp|Q2NIW7|RS14_AYWBP Total prob of N-in:        0.72121
+sp|Q2NIW7|RS14_AYWBP	TMHMM2.0	inside	     1    89
+# sp|Q2NIW8|RS8_AYWBP Length: 130
+# sp|Q2NIW8|RS8_AYWBP Number of predicted TMHs:  0
+# sp|Q2NIW8|RS8_AYWBP Exp number of AAs in TMHs: 0.03851
+# sp|Q2NIW8|RS8_AYWBP Exp number, first 60 AAs:  0.01849
+# sp|Q2NIW8|RS8_AYWBP Total prob of N-in:        0.17056
+sp|Q2NIW8|RS8_AYWBP	TMHMM2.0	outside	     1   130
+# sp|Q2NIW9|RL6_AYWBP Length: 184
+# sp|Q2NIW9|RL6_AYWBP Number of predicted TMHs:  0
+# sp|Q2NIW9|RL6_AYWBP Exp number of AAs in TMHs: 0.01634
+# sp|Q2NIW9|RL6_AYWBP Exp number, first 60 AAs:  0
+# sp|Q2NIW9|RL6_AYWBP Total prob of N-in:        0.33572
+sp|Q2NIW9|RL6_AYWBP	TMHMM2.0	outside	     1   184
+# sp|Q2NIX0|RL18_AYWBP Length: 117
+# sp|Q2NIX0|RL18_AYWBP Number of predicted TMHs:  0
+# sp|Q2NIX0|RL18_AYWBP Exp number of AAs in TMHs: 0.00232
+# sp|Q2NIX0|RL18_AYWBP Exp number, first 60 AAs:  1e-05
+# sp|Q2NIX0|RL18_AYWBP Total prob of N-in:        0.32860
+sp|Q2NIX0|RL18_AYWBP	TMHMM2.0	outside	     1   117
+# sp|Q2NIX1|RS5_AYWBP Length: 185
+# sp|Q2NIX1|RS5_AYWBP Number of predicted TMHs:  0
+# sp|Q2NIX1|RS5_AYWBP Exp number of AAs in TMHs: 0.02454
+# sp|Q2NIX1|RS5_AYWBP Exp number, first 60 AAs:  0.00042
+# sp|Q2NIX1|RS5_AYWBP Total prob of N-in:        0.09303
+sp|Q2NIX1|RS5_AYWBP	TMHMM2.0	outside	     1   185
+# sp|Q2NIX2|RL30_AYWBP Length: 65
+# sp|Q2NIX2|RL30_AYWBP Number of predicted TMHs:  0
+# sp|Q2NIX2|RL30_AYWBP Exp number of AAs in TMHs: 0.01043
+# sp|Q2NIX2|RL30_AYWBP Exp number, first 60 AAs:  0.01033
+# sp|Q2NIX2|RL30_AYWBP Total prob of N-in:        0.56862
+sp|Q2NIX2|RL30_AYWBP	TMHMM2.0	inside	     1    65
+# sp|Q2NIX3|RL15_AYWBP Length: 145
+# sp|Q2NIX3|RL15_AYWBP Number of predicted TMHs:  0
+# sp|Q2NIX3|RL15_AYWBP Exp number of AAs in TMHs: 0.00078
+# sp|Q2NIX3|RL15_AYWBP Exp number, first 60 AAs:  0
+# sp|Q2NIX3|RL15_AYWBP Total prob of N-in:        0.19202
+sp|Q2NIX3|RL15_AYWBP	TMHMM2.0	outside	     1   145
+# sp|Q2NIX9|RS13_AYWBP Length: 126
+# sp|Q2NIX9|RS13_AYWBP Number of predicted TMHs:  0
+# sp|Q2NIX9|RS13_AYWBP Exp number of AAs in TMHs: 0.33382
+# sp|Q2NIX9|RS13_AYWBP Exp number, first 60 AAs:  0.33382
+# sp|Q2NIX9|RS13_AYWBP Total prob of N-in:        0.20977
+sp|Q2NIX9|RS13_AYWBP	TMHMM2.0	outside	     1   126
+# sp|Q2NIY2|RL17_AYWBP Length: 118
+# sp|Q2NIY2|RL17_AYWBP Number of predicted TMHs:  0
+# sp|Q2NIY2|RL17_AYWBP Exp number of AAs in TMHs: 0.00018
+# sp|Q2NIY2|RL17_AYWBP Exp number, first 60 AAs:  0.00018
+# sp|Q2NIY2|RL17_AYWBP Total prob of N-in:        0.18167
+sp|Q2NIY2|RL17_AYWBP	TMHMM2.0	outside	     1   118
+# sp|Q2NJ12|RL1_AYWBP Length: 230
+# sp|Q2NJ12|RL1_AYWBP Number of predicted TMHs:  0
+# sp|Q2NJ12|RL1_AYWBP Exp number of AAs in TMHs: 0.04489
+# sp|Q2NJ12|RL1_AYWBP Exp number, first 60 AAs:  0.00027
+# sp|Q2NJ12|RL1_AYWBP Total prob of N-in:        0.24067
+sp|Q2NJ12|RL1_AYWBP	TMHMM2.0	outside	     1   230
+# sp|Q2NJ17|RS12_AYWBP Length: 139
+# sp|Q2NJ17|RS12_AYWBP Number of predicted TMHs:  0
+# sp|Q2NJ17|RS12_AYWBP Exp number of AAs in TMHs: 0.00381
+# sp|Q2NJ17|RS12_AYWBP Exp number, first 60 AAs:  0
+# sp|Q2NJ17|RS12_AYWBP Total prob of N-in:        0.33072
+sp|Q2NJ17|RS12_AYWBP	TMHMM2.0	outside	     1   139
+# sp|Q2NJ18|RS7_AYWBP Length: 156
+# sp|Q2NJ18|RS7_AYWBP Number of predicted TMHs:  0
+# sp|Q2NJ18|RS7_AYWBP Exp number of AAs in TMHs: 0
+# sp|Q2NJ18|RS7_AYWBP Exp number, first 60 AAs:  0
+# sp|Q2NJ18|RS7_AYWBP Total prob of N-in:        0.64120
+sp|Q2NJ18|RS7_AYWBP	TMHMM2.0	inside	     1   156
+# sp|Q2NJ22|RSMG_AYWBP Length: 212
+# sp|Q2NJ22|RSMG_AYWBP Number of predicted TMHs:  0
+# sp|Q2NJ22|RSMG_AYWBP Exp number of AAs in TMHs: 0.02204
+# sp|Q2NJ22|RSMG_AYWBP Exp number, first 60 AAs:  0.00151
+# sp|Q2NJ22|RSMG_AYWBP Total prob of N-in:        0.04424
+sp|Q2NJ22|RSMG_AYWBP	TMHMM2.0	outside	     1   212
+# sp|Q2NJG8|RL19_AYWBP Length: 118
+# sp|Q2NJG8|RL19_AYWBP Number of predicted TMHs:  0
+# sp|Q2NJG8|RL19_AYWBP Exp number of AAs in TMHs: 0.01923
+# sp|Q2NJG8|RL19_AYWBP Exp number, first 60 AAs:  0.00019
+# sp|Q2NJG8|RL19_AYWBP Total prob of N-in:        0.22822
+sp|Q2NJG8|RL19_AYWBP	TMHMM2.0	outside	     1   118
+# sp|Q2NJN5|RS4_AYWBP Length: 198
+# sp|Q2NJN5|RS4_AYWBP Number of predicted TMHs:  0
+# sp|Q2NJN5|RS4_AYWBP Exp number of AAs in TMHs: 0.00515
+# sp|Q2NJN5|RS4_AYWBP Exp number, first 60 AAs:  0
+# sp|Q2NJN5|RS4_AYWBP Total prob of N-in:        0.17843
+sp|Q2NJN5|RS4_AYWBP	TMHMM2.0	outside	     1   198
+# sp|Q2NK14|RS21_AYWBP Length: 57
+# sp|Q2NK14|RS21_AYWBP Number of predicted TMHs:  0
+# sp|Q2NK14|RS21_AYWBP Exp number of AAs in TMHs: 0
+# sp|Q2NK14|RS21_AYWBP Exp number, first 60 AAs:  0
+# sp|Q2NK14|RS21_AYWBP Total prob of N-in:        0.83438
+sp|Q2NK14|RS21_AYWBP	TMHMM2.0	inside	     1    57
+# sp|Q2NKC0|RL9_AYWBP Length: 849
+# sp|Q2NKC0|RL9_AYWBP Number of predicted TMHs:  2
+# sp|Q2NKC0|RL9_AYWBP Exp number of AAs in TMHs: 42.8495400000003
+# sp|Q2NKC0|RL9_AYWBP Exp number, first 60 AAs:  19.49047
+# sp|Q2NKC0|RL9_AYWBP Total prob of N-in:        0.01767
+# sp|Q2NKC0|RL9_AYWBP POSSIBLE N-term signal sequence
+sp|Q2NKC0|RL9_AYWBP	TMHMM2.0	outside	     1    10
+sp|Q2NKC0|RL9_AYWBP	TMHMM2.0	TMhelix	    11    28
+sp|Q2NKC0|RL9_AYWBP	TMHMM2.0	inside	    29    65
+sp|Q2NKC0|RL9_AYWBP	TMHMM2.0	TMhelix	    66    88
+sp|Q2NKC0|RL9_AYWBP	TMHMM2.0	outside	    89   849
+# sp|Q2NKC1|RS18_AYWBP Length: 79
+# sp|Q2NKC1|RS18_AYWBP Number of predicted TMHs:  0
+# sp|Q2NKC1|RS18_AYWBP Exp number of AAs in TMHs: 0.00057
+# sp|Q2NKC1|RS18_AYWBP Exp number, first 60 AAs:  4e-05
+# sp|Q2NKC1|RS18_AYWBP Total prob of N-in:        0.66273
+sp|Q2NKC1|RS18_AYWBP	TMHMM2.0	inside	     1    79
+# sp|Q2NKC3|RS6_AYWBP Length: 95
+# sp|Q2NKC3|RS6_AYWBP Number of predicted TMHs:  0
+# sp|Q2NKC3|RS6_AYWBP Exp number of AAs in TMHs: 0.00089
+# sp|Q2NKC3|RS6_AYWBP Exp number, first 60 AAs:  1e-05
+# sp|Q2NKC3|RS6_AYWBP Total prob of N-in:        0.40699
+sp|Q2NKC3|RS6_AYWBP	TMHMM2.0	outside	     1    95
+# sp|Q44592|RS19_ASHYP Length: 13
+# sp|Q44592|RS19_ASHYP Number of predicted TMHs:  0
+# sp|Q44592|RS19_ASHYP Exp number of AAs in TMHs: 0
+# sp|Q44592|RS19_ASHYP Exp number, first 60 AAs:  0
+# sp|Q44592|RS19_ASHYP Total prob of N-in:        0.69070
+sp|Q44592|RS19_ASHYP	TMHMM2.0	inside	     1    13
+# sp|Q44593|RL22_ASHYP Length: 91
+# sp|Q44593|RL22_ASHYP Number of predicted TMHs:  0
+# sp|Q44593|RL22_ASHYP Exp number of AAs in TMHs: 0.00625
+# sp|Q44593|RL22_ASHYP Exp number, first 60 AAs:  0.0059
+# sp|Q44593|RL22_ASHYP Total prob of N-in:        0.68332
+sp|Q44593|RL22_ASHYP	TMHMM2.0	inside	     1    91
+# sp|Q46228|RS19_CLOPP Length: 14
+# sp|Q46228|RS19_CLOPP Number of predicted TMHs:  0
+# sp|Q46228|RS19_CLOPP Exp number of AAs in TMHs: 0
+# sp|Q46228|RS19_CLOPP Exp number, first 60 AAs:  0
+# sp|Q46228|RS19_CLOPP Total prob of N-in:        0.81407
+sp|Q46228|RS19_CLOPP	TMHMM2.0	inside	     1    14
+# sp|Q46229|RL22_CLOPP Length: 79
+# sp|Q46229|RL22_CLOPP Number of predicted TMHs:  0
+# sp|Q46229|RL22_CLOPP Exp number of AAs in TMHs: 0.01665
+# sp|Q46229|RL22_CLOPP Exp number, first 60 AAs:  0.01588
+# sp|Q46229|RL22_CLOPP Total prob of N-in:        0.54054
+sp|Q46229|RL22_CLOPP	TMHMM2.0	inside	     1    79
+# sp|Q46491|RL22_CLYEP Length: 91
+# sp|Q46491|RL22_CLYEP Number of predicted TMHs:  0
+# sp|Q46491|RL22_CLYEP Exp number of AAs in TMHs: 0.01198
+# sp|Q46491|RL22_CLYEP Exp number, first 60 AAs:  0.01171
+# sp|Q46491|RL22_CLYEP Total prob of N-in:        0.60274
+sp|Q46491|RL22_CLYEP	TMHMM2.0	inside	     1    91
+# sp|Q47881|RS19_ELYEP Length: 12
+# sp|Q47881|RS19_ELYEP Number of predicted TMHs:  0
+# sp|Q47881|RS19_ELYEP Exp number of AAs in TMHs: 0
+# sp|Q47881|RS19_ELYEP Exp number, first 60 AAs:  0
+# sp|Q47881|RS19_ELYEP Total prob of N-in:        0.72757
+sp|Q47881|RS19_ELYEP	TMHMM2.0	inside	     1    12
+# sp|Q48879|RL22_LOWBP Length: 91
+# sp|Q48879|RL22_LOWBP Number of predicted TMHs:  0
+# sp|Q48879|RL22_LOWBP Exp number of AAs in TMHs: 0.00338
+# sp|Q48879|RL22_LOWBP Exp number, first 60 AAs:  0.00336
+# sp|Q48879|RL22_LOWBP Total prob of N-in:        0.51890
+sp|Q48879|RL22_LOWBP	TMHMM2.0	inside	     1    91
+# sp|Q52093|RS19_PPWBP Length: 14
+# sp|Q52093|RS19_PPWBP Number of predicted TMHs:  0
+# sp|Q52093|RS19_PPWBP Exp number of AAs in TMHs: 0
+# sp|Q52093|RS19_PPWBP Exp number, first 60 AAs:  0
+# sp|Q52093|RS19_PPWBP Total prob of N-in:        0.72573
+sp|Q52093|RS19_PPWBP	TMHMM2.0	inside	     1    14
+# sp|Q52094|RL22_PPWBP Length: 91
+# sp|Q52094|RL22_PPWBP Number of predicted TMHs:  0
+# sp|Q52094|RL22_PPWBP Exp number of AAs in TMHs: 0.0449900000000001
+# sp|Q52094|RL22_PPWBP Exp number, first 60 AAs:  0.04394
+# sp|Q52094|RL22_PPWBP Total prob of N-in:        0.65177
+sp|Q52094|RL22_PPWBP	TMHMM2.0	inside	     1    91
+# sp|Q56251|RS19_TOBBP Length: 12
+# sp|Q56251|RS19_TOBBP Number of predicted TMHs:  0
+# sp|Q56251|RS19_TOBBP Exp number of AAs in TMHs: 0
+# sp|Q56251|RS19_TOBBP Exp number, first 60 AAs:  0
+# sp|Q56251|RS19_TOBBP Total prob of N-in:        0.93779
+sp|Q56251|RS19_TOBBP	TMHMM2.0	inside	     1    12
+# sp|Q6YPI5|RL20_ONYPE Length: 207
+# sp|Q6YPI5|RL20_ONYPE Number of predicted TMHs:  1
+# sp|Q6YPI5|RL20_ONYPE Exp number of AAs in TMHs: 17.68364
+# sp|Q6YPI5|RL20_ONYPE Exp number, first 60 AAs:  0.80173
+# sp|Q6YPI5|RL20_ONYPE Total prob of N-in:        0.86688
+sp|Q6YPI5|RL20_ONYPE	TMHMM2.0	inside	     1    59
+sp|Q6YPI5|RL20_ONYPE	TMHMM2.0	TMhelix	    60    79
+sp|Q6YPI5|RL20_ONYPE	TMHMM2.0	outside	    80   207
+# sp|Q6YQW5|RL10_ONYPE Length: 169
+# sp|Q6YQW5|RL10_ONYPE Number of predicted TMHs:  0
+# sp|Q6YQW5|RL10_ONYPE Exp number of AAs in TMHs: 11.11151
+# sp|Q6YQW5|RL10_ONYPE Exp number, first 60 AAs:  0.24892
+# sp|Q6YQW5|RL10_ONYPE Total prob of N-in:        0.19901
+sp|Q6YQW5|RL10_ONYPE	TMHMM2.0	outside	     1   169
+# sp|Q6YR19|RS10_ONYPE Length: 107
+# sp|Q6YR19|RS10_ONYPE Number of predicted TMHs:  0
+# sp|Q6YR19|RS10_ONYPE Exp number of AAs in TMHs: 0.004
+# sp|Q6YR19|RS10_ONYPE Exp number, first 60 AAs:  0
+# sp|Q6YR19|RS10_ONYPE Total prob of N-in:        0.69110
+sp|Q6YR19|RS10_ONYPE	TMHMM2.0	inside	     1   107
+# sp|Q6YR51|RS2_ONYPE Length: 271
+# sp|Q6YR51|RS2_ONYPE Number of predicted TMHs:  0
+# sp|Q6YR51|RS2_ONYPE Exp number of AAs in TMHs: 0.0236
+# sp|Q6YR51|RS2_ONYPE Exp number, first 60 AAs:  0.00089
+# sp|Q6YR51|RS2_ONYPE Total prob of N-in:        0.05159
+sp|Q6YR51|RS2_ONYPE	TMHMM2.0	outside	     1   271
+# sp|Q6YRB0|RL31_ONYPE Length: 93
+# sp|Q6YRB0|RL31_ONYPE Number of predicted TMHs:  0
+# sp|Q6YRB0|RL31_ONYPE Exp number of AAs in TMHs: 0.00082
+# sp|Q6YRB0|RL31_ONYPE Exp number, first 60 AAs:  0.00082
+# sp|Q6YRB0|RL31_ONYPE Total prob of N-in:        0.28291
+sp|Q6YRB0|RL31_ONYPE	TMHMM2.0	outside	     1    93
+# sp|Q847S1|RL18_ASTYP Length: 114
+# sp|Q847S1|RL18_ASTYP Number of predicted TMHs:  0
+# sp|Q847S1|RL18_ASTYP Exp number of AAs in TMHs: 0.4612
+# sp|Q847S1|RL18_ASTYP Exp number, first 60 AAs:  0.0002
+# sp|Q847S1|RL18_ASTYP Total prob of N-in:        0.89427
+sp|Q847S1|RL18_ASTYP	TMHMM2.0	inside	     1   114
+# sp|B1VA58|RS9_PHYAS Length: 130
+# sp|B1VA58|RS9_PHYAS Number of predicted TMHs:  0
+# sp|B1VA58|RS9_PHYAS Exp number of AAs in TMHs: 0.1067
+# sp|B1VA58|RS9_PHYAS Exp number, first 60 AAs:  0.00998
+# sp|B1VA58|RS9_PHYAS Total prob of N-in:        0.33590
+sp|B1VA58|RS9_PHYAS	TMHMM2.0	outside	     1   130
+# sp|B1VAB0|RS16_PHYAS Length: 91
+# sp|B1VAB0|RS16_PHYAS Number of predicted TMHs:  0
+# sp|B1VAB0|RS16_PHYAS Exp number of AAs in TMHs: 0.00034
+# sp|B1VAB0|RS16_PHYAS Exp number, first 60 AAs:  0.00034
+# sp|B1VAB0|RS16_PHYAS Total prob of N-in:        0.49456
+sp|B1VAB0|RS16_PHYAS	TMHMM2.0	outside	     1    91
+# sp|B1VAC4|RL36_PHYAS Length: 38
+# sp|B1VAC4|RL36_PHYAS Number of predicted TMHs:  0
+# sp|B1VAC4|RL36_PHYAS Exp number of AAs in TMHs: 0
+# sp|B1VAC4|RL36_PHYAS Exp number, first 60 AAs:  0
+# sp|B1VAC4|RL36_PHYAS Total prob of N-in:        0.92351
+sp|B1VAC4|RL36_PHYAS	TMHMM2.0	inside	     1    38
+# sp|B1VAF0|RL32_PHYAS Length: 65
+# sp|B1VAF0|RL32_PHYAS Number of predicted TMHs:  0
+# sp|B1VAF0|RL32_PHYAS Exp number of AAs in TMHs: 0.00199
+# sp|B1VAF0|RL32_PHYAS Exp number, first 60 AAs:  0.00199
+# sp|B1VAF0|RL32_PHYAS Total prob of N-in:        0.51877
+sp|B1VAF0|RL32_PHYAS	TMHMM2.0	inside	     1    65
+# sp|B1VAF3|RL27_PHYAS Length: 93
+# sp|B1VAF3|RL27_PHYAS Number of predicted TMHs:  0
+# sp|B1VAF3|RL27_PHYAS Exp number of AAs in TMHs: 0.0627
+# sp|B1VAF3|RL27_PHYAS Exp number, first 60 AAs:  0.01804
+# sp|B1VAF3|RL27_PHYAS Total prob of N-in:        0.05700
+sp|B1VAF3|RL27_PHYAS	TMHMM2.0	outside	     1    93
+# sp|B1VAH9|RS21_PHYAS Length: 57
+# sp|B1VAH9|RS21_PHYAS Number of predicted TMHs:  0
+# sp|B1VAH9|RS21_PHYAS Exp number of AAs in TMHs: 0
+# sp|B1VAH9|RS21_PHYAS Exp number, first 60 AAs:  0
+# sp|B1VAH9|RS21_PHYAS Total prob of N-in:        0.66612
+sp|B1VAH9|RS21_PHYAS	TMHMM2.0	inside	     1    57
+# sp|B1VAN8|RL34_PHYAS Length: 44
+# sp|B1VAN8|RL34_PHYAS Number of predicted TMHs:  0
+# sp|B1VAN8|RL34_PHYAS Exp number of AAs in TMHs: 0.02931
+# sp|B1VAN8|RL34_PHYAS Exp number, first 60 AAs:  0.02931
+# sp|B1VAN8|RL34_PHYAS Total prob of N-in:        0.77187
+sp|B1VAN8|RL34_PHYAS	TMHMM2.0	inside	     1    44
+# sp|B3QZF8|RL34_PHYMT Length: 44
+# sp|B3QZF8|RL34_PHYMT Number of predicted TMHs:  0
+# sp|B3QZF8|RL34_PHYMT Exp number of AAs in TMHs: 0.00552
+# sp|B3QZF8|RL34_PHYMT Exp number, first 60 AAs:  0.00552
+# sp|B3QZF8|RL34_PHYMT Total prob of N-in:        0.79588
+sp|B3QZF8|RL34_PHYMT	TMHMM2.0	inside	     1    44
+# sp|B3QZS8|RL28_PHYMT Length: 62
+# sp|B3QZS8|RL28_PHYMT Number of predicted TMHs:  0
+# sp|B3QZS8|RL28_PHYMT Exp number of AAs in TMHs: 0
+# sp|B3QZS8|RL28_PHYMT Exp number, first 60 AAs:  0
+# sp|B3QZS8|RL28_PHYMT Total prob of N-in:        0.72380
+sp|B3QZS8|RL28_PHYMT	TMHMM2.0	inside	     1    62
+# sp|B3QZT2|RL27_PHYMT Length: 96
+# sp|B3QZT2|RL27_PHYMT Number of predicted TMHs:  0
+# sp|B3QZT2|RL27_PHYMT Exp number of AAs in TMHs: 0.32746
+# sp|B3QZT2|RL27_PHYMT Exp number, first 60 AAs:  0.08777
+# sp|B3QZT2|RL27_PHYMT Total prob of N-in:        0.06334
+sp|B3QZT2|RL27_PHYMT	TMHMM2.0	outside	     1    96
+# sp|B3QZV0|RS21_PHYMT Length: 55
+# sp|B3QZV0|RS21_PHYMT Number of predicted TMHs:  0
+# sp|B3QZV0|RS21_PHYMT Exp number of AAs in TMHs: 0
+# sp|B3QZV0|RS21_PHYMT Exp number, first 60 AAs:  0
+# sp|B3QZV0|RS21_PHYMT Total prob of N-in:        0.72928
+sp|B3QZV0|RS21_PHYMT	TMHMM2.0	inside	     1    55
+# sp|B3QZV8|RL32_PHYMT Length: 61
+# sp|B3QZV8|RL32_PHYMT Number of predicted TMHs:  0
+# sp|B3QZV8|RL32_PHYMT Exp number of AAs in TMHs: 0.95234
+# sp|B3QZV8|RL32_PHYMT Exp number, first 60 AAs:  0.95234
+# sp|B3QZV8|RL32_PHYMT Total prob of N-in:        0.59861
+sp|B3QZV8|RL32_PHYMT	TMHMM2.0	inside	     1    61
+# sp|B3R014|RL36_PHYMT Length: 38
+# sp|B3R014|RL36_PHYMT Number of predicted TMHs:  0
+# sp|B3R014|RL36_PHYMT Exp number of AAs in TMHs: 0
+# sp|B3R014|RL36_PHYMT Exp number, first 60 AAs:  0
+# sp|B3R014|RL36_PHYMT Total prob of N-in:        0.92033
+sp|B3R014|RL36_PHYMT	TMHMM2.0	inside	     1    38
+# sp|B3R0P0|RS16_PHYMT Length: 81
+# sp|B3R0P0|RS16_PHYMT Number of predicted TMHs:  0
+# sp|B3R0P0|RS16_PHYMT Exp number of AAs in TMHs: 0.05753
+# sp|B3R0P0|RS16_PHYMT Exp number, first 60 AAs:  0.01778
+# sp|B3R0P0|RS16_PHYMT Total prob of N-in:        0.51077
+sp|B3R0P0|RS16_PHYMT	TMHMM2.0	inside	     1    81
+# sp|B3R0P5|RL35_PHYMT Length: 65
+# sp|B3R0P5|RL35_PHYMT Number of predicted TMHs:  0
+# sp|B3R0P5|RL35_PHYMT Exp number of AAs in TMHs: 0
+# sp|B3R0P5|RL35_PHYMT Exp number, first 60 AAs:  0
+# sp|B3R0P5|RL35_PHYMT Total prob of N-in:        0.49059
+sp|B3R0P5|RL35_PHYMT	TMHMM2.0	inside	     1    65
+# sp|P62235|RS16_ONYPE Length: 87
+# sp|P62235|RS16_ONYPE Number of predicted TMHs:  0
+# sp|P62235|RS16_ONYPE Exp number of AAs in TMHs: 0.00032
+# sp|P62235|RS16_ONYPE Exp number, first 60 AAs:  0.00032
+# sp|P62235|RS16_ONYPE Total prob of N-in:        0.49177
+sp|P62235|RS16_ONYPE	TMHMM2.0	outside	     1    87
+# sp|Q2NIG5|RL35_AYWBP Length: 68
+# sp|Q2NIG5|RL35_AYWBP Number of predicted TMHs:  0
+# sp|Q2NIG5|RL35_AYWBP Exp number of AAs in TMHs: 0
+# sp|Q2NIG5|RL35_AYWBP Exp number, first 60 AAs:  0
+# sp|Q2NIG5|RL35_AYWBP Total prob of N-in:        0.75020
+sp|Q2NIG5|RL35_AYWBP	TMHMM2.0	inside	     1    68
+# sp|Q2NIJ9|RL27_AYWBP Length: 92
+# sp|Q2NIJ9|RL27_AYWBP Number of predicted TMHs:  0
+# sp|Q2NIJ9|RL27_AYWBP Exp number of AAs in TMHs: 0.00019
+# sp|Q2NIJ9|RL27_AYWBP Exp number, first 60 AAs:  3e-05
+# sp|Q2NIJ9|RL27_AYWBP Total prob of N-in:        0.04793
+sp|Q2NIJ9|RL27_AYWBP	TMHMM2.0	outside	     1    92
+# sp|Q2NIM3|RL28_AYWBP Length: 62
+# sp|Q2NIM3|RL28_AYWBP Number of predicted TMHs:  0
+# sp|Q2NIM3|RL28_AYWBP Exp number of AAs in TMHs: 0
+# sp|Q2NIM3|RL28_AYWBP Exp number, first 60 AAs:  0
+# sp|Q2NIM3|RL28_AYWBP Total prob of N-in:        0.77528
+sp|Q2NIM3|RL28_AYWBP	TMHMM2.0	inside	     1    62
+# sp|Q2NIP5|RS9_AYWBP Length: 130
+# sp|Q2NIP5|RS9_AYWBP Number of predicted TMHs:  0
+# sp|Q2NIP5|RS9_AYWBP Exp number of AAs in TMHs: 0.02468
+# sp|Q2NIP5|RS9_AYWBP Exp number, first 60 AAs:  0.00356
+# sp|Q2NIP5|RS9_AYWBP Total prob of N-in:        0.37586
+sp|Q2NIP5|RS9_AYWBP	TMHMM2.0	outside	     1   130
+# sp|Q2NIV1|RL32_AYWBP Length: 68
+# sp|Q2NIV1|RL32_AYWBP Number of predicted TMHs:  0
+# sp|Q2NIV1|RL32_AYWBP Exp number of AAs in TMHs: 0.12192
+# sp|Q2NIV1|RL32_AYWBP Exp number, first 60 AAs:  0.12192
+# sp|Q2NIV1|RL32_AYWBP Total prob of N-in:        0.49565
+sp|Q2NIV1|RL32_AYWBP	TMHMM2.0	outside	     1    68
+# sp|Q2NJ02|RL34_AYWBP Length: 44
+# sp|Q2NJ02|RL34_AYWBP Number of predicted TMHs:  0
+# sp|Q2NJ02|RL34_AYWBP Exp number of AAs in TMHs: 0.00946
+# sp|Q2NJ02|RL34_AYWBP Exp number, first 60 AAs:  0.00946
+# sp|Q2NJ02|RL34_AYWBP Total prob of N-in:        0.78305
+sp|Q2NJ02|RL34_AYWBP	TMHMM2.0	inside	     1    44
+# sp|Q847R1|RS21_ASTYP Length: 65
+# sp|Q847R1|RS21_ASTYP Number of predicted TMHs:  0
+# sp|Q847R1|RS21_ASTYP Exp number of AAs in TMHs: 0
+# sp|Q847R1|RS21_ASTYP Exp number, first 60 AAs:  0
+# sp|Q847R1|RS21_ASTYP Total prob of N-in:        0.41859
+sp|Q847R1|RS21_ASTYP	TMHMM2.0	outside	     1    65
+# sp|B1V924|ACKA_PHYAS Length: 396
+# sp|B1V924|ACKA_PHYAS Number of predicted TMHs:  0
+# sp|B1V924|ACKA_PHYAS Exp number of AAs in TMHs: 1.14352
+# sp|B1V924|ACKA_PHYAS Exp number, first 60 AAs:  0.0002
+# sp|B1V924|ACKA_PHYAS Total prob of N-in:        0.04062
+sp|B1V924|ACKA_PHYAS	TMHMM2.0	outside	     1   396
+# sp|B3QZW9|ACKA_PHYMT Length: 391
+# sp|B3QZW9|ACKA_PHYMT Number of predicted TMHs:  0
+# sp|B3QZW9|ACKA_PHYMT Exp number of AAs in TMHs: 0.757419999999999
+# sp|B3QZW9|ACKA_PHYMT Exp number, first 60 AAs:  0
+# sp|B3QZW9|ACKA_PHYMT Total prob of N-in:        0.03098
+sp|B3QZW9|ACKA_PHYMT	TMHMM2.0	outside	     1   391
+# sp|Q2NIR6|ACKA_AYWBP Length: 410
+# sp|Q2NIR6|ACKA_AYWBP Number of predicted TMHs:  0
+# sp|Q2NIR6|ACKA_AYWBP Exp number of AAs in TMHs: 0.47277
+# sp|Q2NIR6|ACKA_AYWBP Exp number, first 60 AAs:  0.00145
+# sp|Q2NIR6|ACKA_AYWBP Total prob of N-in:        0.01849
+sp|Q2NIR6|ACKA_AYWBP	TMHMM2.0	outside	     1   410
+# sp|B1V8R6|ENO_PHYAS Length: 430
+# sp|B1V8R6|ENO_PHYAS Number of predicted TMHs:  0
+# sp|B1V8R6|ENO_PHYAS Exp number of AAs in TMHs: 0.0551200000000001
+# sp|B1V8R6|ENO_PHYAS Exp number, first 60 AAs:  0
+# sp|B1V8R6|ENO_PHYAS Total prob of N-in:        0.00992
+sp|B1V8R6|ENO_PHYAS	TMHMM2.0	outside	     1   430
+# sp|B1V8W6|SYT_PHYAS Length: 641
+# sp|B1V8W6|SYT_PHYAS Number of predicted TMHs:  0
+# sp|B1V8W6|SYT_PHYAS Exp number of AAs in TMHs: 0.594929999999999
+# sp|B1V8W6|SYT_PHYAS Exp number, first 60 AAs:  0
+# sp|B1V8W6|SYT_PHYAS Total prob of N-in:        0.00121
+sp|B1V8W6|SYT_PHYAS	TMHMM2.0	outside	     1   641
+# sp|B1V8Z6|TSAD_PHYAS Length: 328
+# sp|B1V8Z6|TSAD_PHYAS Number of predicted TMHs:  0
+# sp|B1V8Z6|TSAD_PHYAS Exp number of AAs in TMHs: 1.30746
+# sp|B1V8Z6|TSAD_PHYAS Exp number, first 60 AAs:  5e-05
+# sp|B1V8Z6|TSAD_PHYAS Total prob of N-in:        0.05443
+sp|B1V8Z6|TSAD_PHYAS	TMHMM2.0	outside	     1   328
+# sp|B1V975|GLYA_PHYAS Length: 413
+# sp|B1V975|GLYA_PHYAS Number of predicted TMHs:  0
+# sp|B1V975|GLYA_PHYAS Exp number of AAs in TMHs: 0.01442
+# sp|B1V975|GLYA_PHYAS Exp number, first 60 AAs:  0
+# sp|B1V975|GLYA_PHYAS Total prob of N-in:        0.00509
+sp|B1V975|GLYA_PHYAS	TMHMM2.0	outside	     1   413
+# sp|B1V9C5|LEPA_PHYAS Length: 605
+# sp|B1V9C5|LEPA_PHYAS Number of predicted TMHs:  0
+# sp|B1V9C5|LEPA_PHYAS Exp number of AAs in TMHs: 0.0275299999999999
+# sp|B1V9C5|LEPA_PHYAS Exp number, first 60 AAs:  0.00379
+# sp|B1V9C5|LEPA_PHYAS Total prob of N-in:        0.00627
+sp|B1V9C5|LEPA_PHYAS	TMHMM2.0	outside	     1   605
+# sp|B1V9H9|PLSY_PHYAS Length: 225
+# sp|B1V9H9|PLSY_PHYAS Number of predicted TMHs:  6
+# sp|B1V9H9|PLSY_PHYAS Exp number of AAs in TMHs: 127.24629
+# sp|B1V9H9|PLSY_PHYAS Exp number, first 60 AAs:  28.04117
+# sp|B1V9H9|PLSY_PHYAS Total prob of N-in:        0.90559
+# sp|B1V9H9|PLSY_PHYAS POSSIBLE N-term signal sequence
+sp|B1V9H9|PLSY_PHYAS	TMHMM2.0	inside	     1     1
+sp|B1V9H9|PLSY_PHYAS	TMHMM2.0	TMhelix	     2    24
+sp|B1V9H9|PLSY_PHYAS	TMHMM2.0	outside	    25    52
+sp|B1V9H9|PLSY_PHYAS	TMHMM2.0	TMhelix	    53    75
+sp|B1V9H9|PLSY_PHYAS	TMHMM2.0	inside	    76    95
+sp|B1V9H9|PLSY_PHYAS	TMHMM2.0	TMhelix	    96   113
+sp|B1V9H9|PLSY_PHYAS	TMHMM2.0	outside	   114   122
+sp|B1V9H9|PLSY_PHYAS	TMHMM2.0	TMhelix	   123   145
+sp|B1V9H9|PLSY_PHYAS	TMHMM2.0	inside	   146   149
+sp|B1V9H9|PLSY_PHYAS	TMHMM2.0	TMhelix	   150   172
+sp|B1V9H9|PLSY_PHYAS	TMHMM2.0	outside	   173   181
+sp|B1V9H9|PLSY_PHYAS	TMHMM2.0	TMhelix	   182   201
+sp|B1V9H9|PLSY_PHYAS	TMHMM2.0	inside	   202   225
+# sp|B1VA59|SYE_PHYAS Length: 448
+# sp|B1VA59|SYE_PHYAS Number of predicted TMHs:  0
+# sp|B1VA59|SYE_PHYAS Exp number of AAs in TMHs: 0.374850000000001
+# sp|B1VA59|SYE_PHYAS Exp number, first 60 AAs:  0.28955
+# sp|B1VA59|SYE_PHYAS Total prob of N-in:        0.03792
+sp|B1VA59|SYE_PHYAS	TMHMM2.0	outside	     1   448
+# sp|B1VA75|TPIS_PHYAS Length: 268
+# sp|B1VA75|TPIS_PHYAS Number of predicted TMHs:  0
+# sp|B1VA75|TPIS_PHYAS Exp number of AAs in TMHs: 0.01371
+# sp|B1VA75|TPIS_PHYAS Exp number, first 60 AAs:  0.00029
+# sp|B1VA75|TPIS_PHYAS Total prob of N-in:        0.15382
+sp|B1VA75|TPIS_PHYAS	TMHMM2.0	outside	     1   268
+# sp|B1VA93|SYFA_PHYAS Length: 343
+# sp|B1VA93|SYFA_PHYAS Number of predicted TMHs:  0
+# sp|B1VA93|SYFA_PHYAS Exp number of AAs in TMHs: 0.0102
+# sp|B1VA93|SYFA_PHYAS Exp number, first 60 AAs:  0
+# sp|B1VA93|SYFA_PHYAS Total prob of N-in:        0.02323
+sp|B1VA93|SYFA_PHYAS	TMHMM2.0	outside	     1   343
+# sp|B1VA97|SYK_PHYAS Length: 497
+# sp|B1VA97|SYK_PHYAS Number of predicted TMHs:  0
+# sp|B1VA97|SYK_PHYAS Exp number of AAs in TMHs: 0.05032
+# sp|B1VA97|SYK_PHYAS Exp number, first 60 AAs:  0
+# sp|B1VA97|SYK_PHYAS Total prob of N-in:        0.02214
+sp|B1VA97|SYK_PHYAS	TMHMM2.0	outside	     1   497
+# sp|B1VAA7|SYY_PHYAS Length: 415
+# sp|B1VAA7|SYY_PHYAS Number of predicted TMHs:  0
+# sp|B1VAA7|SYY_PHYAS Exp number of AAs in TMHs: 0.0594700000000001
+# sp|B1VAA7|SYY_PHYAS Exp number, first 60 AAs:  0.00621
+# sp|B1VAA7|SYY_PHYAS Total prob of N-in:        0.00891
+sp|B1VAA7|SYY_PHYAS	TMHMM2.0	outside	     1   415
+# sp|B1VAC7|KAD_PHYAS Length: 217
+# sp|B1VAC7|KAD_PHYAS Number of predicted TMHs:  0
+# sp|B1VAC7|KAD_PHYAS Exp number of AAs in TMHs: 0.00883
+# sp|B1VAC7|KAD_PHYAS Exp number, first 60 AAs:  0.00421
+# sp|B1VAC7|KAD_PHYAS Total prob of N-in:        0.00270
+sp|B1VAC7|KAD_PHYAS	TMHMM2.0	outside	     1   217
+# sp|B1VAJ9|MIAA_PHYAS Length: 290
+# sp|B1VAJ9|MIAA_PHYAS Number of predicted TMHs:  0
+# sp|B1VAJ9|MIAA_PHYAS Exp number of AAs in TMHs: 0.25815
+# sp|B1VAJ9|MIAA_PHYAS Exp number, first 60 AAs:  0.00149
+# sp|B1VAJ9|MIAA_PHYAS Total prob of N-in:        0.05502
+sp|B1VAJ9|MIAA_PHYAS	TMHMM2.0	outside	     1   290
+# sp|B1VAN5|PNP_PHYAS Length: 710
+# sp|B1VAN5|PNP_PHYAS Number of predicted TMHs:  0
+# sp|B1VAN5|PNP_PHYAS Exp number of AAs in TMHs: 0.07935
+# sp|B1VAN5|PNP_PHYAS Exp number, first 60 AAs:  0.00436
+# sp|B1VAN5|PNP_PHYAS Total prob of N-in:        0.00332
+sp|B1VAN5|PNP_PHYAS	TMHMM2.0	outside	     1   710
+# sp|B1VAP5|GPDA_PHYAS Length: 329
+# sp|B1VAP5|GPDA_PHYAS Number of predicted TMHs:  0
+# sp|B1VAP5|GPDA_PHYAS Exp number of AAs in TMHs: 0.63679
+# sp|B1VAP5|GPDA_PHYAS Exp number, first 60 AAs:  0.0307
+# sp|B1VAP5|GPDA_PHYAS Total prob of N-in:        0.02182
+sp|B1VAP5|GPDA_PHYAS	TMHMM2.0	outside	     1   329
+# sp|B1VAX7|MNMA_PHYAS Length: 375
+# sp|B1VAX7|MNMA_PHYAS Number of predicted TMHs:  0
+# sp|B1VAX7|MNMA_PHYAS Exp number of AAs in TMHs: 0.02652
+# sp|B1VAX7|MNMA_PHYAS Exp number, first 60 AAs:  0.02401
+# sp|B1VAX7|MNMA_PHYAS Total prob of N-in:        0.01134
+sp|B1VAX7|MNMA_PHYAS	TMHMM2.0	outside	     1   375
+# sp|B1VAY1|DNLJ_PHYAS Length: 670
+# sp|B1VAY1|DNLJ_PHYAS Number of predicted TMHs:  0
+# sp|B1VAY1|DNLJ_PHYAS Exp number of AAs in TMHs: 0.00435999999999999
+# sp|B1VAY1|DNLJ_PHYAS Exp number, first 60 AAs:  0
+# sp|B1VAY1|DNLJ_PHYAS Total prob of N-in:        0.00030
+sp|B1VAY1|DNLJ_PHYAS	TMHMM2.0	outside	     1   670
+# sp|B3QZG1|PNP_PHYMT Length: 728
+# sp|B3QZG1|PNP_PHYMT Number of predicted TMHs:  0
+# sp|B3QZG1|PNP_PHYMT Exp number of AAs in TMHs: 0.33084
+# sp|B3QZG1|PNP_PHYMT Exp number, first 60 AAs:  0.04828
+# sp|B3QZG1|PNP_PHYMT Total prob of N-in:        0.00826
+sp|B3QZG1|PNP_PHYMT	TMHMM2.0	outside	     1   728
+# sp|B3QZS5|DNLJ_PHYMT Length: 659
+# sp|B3QZS5|DNLJ_PHYMT Number of predicted TMHs:  0
+# sp|B3QZS5|DNLJ_PHYMT Exp number of AAs in TMHs: 0.07077
+# sp|B3QZS5|DNLJ_PHYMT Exp number, first 60 AAs:  0
+# sp|B3QZS5|DNLJ_PHYMT Total prob of N-in:        0.00145
+sp|B3QZS5|DNLJ_PHYMT	TMHMM2.0	outside	     1   659
+# sp|B3QZT1|OBG_PHYMT Length: 421
+# sp|B3QZT1|OBG_PHYMT Number of predicted TMHs:  0
+# sp|B3QZT1|OBG_PHYMT Exp number of AAs in TMHs: 0.01281
+# sp|B3QZT1|OBG_PHYMT Exp number, first 60 AAs:  0.00021
+# sp|B3QZT1|OBG_PHYMT Total prob of N-in:        0.00491
+sp|B3QZT1|OBG_PHYMT	TMHMM2.0	outside	     1   421
+# sp|B3QZT9|LEPA_PHYMT Length: 605
+# sp|B3QZT9|LEPA_PHYMT Number of predicted TMHs:  0
+# sp|B3QZT9|LEPA_PHYMT Exp number of AAs in TMHs: 1.10937
+# sp|B3QZT9|LEPA_PHYMT Exp number, first 60 AAs:  0.00268
+# sp|B3QZT9|LEPA_PHYMT Total prob of N-in:        0.02513
+sp|B3QZT9|LEPA_PHYMT	TMHMM2.0	outside	     1   605
+# sp|B3QZX0|TYSY_PHYMT Length: 288
+# sp|B3QZX0|TYSY_PHYMT Number of predicted TMHs:  1
+# sp|B3QZX0|TYSY_PHYMT Exp number of AAs in TMHs: 18.48603
+# sp|B3QZX0|TYSY_PHYMT Exp number, first 60 AAs:  0.01235
+# sp|B3QZX0|TYSY_PHYMT Total prob of N-in:        0.78058
+sp|B3QZX0|TYSY_PHYMT	TMHMM2.0	inside	     1   193
+sp|B3QZX0|TYSY_PHYMT	TMHMM2.0	TMhelix	   194   213
+sp|B3QZX0|TYSY_PHYMT	TMHMM2.0	outside	   214   288
+# sp|B3R022|TRUA_PHYMT Length: 244
+# sp|B3R022|TRUA_PHYMT Number of predicted TMHs:  0
+# sp|B3R022|TRUA_PHYMT Exp number of AAs in TMHs: 3.08355
+# sp|B3R022|TRUA_PHYMT Exp number, first 60 AAs:  0.00287
+# sp|B3R022|TRUA_PHYMT Total prob of N-in:        0.12717
+sp|B3R022|TRUA_PHYMT	TMHMM2.0	outside	     1   244
+# sp|B3R075|RNC_PHYMT Length: 225
+# sp|B3R075|RNC_PHYMT Number of predicted TMHs:  0
+# sp|B3R075|RNC_PHYMT Exp number of AAs in TMHs: 12.2174
+# sp|B3R075|RNC_PHYMT Exp number, first 60 AAs:  0.12482
+# sp|B3R075|RNC_PHYMT Total prob of N-in:        0.50847
+sp|B3R075|RNC_PHYMT	TMHMM2.0	outside	     1   225
+# sp|B3R0D7|SYY_PHYMT Length: 417
+# sp|B3R0D7|SYY_PHYMT Number of predicted TMHs:  0
+# sp|B3R0D7|SYY_PHYMT Exp number of AAs in TMHs: 4.07645999999999
+# sp|B3R0D7|SYY_PHYMT Exp number, first 60 AAs:  4.03892
+# sp|B3R0D7|SYY_PHYMT Total prob of N-in:        0.18166
+sp|B3R0D7|SYY_PHYMT	TMHMM2.0	outside	     1   417
+# sp|B3R0E3|GPDA_PHYMT Length: 331
+# sp|B3R0E3|GPDA_PHYMT Number of predicted TMHs:  0
+# sp|B3R0E3|GPDA_PHYMT Exp number of AAs in TMHs: 0.13693
+# sp|B3R0E3|GPDA_PHYMT Exp number, first 60 AAs:  0.00826
+# sp|B3R0E3|GPDA_PHYMT Total prob of N-in:        0.01177
+sp|B3R0E3|GPDA_PHYMT	TMHMM2.0	outside	     1   331
+# sp|B3R0E8|MIAA_PHYMT Length: 299
+# sp|B3R0E8|MIAA_PHYMT Number of predicted TMHs:  0
+# sp|B3R0E8|MIAA_PHYMT Exp number of AAs in TMHs: 0.82656
+# sp|B3R0E8|MIAA_PHYMT Exp number, first 60 AAs:  0.00132
+# sp|B3R0E8|MIAA_PHYMT Total prob of N-in:        0.06689
+sp|B3R0E8|MIAA_PHYMT	TMHMM2.0	outside	     1   299
+# sp|B3R0F3|RNH3_PHYMT Length: 288
+# sp|B3R0F3|RNH3_PHYMT Number of predicted TMHs:  0
+# sp|B3R0F3|RNH3_PHYMT Exp number of AAs in TMHs: 1.87171
+# sp|B3R0F3|RNH3_PHYMT Exp number, first 60 AAs:  0.00134
+# sp|B3R0F3|RNH3_PHYMT Total prob of N-in:        0.06839
+sp|B3R0F3|RNH3_PHYMT	TMHMM2.0	outside	     1   288
+# sp|B3R0F5|SYS_PHYMT Length: 423
+# sp|B3R0F5|SYS_PHYMT Number of predicted TMHs:  0
+# sp|B3R0F5|SYS_PHYMT Exp number of AAs in TMHs: 0.08188
+# sp|B3R0F5|SYS_PHYMT Exp number, first 60 AAs:  0
+# sp|B3R0F5|SYS_PHYMT Total prob of N-in:        0.00457
+sp|B3R0F5|SYS_PHYMT	TMHMM2.0	outside	     1   423
+# sp|B3R0G5|GLYA_PHYMT Length: 419
+# sp|B3R0G5|GLYA_PHYMT Number of predicted TMHs:  0
+# sp|B3R0G5|GLYA_PHYMT Exp number of AAs in TMHs: 0.06984
+# sp|B3R0G5|GLYA_PHYMT Exp number, first 60 AAs:  0
+# sp|B3R0G5|GLYA_PHYMT Total prob of N-in:        0.01398
+sp|B3R0G5|GLYA_PHYMT	TMHMM2.0	outside	     1   419
+# sp|B3R0I8|SYT_PHYMT Length: 640
+# sp|B3R0I8|SYT_PHYMT Number of predicted TMHs:  0
+# sp|B3R0I8|SYT_PHYMT Exp number of AAs in TMHs: 5.81486
+# sp|B3R0I8|SYT_PHYMT Exp number, first 60 AAs:  0
+# sp|B3R0I8|SYT_PHYMT Total prob of N-in:        0.00202
+sp|B3R0I8|SYT_PHYMT	TMHMM2.0	outside	     1   640
+# sp|B3R0M3|TSAD_PHYMT Length: 329
+# sp|B3R0M3|TSAD_PHYMT Number of predicted TMHs:  0
+# sp|B3R0M3|TSAD_PHYMT Exp number of AAs in TMHs: 8.61285999999997
+# sp|B3R0M3|TSAD_PHYMT Exp number, first 60 AAs:  0.00019
+# sp|B3R0M3|TSAD_PHYMT Total prob of N-in:        0.21541
+sp|B3R0M3|TSAD_PHYMT	TMHMM2.0	outside	     1   329
+# sp|P60351|TRUA_ONYPE Length: 243
+# sp|P60351|TRUA_ONYPE Number of predicted TMHs:  0
+# sp|P60351|TRUA_ONYPE Exp number of AAs in TMHs: 0.48049
+# sp|P60351|TRUA_ONYPE Exp number, first 60 AAs:  0.00087
+# sp|P60351|TRUA_ONYPE Total prob of N-in:        0.02577
+sp|P60351|TRUA_ONYPE	TMHMM2.0	outside	     1   243
+# sp|P60792|LEPA_ONYPE Length: 605
+# sp|P60792|LEPA_ONYPE Number of predicted TMHs:  0
+# sp|P60792|LEPA_ONYPE Exp number of AAs in TMHs: 0.02821
+# sp|P60792|LEPA_ONYPE Exp number, first 60 AAs:  0.00233
+# sp|P60792|LEPA_ONYPE Total prob of N-in:        0.00263
+sp|P60792|LEPA_ONYPE	TMHMM2.0	outside	     1   605
+# sp|P60823|PLSY_ONYPE Length: 172
+# sp|P60823|PLSY_ONYPE Number of predicted TMHs:  5
+# sp|P60823|PLSY_ONYPE Exp number of AAs in TMHs: 103.3423
+# sp|P60823|PLSY_ONYPE Exp number, first 60 AAs:  28.19133
+# sp|P60823|PLSY_ONYPE Total prob of N-in:        0.05347
+# sp|P60823|PLSY_ONYPE POSSIBLE N-term signal sequence
+sp|P60823|PLSY_ONYPE	TMHMM2.0	outside	     1     3
+sp|P60823|PLSY_ONYPE	TMHMM2.0	TMhelix	     4    26
+sp|P60823|PLSY_ONYPE	TMHMM2.0	inside	    27    54
+sp|P60823|PLSY_ONYPE	TMHMM2.0	TMhelix	    55    77
+sp|P60823|PLSY_ONYPE	TMHMM2.0	outside	    78    96
+sp|P60823|PLSY_ONYPE	TMHMM2.0	TMhelix	    97   116
+sp|P60823|PLSY_ONYPE	TMHMM2.0	inside	   117   122
+sp|P60823|PLSY_ONYPE	TMHMM2.0	TMhelix	   123   145
+sp|P60823|PLSY_ONYPE	TMHMM2.0	outside	   146   148
+sp|P60823|PLSY_ONYPE	TMHMM2.0	TMhelix	   149   171
+sp|P60823|PLSY_ONYPE	TMHMM2.0	inside	   172   172
+# sp|P62417|PGK_ONYPE Length: 398
+# sp|P62417|PGK_ONYPE Number of predicted TMHs:  0
+# sp|P62417|PGK_ONYPE Exp number of AAs in TMHs: 0.0182
+# sp|P62417|PGK_ONYPE Exp number, first 60 AAs:  0.00022
+# sp|P62417|PGK_ONYPE Total prob of N-in:        0.02188
+sp|P62417|PGK_ONYPE	TMHMM2.0	outside	     1   398
+# sp|Q2NIG1|MNME_AYWBP Length: 460
+# sp|Q2NIG1|MNME_AYWBP Number of predicted TMHs:  0
+# sp|Q2NIG1|MNME_AYWBP Exp number of AAs in TMHs: 0.05472
+# sp|Q2NIG1|MNME_AYWBP Exp number, first 60 AAs:  0.04969
+# sp|Q2NIG1|MNME_AYWBP Total prob of N-in:        0.00344
+sp|Q2NIG1|MNME_AYWBP	TMHMM2.0	outside	     1   460
+# sp|Q2NIG3|SYT_AYWBP Length: 641
+# sp|Q2NIG3|SYT_AYWBP Number of predicted TMHs:  0
+# sp|Q2NIG3|SYT_AYWBP Exp number of AAs in TMHs: 0.335920000000001
+# sp|Q2NIG3|SYT_AYWBP Exp number, first 60 AAs:  0.0002
+# sp|Q2NIG3|SYT_AYWBP Total prob of N-in:        0.00057
+sp|Q2NIG3|SYT_AYWBP	TMHMM2.0	outside	     1   641
+# sp|Q2NIJ4|SYS_AYWBP Length: 424
+# sp|Q2NIJ4|SYS_AYWBP Number of predicted TMHs:  0
+# sp|Q2NIJ4|SYS_AYWBP Exp number of AAs in TMHs: 0.04612
+# sp|Q2NIJ4|SYS_AYWBP Exp number, first 60 AAs:  0
+# sp|Q2NIJ4|SYS_AYWBP Total prob of N-in:        0.00342
+sp|Q2NIJ4|SYS_AYWBP	TMHMM2.0	outside	     1   424
+# sp|Q2NIM6|CH60_AYWBP Length: 536
+# sp|Q2NIM6|CH60_AYWBP Number of predicted TMHs:  0
+# sp|Q2NIM6|CH60_AYWBP Exp number of AAs in TMHs: 0.49539
+# sp|Q2NIM6|CH60_AYWBP Exp number, first 60 AAs:  0.00119
+# sp|Q2NIM6|CH60_AYWBP Total prob of N-in:        0.00567
+sp|Q2NIM6|CH60_AYWBP	TMHMM2.0	outside	     1   536
+# sp|Q2NIM9|MNMA_AYWBP Length: 378
+# sp|Q2NIM9|MNMA_AYWBP Number of predicted TMHs:  0
+# sp|Q2NIM9|MNMA_AYWBP Exp number of AAs in TMHs: 0.17897
+# sp|Q2NIM9|MNMA_AYWBP Exp number, first 60 AAs:  0.14176
+# sp|Q2NIM9|MNMA_AYWBP Total prob of N-in:        0.01340
+sp|Q2NIM9|MNMA_AYWBP	TMHMM2.0	outside	     1   378
+# sp|Q2NIP6|SYE_AYWBP Length: 449
+# sp|Q2NIP6|SYE_AYWBP Number of predicted TMHs:  0
+# sp|Q2NIP6|SYE_AYWBP Exp number of AAs in TMHs: 0.52188
+# sp|Q2NIP6|SYE_AYWBP Exp number, first 60 AAs:  0.24234
+# sp|Q2NIP6|SYE_AYWBP Total prob of N-in:        0.04491
+sp|Q2NIP6|SYE_AYWBP	TMHMM2.0	outside	     1   449
+# sp|Q2NIP7|SYC_AYWBP Length: 438
+# sp|Q2NIP7|SYC_AYWBP Number of predicted TMHs:  0
+# sp|Q2NIP7|SYC_AYWBP Exp number of AAs in TMHs: 0.84552
+# sp|Q2NIP7|SYC_AYWBP Exp number, first 60 AAs:  0.01908
+# sp|Q2NIP7|SYC_AYWBP Total prob of N-in:        0.01620
+sp|Q2NIP7|SYC_AYWBP	TMHMM2.0	outside	     1   438
+# sp|Q2NIS4|PYRH_AYWBP Length: 241
+# sp|Q2NIS4|PYRH_AYWBP Number of predicted TMHs:  0
+# sp|Q2NIS4|PYRH_AYWBP Exp number of AAs in TMHs: 0.29785
+# sp|Q2NIS4|PYRH_AYWBP Exp number, first 60 AAs:  0.02304
+# sp|Q2NIS4|PYRH_AYWBP Total prob of N-in:        0.08343
+sp|Q2NIS4|PYRH_AYWBP	TMHMM2.0	outside	     1   241
+# sp|Q2NIS7|TPIS_AYWBP Length: 274
+# sp|Q2NIS7|TPIS_AYWBP Number of predicted TMHs:  0
+# sp|Q2NIS7|TPIS_AYWBP Exp number of AAs in TMHs: 0.36426
+# sp|Q2NIS7|TPIS_AYWBP Exp number, first 60 AAs:  0.00191
+# sp|Q2NIS7|TPIS_AYWBP Total prob of N-in:        0.18932
+sp|Q2NIS7|TPIS_AYWBP	TMHMM2.0	outside	     1   274
+# sp|Q2NIT5|ECFA_AYWBP Length: 271
+# sp|Q2NIT5|ECFA_AYWBP Number of predicted TMHs:  0
+# sp|Q2NIT5|ECFA_AYWBP Exp number of AAs in TMHs: 0.04011
+# sp|Q2NIT5|ECFA_AYWBP Exp number, first 60 AAs:  0.03245
+# sp|Q2NIT5|ECFA_AYWBP Total prob of N-in:        0.03847
+sp|Q2NIT5|ECFA_AYWBP	TMHMM2.0	outside	     1   271
+# sp|Q2NIT8|GLYA_AYWBP Length: 429
+# sp|Q2NIT8|GLYA_AYWBP Number of predicted TMHs:  0
+# sp|Q2NIT8|GLYA_AYWBP Exp number of AAs in TMHs: 0.59605
+# sp|Q2NIT8|GLYA_AYWBP Exp number, first 60 AAs:  0.00979
+# sp|Q2NIT8|GLYA_AYWBP Total prob of N-in:        0.07498
+sp|Q2NIT8|GLYA_AYWBP	TMHMM2.0	outside	     1   429
+# sp|Q2NIX5|KAD_AYWBP Length: 217
+# sp|Q2NIX5|KAD_AYWBP Number of predicted TMHs:  0
+# sp|Q2NIX5|KAD_AYWBP Exp number of AAs in TMHs: 0.02964
+# sp|Q2NIX5|KAD_AYWBP Exp number, first 60 AAs:  0.02749
+# sp|Q2NIX5|KAD_AYWBP Total prob of N-in:        0.00357
+sp|Q2NIX5|KAD_AYWBP	TMHMM2.0	outside	     1   217
+# sp|Q2NIY1|RPOA_AYWBP Length: 330
+# sp|Q2NIY1|RPOA_AYWBP Number of predicted TMHs:  0
+# sp|Q2NIY1|RPOA_AYWBP Exp number of AAs in TMHs: 0.01373
+# sp|Q2NIY1|RPOA_AYWBP Exp number, first 60 AAs:  0.00581
+# sp|Q2NIY1|RPOA_AYWBP Total prob of N-in:        0.01239
+sp|Q2NIY1|RPOA_AYWBP	TMHMM2.0	outside	     1   330
+# sp|Q2NIZ6|GPDA_AYWBP Length: 338
+# sp|Q2NIZ6|GPDA_AYWBP Number of predicted TMHs:  1
+# sp|Q2NIZ6|GPDA_AYWBP Exp number of AAs in TMHs: 12.741
+# sp|Q2NIZ6|GPDA_AYWBP Exp number, first 60 AAs:  12.47074
+# sp|Q2NIZ6|GPDA_AYWBP Total prob of N-in:        0.58155
+# sp|Q2NIZ6|GPDA_AYWBP POSSIBLE N-term signal sequence
+sp|Q2NIZ6|GPDA_AYWBP	TMHMM2.0	inside	     1     6
+sp|Q2NIZ6|GPDA_AYWBP	TMHMM2.0	TMhelix	     7    29
+sp|Q2NIZ6|GPDA_AYWBP	TMHMM2.0	outside	    30   338
+# sp|Q2NJ06|PNP_AYWBP Length: 715
+# sp|Q2NJ06|PNP_AYWBP Number of predicted TMHs:  0
+# sp|Q2NJ06|PNP_AYWBP Exp number of AAs in TMHs: 0.17194
+# sp|Q2NJ06|PNP_AYWBP Exp number, first 60 AAs:  0.00923999999999999
+# sp|Q2NJ06|PNP_AYWBP Total prob of N-in:        0.00385
+sp|Q2NJ06|PNP_AYWBP	TMHMM2.0	outside	     1   715
+# sp|Q2NJ16|RPOC_AYWBP Length: 1353
+# sp|Q2NJ16|RPOC_AYWBP Number of predicted TMHs:  0
+# sp|Q2NJ16|RPOC_AYWBP Exp number of AAs in TMHs: 0.14432
+# sp|Q2NJ16|RPOC_AYWBP Exp number, first 60 AAs:  0.00017
+# sp|Q2NJ16|RPOC_AYWBP Total prob of N-in:        0.00003
+sp|Q2NJ16|RPOC_AYWBP	TMHMM2.0	outside	     1  1353
+# sp|Q2NJ30|MIAA_AYWBP Length: 291
+# sp|Q2NJ30|MIAA_AYWBP Number of predicted TMHs:  0
+# sp|Q2NJ30|MIAA_AYWBP Exp number of AAs in TMHs: 0.23145
+# sp|Q2NJ30|MIAA_AYWBP Exp number, first 60 AAs:  0.00146
+# sp|Q2NJ30|MIAA_AYWBP Total prob of N-in:        0.05138
+sp|Q2NJ30|MIAA_AYWBP	TMHMM2.0	outside	     1   291
+# sp|Q2NJ38|G6PI_AYWBP Length: 426
+# sp|Q2NJ38|G6PI_AYWBP Number of predicted TMHs:  0
+# sp|Q2NJ38|G6PI_AYWBP Exp number of AAs in TMHs: 5.62432
+# sp|Q2NJ38|G6PI_AYWBP Exp number, first 60 AAs:  0
+# sp|Q2NJ38|G6PI_AYWBP Total prob of N-in:        0.07204
+sp|Q2NJ38|G6PI_AYWBP	TMHMM2.0	outside	     1   426
+# sp|Q2NJ39|ENO_AYWBP Length: 430
+# sp|Q2NJ39|ENO_AYWBP Number of predicted TMHs:  0
+# sp|Q2NJ39|ENO_AYWBP Exp number of AAs in TMHs: 0.06473
+# sp|Q2NJ39|ENO_AYWBP Exp number, first 60 AAs:  0
+# sp|Q2NJ39|ENO_AYWBP Total prob of N-in:        0.00714
+sp|Q2NJ39|ENO_AYWBP	TMHMM2.0	outside	     1   430
+# sp|Q2NJ40|GPMI_AYWBP Length: 512
+# sp|Q2NJ40|GPMI_AYWBP Number of predicted TMHs:  0
+# sp|Q2NJ40|GPMI_AYWBP Exp number of AAs in TMHs: 0.00608999999999999
+# sp|Q2NJ40|GPMI_AYWBP Exp number, first 60 AAs:  0.0003
+# sp|Q2NJ40|GPMI_AYWBP Total prob of N-in:        0.00161
+sp|Q2NJ40|GPMI_AYWBP	TMHMM2.0	outside	     1   512
+# sp|Q2NJ46|TYSY_AYWBP Length: 288
+# sp|Q2NJ46|TYSY_AYWBP Number of predicted TMHs:  0
+# sp|Q2NJ46|TYSY_AYWBP Exp number of AAs in TMHs: 7.65166
+# sp|Q2NJ46|TYSY_AYWBP Exp number, first 60 AAs:  0.00852
+# sp|Q2NJ46|TYSY_AYWBP Total prob of N-in:        0.28378
+sp|Q2NJ46|TYSY_AYWBP	TMHMM2.0	outside	     1   288
+# sp|Q2NJ60|SYA_AYWBP Length: 864
+# sp|Q2NJ60|SYA_AYWBP Number of predicted TMHs:  0
+# sp|Q2NJ60|SYA_AYWBP Exp number of AAs in TMHs: 0.01991
+# sp|Q2NJ60|SYA_AYWBP Exp number, first 60 AAs:  0.00018
+# sp|Q2NJ60|SYA_AYWBP Total prob of N-in:        0.00045
+sp|Q2NJ60|SYA_AYWBP	TMHMM2.0	outside	     1   864
+# sp|Q2NJE3|LON_AYWBP Length: 791
+# sp|Q2NJE3|LON_AYWBP Number of predicted TMHs:  0
+# sp|Q2NJE3|LON_AYWBP Exp number of AAs in TMHs: 0.0313
+# sp|Q2NJE3|LON_AYWBP Exp number, first 60 AAs:  0.00034
+# sp|Q2NJE3|LON_AYWBP Total prob of N-in:        0.00154
+sp|Q2NJE3|LON_AYWBP	TMHMM2.0	outside	     1   791
+# sp|Q2NJF5|DNLJ_AYWBP Length: 671
+# sp|Q2NJF5|DNLJ_AYWBP Number of predicted TMHs:  0
+# sp|Q2NJF5|DNLJ_AYWBP Exp number of AAs in TMHs: 0.35849
+# sp|Q2NJF5|DNLJ_AYWBP Exp number, first 60 AAs:  0
+# sp|Q2NJF5|DNLJ_AYWBP Total prob of N-in:        0.00839
+sp|Q2NJF5|DNLJ_AYWBP	TMHMM2.0	outside	     1   671
+# sp|Q2NJF6|PLSY_AYWBP Length: 231
+# sp|Q2NJF6|PLSY_AYWBP Number of predicted TMHs:  6
+# sp|Q2NJF6|PLSY_AYWBP Exp number of AAs in TMHs: 130.71612
+# sp|Q2NJF6|PLSY_AYWBP Exp number, first 60 AAs:  28.2216
+# sp|Q2NJF6|PLSY_AYWBP Total prob of N-in:        0.01466
+# sp|Q2NJF6|PLSY_AYWBP POSSIBLE N-term signal sequence
+sp|Q2NJF6|PLSY_AYWBP	TMHMM2.0	outside	     1     3
+sp|Q2NJF6|PLSY_AYWBP	TMHMM2.0	TMhelix	     4    26
+sp|Q2NJF6|PLSY_AYWBP	TMHMM2.0	inside	    27    55
+sp|Q2NJF6|PLSY_AYWBP	TMHMM2.0	TMhelix	    56    78
+sp|Q2NJF6|PLSY_AYWBP	TMHMM2.0	outside	    79    92
+sp|Q2NJF6|PLSY_AYWBP	TMHMM2.0	TMhelix	    93   115
+sp|Q2NJF6|PLSY_AYWBP	TMHMM2.0	inside	   116   127
+sp|Q2NJF6|PLSY_AYWBP	TMHMM2.0	TMhelix	   128   150
+sp|Q2NJF6|PLSY_AYWBP	TMHMM2.0	outside	   151   154
+sp|Q2NJF6|PLSY_AYWBP	TMHMM2.0	TMhelix	   155   177
+sp|Q2NJF6|PLSY_AYWBP	TMHMM2.0	inside	   178   197
+sp|Q2NJF6|PLSY_AYWBP	TMHMM2.0	TMhelix	   198   220
+sp|Q2NJF6|PLSY_AYWBP	TMHMM2.0	outside	   221   231
+# sp|Q2NJG7|SYY_AYWBP Length: 413
+# sp|Q2NJG7|SYY_AYWBP Number of predicted TMHs:  0
+# sp|Q2NJG7|SYY_AYWBP Exp number of AAs in TMHs: 0.1922
+# sp|Q2NJG7|SYY_AYWBP Exp number, first 60 AAs:  0.08869
+# sp|Q2NJG7|SYY_AYWBP Total prob of N-in:        0.01511
+sp|Q2NJG7|SYY_AYWBP	TMHMM2.0	outside	     1   413
+# sp|Q2NJM5|TSAD_AYWBP Length: 274
+# sp|Q2NJM5|TSAD_AYWBP Number of predicted TMHs:  0
+# sp|Q2NJM5|TSAD_AYWBP Exp number of AAs in TMHs: 3.99349
+# sp|Q2NJM5|TSAD_AYWBP Exp number, first 60 AAs:  3.59047
+# sp|Q2NJM5|TSAD_AYWBP Total prob of N-in:        0.13182
+sp|Q2NJM5|TSAD_AYWBP	TMHMM2.0	outside	     1   274
+# sp|Q2NJZ2|SYFB_AYWBP Length: 828
+# sp|Q2NJZ2|SYFB_AYWBP Number of predicted TMHs:  0
+# sp|Q2NJZ2|SYFB_AYWBP Exp number of AAs in TMHs: 0.0629300000000003
+# sp|Q2NJZ2|SYFB_AYWBP Exp number, first 60 AAs:  0.00593
+# sp|Q2NJZ2|SYFB_AYWBP Total prob of N-in:        0.00250
+sp|Q2NJZ2|SYFB_AYWBP	TMHMM2.0	outside	     1   828
+# sp|Q2NK31|POTA_AYWBP Length: 417
+# sp|Q2NK31|POTA_AYWBP Number of predicted TMHs:  0
+# sp|Q2NK31|POTA_AYWBP Exp number of AAs in TMHs: 0.03893
+# sp|Q2NK31|POTA_AYWBP Exp number, first 60 AAs:  0.00251
+# sp|Q2NK31|POTA_AYWBP Total prob of N-in:        0.00403
+sp|Q2NK31|POTA_AYWBP	TMHMM2.0	outside	     1   417
+# sp|Q6YPM1|DNAK_ONYPE Length: 615
+# sp|Q6YPM1|DNAK_ONYPE Number of predicted TMHs:  0
+# sp|Q6YPM1|DNAK_ONYPE Exp number of AAs in TMHs: 0.0448000000000001
+# sp|Q6YPM1|DNAK_ONYPE Exp number, first 60 AAs:  0.0095
+# sp|Q6YPM1|DNAK_ONYPE Total prob of N-in:        0.00417
+sp|Q6YPM1|DNAK_ONYPE	TMHMM2.0	outside	     1   615
+# sp|Q6YPM2|DNAJ_ONYPE Length: 257
+# sp|Q6YPM2|DNAJ_ONYPE Number of predicted TMHs:  0
+# sp|Q6YPM2|DNAJ_ONYPE Exp number of AAs in TMHs: 0.00561
+# sp|Q6YPM2|DNAJ_ONYPE Exp number, first 60 AAs:  0
+# sp|Q6YPM2|DNAJ_ONYPE Total prob of N-in:        0.13290
+sp|Q6YPM2|DNAJ_ONYPE	TMHMM2.0	outside	     1   257
+# sp|Q6YPW7|RNC_ONYPE Length: 238
+# sp|Q6YPW7|RNC_ONYPE Number of predicted TMHs:  0
+# sp|Q6YPW7|RNC_ONYPE Exp number of AAs in TMHs: 0.39225
+# sp|Q6YPW7|RNC_ONYPE Exp number, first 60 AAs:  0.00895
+# sp|Q6YPW7|RNC_ONYPE Total prob of N-in:        0.12005
+sp|Q6YPW7|RNC_ONYPE	TMHMM2.0	outside	     1   238
+# sp|Q6YPW8|PLSX_ONYPE Length: 366
+# sp|Q6YPW8|PLSX_ONYPE Number of predicted TMHs:  0
+# sp|Q6YPW8|PLSX_ONYPE Exp number of AAs in TMHs: 0.1177
+# sp|Q6YPW8|PLSX_ONYPE Exp number, first 60 AAs:  0.00157
+# sp|Q6YPW8|PLSX_ONYPE Total prob of N-in:        0.01616
+sp|Q6YPW8|PLSX_ONYPE	TMHMM2.0	outside	     1   366
+# sp|Q6YPX9|SYFA_ONYPE Length: 344
+# sp|Q6YPX9|SYFA_ONYPE Number of predicted TMHs:  0
+# sp|Q6YPX9|SYFA_ONYPE Exp number of AAs in TMHs: 0.00487
+# sp|Q6YPX9|SYFA_ONYPE Exp number, first 60 AAs:  4e-05
+# sp|Q6YPX9|SYFA_ONYPE Total prob of N-in:        0.09458
+sp|Q6YPX9|SYFA_ONYPE	TMHMM2.0	outside	     1   344
+# sp|Q6YPY6|SYK_ONYPE Length: 511
+# sp|Q6YPY6|SYK_ONYPE Number of predicted TMHs:  0
+# sp|Q6YPY6|SYK_ONYPE Exp number of AAs in TMHs: 0.01469
+# sp|Q6YPY6|SYK_ONYPE Exp number, first 60 AAs:  0.00011
+# sp|Q6YPY6|SYK_ONYPE Total prob of N-in:        0.00232
+sp|Q6YPY6|SYK_ONYPE	TMHMM2.0	outside	     1   511
+# sp|Q6YPZ6|TSAD_ONYPE Length: 233
+# sp|Q6YPZ6|TSAD_ONYPE Number of predicted TMHs:  0
+# sp|Q6YPZ6|TSAD_ONYPE Exp number of AAs in TMHs: 1.33896
+# sp|Q6YPZ6|TSAD_ONYPE Exp number, first 60 AAs:  0.000860000000000001
+# sp|Q6YPZ6|TSAD_ONYPE Total prob of N-in:        0.07545
+sp|Q6YPZ6|TSAD_ONYPE	TMHMM2.0	outside	     1   233
+# sp|Q6YQE1|UVRB_ONYPE Length: 670
+# sp|Q6YQE1|UVRB_ONYPE Number of predicted TMHs:  0
+# sp|Q6YQE1|UVRB_ONYPE Exp number of AAs in TMHs: 0.02235
+# sp|Q6YQE1|UVRB_ONYPE Exp number, first 60 AAs:  0.01675
+# sp|Q6YQE1|UVRB_ONYPE Total prob of N-in:        0.00104
+sp|Q6YQE1|UVRB_ONYPE	TMHMM2.0	outside	     1   670
+# sp|Q6YR34|SYI_ONYPE Length: 900
+# sp|Q6YR34|SYI_ONYPE Number of predicted TMHs:  0
+# sp|Q6YR34|SYI_ONYPE Exp number of AAs in TMHs: 0.37478
+# sp|Q6YR34|SYI_ONYPE Exp number, first 60 AAs:  0.00025
+# sp|Q6YR34|SYI_ONYPE Total prob of N-in:        0.01582
+sp|Q6YR34|SYI_ONYPE	TMHMM2.0	outside	     1   900
+# sp|Q6YR88|SYD_ONYPE Length: 586
+# sp|Q6YR88|SYD_ONYPE Number of predicted TMHs:  0
+# sp|Q6YR88|SYD_ONYPE Exp number of AAs in TMHs: 0.0258
+# sp|Q6YR88|SYD_ONYPE Exp number, first 60 AAs:  0.01462
+# sp|Q6YR88|SYD_ONYPE Total prob of N-in:        0.01038
+sp|Q6YR88|SYD_ONYPE	TMHMM2.0	outside	     1   586
+# sp|Q6YRC6|OBG_ONYPE Length: 422
+# sp|Q6YRC6|OBG_ONYPE Number of predicted TMHs:  0
+# sp|Q6YRC6|OBG_ONYPE Exp number of AAs in TMHs: 0.03583
+# sp|Q6YRC6|OBG_ONYPE Exp number, first 60 AAs:  0.00914
+# sp|Q6YRC6|OBG_ONYPE Total prob of N-in:        0.00168
+sp|Q6YRC6|OBG_ONYPE	TMHMM2.0	outside	     1   422
+# sp|Q6YRJ6|SYV_ONYPE Length: 882
+# sp|Q6YRJ6|SYV_ONYPE Number of predicted TMHs:  0
+# sp|Q6YRJ6|SYV_ONYPE Exp number of AAs in TMHs: 0.03116
+# sp|Q6YRJ6|SYV_ONYPE Exp number, first 60 AAs:  0.00386
+# sp|Q6YRJ6|SYV_ONYPE Total prob of N-in:        0.00093
+sp|Q6YRJ6|SYV_ONYPE	TMHMM2.0	outside	     1   882
+# sp|Q9KJT8|DNAJ_PEWBP Length: 368
+# sp|Q9KJT8|DNAJ_PEWBP Number of predicted TMHs:  0
+# sp|Q9KJT8|DNAJ_PEWBP Exp number of AAs in TMHs: 2.79688
+# sp|Q9KJT8|DNAJ_PEWBP Exp number, first 60 AAs:  0
+# sp|Q9KJT8|DNAJ_PEWBP Total prob of N-in:        0.20301
+sp|Q9KJT8|DNAJ_PEWBP	TMHMM2.0	outside	     1   368
+# sp|Q8L2S1|GPMI_TOBBP Length: 81
+# sp|Q8L2S1|GPMI_TOBBP Number of predicted TMHs:  0
+# sp|Q8L2S1|GPMI_TOBBP Exp number of AAs in TMHs: 0.00600999999999999
+# sp|Q8L2S1|GPMI_TOBBP Exp number, first 60 AAs:  0.00514
+# sp|Q8L2S1|GPMI_TOBBP Total prob of N-in:        0.10457
+sp|Q8L2S1|GPMI_TOBBP	TMHMM2.0	outside	     1    81
+# sp|B1V8X4|SYN_PHYAS Length: 457
+# sp|B1V8X4|SYN_PHYAS Number of predicted TMHs:  0
+# sp|B1V8X4|SYN_PHYAS Exp number of AAs in TMHs: 0.24914
+# sp|B1V8X4|SYN_PHYAS Exp number, first 60 AAs:  0.00245
+# sp|B1V8X4|SYN_PHYAS Total prob of N-in:        0.01251
+sp|B1V8X4|SYN_PHYAS	TMHMM2.0	outside	     1   457
+# sp|B1V902|ACP_PHYAS Length: 76
+# sp|B1V902|ACP_PHYAS Number of predicted TMHs:  0
+# sp|B1V902|ACP_PHYAS Exp number of AAs in TMHs: 5e-05
+# sp|B1V902|ACP_PHYAS Exp number, first 60 AAs:  5e-05
+# sp|B1V902|ACP_PHYAS Total prob of N-in:        0.29093
+sp|B1V902|ACP_PHYAS	TMHMM2.0	outside	     1    76
+# sp|B1V950|RF1_PHYAS Length: 354
+# sp|B1V950|RF1_PHYAS Number of predicted TMHs:  0
+# sp|B1V950|RF1_PHYAS Exp number of AAs in TMHs: 0.00333
+# sp|B1V950|RF1_PHYAS Exp number, first 60 AAs:  0
+# sp|B1V950|RF1_PHYAS Total prob of N-in:        0.03207
+sp|B1V950|RF1_PHYAS	TMHMM2.0	outside	     1   354
+# sp|B1VA46|SYH_PHYAS Length: 415
+# sp|B1VA46|SYH_PHYAS Number of predicted TMHs:  0
+# sp|B1VA46|SYH_PHYAS Exp number of AAs in TMHs: 0.50734
+# sp|B1VA46|SYH_PHYAS Exp number, first 60 AAs:  0
+# sp|B1VA46|SYH_PHYAS Total prob of N-in:        0.02147
+sp|B1VA46|SYH_PHYAS	TMHMM2.0	outside	     1   415
+# sp|B1VA77|RRF_PHYAS Length: 184
+# sp|B1VA77|RRF_PHYAS Number of predicted TMHs:  0
+# sp|B1VA77|RRF_PHYAS Exp number of AAs in TMHs: 0.000780000000000001
+# sp|B1VA77|RRF_PHYAS Exp number, first 60 AAs:  0.00038
+# sp|B1VA77|RRF_PHYAS Total prob of N-in:        0.17598
+sp|B1VA77|RRF_PHYAS	TMHMM2.0	outside	     1   184
+# sp|B1VA79|EFTS_PHYAS Length: 277
+# sp|B1VA79|EFTS_PHYAS Number of predicted TMHs:  0
+# sp|B1VA79|EFTS_PHYAS Exp number of AAs in TMHs: 0.001
+# sp|B1VA79|EFTS_PHYAS Exp number, first 60 AAs:  4e-05
+# sp|B1VA79|EFTS_PHYAS Total prob of N-in:        0.09002
+sp|B1VA79|EFTS_PHYAS	TMHMM2.0	outside	     1   277
+# sp|B1VAA9|TRMD_PHYAS Length: 244
+# sp|B1VAA9|TRMD_PHYAS Number of predicted TMHs:  0
+# sp|B1VAA9|TRMD_PHYAS Exp number of AAs in TMHs: 0.0611100000000001
+# sp|B1VAA9|TRMD_PHYAS Exp number, first 60 AAs:  0.02555
+# sp|B1VAA9|TRMD_PHYAS Total prob of N-in:        0.01734
+sp|B1VAA9|TRMD_PHYAS	TMHMM2.0	outside	     1   244
+# sp|B1VAH1|PTH_PHYAS Length: 189
+# sp|B1VAH1|PTH_PHYAS Number of predicted TMHs:  0
+# sp|B1VAH1|PTH_PHYAS Exp number of AAs in TMHs: 0.00767999999999999
+# sp|B1VAH1|PTH_PHYAS Exp number, first 60 AAs:  0.0038
+# sp|B1VAH1|PTH_PHYAS Total prob of N-in:        0.10199
+sp|B1VAH1|PTH_PHYAS	TMHMM2.0	outside	     1   189
+# sp|B1VAH8|YBEY_PHYAS Length: 144
+# sp|B1VAH8|YBEY_PHYAS Number of predicted TMHs:  0
+# sp|B1VAH8|YBEY_PHYAS Exp number of AAs in TMHs: 0.00262
+# sp|B1VAH8|YBEY_PHYAS Exp number, first 60 AAs:  0.00038
+# sp|B1VAH8|YBEY_PHYAS Total prob of N-in:        0.53777
+sp|B1VAH8|YBEY_PHYAS	TMHMM2.0	inside	     1   144
+# sp|B1VAJ8|EFP_PHYAS Length: 189
+# sp|B1VAJ8|EFP_PHYAS Number of predicted TMHs:  0
+# sp|B1VAJ8|EFP_PHYAS Exp number of AAs in TMHs: 0.08364
+# sp|B1VAJ8|EFP_PHYAS Exp number, first 60 AAs:  0.00404
+# sp|B1VAJ8|EFP_PHYAS Total prob of N-in:        0.23196
+sp|B1VAJ8|EFP_PHYAS	TMHMM2.0	outside	     1   189
+# sp|B1VAM2|EFG_PHYAS Length: 688
+# sp|B1VAM2|EFG_PHYAS Number of predicted TMHs:  0
+# sp|B1VAM2|EFG_PHYAS Exp number of AAs in TMHs: 0.10178
+# sp|B1VAM2|EFG_PHYAS Exp number, first 60 AAs:  0.00336
+# sp|B1VAM2|EFG_PHYAS Total prob of N-in:        0.00085
+sp|B1VAM2|EFG_PHYAS	TMHMM2.0	outside	     1   688
+# sp|B1VAM6|RPOB_PHYAS Length: 1240
+# sp|B1VAM6|RPOB_PHYAS Number of predicted TMHs:  0
+# sp|B1VAM6|RPOB_PHYAS Exp number of AAs in TMHs: 0.01507
+# sp|B1VAM6|RPOB_PHYAS Exp number, first 60 AAs:  0.0004
+# sp|B1VAM6|RPOB_PHYAS Total prob of N-in:        0.00080
+sp|B1VAM6|RPOB_PHYAS	TMHMM2.0	outside	     1  1240
+# sp|B1VAN7|RNPA_PHYAS Length: 115
+# sp|B1VAN7|RNPA_PHYAS Number of predicted TMHs:  0
+# sp|B1VAN7|RNPA_PHYAS Exp number of AAs in TMHs: 12.88789
+# sp|B1VAN7|RNPA_PHYAS Exp number, first 60 AAs:  0.01857
+# sp|B1VAN7|RNPA_PHYAS Total prob of N-in:        0.87957
+sp|B1VAN7|RNPA_PHYAS	TMHMM2.0	inside	     1   115
+# sp|B1VAN9|SYP_PHYAS Length: 474
+# sp|B1VAN9|SYP_PHYAS Number of predicted TMHs:  0
+# sp|B1VAN9|SYP_PHYAS Exp number of AAs in TMHs: 1.08227
+# sp|B1VAN9|SYP_PHYAS Exp number, first 60 AAs:  1.07244
+# sp|B1VAN9|SYP_PHYAS Total prob of N-in:        0.06784
+sp|B1VAN9|SYP_PHYAS	TMHMM2.0	outside	     1   474
+# sp|B1VAZ2|KCY_PHYAS Length: 224
+# sp|B1VAZ2|KCY_PHYAS Number of predicted TMHs:  0
+# sp|B1VAZ2|KCY_PHYAS Exp number of AAs in TMHs: 0.00267
+# sp|B1VAZ2|KCY_PHYAS Exp number, first 60 AAs:  0.00139
+# sp|B1VAZ2|KCY_PHYAS Total prob of N-in:        0.02896
+sp|B1VAZ2|KCY_PHYAS	TMHMM2.0	outside	     1   224
+# sp|B3QZH0|RPOB_PHYMT Length: 1273
+# sp|B3QZH0|RPOB_PHYMT Number of predicted TMHs:  0
+# sp|B3QZH0|RPOB_PHYMT Exp number of AAs in TMHs: 0.0694499999999999
+# sp|B3QZH0|RPOB_PHYMT Exp number, first 60 AAs:  0.00056
+# sp|B3QZH0|RPOB_PHYMT Total prob of N-in:        0.00309
+sp|B3QZH0|RPOB_PHYMT	TMHMM2.0	outside	     1  1273
+# sp|B3QZH4|EFG_PHYMT Length: 688
+# sp|B3QZH4|EFG_PHYMT Number of predicted TMHs:  0
+# sp|B3QZH4|EFG_PHYMT Exp number of AAs in TMHs: 0.04459
+# sp|B3QZH4|EFG_PHYMT Exp number, first 60 AAs:  0.0004
+# sp|B3QZH4|EFG_PHYMT Total prob of N-in:        0.00032
+sp|B3QZH4|EFG_PHYMT	TMHMM2.0	outside	     1   688
+# sp|B3QZH5|EFTU_PHYMT Length: 392
+# sp|B3QZH5|EFTU_PHYMT Number of predicted TMHs:  0
+# sp|B3QZH5|EFTU_PHYMT Exp number of AAs in TMHs: 0.04427
+# sp|B3QZH5|EFTU_PHYMT Exp number, first 60 AAs:  0.00127
+# sp|B3QZH5|EFTU_PHYMT Total prob of N-in:        0.01293
+sp|B3QZH5|EFTU_PHYMT	TMHMM2.0	outside	     1   392
+# sp|B3QZK4|HRCA_PHYMT Length: 343
+# sp|B3QZK4|HRCA_PHYMT Number of predicted TMHs:  0
+# sp|B3QZK4|HRCA_PHYMT Exp number of AAs in TMHs: 0.13447
+# sp|B3QZK4|HRCA_PHYMT Exp number, first 60 AAs:  0.00298
+# sp|B3QZK4|HRCA_PHYMT Total prob of N-in:        0.02928
+sp|B3QZK4|HRCA_PHYMT	TMHMM2.0	outside	     1   343
+# sp|B3QZM3|PTH_PHYMT Length: 176
+# sp|B3QZM3|PTH_PHYMT Number of predicted TMHs:  0
+# sp|B3QZM3|PTH_PHYMT Exp number of AAs in TMHs: 7.52146000000001
+# sp|B3QZM3|PTH_PHYMT Exp number, first 60 AAs:  7.49671
+# sp|B3QZM3|PTH_PHYMT Total prob of N-in:        0.02313
+sp|B3QZM3|PTH_PHYMT	TMHMM2.0	outside	     1   176
+# sp|B3QZN3|EFTS_PHYMT Length: 279
+# sp|B3QZN3|EFTS_PHYMT Number of predicted TMHs:  0
+# sp|B3QZN3|EFTS_PHYMT Exp number of AAs in TMHs: 0.00015
+# sp|B3QZN3|EFTS_PHYMT Exp number, first 60 AAs:  0
+# sp|B3QZN3|EFTS_PHYMT Total prob of N-in:        0.03370
+sp|B3QZN3|EFTS_PHYMT	TMHMM2.0	outside	     1   279
+# sp|B3QZS0|SYH_PHYMT Length: 423
+# sp|B3QZS0|SYH_PHYMT Number of predicted TMHs:  0
+# sp|B3QZS0|SYH_PHYMT Exp number of AAs in TMHs: 0.02996
+# sp|B3QZS0|SYH_PHYMT Exp number, first 60 AAs:  0
+# sp|B3QZS0|SYH_PHYMT Total prob of N-in:        0.01594
+sp|B3QZS0|SYH_PHYMT	TMHMM2.0	outside	     1   423
+# sp|B3QZV1|YBEY_PHYMT Length: 148
+# sp|B3QZV1|YBEY_PHYMT Number of predicted TMHs:  0
+# sp|B3QZV1|YBEY_PHYMT Exp number of AAs in TMHs: 0.31748
+# sp|B3QZV1|YBEY_PHYMT Exp number, first 60 AAs:  0.31151
+# sp|B3QZV1|YBEY_PHYMT Total prob of N-in:        0.70092
+sp|B3QZV1|YBEY_PHYMT	TMHMM2.0	inside	     1   148
+# sp|B3QZW6|RBFA_PHYMT Length: 114
+# sp|B3QZW6|RBFA_PHYMT Number of predicted TMHs:  0
+# sp|B3QZW6|RBFA_PHYMT Exp number of AAs in TMHs: 0.05972
+# sp|B3QZW6|RBFA_PHYMT Exp number, first 60 AAs:  0.04707
+# sp|B3QZW6|RBFA_PHYMT Total prob of N-in:        0.16602
+sp|B3QZW6|RBFA_PHYMT	TMHMM2.0	outside	     1   114
+# sp|B3R068|RECR_PHYMT Length: 206
+# sp|B3R068|RECR_PHYMT Number of predicted TMHs:  0
+# sp|B3R068|RECR_PHYMT Exp number of AAs in TMHs: 0.01343
+# sp|B3R068|RECR_PHYMT Exp number, first 60 AAs:  0.00206
+# sp|B3R068|RECR_PHYMT Total prob of N-in:        0.10651
+sp|B3R068|RECR_PHYMT	TMHMM2.0	outside	     1   206
+# sp|B3R0E5|KCY_PHYMT Length: 232
+# sp|B3R0E5|KCY_PHYMT Number of predicted TMHs:  0
+# sp|B3R0E5|KCY_PHYMT Exp number of AAs in TMHs: 0.03274
+# sp|B3R0E5|KCY_PHYMT Exp number, first 60 AAs:  0.02951
+# sp|B3R0E5|KCY_PHYMT Total prob of N-in:        0.04906
+sp|B3R0E5|KCY_PHYMT	TMHMM2.0	outside	     1   232
+# sp|B3R0E7|EFP_PHYMT Length: 188
+# sp|B3R0E7|EFP_PHYMT Number of predicted TMHs:  0
+# sp|B3R0E7|EFP_PHYMT Exp number of AAs in TMHs: 0.0944800000000001
+# sp|B3R0E7|EFP_PHYMT Exp number, first 60 AAs:  0.04318
+# sp|B3R0E7|EFP_PHYMT Total prob of N-in:        0.17557
+sp|B3R0E7|EFP_PHYMT	TMHMM2.0	outside	     1   188
+# sp|B3R0F8|RECA_PHYMT Length: 339
+# sp|B3R0F8|RECA_PHYMT Number of predicted TMHs:  0
+# sp|B3R0F8|RECA_PHYMT Exp number of AAs in TMHs: 0.19318
+# sp|B3R0F8|RECA_PHYMT Exp number, first 60 AAs:  0.06334
+# sp|B3R0F8|RECA_PHYMT Total prob of N-in:        0.31315
+sp|B3R0F8|RECA_PHYMT	TMHMM2.0	outside	     1   339
+# sp|B3R0I1|SYN_PHYMT Length: 465
+# sp|B3R0I1|SYN_PHYMT Number of predicted TMHs:  0
+# sp|B3R0I1|SYN_PHYMT Exp number of AAs in TMHs: 0.02109
+# sp|B3R0I1|SYN_PHYMT Exp number, first 60 AAs:  0.00055
+# sp|B3R0I1|SYN_PHYMT Total prob of N-in:        0.00115
+sp|B3R0I1|SYN_PHYMT	TMHMM2.0	outside	     1   465
+# sp|B3R0L6|DNAA_PHYMT Length: 455
+# sp|B3R0L6|DNAA_PHYMT Number of predicted TMHs:  0
+# sp|B3R0L6|DNAA_PHYMT Exp number of AAs in TMHs: 0.0817
+# sp|B3R0L6|DNAA_PHYMT Exp number, first 60 AAs:  0.0013
+# sp|B3R0L6|DNAA_PHYMT Total prob of N-in:        0.01977
+sp|B3R0L6|DNAA_PHYMT	TMHMM2.0	outside	     1   455
+# sp|B3R0P2|TRMD_PHYMT Length: 243
+# sp|B3R0P2|TRMD_PHYMT Number of predicted TMHs:  0
+# sp|B3R0P2|TRMD_PHYMT Exp number of AAs in TMHs: 0.11392
+# sp|B3R0P2|TRMD_PHYMT Exp number, first 60 AAs:  0.00621
+# sp|B3R0P2|TRMD_PHYMT Total prob of N-in:        0.01817
+sp|B3R0P2|TRMD_PHYMT	TMHMM2.0	outside	     1   243
+# sp|B3R0P8|ACP_PHYMT Length: 84
+# sp|B3R0P8|ACP_PHYMT Number of predicted TMHs:  0
+# sp|B3R0P8|ACP_PHYMT Exp number of AAs in TMHs: 0
+# sp|B3R0P8|ACP_PHYMT Exp number, first 60 AAs:  0
+# sp|B3R0P8|ACP_PHYMT Total prob of N-in:        0.22495
+sp|B3R0P8|ACP_PHYMT	TMHMM2.0	outside	     1    84
+# sp|P60554|KGUA_ONYPE Length: 212
+# sp|P60554|KGUA_ONYPE Number of predicted TMHs:  0
+# sp|P60554|KGUA_ONYPE Exp number of AAs in TMHs: 0.0433700000000001
+# sp|P60554|KGUA_ONYPE Exp number, first 60 AAs:  0.04319
+# sp|P60554|KGUA_ONYPE Total prob of N-in:        0.05594
+sp|P60554|KGUA_ONYPE	TMHMM2.0	outside	     1   212
+# sp|P61308|RRF_ONYPE Length: 184
+# sp|P61308|RRF_ONYPE Number of predicted TMHs:  0
+# sp|P61308|RRF_ONYPE Exp number of AAs in TMHs: 0.02563
+# sp|P61308|RRF_ONYPE Exp number, first 60 AAs:  0.01151
+# sp|P61308|RRF_ONYPE Total prob of N-in:        0.10847
+sp|P61308|RRF_ONYPE	TMHMM2.0	outside	     1   184
+# sp|P61337|EFTS_ONYPE Length: 274
+# sp|P61337|EFTS_ONYPE Number of predicted TMHs:  0
+# sp|P61337|EFTS_ONYPE Exp number of AAs in TMHs: 0.00036
+# sp|P61337|EFTS_ONYPE Exp number, first 60 AAs:  8e-05
+# sp|P61337|EFTS_ONYPE Total prob of N-in:        0.11016
+sp|P61337|EFTS_ONYPE	TMHMM2.0	outside	     1   274
+# sp|P61692|IF1_ONYPE Length: 78
+# sp|P61692|IF1_ONYPE Number of predicted TMHs:  0
+# sp|P61692|IF1_ONYPE Exp number of AAs in TMHs: 0.00249
+# sp|P61692|IF1_ONYPE Exp number, first 60 AAs:  0.00249
+# sp|P61692|IF1_ONYPE Total prob of N-in:        0.70986
+sp|P61692|IF1_ONYPE	TMHMM2.0	inside	     1    78
+# sp|Q2NIG9|ACP_AYWBP Length: 76
+# sp|Q2NIG9|ACP_AYWBP Number of predicted TMHs:  0
+# sp|Q2NIG9|ACP_AYWBP Exp number of AAs in TMHs: 0.00019
+# sp|Q2NIG9|ACP_AYWBP Exp number, first 60 AAs:  8e-05
+# sp|Q2NIG9|ACP_AYWBP Total prob of N-in:        0.24120
+sp|Q2NIG9|ACP_AYWBP	TMHMM2.0	outside	     1    76
+# sp|Q2NIJ6|TRHO_AYWBP Length: 308
+# sp|Q2NIJ6|TRHO_AYWBP Number of predicted TMHs:  0
+# sp|Q2NIJ6|TRHO_AYWBP Exp number of AAs in TMHs: 0.02912
+# sp|Q2NIJ6|TRHO_AYWBP Exp number, first 60 AAs:  0.02912
+# sp|Q2NIJ6|TRHO_AYWBP Total prob of N-in:        0.07105
+sp|Q2NIJ6|TRHO_AYWBP	TMHMM2.0	outside	     1   308
+# sp|Q2NIM1|KITH_AYWBP Length: 209
+# sp|Q2NIM1|KITH_AYWBP Number of predicted TMHs:  0
+# sp|Q2NIM1|KITH_AYWBP Exp number of AAs in TMHs: 0.50991
+# sp|Q2NIM1|KITH_AYWBP Exp number, first 60 AAs:  0.03107
+# sp|Q2NIM1|KITH_AYWBP Total prob of N-in:        0.11862
+sp|Q2NIM1|KITH_AYWBP	TMHMM2.0	outside	     1   209
+# sp|Q2NIN2|SYH_AYWBP Length: 427
+# sp|Q2NIN2|SYH_AYWBP Number of predicted TMHs:  0
+# sp|Q2NIN2|SYH_AYWBP Exp number of AAs in TMHs: 0.01445
+# sp|Q2NIN2|SYH_AYWBP Exp number, first 60 AAs:  0
+# sp|Q2NIN2|SYH_AYWBP Total prob of N-in:        0.00858
+sp|Q2NIN2|SYH_AYWBP	TMHMM2.0	outside	     1   427
+# sp|Q2NIN4|TILS_AYWBP Length: 436
+# sp|Q2NIN4|TILS_AYWBP Number of predicted TMHs:  0
+# sp|Q2NIN4|TILS_AYWBP Exp number of AAs in TMHs: 4.45961000000001
+# sp|Q2NIN4|TILS_AYWBP Exp number, first 60 AAs:  3.83441
+# sp|Q2NIN4|TILS_AYWBP Total prob of N-in:        0.15849
+sp|Q2NIN4|TILS_AYWBP	TMHMM2.0	outside	     1   436
+# sp|Q2NIQ6|IF2_AYWBP Length: 623
+# sp|Q2NIQ6|IF2_AYWBP Number of predicted TMHs:  0
+# sp|Q2NIQ6|IF2_AYWBP Exp number of AAs in TMHs: 0.302000000000001
+# sp|Q2NIQ6|IF2_AYWBP Exp number, first 60 AAs:  0.26637
+# sp|Q2NIQ6|IF2_AYWBP Total prob of N-in:        0.01782
+sp|Q2NIQ6|IF2_AYWBP	TMHMM2.0	outside	     1   623
+# sp|Q2NIQ9|PTH_AYWBP Length: 188
+# sp|Q2NIQ9|PTH_AYWBP Number of predicted TMHs:  0
+# sp|Q2NIQ9|PTH_AYWBP Exp number of AAs in TMHs: 0.00761
+# sp|Q2NIQ9|PTH_AYWBP Exp number, first 60 AAs:  0.00211
+# sp|Q2NIQ9|PTH_AYWBP Total prob of N-in:        0.02546
+sp|Q2NIQ9|PTH_AYWBP	TMHMM2.0	outside	     1   188
+# sp|Q2NIY4|KTHY_AYWBP Length: 207
+# sp|Q2NIY4|KTHY_AYWBP Number of predicted TMHs:  0
+# sp|Q2NIY4|KTHY_AYWBP Exp number of AAs in TMHs: 0.01709
+# sp|Q2NIY4|KTHY_AYWBP Exp number, first 60 AAs:  0.00014
+# sp|Q2NIY4|KTHY_AYWBP Total prob of N-in:        0.01353
+sp|Q2NIY4|KTHY_AYWBP	TMHMM2.0	outside	     1   207
+# sp|Q2NIZ2|TRUB_AYWBP Length: 283
+# sp|Q2NIZ2|TRUB_AYWBP Number of predicted TMHs:  0
+# sp|Q2NIZ2|TRUB_AYWBP Exp number of AAs in TMHs: 0.672609999999999
+# sp|Q2NIZ2|TRUB_AYWBP Exp number, first 60 AAs:  0.66916
+# sp|Q2NIZ2|TRUB_AYWBP Total prob of N-in:        0.01248
+sp|Q2NIZ2|TRUB_AYWBP	TMHMM2.0	outside	     1   283
+# sp|Q2NIZ4|KCY_AYWBP Length: 223
+# sp|Q2NIZ4|KCY_AYWBP Number of predicted TMHs:  0
+# sp|Q2NIZ4|KCY_AYWBP Exp number of AAs in TMHs: 0.01119
+# sp|Q2NIZ4|KCY_AYWBP Exp number, first 60 AAs:  0.00472
+# sp|Q2NIZ4|KCY_AYWBP Total prob of N-in:        0.17006
+sp|Q2NIZ4|KCY_AYWBP	TMHMM2.0	outside	     1   223
+# sp|Q2NJ01|SYP_AYWBP Length: 474
+# sp|Q2NJ01|SYP_AYWBP Number of predicted TMHs:  0
+# sp|Q2NJ01|SYP_AYWBP Exp number of AAs in TMHs: 1.33522
+# sp|Q2NJ01|SYP_AYWBP Exp number, first 60 AAs:  1.31656
+# sp|Q2NJ01|SYP_AYWBP Total prob of N-in:        0.10394
+sp|Q2NJ01|SYP_AYWBP	TMHMM2.0	outside	     1   474
+# sp|Q2NJ15|RPOB_AYWBP Length: 1273
+# sp|Q2NJ15|RPOB_AYWBP Number of predicted TMHs:  0
+# sp|Q2NJ15|RPOB_AYWBP Exp number of AAs in TMHs: 0.0235399999999999
+# sp|Q2NJ15|RPOB_AYWBP Exp number, first 60 AAs:  0.00038
+# sp|Q2NJ15|RPOB_AYWBP Total prob of N-in:        0.00087
+sp|Q2NJ15|RPOB_AYWBP	TMHMM2.0	outside	     1  1273
+# sp|Q2NJ19|EFG_AYWBP Length: 688
+# sp|Q2NJ19|EFG_AYWBP Number of predicted TMHs:  0
+# sp|Q2NJ19|EFG_AYWBP Exp number of AAs in TMHs: 0.20213
+# sp|Q2NJ19|EFG_AYWBP Exp number, first 60 AAs:  0.00232
+# sp|Q2NJ19|EFG_AYWBP Total prob of N-in:        0.00065
+sp|Q2NJ19|EFG_AYWBP	TMHMM2.0	outside	     1   688
+# sp|Q2NJ20|EFTU_AYWBP Length: 394
+# sp|Q2NJ20|EFTU_AYWBP Number of predicted TMHs:  0
+# sp|Q2NJ20|EFTU_AYWBP Exp number of AAs in TMHs: 0.03351
+# sp|Q2NJ20|EFTU_AYWBP Exp number, first 60 AAs:  0.01853
+# sp|Q2NJ20|EFTU_AYWBP Total prob of N-in:        0.03460
+sp|Q2NJ20|EFTU_AYWBP	TMHMM2.0	outside	     1   394
+# sp|Q2NJ23|MNMG_AYWBP Length: 618
+# sp|Q2NJ23|MNMG_AYWBP Number of predicted TMHs:  0
+# sp|Q2NJ23|MNMG_AYWBP Exp number of AAs in TMHs: 0.1327
+# sp|Q2NJ23|MNMG_AYWBP Exp number, first 60 AAs:  0.0985099999999999
+# sp|Q2NJ23|MNMG_AYWBP Total prob of N-in:        0.00641
+sp|Q2NJ23|MNMG_AYWBP	TMHMM2.0	outside	     1   618
+# sp|Q2NJ28|RNY_AYWBP Length: 528
+# sp|Q2NJ28|RNY_AYWBP Number of predicted TMHs:  1
+# sp|Q2NJ28|RNY_AYWBP Exp number of AAs in TMHs: 22.48245
+# sp|Q2NJ28|RNY_AYWBP Exp number, first 60 AAs:  22.48165
+# sp|Q2NJ28|RNY_AYWBP Total prob of N-in:        0.99597
+# sp|Q2NJ28|RNY_AYWBP POSSIBLE N-term signal sequence
+sp|Q2NJ28|RNY_AYWBP	TMHMM2.0	inside	     1    12
+sp|Q2NJ28|RNY_AYWBP	TMHMM2.0	TMhelix	    13    35
+sp|Q2NJ28|RNY_AYWBP	TMHMM2.0	outside	    36   528
+# sp|Q2NJ31|EFP_AYWBP Length: 189
+# sp|Q2NJ31|EFP_AYWBP Number of predicted TMHs:  0
+# sp|Q2NJ31|EFP_AYWBP Exp number of AAs in TMHs: 0.10657
+# sp|Q2NJ31|EFP_AYWBP Exp number, first 60 AAs:  0.03904
+# sp|Q2NJ31|EFP_AYWBP Total prob of N-in:        0.23250
+sp|Q2NJ31|EFP_AYWBP	TMHMM2.0	outside	     1   189
+# sp|Q2NJ78|UVRC_AYWBP Length: 589
+# sp|Q2NJ78|UVRC_AYWBP Number of predicted TMHs:  0
+# sp|Q2NJ78|UVRC_AYWBP Exp number of AAs in TMHs: 0.03964
+# sp|Q2NJ78|UVRC_AYWBP Exp number, first 60 AAs:  0
+# sp|Q2NJ78|UVRC_AYWBP Total prob of N-in:        0.00133
+sp|Q2NJ78|UVRC_AYWBP	TMHMM2.0	outside	     1   589
+# sp|Q2NJG9|TRMD_AYWBP Length: 242
+# sp|Q2NJG9|TRMD_AYWBP Number of predicted TMHs:  0
+# sp|Q2NJG9|TRMD_AYWBP Exp number of AAs in TMHs: 0.04622
+# sp|Q2NJG9|TRMD_AYWBP Exp number, first 60 AAs:  0.02052
+# sp|Q2NJG9|TRMD_AYWBP Total prob of N-in:        0.01724
+sp|Q2NJG9|TRMD_AYWBP	TMHMM2.0	outside	     1   242
+# sp|Q2NK15|YBEY_AYWBP Length: 146
+# sp|Q2NK15|YBEY_AYWBP Number of predicted TMHs:  0
+# sp|Q2NK15|YBEY_AYWBP Exp number of AAs in TMHs: 0.02022
+# sp|Q2NK15|YBEY_AYWBP Exp number, first 60 AAs:  0.01569
+# sp|Q2NK15|YBEY_AYWBP Total prob of N-in:        0.39017
+sp|Q2NK15|YBEY_AYWBP	TMHMM2.0	outside	     1   146
+# sp|Q2NK66|GRPE_AYWBP Length: 241
+# sp|Q2NK66|GRPE_AYWBP Number of predicted TMHs:  0
+# sp|Q2NK66|GRPE_AYWBP Exp number of AAs in TMHs: 0
+# sp|Q2NK66|GRPE_AYWBP Exp number, first 60 AAs:  0
+# sp|Q2NK66|GRPE_AYWBP Total prob of N-in:        0.02676
+sp|Q2NK66|GRPE_AYWBP	TMHMM2.0	outside	     1   241
+# sp|Q2NK67|HRCA_AYWBP Length: 344
+# sp|Q2NK67|HRCA_AYWBP Number of predicted TMHs:  0
+# sp|Q2NK67|HRCA_AYWBP Exp number of AAs in TMHs: 0.18756
+# sp|Q2NK67|HRCA_AYWBP Exp number, first 60 AAs:  0.0739
+# sp|Q2NK67|HRCA_AYWBP Total prob of N-in:        0.06060
+sp|Q2NK67|HRCA_AYWBP	TMHMM2.0	outside	     1   344
+# sp|Q6YPH3|SYN_ONYPE Length: 506
+# sp|Q6YPH3|SYN_ONYPE Number of predicted TMHs:  0
+# sp|Q6YPH3|SYN_ONYPE Exp number of AAs in TMHs: 0.17224
+# sp|Q6YPH3|SYN_ONYPE Exp number, first 60 AAs:  0.00036
+# sp|Q6YPH3|SYN_ONYPE Total prob of N-in:        0.00818
+sp|Q6YPH3|SYN_ONYPE	TMHMM2.0	outside	     1   506
+# sp|Q6YPM0|GRPE_ONYPE Length: 247
+# sp|Q6YPM0|GRPE_ONYPE Number of predicted TMHs:  0
+# sp|Q6YPM0|GRPE_ONYPE Exp number of AAs in TMHs: 0.00038
+# sp|Q6YPM0|GRPE_ONYPE Exp number, first 60 AAs:  0
+# sp|Q6YPM0|GRPE_ONYPE Total prob of N-in:        0.03062
+sp|Q6YPM0|GRPE_ONYPE	TMHMM2.0	outside	     1   247
+# sp|Q6YQD4|ACPS_ONYPE Length: 127
+# sp|Q6YQD4|ACPS_ONYPE Number of predicted TMHs:  0
+# sp|Q6YQD4|ACPS_ONYPE Exp number of AAs in TMHs: 0.81904
+# sp|Q6YQD4|ACPS_ONYPE Exp number, first 60 AAs:  0.00096
+# sp|Q6YQD4|ACPS_ONYPE Total prob of N-in:        0.10673
+sp|Q6YQD4|ACPS_ONYPE	TMHMM2.0	outside	     1   127
+# sp|Q6YQX5|RNPA_ONYPE Length: 141
+# sp|Q6YQX5|RNPA_ONYPE Number of predicted TMHs:  0
+# sp|Q6YQX5|RNPA_ONYPE Exp number of AAs in TMHs: 1.45445
+# sp|Q6YQX5|RNPA_ONYPE Exp number, first 60 AAs:  0.44472
+# sp|Q6YQX5|RNPA_ONYPE Total prob of N-in:        0.05322
+sp|Q6YQX5|RNPA_ONYPE	TMHMM2.0	outside	     1   141
+# sp|Q6YR70|SSRP_ONYPE Length: 152
+# sp|Q6YR70|SSRP_ONYPE Number of predicted TMHs:  0
+# sp|Q6YR70|SSRP_ONYPE Exp number of AAs in TMHs: 0.05564
+# sp|Q6YR70|SSRP_ONYPE Exp number, first 60 AAs:  0.02205
+# sp|Q6YR70|SSRP_ONYPE Total prob of N-in:        0.68588
+sp|Q6YR70|SSRP_ONYPE	TMHMM2.0	inside	     1   152
+# sp|Q6YR87|TILS_ONYPE Length: 436
+# sp|Q6YR87|TILS_ONYPE Number of predicted TMHs:  0
+# sp|Q6YR87|TILS_ONYPE Exp number of AAs in TMHs: 1.51548
+# sp|Q6YR87|TILS_ONYPE Exp number, first 60 AAs:  1.24181
+# sp|Q6YR87|TILS_ONYPE Total prob of N-in:        0.05735
+sp|Q6YR87|TILS_ONYPE	TMHMM2.0	outside	     1   436
+# sp|Q6YRK0|RF1_ONYPE Length: 351
+# sp|Q6YRK0|RF1_ONYPE Number of predicted TMHs:  0
+# sp|Q6YRK0|RF1_ONYPE Exp number of AAs in TMHs: 0.00201
+# sp|Q6YRK0|RF1_ONYPE Exp number, first 60 AAs:  0
+# sp|Q6YRK0|RF1_ONYPE Total prob of N-in:        0.02435
+sp|Q6YRK0|RF1_ONYPE	TMHMM2.0	outside	     1   351
+# sp|Q6YRL3|DNAA_ONYPE Length: 507
+# sp|Q6YRL3|DNAA_ONYPE Number of predicted TMHs:  0
+# sp|Q6YRL3|DNAA_ONYPE Exp number of AAs in TMHs: 0.01161
+# sp|Q6YRL3|DNAA_ONYPE Exp number, first 60 AAs:  0.00025
+# sp|Q6YRL3|DNAA_ONYPE Total prob of N-in:        0.00926
+sp|Q6YRL3|DNAA_ONYPE	TMHMM2.0	outside	     1   507
+# sp|Q8G8D1|REPP_ONYPE Length: 377
+# sp|Q8G8D1|REPP_ONYPE Number of predicted TMHs:  0
+# sp|Q8G8D1|REPP_ONYPE Exp number of AAs in TMHs: 0.00057
+# sp|Q8G8D1|REPP_ONYPE Exp number, first 60 AAs:  0
+# sp|Q8G8D1|REPP_ONYPE Total prob of N-in:        0.00874
+sp|Q8G8D1|REPP_ONYPE	TMHMM2.0	outside	     1   377
+# sp|Q9KJU0|GRPE_PEWBP Length: 264
+# sp|Q9KJU0|GRPE_PEWBP Number of predicted TMHs:  0
+# sp|Q9KJU0|GRPE_PEWBP Exp number of AAs in TMHs: 0.00035
+# sp|Q9KJU0|GRPE_PEWBP Exp number, first 60 AAs:  0
+# sp|Q9KJU0|GRPE_PEWBP Total prob of N-in:        0.02375
+sp|Q9KJU0|GRPE_PEWBP	TMHMM2.0	outside	     1   264
+# sp|B1VAB8|HRCA_PHYAS Length: 340
+# sp|B1VAB8|HRCA_PHYAS Number of predicted TMHs:  0
+# sp|B1VAB8|HRCA_PHYAS Exp number of AAs in TMHs: 0.28377
+# sp|B1VAB8|HRCA_PHYAS Exp number, first 60 AAs:  0.0002
+# sp|B1VAB8|HRCA_PHYAS Total prob of N-in:        0.02653
+sp|B1VAB8|HRCA_PHYAS	TMHMM2.0	outside	     1   340

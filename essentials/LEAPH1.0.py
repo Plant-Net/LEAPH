@@ -1,26 +1,12 @@
 import argparse
 import pandas as pd
-import numpy as np
 import joblib
-from Bio import SeqIO
-
-# ml general
-from sklearn import metrics
-from sklearn.metrics import classification_report
-from sklearn.metrics import f1_score
-from sklearn.metrics import precision_score
-from sklearn.metrics import recall_score
-from sklearn.metrics import plot_precision_recall_curve
-from sklearn.model_selection import train_test_split
-from sklearn.model_selection import StratifiedKFold
-from sklearn.model_selection import GridSearchCV
-from sklearn.model_selection import RepeatedStratifiedKFold
+import os
 
 
 # HARD_modified VOTING FUNCTION IMPLEMENTATION
 
 def voting_f(pred_prob_df):
-
     # the dataframe must have columns with probability called as rf_ep, xgb_ep, gnb_epmnb_ep
     pred_votes = {"seq_id": list(pred_prob_df["seq_id"]), "pos_vote": [], "model": []}
     for i in range(len(pred_prob_df)):
@@ -83,15 +69,20 @@ def voting_f(pred_prob_df):
     return rank_votes
 
 
-def LEAPH_f(feature_table):
+def LEAPH_f(feature_table, container):
     features = feature_table[list(feature_table.columns)[2:]]
     ids = list(feature_table["seq_id"])
     dict_pred = {"seq_id": ids}
     for model in ["rf", "xgb", "gnb", "mnb"]:
-        if model != "gnb":
+        if model != "gnb" and container:
             loaded_model = joblib.load(f"/opt/models/{model}_gs_model.pkl")
-        else:
+        elif model != "gnb" and not container:
+            loaded_model = joblib.load(f"./essentials/models/{model}_gs_model.pkl")
+        elif model == "gnb" and container:
             loaded_model = joblib.load(f"/opt/models/{model}_model.pkl")
+        else:
+            loaded_model = joblib.load(f"./essentials/models/{model}_model.pkl")
+
         predictions = list(loaded_model.predict(features))
         dict_pred[model] = predictions
         pred_prob = loaded_model.predict_proba(features)
@@ -110,12 +101,24 @@ if __name__ == '__main__':
                                      epilog="")
     parser.add_argument("-ft", "--feature_table",
                         help=".tsv file with columns in the exact order of model training/feature table coming from"
-                             "buld_feature_table.py script")
+                             "build_feature_table.py script")
     parser.add_argument("-o", "--output_dir",
-                        help="output directory for LEAPH predictions")
+                        help="output directory for LEAPH predictions",
+                        default="./LEAPH_results")
+    parser.add_argument("-nc", "--not_in_container",
+                        help="specify if the script is not executed into a container",
+                        action='store_true')
     parser.add_argument("-px", "--prefix",
                         help="prefix that can distinguish your file from other trials of LEAPH predictions")
     args = parser.parse_args()
 
-    LEAPH_f(pd.read_csv(args.feature_table, sep="\t")).to_csv(f"{args.output_dir}/{args.prefix}_LEAPH_predictions.tsv",
-                                                             sep="\t", index=False)
+    os.makedirs(args.output_dir, exist_ok=True)
+
+    if args.not_in_container:
+        LEAPH_f(pd.read_csv(args.feature_table, sep="\t"),
+                container=False).to_csv(f"{args.output_dir}/{args.prefix}_LEAPH1.0_predictions.tsv",
+                                        sep="\t", index=False)
+    else:
+        LEAPH_f(pd.read_csv(args.feature_table, sep="\t"),
+                container=True).to_csv(f"{args.output_dir}/{args.prefix}_LEAPH1.0_predictions.tsv",
+                                       sep="\t", index=False)

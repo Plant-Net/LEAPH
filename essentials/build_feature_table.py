@@ -29,8 +29,12 @@ if __name__ == '__main__':
 
     parser.add_argument("-i", "--input",
                         help="fasta file with protein sequences")
-    parser.add_argument("-o", "--output_file",
-                        help="path and name of the output file, a .tsv table of features ")
+    parser.add_argument("-o", "--output_dir",
+                        help="path to the output file, a .tsv table of features",
+                        default="./LEAPH_results")
+    parser.add_argument("-of", "--output_file_name",
+                        help="output file (a .tsv table of features) name",
+                        default="feature_table")
     parser.add_argument("-sp", "--signalP_input",
                         help="SignalP output file in .txt format")
     parser.add_argument("-tm", "--tm_input",
@@ -55,7 +59,10 @@ if __name__ == '__main__':
                         action="store_true")
     args = parser.parse_args()
 
+    os.makedirs(args.output_dir, exist_ok=True)
+
     # PARSING INPUT FASTA #
+    print(">Parsing input FASTA         -- 12,5%")
     input_proteins = {}  # a dictionary representation of a fasta file {protein_id: AA_sequence, ...}
     proteins_length = []
     proteins_name = []
@@ -77,6 +84,7 @@ if __name__ == '__main__':
                                      "name": name_list,
                                      "sequence length": proteins_length})
     # SIGNALP #
+    print(">SignalP4.1                  ---- 25%")
     # 'returns' df_sp = a df with 3 columns = protein names, sequence length and signal peptide feature
     sp_predictions = {}
     with open(args.signalP_input, "r") as signalp_file:
@@ -105,6 +113,8 @@ if __name__ == '__main__':
     df_sp = merge_dfs(name_length_cols, df_sp_predictions)
 
     # TMHMM #
+    print(">TMHMM2.0                    ------ 37,5%")
+
     # 'returns' df_sp_tm = a df with 8 columns = protein names, sequence length, signal peptide feature,
     # transmembrane domain,	aa in tr domain, first 60 aa, prob N-in, warning signal sequence
 
@@ -155,6 +165,8 @@ if __name__ == '__main__':
     df_sp_tm = merge_dfs(df_sp, df_tm_predictions)
 
     # MOBIDB-LITE #
+    print(">MobiDB-lite                 -------- 50%")
+
     #  # 'returns' df_sp_tm = a df with 9 columns = protein names, sequence length, signal peptide feature,
     #     # transmembrane domain,	aa in tr domain, first 60 aa, prob N-in, warning signal sequence, MobiDB-lite
 
@@ -184,6 +196,8 @@ if __name__ == '__main__':
         df_sp_tm_mb = merge_dfs(df_sp_tm, df_mb_predictions)
 
     # PROSITE #
+    print(">Prosite1.86                 ---------- 62,5%")
+
     # parse the PROSITE output file of EFFECTOR class to build up a dictionary containing
     # {functional name of motifs: associated sequences}
 
@@ -249,6 +263,8 @@ if __name__ == '__main__':
         df_pros_mot = df_pros_mot.rename(columns={"index": "seq_id"})
 
     # CLUMPs #
+    print(">MOnSTER                     ------------ 75%")
+
     monster_sc = pd.read_csv(args.monster_scores, sep=",", header=0)[["CLUMP", "monster_score"]]
     selected_clumps = list(
         monster_sc["CLUMP"][monster_sc["monster_score"] > np.mean(list(monster_sc["monster_score"]))])
@@ -271,6 +287,8 @@ if __name__ == '__main__':
     df_clump = df_clump.rename(columns={"index": "seq_id"})
 
     # CLUMPs positions #
+    print(">MOnSTER binning             ---------------- 87,5%")
+
     in_protein_bins = {}
     for protein in list(input_proteins.keys()):
         in_protein_bins[protein] = dict(zip([f"bin{i + 1}" for i in range(4)], [0 for i in range(4)]))
@@ -301,15 +319,16 @@ if __name__ == '__main__':
     df_clumps_pos = df_clumps_pos.rename(columns={"index": "seq_id"})
     # merge df_clumps into one clump feature and then all together
     df_clump_features = merge_dfs(df_clump, df_clumps_pos)
-
     # FINAL DF OF FEATURES #
+    print(f">Saving feature table        ------------------ 100%\nat {args.output_dir}")
+
     if args.feature_table_effectors:
         df_sp_tm_mb_pr = merge_dfs(df_sp_tm_mb, df_pros_mot_ord)
         df_sp_tm_mb_pr_cl = merge_dfs(df_sp_tm_mb_pr, df_clump_features)
         # OUTPUT #
-        df_sp_tm_mb_pr_cl.to_csv(f"{args.output_file}.tsv", sep="\t", index=False)
+        df_sp_tm_mb_pr_cl.to_csv(f"{args.output_dir}/{args.output_file_name}.tsv", sep="\t", index=False)
     else:
         df_sp_tm_mb_pr = merge_dfs(df_sp_tm_mb, df_pros_mot)
         df_sp_tm_mb_pr_cl = merge_dfs(df_sp_tm_mb_pr, df_clump_features)
         # OUTPUT #
-        df_sp_tm_mb_pr_cl.to_csv(f"{args.output_file}.tsv", sep="\t", index=False)
+        df_sp_tm_mb_pr_cl.to_csv(f"{args.output_dir}/{args.output_file_name}.tsv", sep="\t", index=False)

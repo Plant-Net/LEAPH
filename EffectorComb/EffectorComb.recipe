@@ -1,0 +1,12 @@
+Bootstrap: docker
+From: r-base
+	
+%post
+	cd /opt
+    # install required packages	
+	R -e "install.packages(c('shiny', 'aweSOM', 'DT', 'readr', 'bslib'), repos='https://cloud.r-project.org/')"
+    
+
+%environment
+	PATH=$PATH:/opt
+	export PATH
