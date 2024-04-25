@@ -20,21 +20,23 @@ LEAPH is tested on:
 And the container images generated with Singularity3.7 from the available recipes/definition files.
   
 ## Usage
-LEAPH can be used as a stand-alone script or using the available definition file to build up the singularity container (recommended)
-
-### LEAPH from container
-To properly use LEAPH you can clone the directory and build the container. 
+LEAPH can be used as a stand-alone script or using the available definition file to build up the singularity container (recommended).
 Before anything else please download the three main software required for the prediction:
 - SignalP4.1 https://services.healthtech.dtu.dk/services/SignalP-4.1/
 - TMHMM 2.0 https://services.healthtech.dtu.dk/services/TMHMM-2.0/
 - MobiDB-lite 1.0 https://github.com/BioComputingUP/MobiDB-lite/releases/tag/v1.0
+  
+### LEAPH from container
+To properly use LEAPH you can clone the directory and build the container. 
 
-Then, update the LEAPH1.0.recipe section ```# Please modify the following paths...``` with the respective paths to find the ```.tar.gz `` files. During container image building, it will ask you to reconfigure the locales for Perl; please indicate the required information and proceed with the process. 
+Then, update the LEAPH1.0.recipe section ```# Please modify the following paths...``` with the respective paths to find the ```.tar.gz `` files of previous tools. 
 
 Thus, in this directory run:
 ```
 sudo singularity build LEAPH1.0.simg ./LEAPH1.0.recipe
 ```
+During container image building, it will ask you to reconfigure the locales for Perl; please indicate the required information and proceed with the process. 
+
 Then, you can execute the internal LEAPH1.0.sh file, remaining in this directory.
 
 **---LEAPH.sh help---**
