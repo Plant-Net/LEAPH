@@ -41,8 +41,8 @@ Please, before continuing, use the Python script provided here, ```EC_map_new_ca
 ```
 python3.8.10 EC_map_new_candidates.py -ifl ../essentials/unify_proteomes_predictions.csv -i /path/to/just_created_feature_table.tsv -lp /path/to/LEAPH1.0_predictions.tsv -o ./ -p prefix
 ```
-As for LEAPH predictions you can verify the usability of the Mapping, by using the DEMO predictions:
+As for LEAPH predictions, you can verify the usability of the Mapping, by using the DEMO predictions:
 ```
 python3.8.10 EC_map_new_candidates.py -ifl ../essentials/unify_proteomes_predictions.csv -i ../LEAPH_results/feature_table.tsv -lp ../LEAPH_results/DEMO_LEAPH1.0_predictions.tsv -o ./ -p DEMO
 ```
-And then upload the obtained table in the corresponding section in EffectorComb, ```Map your proteins!/Browse...```. 
+Then, upload the obtained table in the corresponding section in EffectorComb, ```Map your proteins!/Browse...```. Eventually, reload the page if the SOM doesn't show itself.
