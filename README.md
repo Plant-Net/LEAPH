@@ -16,6 +16,8 @@ LEAPH is tested on:
 - 16GB RAM
 - Intel© Core™ i5-8250U CPU @ 1.60GHz × 4
 - 1TB SSD
+- python2.7
+- python3.8
 
 And the container images generated with Singularity3.7 from the available recipes/definition files.
   
