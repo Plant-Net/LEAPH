@@ -21,7 +21,8 @@ Before anything else please download the three main software required for the pr
 - TMHMM 2.0 https://services.healthtech.dtu.dk/services/TMHMM-2.0/
 - MobiDB-lite 1.0 https://github.com/BioComputingUP/MobiDB-lite/releases/tag/v1.0
 
-Then, update the LEAPH1.0.recipe with the respective paths in which to find the ```.tar.gz``` files. Thus, in this directory run:
+Then, update the LEAPH1.0.recipe with the respective paths to find the ```.tar.gz `` files. During image building, it will ask you to reconfigure the locales for Perl; please indicate the required information and proceed with the process. 
+Thus, in this directory run:
 ```
 sudo singularity build LEAPH1.0.simg ./LEAPH1.0.recipe
 ```
