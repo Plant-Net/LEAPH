@@ -83,7 +83,7 @@ Please carefully read the instructions for each tool before using it for LEAPH f
 To properly use LEAPH you can download the directory and execute the following steps:
 **Predict features** 
 ```
-signalp4.1 -f long -s notm -t gram+ -T /path/to/tmpdir /path/to/aa_sequences.fasta > signalp_out.txt
+signalp -f long -s notm -t gram+ -T /path/to/tmpdir /path/to/aa_sequences.fasta > signalp_out.txt
 ```
 ```
 tmhmm /path/to/aa_sequences.fasta > tmhmm_out.txt
@@ -102,7 +102,7 @@ mkdir pred
 cd pred
 ```
 ```
-signalp4.1 -f long -s notm -t gram+ -T ./tmp ./DEMO/DEMO_sequences.fasta > signalp_DEMO.txt
+signalp -f long -s notm -t gram+ -T ./tmp ./DEMO/DEMO_sequences.fasta > signalp_DEMO.txt
 ```
 ```
 tmhmm ./DEMO/DEMO_sequences.fasta > tmhmm_DEMO.txt
