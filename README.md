@@ -10,12 +10,12 @@ This repository contains both LEAPH source code and scripts to build up the feat
 Moreover, in the directory ```./EffectorComb```, a Shiny App showing different configurations of Self-Organizing Maps is available to explore the results from the LEAPH application for 13 phytoplasma proteomes. The directory also contains a Python script that allows the user to create a properly formatted table to be uploaded on the Shiny App to map the actual predicted proteins on the effector landscape offered by LEAPH. 
 
 The Shiny App usage is explained in the ```./EffectorComb/README.md``` file in the aforementioned directory
-## Minimal system requirements 
+## System requirements 
 LEAPH is tested on:
 - Linux Mint 20.3
-- 16GB RAM
+- 16GB RAM (or less)
 - Intel© Core™ i5-8250U CPU @ 1.60GHz × 4
-- 1TB SSD
+- 1TB SSD (or less)
 - python2.7
 - python3.8
 
