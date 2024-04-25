@@ -102,7 +102,7 @@ python2.7 /path/to/mobidb-lite.py -bin path/to/mobidb-lite/binx -l ./DEMO/DEMO_s
 
 **Build-up the feature table**
 ```
-python3.8.10 ./build_feature_table.py -i /path/to/aa_sequences.fasta\
+python3.8.10 ./essentials/build_feature_table.py -i /path/to/aa_sequences.fasta\
 					-o /path/to/output_dir/feature_table_name\
 					-sp /path/to/feature_prediction_dir/signalp_out.txt\
 					-tm /path/to/feature_prediction_dir/tmhmm_out.txt\
@@ -115,11 +115,11 @@ python3.8.10 ./build_feature_table.py -i /path/to/aa_sequences.fasta\
 ```
 **Predict putative effector proteins with LEAF**
 ```
-python3.8.10 ./LEAPH1.0.py -ft /path/to/feature_table_name.tsv -o /path/to/output_dir -px distinguishable_name 
+python3.8.10 ./essentials/LEAPH1.0.py -ft /path/to/feature_table_name.tsv -o /path/to/output_dir -px distinguishable_name 
 ```
 Again, you can try with the DEMO application, remaining in the git directory (and using the -o parameter to change the location of the output predictions from LEAPH_results):
 ```
-python3.8.10 ./build_feature_table.py -i ./DEMO/DEMO_sequences.fasta\
+python3.8.10 ./essentials/build_feature_table.py -i ./DEMO/DEMO_sequences.fasta\
 					-sp ./pred/signalp_DEMO.txt\
 					-tm ./pred/tmhmm_DEMO.txt\
 					-mb ./pred/mobidb_DEMO.txt\
@@ -130,7 +130,7 @@ python3.8.10 ./build_feature_table.py -i ./DEMO/DEMO_sequences.fasta\
 					-mmc ./essentials/df_motifs_CLUMPs.tsv
 ```
 ```
-python3.8.10 ./LEAPH1.0.py -ft ./LEAPH_results/feature_table.tsv -px DEMO
+python3.8.10 ./essentials/LEAPH1.0.py -ft ./LEAPH_results/feature_table.tsv -px DEMO
 ```
 
 ## Feature Considered
