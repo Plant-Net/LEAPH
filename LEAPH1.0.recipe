@@ -20,18 +20,18 @@ From: ubuntu:18.04
 	./essentials/models/mnb_gs_model.pkl /opt/models/
 
 	# copy LEAPH executive files
-	./LEAPH1.0.py /opt/
-	./build_feature_table.py /opt/
-	./LEAPH1.0.sh /opt/
+	./essentials/LEAPH1.0.py /opt/
+	./essentials/build_feature_table.py /opt/
+	./essentials/LEAPH1.0.sh /opt/
 
 
     # Please modify the following paths after having downloaded the three sources for the following tools
     # SignalP 4.1
-    /home/giulia/Workspace/PhytoPhD/VM_sharedfolder_redo/signalp-4.1g.Linux.tar.gz /opt/ 
+    /path/to/signalp-4.1g.Linux.tar.gz /opt/ 
     # TMHMM 2.0
-    /home/giulia/Workspace/PhytoPhD/VM_sharedfolder_redo/tmhmm-2.0c.Linux.tar.gz /opt/
+    /path/to/tmhmm-2.0c.Linux.tar.gz /opt/
     # MobiDB-lite 1.0
-    /home/giulia/Workspace/PhytoPhD/VM_sharedfolder_redo/mobidb-lite.tar.gz /opt/ 
+    /path/to/mobidb-lite.tar.gz /opt/ 
 
 
 %post

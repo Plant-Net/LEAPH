@@ -214,13 +214,13 @@ server <- function(input, output) {
     type = "Cloud",
     data = ref_and_maps,
     variables = c("origin"))})
-  output$cloud_map_som <- renderUI({cloud_map_som_plot()})
   
   ### DOWNLOAD PLOT
+  output$cloud_map_som <- renderUI({cloud_map_som_plot()})
   output$download4 <- downloadHandler(
     filename = function() {paste("EC_LEAPH_mapped_SOM_clouds", '.html', sep='')},
     content = function(file) {
-      saveWidget(cloud_map_som_plot, file)
+      saveWidget(cloud_map_som_plot(), file)
     })
   
   ### Add column to dset with the cell assignment for each protein

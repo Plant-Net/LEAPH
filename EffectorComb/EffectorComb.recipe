@@ -3,9 +3,16 @@ From: r-base
 	
 %post
 	cd /opt
+    apt-get update
+    apt-get install wget 
+    
+    wget https://github.com/jgm/pandoc/releases/download/3.1.13/pandoc-3.1.13-1-amd64.deb
+    dpkg -i pandoc-3.1.13-1-amd64.deb
+
     # install required packages	
 	R -e "install.packages(c('shiny', 'aweSOM', 'DT', 'readr', 'bslib'), repos='https://cloud.r-project.org/')"
-    
+      
+   
 
 %environment
 	PATH=$PATH:/opt
