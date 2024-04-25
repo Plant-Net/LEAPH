@@ -10,18 +10,27 @@ This repository contains both LEAPH source code and scripts to build up the feat
 Moreover, in the directory ```./EffectorComb```, a Shiny App showing different configurations of Self-Organizing Maps is available to explore the results from the LEAPH application for 13 phytoplasma proteomes. The directory also contains a Python script that allows the user to create a properly formatted table to be uploaded on the Shiny App to map the actual predicted proteins on the effector landscape offered by LEAPH. 
 
 The Shiny App usage is explained in the ```./EffectorComb/README.md``` file in the aforementioned directory
+## Minimal system requirements 
+LEAPH is tested on:
+- Linux Mint 20.3
+- 16GB RAM
+- Intel© Core™ i5-8250U CPU @ 1.60GHz × 4
+- 1TB SSD
 
+And the container images generated with Singularity3.7 from the available recipes/definition files.
+  
 ## Usage
 LEAPH can be used as a stand-alone script or using the available definition file to build up the singularity container (recommended)
 
 ### LEAPH from container
-To properly use LEAPH you can clone the directory and first build the container. 
+To properly use LEAPH you can clone the directory and build the container. 
 Before anything else please download the three main software required for the prediction:
 - SignalP4.1 https://services.healthtech.dtu.dk/services/SignalP-4.1/
 - TMHMM 2.0 https://services.healthtech.dtu.dk/services/TMHMM-2.0/
 - MobiDB-lite 1.0 https://github.com/BioComputingUP/MobiDB-lite/releases/tag/v1.0
 
-Then, update the LEAPH1.0.recipe with the respective paths to find the ```.tar.gz `` files. During image building, it will ask you to reconfigure the locales for Perl; please indicate the required information and proceed with the process. 
+Then, update the LEAPH1.0.recipe section ```# Please modify the following paths...``` with the respective paths to find the ```.tar.gz `` files. During container image building, it will ask you to reconfigure the locales for Perl; please indicate the required information and proceed with the process. 
+
 Thus, in this directory run:
 ```
 sudo singularity build LEAPH1.0.simg ./LEAPH1.0.recipe
