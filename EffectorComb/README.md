@@ -21,7 +21,7 @@ The app will directly read, as inputs, the 2 files contained in ```../essentials
 - use the following singularity container. 
 
 **Using the provided singularity container**
-Please use the provided definition file to build up the ```EffectorComb.simg``` container.
+Please use the provided definition file to build up the ```EffectorComb.simg``` container. This step will take a while.
 ```
 sudo singularity build EffectorComb.simg ./EffectorComb.recipe
 ```
@@ -43,6 +43,6 @@ python3.8.10 EC_map_new_candidates.py -ifl ../essentials/unify_proteomes_predict
 ```
 As for LEAPH predictions, you can verify the usability of the Mapping, by using the DEMO predictions:
 ```
-python3.8.10 EC_map_new_candidates.py -ifl ../essentials/unify_proteomes_predictions.csv -i ../LEAPH_results/feature_table.tsv -lp ../LEAPH_results/DEMO_LEAPH1.0_predictions.tsv -o ../LEAPH_results -p DEMO
+python3.8.10 EC_map_new_candidates.py -ifl ../essentials/unify_proteomes_predictions.csv -i ../LEAPH_results/feature_table_DEMO.tsv -lp ../LEAPH_results/DEMO_LEAPH1.0_predictions.tsv -o ../LEAPH_results -p DEMO
 ```
-Then, upload the obtained table in the corresponding section in EffectorComb, ```Map your proteins!/Browse...```. Eventually, reload the page if the SOM doesn't show itself.
+**Then, upload the obtained table in the corresponding section in EffectorComb, ```Map your proteins!/Browse...```. Eventually, reload the page if the SOM doesn't show itself**
