@@ -31,7 +31,7 @@ Before anything else please download the three main software required for the pr
 ### LEAPH from container
 To properly use LEAPH you can clone the directory and build the container. 
 
-Then, update the LEAPH1.0.recipe section ```# Please modify the following paths...``` with the respective paths to find the ```.tar.gz `` files of previous tools. 
+Then, update the LEAPH1.0.recipe section ```# Please modify the following paths...``` with the respective paths to find the ```.tar.gz``` files of previous tools. 
 
 Thus, in this directory run:
 ```
