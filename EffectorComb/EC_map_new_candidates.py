@@ -98,3 +98,4 @@ if __name__ == '__main__':
     scaled_df_reordered = scaled_df[list(ref_max.keys()) + ["seq_id"]]
     scaled_df_reordered["origin"] = ["new_prediction"] * len(i_ft_peff)
     scaled_df_reordered.to_csv(f"{args.output_dir}/{args.prefix}_scaled_ft_SOM.tsv", "\t", index=False)
+    print(f"# DONE, output file saved at {args.output_dir}/{args.prefix}_scaled_ft_SOM.tsv")
