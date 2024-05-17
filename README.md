@@ -120,11 +120,11 @@ python3.8.10 ./essentials/build_feature_table.py -i /path/to/aa_sequences.fasta\
 					-sp /path/to/feature_prediction_dir/signalp_out.txt\
 					-tm /path/to/feature_prediction_dir/tmhmm_out.txt\
 					-mb /path/to/feature_prediction_dir/mobidb_out.txt\
-					-pr ./pre_feature_prediction/prosite_eff.fasta\
-					-fte ./training_feature_tables/feature_table_eff_std.tsv\
-					-prm ./pre_feature_prediction/prosite_motifs_profiles_eff.txt\
-					-ms ./pre_feature_prediction/monster_score_eff.tsv\
-					-mmc ./pre_feature_prediction/df_motif_CLUMPs_eff.tsv
+					-pr ./essentials/prosite_eff.fasta\
+					-fte ./essentials/feature_table_eff_std.tsv\
+					-prm ./essentials/prosite_motifs_profiles_eff.txt\
+					-ms ./essentials/df_summary_results_monster.tsv\
+					-mmc ./essentials/df_motifs_CLUMPs.tsv
 ```
 **Predict putative effector proteins with LEAF**
 ```
