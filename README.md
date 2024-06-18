@@ -74,6 +74,10 @@ The required python3.8.10 libraries are:
 - pandas v1.2.4
 - numpy v1.20.1
 - joblib v1.0.1
+- sklearn v1.1.1
+- xgboost v0.90
+- scipy v1.10.1
+
 
 The required software to be installed separately following the previous path, are:
 - SignalP - v4.1
