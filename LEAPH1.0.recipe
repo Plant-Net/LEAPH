@@ -27,11 +27,11 @@ From: ubuntu:18.04
 
     # Please modify the following paths after having downloaded the three sources for the following tools
     # SignalP 4.1
-    /path/to/signalp-4.1g.Linux.tar.gz /opt/ 
+    /home/giulialeaph/Desktop/signalp-4.1g.Linux.tar.gz /opt/ 
     # TMHMM 2.0
-    /path/to/tmhmm-2.0c.Linux.tar.gz /opt/
+    /home/giulialeaph/Desktop/tmhmm-2.0c.Linux.tar.gz /opt/
     # MobiDB-lite 1.0
-    /path/to/mobidb-lite.tar.gz /opt/ 
+    /home/giulialeaph/Desktop/mobidb-lite.tar.gz /opt/ 
 
 
 %post
@@ -48,7 +48,10 @@ From: ubuntu:18.04
         bash Miniconda3-py38_4.10.3-Linux-x86_64.sh -b -p /opt/miniconda3_py38 # installed into /opt/miniconda3_py38 #
         rm Miniconda3-py38_4.10.3-Linux-x86_64.sh
         /opt/miniconda3_py38/bin/conda install -y pandas joblib
-        /opt/miniconda3_py38/bin/conda install -y -c anaconda biopython
+        /opt/miniconda3_py38/bin/conda install -y -c anaconda biopython 
+        /opt/miniconda3_py38/bin/pip3 install scikit-learn==1.1.1
+        /opt/miniconda3_py38/bin/pip3 install xgboost==0.90
+       	/opt/miniconda3_py38/bin/pip3 install scipy==1.10.1
         
         # install miniconda 2 for mobidb-lite
         wget https://repo.anaconda.com/miniconda/Miniconda2-py27_4.8.3-Linux-x86_64.sh
@@ -71,9 +74,9 @@ From: ubuntu:18.04
         sed -i 's|#!/usr/local/bin/perl|#!/usr/bin/perl|' /opt/tmhmm-2.0c/bin/tmhmmformat.pl
 
         # make files executable
-	    chmod a=rx /opt/LEAPH1.0.sh
-	    chmod a=rx /opt/LEAPH1.0.py
-	    chmod a=rx /opt/build_feature_table.py
+	chmod a=rx /opt/LEAPH1.0.sh
+	chmod a=rx /opt/LEAPH1.0.py
+	chmod a=rx /opt/build_feature_table.py
         chmod a=rx /opt/mobidb-lite/mobidb-lite.py
         chmod a=rx /opt/tmhmm-2.0c/bin/decodeanhmm.Linux_x86_64
 
