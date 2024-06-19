@@ -28,15 +28,15 @@ sudo singularity build EffectorComb.simg ./EffectorComb.recipe
 Then use the container as follows:
 **Copy and paste the URL written on terminal after the application opening**
 ```
-singularity exec -B binding/dirs ./EffectorComb.simg R -e "shiny::runApp('./')"
+singularity exec ./EffectorComb.simg R -e "shiny::runApp('./')"
 ```
 
 ## Use the ```Map your proteins!``` section
 Please, before continuing, use the Python script provided here, ```EC_map_new_candidates.py```, to scale the actual predictions accordingly to be mapped to the background SOM.
 
 ## Required packages
-- pandas v1.2.4
-- numpy v1.20.1
+- pandas v1.2.4 (or later)
+- numpy v1.20.1 (or later)
   
 ```
 python3.8.10 EC_map_new_candidates.py -ifl ../essentials/unify_proteomes_predictions.csv -i /path/to/just_created_feature_table.tsv -lp /path/to/LEAPH1.0_predictions.tsv -o ./ -p prefix
