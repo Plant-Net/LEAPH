@@ -24,8 +24,8 @@ And the container images generated with Singularity3.7 from the available recipe
 ## Usage
 LEAPH can be used as a stand-alone script or using the available definition file to build up the singularity container (recommended).
 Before anything else please download the three main software required for the prediction:
-- SignalP4.1 https://services.healthtech.dtu.dk/services/SignalP-4.1/
-- TMHMM 2.0 https://services.healthtech.dtu.dk/services/TMHMM-2.0/
+- SignalP4.1 https://services.healthtech.dtu.dk/services/SignalP-4.1/ Downloads > Version 4.1g
+- TMHMM 2.0 https://services.healthtech.dtu.dk/services/TMHMM-2.0/ Downloads > Version 2.0c
 - MobiDB-lite 1.0 https://github.com/BioComputingUP/MobiDB-lite/releases/tag/v1.0
   
 ### LEAPH from container
