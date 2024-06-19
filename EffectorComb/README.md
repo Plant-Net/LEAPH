@@ -15,7 +15,7 @@ The app's ```Download subDataset``` tab allows users to retrieve information on 
 R -e "shiny::runApp('./')"
 ```
 The app will directly read, as inputs, the 2 files contained in ```../essentials/EC_*.tsv``` 
-**Note** if the document converter ```pandoc``` is not installed in your system, you can run into some issues in downloading the images from EffectorComb. In this case please either:
+**Note** if the document converter ```pandoc``` is not installed in your system, you can run into some issues in downloading the images/plots from EffectorComb. In this case please either:
 - install it from https://github.com/jgm/pandoc/releases/tag/3.1.13
 - run the app directly from Rstudio
 - use the following singularity container. 
