@@ -25,11 +25,12 @@ Please use the provided definition file to build up the ```EffectorComb.simg``` 
 ```
 sudo singularity build EffectorComb.simg ./EffectorComb.recipe
 ```
-Then use the container as follows:
-**Copy and paste the URL written on terminal after the application opening**
+Then use the container as follows: 
+
 ```
 singularity exec ./EffectorComb.simg R -e "shiny::runApp('./')"
 ```
+**Copy and paste the URL written on terminal in your browser**
 
 ## Use the ```Map your proteins!``` section
 Please, before continuing, use the Python script provided here, ```EC_map_new_candidates.py```, to scale the actual predictions accordingly to be mapped to the background SOM.
