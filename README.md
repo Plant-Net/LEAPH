@@ -83,10 +83,12 @@ The required software to be installed separately following the previous path, ar
 - SignalP - v4.1
 - TMHMM - v2.0
 - MobiDB-lite - v1.0
-- (Prosite - v1.86 if you are changing the training set of +)
+- (Prosite - v1.86 if you are changing the training set of +) \
+
 Please carefully read the instructions for each tool before using it for LEAPH feature prediction to ensure a clean installation.
 
-To properly use LEAPH you can download the directory and execute the following steps:
+To properly use LEAPH you can download the directory and execute the following steps: \
+
 **Predict features** 
 ```
 signalp -f long -s notm -t gram+ -T /path/to/tmpdir /path/to/aa_sequences.fasta > signalp_out.txt
