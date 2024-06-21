@@ -37,6 +37,11 @@ Thus, in this directory run:
 ```
 sudo singularity build LEAPH1.0.simg ./LEAPH1.0.recipe
 ```
+or, if you do not have root permissions:
+```
+singularity build --fakeroot LEAPH1.0.simg ./LEAPH1.0_fakeroot.recipe
+```
+
 During container image building, it will ask you to **reconfigure the locales for Perl**; please **indicate the required information** and proceed with the process. (e.g. indicate "282 156" for the first question and "4" to the following one)
 
 Then, you can execute the internal LEAPH1.0.sh file, remaining in this directory.
