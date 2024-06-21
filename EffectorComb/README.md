@@ -25,6 +25,11 @@ Please use the provided definition file to build up the ```EffectorComb.simg``` 
 ```
 sudo singularity build EffectorComb.simg ./EffectorComb.recipe
 ```
+or 
+```
+singularity build --fakeroot LEAPH1.0.simg ./LEAPH1.0_fakeroot.recipe
+```
+
 Then use the container as follows: 
 
 ```
