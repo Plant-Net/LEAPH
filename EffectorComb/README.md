@@ -28,7 +28,7 @@ sudo singularity build EffectorComb.simg ./EffectorComb.recipe
 ```
 or 
 ```
-singularity build --fakeroot LEAPH1.0.simg ./LEAPH1.0_fakeroot.recipe
+singularity build --fakeroot EffectorComb.simg ./EffectorComb.recipe
 ```
 
 Then use the container as follows: 
