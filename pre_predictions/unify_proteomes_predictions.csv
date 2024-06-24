@@ -5,7 +5,7 @@
 "SAP11 - tr|Q2NJA6|Q2NJA6_AYWBP ","CaPasteris_strainAYWB","SAP11","tr","tr","n",1,"AY",121,0.782,1,22.06933,22.06933,0.14392,1,46,1,4,0,0,0,1,0,0,0,0,0,0,1,0,0,0,4,0,1,3,0,1
 "SAP05 - tr|Q2NK94|Q2NK94_AYWBP ","CaPasteris_strainAYWB","SAP05","tr","tr","n",1,"AY",135,0.887,1,20.00503,19.96243,0.98784,1,0,0,1,2,0,0,1,0,0,0,0,0,1,1,0,0,1,1,1,0,2,0,2
 "PHYL1 - tr|X5IFG3|X5IFG3_ONYPH ","CaPasteris_strainOY-M","PHYL1","tr","tr","n",1,"AY",125,0.744,1,20.67478,20.67469,0.84377,1,0,0,1,4,0,0,2,0,0,0,0,0,0,1,1,1,2,1,1,0,3,3,1
-"SWP21_TENGU – 2570378971","CaPtritici","SWP21_TENGU",4,"rf/xgb/gnb/mnb","n",1,"WBD",70,0.634,1,20.32369,20.32369,0.92676,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+"SWP21_TENGU - 2570378971","CaPtritici","SWP21_TENGU",4,"rf/xgb/gnb/mnb","n",1,"WBD",70,0.634,1,20.32369,20.32369,0.92676,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0
 "tr|A0A139JRJ8|A0A139JRJ8_9MOLU","CaPoryzae_strainMbita1","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"RYD",351,0.696,1,21.32963,21.32666,0.98016,1,0,1,4,0,0,0,1,0,0,1,0,0,0,2,0,0,0,5,0,1,4,1,2
 "tr|A0A139JQR6|A0A139JQR6_9MOLU","CaPoryzae_strainMbita1","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_Warning",2,"RYD",118,0,1,21.23176,21.23087,0.43478,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
 "tr|A0A139JQ82|A0A139JQ82_9MOLU","CaPoryzae_strainMbita1","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"RYD",377,0.622,1,20.97785,20.85487,0.60704,1,0,0,7,1,0,0,1,0,0,0,0,0,0,1,0,0,1,5,0,2,2,2,3
@@ -632,156 +632,156 @@
 "tr|A0A0M1N0E8|A0A0M1N0E8_9MOLU","CaPpruni_strainCX","predicted",1,"-/-/-/mnb","n-LEAF_SignalP_Warning",1,"WX",593,0.669,5,115.61684,25.21432,0.99157,1,0,0,6,1,0,0,2,0,0,0,0,0,0,2,0,0,0,2,0,0,0,1,3
 "tr|A0A0M1N135|A0A0M1N135_9MOLU","CaPpruni_strainCX","predicted",1,"-/-/-/mnb","n-LEAF_SignalP_Warning",1,"WX",270,0.615,7,156.91487,32.8323,0.88928,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,1,1,0
 "tr|A0A0M1N0E7|A0A0M1N0E7_9MOLU","CaPpruni_strainCX","predicted",1,"-/-/-/mnb","y-LEAF",3,"WX",71,0,0,5.64811,3.81787,0.48753,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-"lcl|CP015149.1_prot_AOF54629.1_81","Maize_bushy_stant","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_Warning",2,"AY",61,0,1,21.01582,21.01582,0.4923,1,0,0,1,0,1,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
-"lcl|CP015149.1_prot_AOF54725.1_177","Maize_bushy_stant","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_Warning",2,"AY",80,0,1,22.33795,22.33795,0.95912,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-"lcl|CP015149.1_prot_AOF54638.1_90","Maize_bushy_stant","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"AY",206,0.745,1,22.39031,22.38995,0.90641,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-"lcl|CP015149.1_prot_AOF54712.1_164","Maize_bushy_stant","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"AY",199,0.859,1,21.41828,21.34258,0.83154,1,0,1,3,1,1,0,0,0,0,0,0,0,0,0,0,1,0,2,0,1,2,0,0
-"lcl|CP015149.1_prot_AOF55006.1_458","Maize_bushy_stant","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_Warning",2,"AY",78,0,1,20.47246,20.43105,0.90906,1,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-"lcl|CP015149.1_prot_AOF54729.1_181","Maize_bushy_stant","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"AY",87,0.825,1,19.94571,19.94571,0.16305,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-"lcl|CP015149.1_prot_AOF54632.1_84","Maize_bushy_stant","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"AY",416,0.643,2,39.71775,20.29997,0.94426,1,0,0,4,3,0,0,0,0,0,1,0,0,0,0,0,1,1,2,0,0,1,2,1
-"lcl|CP015149.1_prot_AOF54595.1_47","Maize_bushy_stant","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"AY",173,0.707,1,20.47248,20.47237,0.03428,1,0,0,1,0,1,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,2,0,0
-"lcl|CP015149.1_prot_AOF54822.1_274","Maize_bushy_stant","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"AY",361,0.632,1,24.39436,23.38003,0.86064,1,0,0,1,1,0,0,2,0,0,1,0,0,0,0,0,1,0,0,1,0,0,2,0
-"lcl|CP015149.1_prot_AOF54678.1_130","Maize_bushy_stant","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_Warning",2,"AY",155,0,1,21.56453,21.56453,0.72968,1,0,0,3,3,0,0,1,0,0,0,0,0,0,1,0,1,1,1,1,1,2,1,1
-"lcl|CP015149.1_prot_AOF54733.1_185","Maize_bushy_stant","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"AY",320,0.618,1,22.70248,22.69706,0.99773,1,0,1,2,3,0,0,0,0,0,0,0,0,0,0,0,2,0,1,1,1,2,0,1
-"lcl|CP015149.1_prot_AOF54593.1_45","Maize_bushy_stant","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"AY",151,0.586,1,21.46904,21.46904,0.50643,1,0,1,3,2,0,0,3,0,0,1,0,0,0,0,0,1,2,2,0,0,3,2,0
-"lcl|CP015149.1_prot_AOF54722.1_174","Maize_bushy_stant","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"AY",127,0.814,1,21.79636,21.79636,0.96563,1,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,1
-"lcl|CP015149.1_prot_AOF54582.1_34","Maize_bushy_stant","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"AY",108,0.622,1,22.80126,22.80126,0.0424,1,71,0,2,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,0
-"lcl|CP015149.1_prot_AOF54592.1_44","Maize_bushy_stant","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"AY",72,0.618,1,22.6756,22.67507,0.33576,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-"lcl|CP015149.1_prot_AOF54773.1_225","Maize_bushy_stant","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"AY",271,0.709,1,21.51595,21.43622,0.99335,1,0,0,4,1,0,0,3,0,0,0,0,0,0,0,0,2,1,2,0,3,0,2,0
-"lcl|CP015149.1_prot_AOF54585.1_37","Maize_bushy_stant","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_Warning",2,"AY",95,0,1,22.98082,22.96173,0.98279,1,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
-"lcl|CP015149.1_prot_AOF54991.1_443","Maize_bushy_stant","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"AY",381,0.644,1,20.02461,20.01884,0.93561,1,24,0,4,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,1
-"lcl|CP015149.1_prot_AOF54639.1_91","Maize_bushy_stant","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"AY",394,0.631,1,21.65531,21.65284,0.99667,1,0,0,8,1,0,0,4,0,0,0,0,0,0,3,0,0,0,1,0,1,1,1,1
-"lcl|CP015149.1_prot_AOF54764.1_216","Maize_bushy_stant","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_Warning",2,"AY",56,0,1,21.84193,21.84193,0.61887,1,20,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-"lcl|CP015149.1_prot_AOF54717.1_169","Maize_bushy_stant","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"AY",164,0.836,2,42.65227,20.43166,0.99196,1,0,0,3,1,0,0,1,0,0,0,0,0,0,0,2,0,0,1,0,1,0,1,1
-"lcl|CP015149.1_prot_AOF54611.1_63","Maize_bushy_stant","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"AY",217,0.682,1,22.51461,22.51461,0.99888,1,0,0,0,4,0,0,1,0,0,0,0,0,0,0,0,1,2,1,1,1,2,1,1
-"lcl|CP015149.1_prot_AOF55001.1_453","Maize_bushy_stant","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_Warning",2,"AY",87,0,1,19.95766,19.95616,0.43764,1,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,2,0
-"lcl|CP015149.1_prot_AOF54552.1_4","Maize_bushy_stant","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"AY",61,0.6,1,20.92605,20.92605,0.64804,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1
-"lcl|CP015149.1_prot_AOF54553.1_5","Maize_bushy_stant","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_Warning",2,"AY",52,0,1,21.68091,21.68091,0.52037,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-"lcl|CP015149.1_prot_AOF54796.1_248","Maize_bushy_stant","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"AY",115,0.656,1,22.57772,22.56982,0.07041,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-"lcl|CP015149.1_prot_AOF54795.1_247","Maize_bushy_stant","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_Warning",2,"AY",71,0,1,22.68338,22.68338,0.51537,1,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,2,1
-"lcl|CP015149.1_prot_AOF54697.1_149","Maize_bushy_stant","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"AY",96,0.622,1,19.07069,19.0308,0.0562,1,0,0,2,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,1
-"lcl|CP015149.1_prot_AOF54704.1_156","Maize_bushy_stant","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"AY",204,0.793,1,29.98417,19.94044,0.24266,1,0,0,4,2,0,0,3,0,0,0,0,0,0,1,1,0,1,2,0,1,2,2,0
-"lcl|CP015149.1_prot_AOF54805.1_257","Maize_bushy_stant","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"AY",402,0.743,1,19.86939,19.86372,0.99367,1,26,0,8,2,0,1,2,0,0,0,0,0,0,1,2,0,1,2,0,2,0,2,2
-"lcl|CP015149.1_prot_AOF54641.1_93","Maize_bushy_stant","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"AY",73,0.655,1,22.16288,22.16288,0.90413,1,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-"lcl|CP015149.1_prot_AOF54771.1_223","Maize_bushy_stant","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_Warning",2,"AY",52,0,1,20.89162,20.89162,0.936,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-"lcl|CP015149.1_prot_AOF54644.1_96","Maize_bushy_stant","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"AY",68,0.638,1,22.55034,22.55026,0.62777,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-"lcl|CP015149.1_prot_AOF54959.1_411","Maize_bushy_stant","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"AY",347,0.647,1,23.551,21.93036,0.69308,1,0,0,4,2,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,1,0,1,1
-"lcl|CP015149.1_prot_AOF55024.1_476","Maize_bushy_stant","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_Warning",2,"AY",226,0,1,23.0567,22.9997,0.91286,1,0,2,0,2,0,0,1,0,0,1,0,0,0,1,0,1,1,1,0,0,1,1,2
-"lcl|CP015149.1_prot_AOF54642.1_94","Maize_bushy_stant","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"AY",116,0.81,1,20.22616,20.22616,0.3243,1,25,0,6,4,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,1,0,4
-"lcl|CP015149.1_prot_AOF54737.1_189","Maize_bushy_stant","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"AY",70,0.598,1,20.07959,20.07959,0.94122,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0
-"lcl|CP015149.1_prot_AOF54736.1_188","Maize_bushy_stant","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"AY",193,0.85,1,22.5453,22.48904,0.7832,1,21,0,2,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
-"lcl|CP015149.1_prot_AOF54716.1_168","Maize_bushy_stant","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"AY",70,0.628,1,20.32428,20.32428,0.99002,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
-"lcl|CP015149.1_prot_AOF54935.1_387","Maize_bushy_stant","predicted",3,"-/xgb/gnb/mnb","n-LEAF_Warning",2,"AY",229,0,1,27.32901,27.329,0.0925,1,20,0,3,1,0,0,1,0,0,0,0,0,0,1,0,1,0,1,0,0,2,0,1
-"lcl|CP015149.1_prot_AOF54744.1_196","Maize_bushy_stant","predicted",3,"-/xgb/gnb/mnb","n-LEAF_Warning",2,"AY",215,0,1,21.79415,21.75399,0.54421,1,0,0,4,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1
-"lcl|CP015149.1_prot_AOF54987.1_439","Maize_bushy_stant","predicted",3,"rf/-/gnb/mnb","n-LEAF_SignalP_Warning",1,"AY",394,0.665,2,45.29936,22.53397,0.99586,1,32,1,4,2,0,0,2,0,0,0,0,0,0,2,0,0,0,2,2,2,1,2,2
-"lcl|CP015149.1_prot_AOF54661.1_113","Maize_bushy_stant","predicted",3,"-/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"AY",70,0.64,2,39.76717,32.44876,0.75688,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-"lcl|CP015149.1_prot_AOF54741.1_193","Maize_bushy_stant","predicted",3,"rf/-/gnb/mnb","n-LEAF_Warning",2,"AY",135,0,1,22.69905,22.69905,0.97472,1,88,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-"lcl|CP015149.1_prot_AOF54618.1_70","Maize_bushy_stant","predicted",2,"-/-/gnb/mnb","n-LEAF_Warning",2,"AY",92,0,2,45.35999,24.39593,0.2725,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-"lcl|CP015149.1_prot_AOF54640.1_92","Maize_bushy_stant","predicted",2,"-/-/gnb/mnb","n-LEAF_Warning",2,"AY",106,0,2,42.48594,31.41459,0.81427,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-"lcl|CP015149.1_prot_AOF54969.1_421","Maize_bushy_stant","predicted",2,"-/-/gnb/mnb","n-LEAF_SignalP_Warning",1,"AY",233,0.82,2,44.88196,21.96557,0.98918,1,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,1,0
-"lcl|CP015149.1_prot_AOF54804.1_256","Maize_bushy_stant","predicted",2,"-/-/gnb/mnb","n-LEAF_SignalP_Warning",1,"AY",338,0.762,2,43.96198,21.00983,0.76512,1,0,0,8,3,0,0,0,0,0,0,0,0,0,0,0,0,1,4,0,1,1,1,2
-"lcl|CP015149.1_prot_AOF54816.1_268","Maize_bushy_stant","predicted",2,"-/-/gnb/mnb","n-LEAF_Warning",2,"AY",254,0,1,26.46285,22.79894,0.12155,1,0,0,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,3
-"lcl|CP015149.1_prot_AOF54637.1_89","Maize_bushy_stant","predicted",2,"-/-/gnb/mnb","n-LEAF_Warning",2,"AY",70,0,1,20.49748,15.7988,0.99178,1,23,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0
-"lcl|CP015149.1_prot_AOF54992.1_444","Maize_bushy_stant","predicted",2,"-/-/gnb/mnb","n-LEAF_SignalP_Warning",1,"AY",309,0.672,2,45.16308,22.29283,0.57649,1,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,3,0,0,0,1,1,1
-"lcl|CP015149.1_prot_AOF54786.1_238","Maize_bushy_stant","predicted",2,"-/-/gnb/mnb","n-LEAF_SignalP_Warning",1,"AY",417,0.651,2,45.25354,22.80815,0.52485,1,0,0,6,2,0,0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
-"lcl|CP015149.1_prot_AOF54631.1_83","Maize_bushy_stant","predicted",2,"-/-/gnb/mnb","n-LEAF_SignalP_Warning",1,"AY",402,0.785,2,44.50946,22.65482,0.33949,1,0,0,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,3,3,1
-"lcl|CP015149.1_prot_AOF54693.1_145","Maize_bushy_stant","predicted",2,"rf/-/-/mnb","n-LEAF_Warning",2,"AY",117,0,3,58.41636,19.82034,0.80298,1,0,1,2,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
-"lcl|CP015149.1_prot_AOF54684.1_136","Maize_bushy_stant","predicted",2,"-/-/gnb/mnb","n-LEAF_Warning",2,"AY",119,0,3,50.68646,33.66117,0.61226,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-"lcl|CP015149.1_prot_AOF54685.1_137","Maize_bushy_stant","predicted",2,"-/-/gnb/mnb","n-LEAF_Warning",2,"AY",63,0,2,34.63167,33.56978,0.96157,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-"lcl|CP015149.1_prot_AOF54896.1_348","Maize_bushy_stant","predicted",2,"-/-/gnb/mnb","n-LEAF_Warning",2,"AY",68,0,1,22.98878,16.7429,0.68085,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-"lcl|CP015149.1_prot_AOF54798.1_250","Maize_bushy_stant","predicted",2,"-/-/gnb/mnb","n-LEAF_Warning",2,"AY",269,0,2,54.5446200000001,43.45037,0.50301,1,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-"lcl|CP015149.1_prot_AOF54728.1_180","Maize_bushy_stant","predicted",2,"-/-/gnb/mnb","n-LEAF_Warning",2,"AY",147,0,2,43.2020900000001,38.4726,0.33762,1,0,0,2,2,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,2,0
-"lcl|CP015149.1_prot_AOF54586.1_38","Maize_bushy_stant","predicted",2,"-/-/gnb/mnb","n-LEAF_SignalP_Warning",1,"AY",84,0.654,1,17.20526,17.11914,0.83228,1,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-"lcl|CP015149.1_prot_AOF54934.1_386","Maize_bushy_stant","predicted",2,"-/-/gnb/mnb","n-LEAF_SignalP_Warning",1,"AY",232,0.652,1,17.38446,17.38426,0.56221,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
-"lcl|CP015149.1_prot_AOF55029.1_481","Maize_bushy_stant","predicted",2,"-/xgb/gnb/-","n-LEAF_SignalP_Warning",1,"AY",540,0.663,1,18.86367,18.86344,0.99446,1,27,0,8,2,0,1,0,0,0,0,0,0,0,1,0,0,0,3,0,1,2,2,0
-"lcl|CP015149.1_prot_AOF54851.1_303","Maize_bushy_stant","predicted",2,"-/-/gnb/mnb","n-LEAF_Warning",2,"AY",383,0,2,40.60527,34.11596,0.39407,1,0,0,2,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,2,0,0,0
-"lcl|CP015149.1_prot_AOF54902.1_354","Maize_bushy_stant","predicted",2,"-/xgb/gnb/-","n-LEAF_SignalP_Warning",1,"AY",523,0.592,1,22.39654,22.39624,0.99964,1,0,0,13,2,0,0,0,0,0,0,0,0,0,0,0,1,1,3,0,1,0,2,3
-"lcl|CP015149.1_prot_AOF54739.1_191","Maize_bushy_stant","predicted",2,"-/-/gnb/mnb","n-LEAF_Warning",2,"AY",239,0,1,22.66488,22.66126,0.74811,1,28,4,7,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4,0,0,2,2,1
-"lcl|CP015149.1_prot_AOF54584.1_36","Maize_bushy_stant","predicted",2,"-/-/gnb/mnb","n-LEAF_Warning",2,"AY",376,0,1,21.41208,21.1484,0.95276,1,0,1,3,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0
-"lcl|CP015149.1_prot_AOF54904.1_356","Maize_bushy_stant","predicted",2,"-/xgb/gnb/-","n-LEAF_SignalP_Warning",1,"AY",512,0.649,1,19.67894,19.62922,0.98559,1,0,0,11,3,0,0,2,0,0,1,0,0,0,1,0,1,1,2,2,3,2,1,1
-"lcl|CP015149.1_prot_AOF54787.1_239","Maize_bushy_stant","predicted",1,"-/-/-/mnb","n-LEAF_SignalP_Warning",1,"AY",450,0.578,6,136.09101,19.93324,0.99689,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-"lcl|CP015149.1_prot_AOF54882.1_334","Maize_bushy_stant","predicted",1,"-/-/-/mnb","y-LEAF_SecP2",3,"AY",106,0,0,0.00048,0.00033,0.33692,0,47,0,4,2,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,1,2
-"lcl|CP015149.1_prot_AOF54958.1_410","Maize_bushy_stant","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"AY",233,0,5,111.71189,23.20984,0.03372,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-"lcl|CP015149.1_prot_AOF54919.1_371","Maize_bushy_stant","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"AY",226,0,6,131.93541,34.55553,0.81725,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-"lcl|CP015149.1_prot_AOF54732.1_184","Maize_bushy_stant","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"AY",244,0,4,98.81115,23.07277,0.0149,1,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
-"lcl|CP015149.1_prot_AOF54700.1_152","Maize_bushy_stant","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"AY",574,0,6,127.32642,19.55256,0.97131,1,0,0,7,0,0,0,1,0,0,0,0,0,0,0,1,0,0,3,0,1,0,4,0
-"lcl|CP015149.1_prot_AOF54918.1_370","Maize_bushy_stant","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"AY",134,0,3,63.85929,34.20795,0.30037,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-"lcl|CP015149.1_prot_AOF54738.1_190","Maize_bushy_stant","predicted",1,"-/-/-/mnb","y-LEAF_SecP2",3,"AY",177,0,1,22.75114,0.00719,0.9488,0,25,0,1,2,0,0,1,0,0,0,0,0,0,0,0,1,2,0,0,0,2,0,1
-"lcl|CP015149.1_prot_AOF54757.1_209","Maize_bushy_stant","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"AY",619,0,6,121.12297,22.2652,0.98,1,0,1,7,2,0,0,1,0,0,0,0,0,0,1,0,0,1,4,1,5,0,2,0
-"lcl|CP015149.1_prot_AOF54668.1_120","Maize_bushy_stant","predicted",1,"-/-/-/mnb","y-LEAF_SecP2",3,"AY",99,0,0,8.53959999999998,8.53927,0.85168,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,0
-"lcl|CP015149.1_prot_AOF54962.1_414","Maize_bushy_stant","predicted",1,"-/-/gnb/-","n-LEAF_Warning",2,"AY",642,0,2,41.7484400000001,19.91162,0.0021,1,34,2,8,3,0,0,4,0,0,0,0,0,0,0,0,3,1,2,0,1,1,3,2
-"lcl|CP015149.1_prot_AOF54756.1_208","Maize_bushy_stant","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"AY",311,0,6,126.50315,22.37354,0.94192,1,0,0,3,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,1,0,0
-"lcl|CP015149.1_prot_AOF54743.1_195","Maize_bushy_stant","predicted",1,"-/-/-/mnb","y-LEAF_SecP2",3,"AY",106,0,0,0,0,0.50646,0,59,1,3,3,0,0,1,0,0,0,0,0,0,1,0,0,0,2,2,2,1,2,0
-"lcl|CP015149.1_prot_AOF54905.1_357","Maize_bushy_stant","predicted",1,"-/-/-/mnb","n-LEAF_SignalP_Warning",1,"AY",308,0.63,6,129.21509,20.98127,0.99074,1,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0
-"lcl|CP015149.1_prot_AOF54914.1_366","Maize_bushy_stant","predicted",1,"-/-/-/mnb","n-LEAF_SignalP_Warning",1,"AY",348,0.578,8,172.90375,20.83415,0.70801,1,0,0,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-"lcl|CP015149.1_prot_AOF54906.1_358","Maize_bushy_stant","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"AY",288,0,6,131.30826,22.36523,0.9987,1,0,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
-"lcl|CP015149.1_prot_AOF54735.1_187","Maize_bushy_stant","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"AY",232,0,5,109.88642,25.90004,0.00272,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
-"lcl|CP015149.1_prot_AOF54785.1_237","Maize_bushy_stant","predicted",1,"-/-/-/mnb","n-LEAF_SignalP_Warning",1,"AY",227,0.588,6,127.00786,39.35524,0.96425,1,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0
-"lcl|CP015149.1_prot_AOF54727.1_179","Maize_bushy_stant","predicted",1,"-/-/-/mnb","y-LEAF",3,"AY",99,0,1,30.00303,7.7481,0.88758,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0
-"lcl|CP015149.1_prot_AOF54903.1_355","Maize_bushy_stant","predicted",1,"-/-/gnb/-","n-LEAF_Warning",2,"AY",519,0,1,19.03817,19.0379,0.99252,1,0,0,10,4,0,0,1,0,0,0,0,0,0,0,1,1,3,2,0,1,1,2,3
-"lcl|CP015149.1_prot_AOF54937.1_389","Maize_bushy_stant","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"AY",229,0,7,144.83889,31.93884,0.87334,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0
-"lcl|CP015149.1_prot_AOF54933.1_385","Maize_bushy_stant","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"AY",257,0,3,62.7071,22.38978,0.1122,1,0,0,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2,0
-"lcl|CP015149.1_prot_AOF54972.1_424","Maize_bushy_stant","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"AY",238,0,6,132.64278,32.86624,0.99944,1,0,0,4,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,2,1,1,0
-"lcl|CP015149.1_prot_AOF54939.1_391","Maize_bushy_stant","predicted",1,"-/-/-/mnb","n-LEAF_SignalP_Warning",1,"AY",426,0.681,4,88.4793799999999,28.76547,0.00448,1,0,0,1,2,0,0,2,0,0,1,0,0,0,0,0,1,2,2,0,2,1,1,1
-"lcl|CP015149.1_prot_AOF54709.1_161","Maize_bushy_stant","predicted",1,"-/-/-/mnb","y-LEAF",3,"AY",889,0,10,213.32981,0.00076,0.99739,0,0,0,10,4,0,0,3,0,0,1,1,0,0,3,0,0,3,3,0,2,5,1,2
-"lcl|CP015149.1_prot_AOF54710.1_162","Maize_bushy_stant","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"AY",258,0,3,59.9905200000001,39.64138,0.12448,1,0,0,2,2,0,0,1,0,0,0,1,0,0,1,1,0,0,3,0,1,3,1,0
-"lcl|CP015149.1_prot_AOF54713.1_165","Maize_bushy_stant","predicted",1,"-/-/-/mnb","y-LEAF",3,"AY",171,0,1,19.83835,3.0046,0.29825,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-"lcl|CP015149.1_prot_AOF54893.1_345","Maize_bushy_stant","predicted",1,"-/-/-/mnb","y-LEAF_SecP2",3,"AY",105,0,1,21.98697,0,0.50625,0,0,0,4,1,0,0,1,0,0,0,0,0,0,0,0,0,0,2,0,1,0,1,0
-"lcl|CP015149.1_prot_AOF54715.1_167","Maize_bushy_stant","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"AY",78,0,1,22.60224,16.00133,0.09187,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-"lcl|CP015149.1_prot_AOF54926.1_378","Maize_bushy_stant","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"AY",305,0,8,165.7434,27.45095,0.80408,1,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0
-"lcl|CP015149.1_prot_AOF54690.1_142","Maize_bushy_stant","predicted",1,"-/-/-/mnb","y-LEAF",3,"AY",538,0,5,112.92882,0.00914,0.05859,0,0,0,10,1,0,0,2,0,0,1,0,0,0,0,0,0,0,3,0,1,2,0,0
-"lcl|CP015149.1_prot_AOF54761.1_213","Maize_bushy_stant","predicted",1,"-/-/-/mnb","y-LEAF_SecP2",3,"AY",82,0,1,22.75955,8.81664,0.90474,0,40,0,3,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
-"lcl|CP015149.1_prot_AOF54892.1_344","Maize_bushy_stant","predicted",1,"-/-/-/mnb","y-LEAF",3,"AY",102,0,1,22.47599,8.07851,0.83946,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,1,0,0
-"lcl|CP015149.1_prot_AOF54780.1_232","Maize_bushy_stant","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"AY",233,0,6,128.6446,28.17765,0.05676,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-"lcl|CP015149.1_prot_AOF54723.1_175","Maize_bushy_stant","predicted",1,"-/-/-/mnb","y-LEAF",3,"AY",139,0,1,20.60994,0.00258,0.94295,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0
-"lcl|CP015149.1_prot_AOF54922.1_374","Maize_bushy_stant","predicted",1,"-/-/-/mnb","y-LEAF",3,"AY",65,0,0,6.9428,6.9428,0.46301,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
-"lcl|CP015149.1_prot_AOF54675.1_127","Maize_bushy_stant","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"AY",244,0,6,136.60532,30.34542,0.50031,1,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,2,0,1,0
-"lcl|CP015149.1_prot_AOF54842.1_294","Maize_bushy_stant","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"AY",525,0,6,131.26574,17.74261,0.69458,1,0,1,8,3,0,0,4,0,0,0,0,0,0,1,1,4,1,6,0,4,5,2,3
-"lcl|CP015149.1_prot_AOF54870.1_322","Maize_bushy_stant","predicted",1,"-/-/-/mnb","n-LEAF_SignalP_Warning",1,"AY",413,0.629,9,208.63089,29.82271,0.94822,1,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-"lcl|CP015149.1_prot_AOF54604.1_56","Maize_bushy_stant","predicted",1,"-/-/-/mnb","n-LEAF_SignalP_Warning",1,"AY",219,0.62,6,129.52718,42.68988,0.9079,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
-"lcl|CP015149.1_prot_AOF54600.1_52","Maize_bushy_stant","predicted",1,"-/-/-/mnb","n-LEAF_SignalP_Warning",1,"AY",574,0.619,6,143.47229,33.78935,0.99244,1,0,0,9,3,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,2,0,1,0
-"lcl|CP015149.1_prot_AOF54587.1_39","Maize_bushy_stant","predicted",1,"-/-/-/mnb","y-LEAF",3,"AY",119,0,2,44.10962,3.13396,0.81909,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-"lcl|CP015149.1_prot_AOF54826.1_278","Maize_bushy_stant","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"AY",262,0,7,154.10766,22.41759,0.99301,1,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0
-"lcl|CP015149.1_prot_AOF54594.1_46","Maize_bushy_stant","predicted",1,"-/-/-/mnb","y-LEAF",3,"AY",122,0,1,20.54046,0.00035,0.80881,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,1,0
-"lcl|CP015149.1_prot_AOF54597.1_49","Maize_bushy_stant","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"AY",150,0,3,67.58801,10.2315,0.53918,1,0,0,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0
-"lcl|CP015149.1_prot_AOF54598.1_50","Maize_bushy_stant","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"AY",73,0,1,21.52286,13.80725,0.76375,1,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,1,0,0
-"lcl|CP015149.1_prot_AOF54599.1_51","Maize_bushy_stant","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"AY",145,0,3,59.66123,33.15541,0.85333,1,0,0,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-"lcl|CP015149.1_prot_AOF54601.1_53","Maize_bushy_stant","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"AY",597,0,6,130.1774,21.51814,0.99701,1,0,0,5,0,0,0,1,0,0,0,0,0,0,2,0,0,0,2,0,1,0,2,1
-"lcl|CP015149.1_prot_AOF54621.1_73","Maize_bushy_stant","predicted",1,"-/-/-/mnb","y-LEAF_SecP2",3,"AY",79,0,0,5.68055,5.68055,0.82669,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,0,0,0
-"lcl|CP015149.1_prot_AOF55005.1_457","Maize_bushy_stant","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"AY",598,0,5,118.83287,20.83566,0.99936,1,0,0,12,3,0,0,1,0,0,0,0,0,0,1,0,0,3,3,0,5,0,3,0
-"lcl|CP015149.1_prot_AOF54603.1_55","Maize_bushy_stant","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"AY",510,0,12,262.5836,22.50076,0.52929,1,21,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,2,0,1,0
-"lcl|CP015149.1_prot_AOF54823.1_275","Maize_bushy_stant","predicted",1,"-/-/-/mnb","y-LEAF",3,"AY",231,0,2,41.12993,0.00018,0.96947,0,30,0,3,2,0,0,1,0,0,0,0,0,0,0,2,0,1,0,0,1,0,0,2
-"lcl|CP015149.1_prot_AOF54821.1_273","Maize_bushy_stant","predicted",1,"-/-/-/mnb","y-LEAF_SecP2",3,"AY",103,0,0,0.00018,0.00018,0.04994,0,63,0,5,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
-"lcl|CP015149.1_prot_AOF54820.1_272","Maize_bushy_stant","predicted",1,"-/-/gnb/-","n-LEAF_Warning",2,"AY",528,0,1,22.50483,22.50383,0.99731,1,0,0,7,5,0,0,0,0,0,1,0,0,0,0,0,0,4,3,0,1,2,2,2
-"lcl|CP015149.1_prot_AOF54617.1_69","Maize_bushy_stant","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"AY",177,0,4,87.68522,20.98521,0.9977,1,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,1
-"lcl|CP015149.1_prot_AOF54583.1_35","Maize_bushy_stant","predicted",1,"-/-/-/mnb","y-LEAF",3,"AY",920,0,8,207.98806,1.01717,0.96953,0,0,1,9,2,0,0,2,0,0,0,0,0,0,1,0,1,0,4,0,1,3,2,1
-"lcl|CP015149.1_prot_AOF54580.1_32","Maize_bushy_stant","predicted",1,"-/-/gnb/-","n-LEAF_SignalP_Warning",1,"AY",1032,0.628,2,43.19134,21.53961,0.99063,1,0,0,18,2,0,0,4,0,0,1,0,0,0,3,0,2,1,6,0,3,3,2,6
-"lcl|CP015149.1_prot_AOF54578.1_30","Maize_bushy_stant","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"AY",87,0,0,13.58433,11.52479,0.17001,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-"lcl|CP015149.1_prot_AOF55013.1_465","Maize_bushy_stant","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"AY",666,0,6,142.81015,32.38563,0.83712,1,0,2,4,1,0,0,2,0,0,0,0,0,0,1,0,0,1,3,0,0,2,2,1
-"lcl|CP015149.1_prot_AOF55014.1_466","Maize_bushy_stant","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"AY",486,0,12,262.41073,22.64521,0.99988,1,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
-"lcl|CP015149.1_prot_AOF54573.1_25","Maize_bushy_stant","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"AY",277,0,4,109.60766,31.93744,0.41762,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-"lcl|CP015149.1_prot_AOF54571.1_23","Maize_bushy_stant","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"AY",185,0,5,108.63242,42.19737,0.02736,1,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
-"lcl|CP015149.1_prot_AOF55021.1_473","Maize_bushy_stant","predicted",1,"-/-/-/mnb","n-LEAF_SignalP_Warning",1,"AY",209,0.632,5,120.13784,41.86478,0.99983,1,0,0,2,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,2,0
-"lcl|CP015149.1_prot_AOF55022.1_474","Maize_bushy_stant","predicted",1,"-/-/-/mnb","y-LEAF_SecP2",3,"AY",307,0,0,11.8334,0.62033,0.62783,0,121,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-"lcl|CP015149.1_prot_AOF54848.1_300","Maize_bushy_stant","predicted",1,"-/-/-/mnb","n-LEAF_SignalP_Warning",1,"AY",322,0.658,6,127.57861,18.85163,0.99999,1,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,1
-"lcl|CP015149.1_prot_AOF54564.1_16","Maize_bushy_stant","predicted",1,"-/-/gnb/-","n-LEAF_SignalP_Warning",1,"AY",849,0.662,2,43.0342200000002,19.525,0.01951,1,0,2,9,6,0,1,2,0,0,0,0,0,0,0,2,1,2,3,1,3,1,2,3
-"lcl|CP015149.1_prot_AOF54838.1_290","Maize_bushy_stant","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"AY",136,0,3,65.73611,28.39959,0.84276,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-"lcl|CP015149.1_prot_AOF54840.1_292","Maize_bushy_stant","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"AY",815,0,9,197.3051,13.12235,0.98753,1,0,1,8,2,0,0,2,0,0,0,0,0,0,1,0,0,1,1,0,1,2,0,0
-"lcl|CP015149.1_prot_AOF54557.1_9","Maize_bushy_stant","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"AY",245,0,6,137.81331,25.65209,0.68094,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0
-"lcl|CP015149.1_prot_AOF54556.1_8","Maize_bushy_stant","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"AY",262,0,6,126.31955,22.8314,0.99899,1,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,1,0,0
-"lcl|CP015149.1_prot_AOF55030.1_482","Maize_bushy_stant","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"AY",298,0,6,129.83579,21.95652,0.99712,1,0,0,3,1,0,0,1,0,0,0,0,0,0,0,1,0,0,2,0,1,1,0,1
-"lcl|CP015149.1_prot_AOF55031.1_483","Maize_bushy_stant","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"AY",313,0,6,134.18729,20.67314,0.99056,1,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-"lcl|CP015149.1_prot_AOF54813.1_265","Maize_bushy_stant","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"AY",531,0,12,260.99929,21.62333,0.99921,1,0,0,5,4,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,1,1,1
-"lcl|CP015149.1_prot_AOF54908.1_360","Maize_bushy_stant","predicted",1,"-/-/-/mnb","y-LEAF",3,"AY",912,0,10,209.563020000001,0.13443,0.99828,0,0,1,13,1,0,0,0,0,0,2,0,0,0,1,0,0,0,6,0,2,4,0,1
-"lcl|CP015149.1_prot_AOF54633.1_85","Maize_bushy_stant","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"AY",334,0,6,131.30497,22.75403,0.896,1,50,1,8,1,0,0,4,0,0,2,0,0,0,1,1,0,1,3,0,1,2,0,3
-"lcl|CP015149.1_prot_AOF54989.1_441","Maize_bushy_stant","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"AY",354,0,8,181.45034,34.58023,0.52893,1,0,1,4,1,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,1,1,0
-"lcl|CP015149.1_prot_AOF54634.1_86","Maize_bushy_stant","predicted",1,"-/-/-/mnb","n-LEAF_SignalP_Warning",1,"AY",280,0.573,5,125.41826,22.57549,0.9997,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
-"lcl|CP015149.1_prot_AOF54988.1_440","Maize_bushy_stant","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"AY",364,0,9,185.76953,38.48949,0.25398,1,0,1,0,0,0,0,2,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,1
-"lcl|CP015149.1_prot_AOF54636.1_88","Maize_bushy_stant","predicted",1,"-/-/gnb/-","n-LEAF_Warning",2,"AY",598,0,1,22.72119,22.69598,0.99236,1,63,1,7,2,0,0,2,0,0,0,0,0,0,0,0,0,3,1,0,0,1,0,3
-"lcl|CP015149.1_prot_AOF54811.1_263","Maize_bushy_stant","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"AY",495,0,12,257.92419,21.20656,0.99701,1,0,0,9,2,0,0,1,0,0,1,0,0,0,0,1,0,1,2,0,3,0,1,0
-"lcl|CP015149.1_prot_AOF54986.1_438","Maize_bushy_stant","predicted",1,"-/-/-/mnb","y-LEAF",3,"AY",503,0,4,90.4637500000001,0.09076,0.86565,0,0,2,8,2,0,0,2,0,0,1,0,0,0,1,0,0,1,3,1,1,3,0,2
-"lcl|CP015149.1_prot_AOF54909.1_361","Maize_bushy_stant","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"AY",272,0,6,128.31592,19.57619,0.99451,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,1,0
-"lcl|CP015149.1_prot_AOF54807.1_259","Maize_bushy_stant","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"AY",455,0,11,258.32331,42.55547,0.9976,1,0,0,6,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,1,1
+"lcl|CP015149.1_prot_AOF54629.1_81","CaPasteris_strainM3","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_Warning",2,"AY",61,0,1,21.01582,21.01582,0.4923,1,0,0,1,0,1,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+"lcl|CP015149.1_prot_AOF54725.1_177","CaPasteris_strainM3","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_Warning",2,"AY",80,0,1,22.33795,22.33795,0.95912,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"lcl|CP015149.1_prot_AOF54638.1_90","CaPasteris_strainM3","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"AY",206,0.745,1,22.39031,22.38995,0.90641,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"lcl|CP015149.1_prot_AOF54712.1_164","CaPasteris_strainM3","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"AY",199,0.859,1,21.41828,21.34258,0.83154,1,0,1,3,1,1,0,0,0,0,0,0,0,0,0,0,1,0,2,0,1,2,0,0
+"lcl|CP015149.1_prot_AOF55006.1_458","CaPasteris_strainM3","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_Warning",2,"AY",78,0,1,20.47246,20.43105,0.90906,1,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"lcl|CP015149.1_prot_AOF54729.1_181","CaPasteris_strainM3","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"AY",87,0.825,1,19.94571,19.94571,0.16305,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"lcl|CP015149.1_prot_AOF54632.1_84","CaPasteris_strainM3","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"AY",416,0.643,2,39.71775,20.29997,0.94426,1,0,0,4,3,0,0,0,0,0,1,0,0,0,0,0,1,1,2,0,0,1,2,1
+"lcl|CP015149.1_prot_AOF54595.1_47","CaPasteris_strainM3","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"AY",173,0.707,1,20.47248,20.47237,0.03428,1,0,0,1,0,1,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,2,0,0
+"lcl|CP015149.1_prot_AOF54822.1_274","CaPasteris_strainM3","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"AY",361,0.632,1,24.39436,23.38003,0.86064,1,0,0,1,1,0,0,2,0,0,1,0,0,0,0,0,1,0,0,1,0,0,2,0
+"lcl|CP015149.1_prot_AOF54678.1_130","CaPasteris_strainM3","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_Warning",2,"AY",155,0,1,21.56453,21.56453,0.72968,1,0,0,3,3,0,0,1,0,0,0,0,0,0,1,0,1,1,1,1,1,2,1,1
+"lcl|CP015149.1_prot_AOF54733.1_185","CaPasteris_strainM3","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"AY",320,0.618,1,22.70248,22.69706,0.99773,1,0,1,2,3,0,0,0,0,0,0,0,0,0,0,0,2,0,1,1,1,2,0,1
+"lcl|CP015149.1_prot_AOF54593.1_45","CaPasteris_strainM3","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"AY",151,0.586,1,21.46904,21.46904,0.50643,1,0,1,3,2,0,0,3,0,0,1,0,0,0,0,0,1,2,2,0,0,3,2,0
+"lcl|CP015149.1_prot_AOF54722.1_174","CaPasteris_strainM3","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"AY",127,0.814,1,21.79636,21.79636,0.96563,1,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,1
+"lcl|CP015149.1_prot_AOF54582.1_34","CaPasteris_strainM3","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"AY",108,0.622,1,22.80126,22.80126,0.0424,1,71,0,2,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,0
+"lcl|CP015149.1_prot_AOF54592.1_44","CaPasteris_strainM3","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"AY",72,0.618,1,22.6756,22.67507,0.33576,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"lcl|CP015149.1_prot_AOF54773.1_225","CaPasteris_strainM3","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"AY",271,0.709,1,21.51595,21.43622,0.99335,1,0,0,4,1,0,0,3,0,0,0,0,0,0,0,0,2,1,2,0,3,0,2,0
+"lcl|CP015149.1_prot_AOF54585.1_37","CaPasteris_strainM3","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_Warning",2,"AY",95,0,1,22.98082,22.96173,0.98279,1,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+"lcl|CP015149.1_prot_AOF54991.1_443","CaPasteris_strainM3","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"AY",381,0.644,1,20.02461,20.01884,0.93561,1,24,0,4,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,1
+"lcl|CP015149.1_prot_AOF54639.1_91","CaPasteris_strainM3","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"AY",394,0.631,1,21.65531,21.65284,0.99667,1,0,0,8,1,0,0,4,0,0,0,0,0,0,3,0,0,0,1,0,1,1,1,1
+"lcl|CP015149.1_prot_AOF54764.1_216","CaPasteris_strainM3","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_Warning",2,"AY",56,0,1,21.84193,21.84193,0.61887,1,20,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"lcl|CP015149.1_prot_AOF54717.1_169","CaPasteris_strainM3","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"AY",164,0.836,2,42.65227,20.43166,0.99196,1,0,0,3,1,0,0,1,0,0,0,0,0,0,0,2,0,0,1,0,1,0,1,1
+"lcl|CP015149.1_prot_AOF54611.1_63","CaPasteris_strainM3","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"AY",217,0.682,1,22.51461,22.51461,0.99888,1,0,0,0,4,0,0,1,0,0,0,0,0,0,0,0,1,2,1,1,1,2,1,1
+"lcl|CP015149.1_prot_AOF55001.1_453","CaPasteris_strainM3","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_Warning",2,"AY",87,0,1,19.95766,19.95616,0.43764,1,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,2,0
+"lcl|CP015149.1_prot_AOF54552.1_4","CaPasteris_strainM3","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"AY",61,0.6,1,20.92605,20.92605,0.64804,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1
+"lcl|CP015149.1_prot_AOF54553.1_5","CaPasteris_strainM3","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_Warning",2,"AY",52,0,1,21.68091,21.68091,0.52037,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"lcl|CP015149.1_prot_AOF54796.1_248","CaPasteris_strainM3","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"AY",115,0.656,1,22.57772,22.56982,0.07041,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"lcl|CP015149.1_prot_AOF54795.1_247","CaPasteris_strainM3","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_Warning",2,"AY",71,0,1,22.68338,22.68338,0.51537,1,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,2,1
+"lcl|CP015149.1_prot_AOF54697.1_149","CaPasteris_strainM3","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"AY",96,0.622,1,19.07069,19.0308,0.0562,1,0,0,2,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,1
+"lcl|CP015149.1_prot_AOF54704.1_156","CaPasteris_strainM3","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"AY",204,0.793,1,29.98417,19.94044,0.24266,1,0,0,4,2,0,0,3,0,0,0,0,0,0,1,1,0,1,2,0,1,2,2,0
+"lcl|CP015149.1_prot_AOF54805.1_257","CaPasteris_strainM3","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"AY",402,0.743,1,19.86939,19.86372,0.99367,1,26,0,8,2,0,1,2,0,0,0,0,0,0,1,2,0,1,2,0,2,0,2,2
+"lcl|CP015149.1_prot_AOF54641.1_93","CaPasteris_strainM3","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"AY",73,0.655,1,22.16288,22.16288,0.90413,1,37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"lcl|CP015149.1_prot_AOF54771.1_223","CaPasteris_strainM3","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_Warning",2,"AY",52,0,1,20.89162,20.89162,0.936,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"lcl|CP015149.1_prot_AOF54644.1_96","CaPasteris_strainM3","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"AY",68,0.638,1,22.55034,22.55026,0.62777,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"lcl|CP015149.1_prot_AOF54959.1_411","CaPasteris_strainM3","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"AY",347,0.647,1,23.551,21.93036,0.69308,1,0,0,4,2,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,1,0,1,1
+"lcl|CP015149.1_prot_AOF55024.1_476","CaPasteris_strainM3","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_Warning",2,"AY",226,0,1,23.0567,22.9997,0.91286,1,0,2,0,2,0,0,1,0,0,1,0,0,0,1,0,1,1,1,0,0,1,1,2
+"lcl|CP015149.1_prot_AOF54642.1_94","CaPasteris_strainM3","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"AY",116,0.81,1,20.22616,20.22616,0.3243,1,25,0,6,4,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,1,0,4
+"lcl|CP015149.1_prot_AOF54737.1_189","CaPasteris_strainM3","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"AY",70,0.598,1,20.07959,20.07959,0.94122,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+"lcl|CP015149.1_prot_AOF54736.1_188","CaPasteris_strainM3","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"AY",193,0.85,1,22.5453,22.48904,0.7832,1,21,0,2,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+"lcl|CP015149.1_prot_AOF54716.1_168","CaPasteris_strainM3","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"AY",70,0.628,1,20.32428,20.32428,0.99002,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+"lcl|CP015149.1_prot_AOF54935.1_387","CaPasteris_strainM3","predicted",3,"-/xgb/gnb/mnb","n-LEAF_Warning",2,"AY",229,0,1,27.32901,27.329,0.0925,1,20,0,3,1,0,0,1,0,0,0,0,0,0,1,0,1,0,1,0,0,2,0,1
+"lcl|CP015149.1_prot_AOF54744.1_196","CaPasteris_strainM3","predicted",3,"-/xgb/gnb/mnb","n-LEAF_Warning",2,"AY",215,0,1,21.79415,21.75399,0.54421,1,0,0,4,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1
+"lcl|CP015149.1_prot_AOF54987.1_439","CaPasteris_strainM3","predicted",3,"rf/-/gnb/mnb","n-LEAF_SignalP_Warning",1,"AY",394,0.665,2,45.29936,22.53397,0.99586,1,32,1,4,2,0,0,2,0,0,0,0,0,0,2,0,0,0,2,2,2,1,2,2
+"lcl|CP015149.1_prot_AOF54661.1_113","CaPasteris_strainM3","predicted",3,"-/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"AY",70,0.64,2,39.76717,32.44876,0.75688,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"lcl|CP015149.1_prot_AOF54741.1_193","CaPasteris_strainM3","predicted",3,"rf/-/gnb/mnb","n-LEAF_Warning",2,"AY",135,0,1,22.69905,22.69905,0.97472,1,88,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"lcl|CP015149.1_prot_AOF54618.1_70","CaPasteris_strainM3","predicted",2,"-/-/gnb/mnb","n-LEAF_Warning",2,"AY",92,0,2,45.35999,24.39593,0.2725,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"lcl|CP015149.1_prot_AOF54640.1_92","CaPasteris_strainM3","predicted",2,"-/-/gnb/mnb","n-LEAF_Warning",2,"AY",106,0,2,42.48594,31.41459,0.81427,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"lcl|CP015149.1_prot_AOF54969.1_421","CaPasteris_strainM3","predicted",2,"-/-/gnb/mnb","n-LEAF_SignalP_Warning",1,"AY",233,0.82,2,44.88196,21.96557,0.98918,1,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,1,0
+"lcl|CP015149.1_prot_AOF54804.1_256","CaPasteris_strainM3","predicted",2,"-/-/gnb/mnb","n-LEAF_SignalP_Warning",1,"AY",338,0.762,2,43.96198,21.00983,0.76512,1,0,0,8,3,0,0,0,0,0,0,0,0,0,0,0,0,1,4,0,1,1,1,2
+"lcl|CP015149.1_prot_AOF54816.1_268","CaPasteris_strainM3","predicted",2,"-/-/gnb/mnb","n-LEAF_Warning",2,"AY",254,0,1,26.46285,22.79894,0.12155,1,0,0,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,3
+"lcl|CP015149.1_prot_AOF54637.1_89","CaPasteris_strainM3","predicted",2,"-/-/gnb/mnb","n-LEAF_Warning",2,"AY",70,0,1,20.49748,15.7988,0.99178,1,23,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0
+"lcl|CP015149.1_prot_AOF54992.1_444","CaPasteris_strainM3","predicted",2,"-/-/gnb/mnb","n-LEAF_SignalP_Warning",1,"AY",309,0.672,2,45.16308,22.29283,0.57649,1,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,3,0,0,0,1,1,1
+"lcl|CP015149.1_prot_AOF54786.1_238","CaPasteris_strainM3","predicted",2,"-/-/gnb/mnb","n-LEAF_SignalP_Warning",1,"AY",417,0.651,2,45.25354,22.80815,0.52485,1,0,0,6,2,0,0,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+"lcl|CP015149.1_prot_AOF54631.1_83","CaPasteris_strainM3","predicted",2,"-/-/gnb/mnb","n-LEAF_SignalP_Warning",1,"AY",402,0.785,2,44.50946,22.65482,0.33949,1,0,0,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,3,3,1
+"lcl|CP015149.1_prot_AOF54693.1_145","CaPasteris_strainM3","predicted",2,"rf/-/-/mnb","n-LEAF_Warning",2,"AY",117,0,3,58.41636,19.82034,0.80298,1,0,1,2,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+"lcl|CP015149.1_prot_AOF54684.1_136","CaPasteris_strainM3","predicted",2,"-/-/gnb/mnb","n-LEAF_Warning",2,"AY",119,0,3,50.68646,33.66117,0.61226,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"lcl|CP015149.1_prot_AOF54685.1_137","CaPasteris_strainM3","predicted",2,"-/-/gnb/mnb","n-LEAF_Warning",2,"AY",63,0,2,34.63167,33.56978,0.96157,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"lcl|CP015149.1_prot_AOF54896.1_348","CaPasteris_strainM3","predicted",2,"-/-/gnb/mnb","n-LEAF_Warning",2,"AY",68,0,1,22.98878,16.7429,0.68085,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"lcl|CP015149.1_prot_AOF54798.1_250","CaPasteris_strainM3","predicted",2,"-/-/gnb/mnb","n-LEAF_Warning",2,"AY",269,0,2,54.5446200000001,43.45037,0.50301,1,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"lcl|CP015149.1_prot_AOF54728.1_180","CaPasteris_strainM3","predicted",2,"-/-/gnb/mnb","n-LEAF_Warning",2,"AY",147,0,2,43.2020900000001,38.4726,0.33762,1,0,0,2,2,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,2,0
+"lcl|CP015149.1_prot_AOF54586.1_38","CaPasteris_strainM3","predicted",2,"-/-/gnb/mnb","n-LEAF_SignalP_Warning",1,"AY",84,0.654,1,17.20526,17.11914,0.83228,1,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"lcl|CP015149.1_prot_AOF54934.1_386","CaPasteris_strainM3","predicted",2,"-/-/gnb/mnb","n-LEAF_SignalP_Warning",1,"AY",232,0.652,1,17.38446,17.38426,0.56221,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+"lcl|CP015149.1_prot_AOF55029.1_481","CaPasteris_strainM3","predicted",2,"-/xgb/gnb/-","n-LEAF_SignalP_Warning",1,"AY",540,0.663,1,18.86367,18.86344,0.99446,1,27,0,8,2,0,1,0,0,0,0,0,0,0,1,0,0,0,3,0,1,2,2,0
+"lcl|CP015149.1_prot_AOF54851.1_303","CaPasteris_strainM3","predicted",2,"-/-/gnb/mnb","n-LEAF_Warning",2,"AY",383,0,2,40.60527,34.11596,0.39407,1,0,0,2,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,2,0,0,0
+"lcl|CP015149.1_prot_AOF54902.1_354","CaPasteris_strainM3","predicted",2,"-/xgb/gnb/-","n-LEAF_SignalP_Warning",1,"AY",523,0.592,1,22.39654,22.39624,0.99964,1,0,0,13,2,0,0,0,0,0,0,0,0,0,0,0,1,1,3,0,1,0,2,3
+"lcl|CP015149.1_prot_AOF54739.1_191","CaPasteris_strainM3","predicted",2,"-/-/gnb/mnb","n-LEAF_Warning",2,"AY",239,0,1,22.66488,22.66126,0.74811,1,28,4,7,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4,0,0,2,2,1
+"lcl|CP015149.1_prot_AOF54584.1_36","CaPasteris_strainM3","predicted",2,"-/-/gnb/mnb","n-LEAF_Warning",2,"AY",376,0,1,21.41208,21.1484,0.95276,1,0,1,3,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+"lcl|CP015149.1_prot_AOF54904.1_356","CaPasteris_strainM3","predicted",2,"-/xgb/gnb/-","n-LEAF_SignalP_Warning",1,"AY",512,0.649,1,19.67894,19.62922,0.98559,1,0,0,11,3,0,0,2,0,0,1,0,0,0,1,0,1,1,2,2,3,2,1,1
+"lcl|CP015149.1_prot_AOF54787.1_239","CaPasteris_strainM3","predicted",1,"-/-/-/mnb","n-LEAF_SignalP_Warning",1,"AY",450,0.578,6,136.09101,19.93324,0.99689,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"lcl|CP015149.1_prot_AOF54882.1_334","CaPasteris_strainM3","predicted",1,"-/-/-/mnb","y-LEAF_SecP2",3,"AY",106,0,0,0.00048,0.00033,0.33692,0,47,0,4,2,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,1,2
+"lcl|CP015149.1_prot_AOF54958.1_410","CaPasteris_strainM3","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"AY",233,0,5,111.71189,23.20984,0.03372,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"lcl|CP015149.1_prot_AOF54919.1_371","CaPasteris_strainM3","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"AY",226,0,6,131.93541,34.55553,0.81725,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"lcl|CP015149.1_prot_AOF54732.1_184","CaPasteris_strainM3","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"AY",244,0,4,98.81115,23.07277,0.0149,1,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+"lcl|CP015149.1_prot_AOF54700.1_152","CaPasteris_strainM3","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"AY",574,0,6,127.32642,19.55256,0.97131,1,0,0,7,0,0,0,1,0,0,0,0,0,0,0,1,0,0,3,0,1,0,4,0
+"lcl|CP015149.1_prot_AOF54918.1_370","CaPasteris_strainM3","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"AY",134,0,3,63.85929,34.20795,0.30037,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"lcl|CP015149.1_prot_AOF54738.1_190","CaPasteris_strainM3","predicted",1,"-/-/-/mnb","y-LEAF_SecP2",3,"AY",177,0,1,22.75114,0.00719,0.9488,0,25,0,1,2,0,0,1,0,0,0,0,0,0,0,0,1,2,0,0,0,2,0,1
+"lcl|CP015149.1_prot_AOF54757.1_209","CaPasteris_strainM3","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"AY",619,0,6,121.12297,22.2652,0.98,1,0,1,7,2,0,0,1,0,0,0,0,0,0,1,0,0,1,4,1,5,0,2,0
+"lcl|CP015149.1_prot_AOF54668.1_120","CaPasteris_strainM3","predicted",1,"-/-/-/mnb","y-LEAF_SecP2",3,"AY",99,0,0,8.53959999999998,8.53927,0.85168,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,0
+"lcl|CP015149.1_prot_AOF54962.1_414","CaPasteris_strainM3","predicted",1,"-/-/gnb/-","n-LEAF_Warning",2,"AY",642,0,2,41.7484400000001,19.91162,0.0021,1,34,2,8,3,0,0,4,0,0,0,0,0,0,0,0,3,1,2,0,1,1,3,2
+"lcl|CP015149.1_prot_AOF54756.1_208","CaPasteris_strainM3","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"AY",311,0,6,126.50315,22.37354,0.94192,1,0,0,3,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,1,0,0
+"lcl|CP015149.1_prot_AOF54743.1_195","CaPasteris_strainM3","predicted",1,"-/-/-/mnb","y-LEAF_SecP2",3,"AY",106,0,0,0,0,0.50646,0,59,1,3,3,0,0,1,0,0,0,0,0,0,1,0,0,0,2,2,2,1,2,0
+"lcl|CP015149.1_prot_AOF54905.1_357","CaPasteris_strainM3","predicted",1,"-/-/-/mnb","n-LEAF_SignalP_Warning",1,"AY",308,0.63,6,129.21509,20.98127,0.99074,1,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0
+"lcl|CP015149.1_prot_AOF54914.1_366","CaPasteris_strainM3","predicted",1,"-/-/-/mnb","n-LEAF_SignalP_Warning",1,"AY",348,0.578,8,172.90375,20.83415,0.70801,1,0,0,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"lcl|CP015149.1_prot_AOF54906.1_358","CaPasteris_strainM3","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"AY",288,0,6,131.30826,22.36523,0.9987,1,0,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+"lcl|CP015149.1_prot_AOF54735.1_187","CaPasteris_strainM3","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"AY",232,0,5,109.88642,25.90004,0.00272,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+"lcl|CP015149.1_prot_AOF54785.1_237","CaPasteris_strainM3","predicted",1,"-/-/-/mnb","n-LEAF_SignalP_Warning",1,"AY",227,0.588,6,127.00786,39.35524,0.96425,1,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0
+"lcl|CP015149.1_prot_AOF54727.1_179","CaPasteris_strainM3","predicted",1,"-/-/-/mnb","y-LEAF",3,"AY",99,0,1,30.00303,7.7481,0.88758,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0
+"lcl|CP015149.1_prot_AOF54903.1_355","CaPasteris_strainM3","predicted",1,"-/-/gnb/-","n-LEAF_Warning",2,"AY",519,0,1,19.03817,19.0379,0.99252,1,0,0,10,4,0,0,1,0,0,0,0,0,0,0,1,1,3,2,0,1,1,2,3
+"lcl|CP015149.1_prot_AOF54937.1_389","CaPasteris_strainM3","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"AY",229,0,7,144.83889,31.93884,0.87334,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0
+"lcl|CP015149.1_prot_AOF54933.1_385","CaPasteris_strainM3","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"AY",257,0,3,62.7071,22.38978,0.1122,1,0,0,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2,0
+"lcl|CP015149.1_prot_AOF54972.1_424","CaPasteris_strainM3","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"AY",238,0,6,132.64278,32.86624,0.99944,1,0,0,4,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,2,1,1,0
+"lcl|CP015149.1_prot_AOF54939.1_391","CaPasteris_strainM3","predicted",1,"-/-/-/mnb","n-LEAF_SignalP_Warning",1,"AY",426,0.681,4,88.4793799999999,28.76547,0.00448,1,0,0,1,2,0,0,2,0,0,1,0,0,0,0,0,1,2,2,0,2,1,1,1
+"lcl|CP015149.1_prot_AOF54709.1_161","CaPasteris_strainM3","predicted",1,"-/-/-/mnb","y-LEAF",3,"AY",889,0,10,213.32981,0.00076,0.99739,0,0,0,10,4,0,0,3,0,0,1,1,0,0,3,0,0,3,3,0,2,5,1,2
+"lcl|CP015149.1_prot_AOF54710.1_162","CaPasteris_strainM3","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"AY",258,0,3,59.9905200000001,39.64138,0.12448,1,0,0,2,2,0,0,1,0,0,0,1,0,0,1,1,0,0,3,0,1,3,1,0
+"lcl|CP015149.1_prot_AOF54713.1_165","CaPasteris_strainM3","predicted",1,"-/-/-/mnb","y-LEAF",3,"AY",171,0,1,19.83835,3.0046,0.29825,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"lcl|CP015149.1_prot_AOF54893.1_345","CaPasteris_strainM3","predicted",1,"-/-/-/mnb","y-LEAF_SecP2",3,"AY",105,0,1,21.98697,0,0.50625,0,0,0,4,1,0,0,1,0,0,0,0,0,0,0,0,0,0,2,0,1,0,1,0
+"lcl|CP015149.1_prot_AOF54715.1_167","CaPasteris_strainM3","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"AY",78,0,1,22.60224,16.00133,0.09187,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"lcl|CP015149.1_prot_AOF54926.1_378","CaPasteris_strainM3","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"AY",305,0,8,165.7434,27.45095,0.80408,1,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0
+"lcl|CP015149.1_prot_AOF54690.1_142","CaPasteris_strainM3","predicted",1,"-/-/-/mnb","y-LEAF",3,"AY",538,0,5,112.92882,0.00914,0.05859,0,0,0,10,1,0,0,2,0,0,1,0,0,0,0,0,0,0,3,0,1,2,0,0
+"lcl|CP015149.1_prot_AOF54761.1_213","CaPasteris_strainM3","predicted",1,"-/-/-/mnb","y-LEAF_SecP2",3,"AY",82,0,1,22.75955,8.81664,0.90474,0,40,0,3,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+"lcl|CP015149.1_prot_AOF54892.1_344","CaPasteris_strainM3","predicted",1,"-/-/-/mnb","y-LEAF",3,"AY",102,0,1,22.47599,8.07851,0.83946,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,1,0,0
+"lcl|CP015149.1_prot_AOF54780.1_232","CaPasteris_strainM3","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"AY",233,0,6,128.6446,28.17765,0.05676,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"lcl|CP015149.1_prot_AOF54723.1_175","CaPasteris_strainM3","predicted",1,"-/-/-/mnb","y-LEAF",3,"AY",139,0,1,20.60994,0.00258,0.94295,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0
+"lcl|CP015149.1_prot_AOF54922.1_374","CaPasteris_strainM3","predicted",1,"-/-/-/mnb","y-LEAF",3,"AY",65,0,0,6.9428,6.9428,0.46301,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+"lcl|CP015149.1_prot_AOF54675.1_127","CaPasteris_strainM3","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"AY",244,0,6,136.60532,30.34542,0.50031,1,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,2,0,1,0
+"lcl|CP015149.1_prot_AOF54842.1_294","CaPasteris_strainM3","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"AY",525,0,6,131.26574,17.74261,0.69458,1,0,1,8,3,0,0,4,0,0,0,0,0,0,1,1,4,1,6,0,4,5,2,3
+"lcl|CP015149.1_prot_AOF54870.1_322","CaPasteris_strainM3","predicted",1,"-/-/-/mnb","n-LEAF_SignalP_Warning",1,"AY",413,0.629,9,208.63089,29.82271,0.94822,1,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"lcl|CP015149.1_prot_AOF54604.1_56","CaPasteris_strainM3","predicted",1,"-/-/-/mnb","n-LEAF_SignalP_Warning",1,"AY",219,0.62,6,129.52718,42.68988,0.9079,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+"lcl|CP015149.1_prot_AOF54600.1_52","CaPasteris_strainM3","predicted",1,"-/-/-/mnb","n-LEAF_SignalP_Warning",1,"AY",574,0.619,6,143.47229,33.78935,0.99244,1,0,0,9,3,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,2,0,1,0
+"lcl|CP015149.1_prot_AOF54587.1_39","CaPasteris_strainM3","predicted",1,"-/-/-/mnb","y-LEAF",3,"AY",119,0,2,44.10962,3.13396,0.81909,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"lcl|CP015149.1_prot_AOF54826.1_278","CaPasteris_strainM3","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"AY",262,0,7,154.10766,22.41759,0.99301,1,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0
+"lcl|CP015149.1_prot_AOF54594.1_46","CaPasteris_strainM3","predicted",1,"-/-/-/mnb","y-LEAF",3,"AY",122,0,1,20.54046,0.00035,0.80881,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,1,0
+"lcl|CP015149.1_prot_AOF54597.1_49","CaPasteris_strainM3","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"AY",150,0,3,67.58801,10.2315,0.53918,1,0,0,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0
+"lcl|CP015149.1_prot_AOF54598.1_50","CaPasteris_strainM3","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"AY",73,0,1,21.52286,13.80725,0.76375,1,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,1,0,0
+"lcl|CP015149.1_prot_AOF54599.1_51","CaPasteris_strainM3","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"AY",145,0,3,59.66123,33.15541,0.85333,1,0,0,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"lcl|CP015149.1_prot_AOF54601.1_53","CaPasteris_strainM3","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"AY",597,0,6,130.1774,21.51814,0.99701,1,0,0,5,0,0,0,1,0,0,0,0,0,0,2,0,0,0,2,0,1,0,2,1
+"lcl|CP015149.1_prot_AOF54621.1_73","CaPasteris_strainM3","predicted",1,"-/-/-/mnb","y-LEAF_SecP2",3,"AY",79,0,0,5.68055,5.68055,0.82669,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,0,0,0
+"lcl|CP015149.1_prot_AOF55005.1_457","CaPasteris_strainM3","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"AY",598,0,5,118.83287,20.83566,0.99936,1,0,0,12,3,0,0,1,0,0,0,0,0,0,1,0,0,3,3,0,5,0,3,0
+"lcl|CP015149.1_prot_AOF54603.1_55","CaPasteris_strainM3","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"AY",510,0,12,262.5836,22.50076,0.52929,1,21,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,2,0,1,0
+"lcl|CP015149.1_prot_AOF54823.1_275","CaPasteris_strainM3","predicted",1,"-/-/-/mnb","y-LEAF",3,"AY",231,0,2,41.12993,0.00018,0.96947,0,30,0,3,2,0,0,1,0,0,0,0,0,0,0,2,0,1,0,0,1,0,0,2
+"lcl|CP015149.1_prot_AOF54821.1_273","CaPasteris_strainM3","predicted",1,"-/-/-/mnb","y-LEAF_SecP2",3,"AY",103,0,0,0.00018,0.00018,0.04994,0,63,0,5,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+"lcl|CP015149.1_prot_AOF54820.1_272","CaPasteris_strainM3","predicted",1,"-/-/gnb/-","n-LEAF_Warning",2,"AY",528,0,1,22.50483,22.50383,0.99731,1,0,0,7,5,0,0,0,0,0,1,0,0,0,0,0,0,4,3,0,1,2,2,2
+"lcl|CP015149.1_prot_AOF54617.1_69","CaPasteris_strainM3","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"AY",177,0,4,87.68522,20.98521,0.9977,1,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,1
+"lcl|CP015149.1_prot_AOF54583.1_35","CaPasteris_strainM3","predicted",1,"-/-/-/mnb","y-LEAF",3,"AY",920,0,8,207.98806,1.01717,0.96953,0,0,1,9,2,0,0,2,0,0,0,0,0,0,1,0,1,0,4,0,1,3,2,1
+"lcl|CP015149.1_prot_AOF54580.1_32","CaPasteris_strainM3","predicted",1,"-/-/gnb/-","n-LEAF_SignalP_Warning",1,"AY",1032,0.628,2,43.19134,21.53961,0.99063,1,0,0,18,2,0,0,4,0,0,1,0,0,0,3,0,2,1,6,0,3,3,2,6
+"lcl|CP015149.1_prot_AOF54578.1_30","CaPasteris_strainM3","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"AY",87,0,0,13.58433,11.52479,0.17001,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"lcl|CP015149.1_prot_AOF55013.1_465","CaPasteris_strainM3","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"AY",666,0,6,142.81015,32.38563,0.83712,1,0,2,4,1,0,0,2,0,0,0,0,0,0,1,0,0,1,3,0,0,2,2,1
+"lcl|CP015149.1_prot_AOF55014.1_466","CaPasteris_strainM3","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"AY",486,0,12,262.41073,22.64521,0.99988,1,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+"lcl|CP015149.1_prot_AOF54573.1_25","CaPasteris_strainM3","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"AY",277,0,4,109.60766,31.93744,0.41762,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"lcl|CP015149.1_prot_AOF54571.1_23","CaPasteris_strainM3","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"AY",185,0,5,108.63242,42.19737,0.02736,1,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+"lcl|CP015149.1_prot_AOF55021.1_473","CaPasteris_strainM3","predicted",1,"-/-/-/mnb","n-LEAF_SignalP_Warning",1,"AY",209,0.632,5,120.13784,41.86478,0.99983,1,0,0,2,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,2,0
+"lcl|CP015149.1_prot_AOF55022.1_474","CaPasteris_strainM3","predicted",1,"-/-/-/mnb","y-LEAF_SecP2",3,"AY",307,0,0,11.8334,0.62033,0.62783,0,121,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"lcl|CP015149.1_prot_AOF54848.1_300","CaPasteris_strainM3","predicted",1,"-/-/-/mnb","n-LEAF_SignalP_Warning",1,"AY",322,0.658,6,127.57861,18.85163,0.99999,1,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,1
+"lcl|CP015149.1_prot_AOF54564.1_16","CaPasteris_strainM3","predicted",1,"-/-/gnb/-","n-LEAF_SignalP_Warning",1,"AY",849,0.662,2,43.0342200000002,19.525,0.01951,1,0,2,9,6,0,1,2,0,0,0,0,0,0,0,2,1,2,3,1,3,1,2,3
+"lcl|CP015149.1_prot_AOF54838.1_290","CaPasteris_strainM3","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"AY",136,0,3,65.73611,28.39959,0.84276,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"lcl|CP015149.1_prot_AOF54840.1_292","CaPasteris_strainM3","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"AY",815,0,9,197.3051,13.12235,0.98753,1,0,1,8,2,0,0,2,0,0,0,0,0,0,1,0,0,1,1,0,1,2,0,0
+"lcl|CP015149.1_prot_AOF54557.1_9","CaPasteris_strainM3","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"AY",245,0,6,137.81331,25.65209,0.68094,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0
+"lcl|CP015149.1_prot_AOF54556.1_8","CaPasteris_strainM3","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"AY",262,0,6,126.31955,22.8314,0.99899,1,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,1,1,0,0
+"lcl|CP015149.1_prot_AOF55030.1_482","CaPasteris_strainM3","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"AY",298,0,6,129.83579,21.95652,0.99712,1,0,0,3,1,0,0,1,0,0,0,0,0,0,0,1,0,0,2,0,1,1,0,1
+"lcl|CP015149.1_prot_AOF55031.1_483","CaPasteris_strainM3","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"AY",313,0,6,134.18729,20.67314,0.99056,1,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"lcl|CP015149.1_prot_AOF54813.1_265","CaPasteris_strainM3","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"AY",531,0,12,260.99929,21.62333,0.99921,1,0,0,5,4,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,1,1,1
+"lcl|CP015149.1_prot_AOF54908.1_360","CaPasteris_strainM3","predicted",1,"-/-/-/mnb","y-LEAF",3,"AY",912,0,10,209.563020000001,0.13443,0.99828,0,0,1,13,1,0,0,0,0,0,2,0,0,0,1,0,0,0,6,0,2,4,0,1
+"lcl|CP015149.1_prot_AOF54633.1_85","CaPasteris_strainM3","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"AY",334,0,6,131.30497,22.75403,0.896,1,50,1,8,1,0,0,4,0,0,2,0,0,0,1,1,0,1,3,0,1,2,0,3
+"lcl|CP015149.1_prot_AOF54989.1_441","CaPasteris_strainM3","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"AY",354,0,8,181.45034,34.58023,0.52893,1,0,1,4,1,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,1,1,0
+"lcl|CP015149.1_prot_AOF54634.1_86","CaPasteris_strainM3","predicted",1,"-/-/-/mnb","n-LEAF_SignalP_Warning",1,"AY",280,0.573,5,125.41826,22.57549,0.9997,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+"lcl|CP015149.1_prot_AOF54988.1_440","CaPasteris_strainM3","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"AY",364,0,9,185.76953,38.48949,0.25398,1,0,1,0,0,0,0,2,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,1
+"lcl|CP015149.1_prot_AOF54636.1_88","CaPasteris_strainM3","predicted",1,"-/-/gnb/-","n-LEAF_Warning",2,"AY",598,0,1,22.72119,22.69598,0.99236,1,63,1,7,2,0,0,2,0,0,0,0,0,0,0,0,0,3,1,0,0,1,0,3
+"lcl|CP015149.1_prot_AOF54811.1_263","CaPasteris_strainM3","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"AY",495,0,12,257.92419,21.20656,0.99701,1,0,0,9,2,0,0,1,0,0,1,0,0,0,0,1,0,1,2,0,3,0,1,0
+"lcl|CP015149.1_prot_AOF54986.1_438","CaPasteris_strainM3","predicted",1,"-/-/-/mnb","y-LEAF",3,"AY",503,0,4,90.4637500000001,0.09076,0.86565,0,0,2,8,2,0,0,2,0,0,1,0,0,0,1,0,0,1,3,1,1,3,0,2
+"lcl|CP015149.1_prot_AOF54909.1_361","CaPasteris_strainM3","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"AY",272,0,6,128.31592,19.57619,0.99451,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,1,0
+"lcl|CP015149.1_prot_AOF54807.1_259","CaPasteris_strainM3","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"AY",455,0,11,258.32331,42.55547,0.9976,1,0,0,6,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,1,1
 "tr|B3QZH6|B3QZH6_PHYMT","CaPmali_strainAT","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"AP",272,0.715,1,29.76819,22.78875,0.95651,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 "tr|B3R081|B3R081_PHYMT","CaPmali_strainAT","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_Warning",2,"AP",60,0,1,19.96144,19.96144,0.79882,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0
 "tr|B3R0F2|B3R0F2_PHYMT","CaPmali_strainAT","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_Warning",2,"AP",241,0,1,24.07274,23.68486,0.54143,1,0,0,0,3,0,0,2,0,0,0,0,0,0,0,0,2,0,0,1,0,1,1,1
@@ -985,7 +985,7 @@
 "lcl|NZ_CP025121.1_prot_WP_121464074.1_485","CaPziziphi","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_Warning",2,"EY",102,0,2,39.33177,20.7446,0.99971,1,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,0,1,1,0,0
 "lcl|NZ_CP025121.1_prot_WP_121463919.1_277","CaPziziphi","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"EY",90,0.828,1,21.58673,20.81956,0.78053,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
 "lcl|NZ_CP025121.1_prot_WP_121464075.1_486","CaPziziphi","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"EY",127,0.581,2,39.9252,21.21336,0.95005,1,0,0,3,0,0,0,1,0,0,0,0,0,0,0,1,0,0,2,0,1,1,1,0
-"ncs_p14 – lcl|NZ_CP025121.1_prot_WP_121463915.1_271","CaPziziphi","ncs_p14",4,"rf/xgb/gnb/mnb","y",1,"EY",146,0.762,1,20.23719,20.23641,0.85079,1,22,0,1,2,1,0,1,0,0,1,0,0,0,1,0,2,0,1,0,1,2,0,1
+"ncs_p14 - lcl|NZ_CP025121.1_prot_WP_121463915.1_271","CaPziziphi","ncs_p14",4,"rf/xgb/gnb/mnb","y",1,"EY",146,0.762,1,20.23719,20.23641,0.85079,1,22,0,1,2,1,0,1,0,0,1,0,0,0,1,0,2,0,1,0,1,2,0,1
 "lcl|NZ_CP025121.1_prot_WP_121463914.1_270","CaPziziphi","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"EY",127,0.683,1,22.7897,22.7897,0.7265,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
 "lcl|NZ_CP025121.1_prot_WP_121463912.1_269","CaPziziphi","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"EY",119,0.633,1,21.14054,21.1405,0.70802,1,0,0,1,0,0,0,4,0,0,0,0,0,0,1,0,0,1,1,0,1,0,1,1
 "lcl|NZ_CP025121.1_prot_WP_121464081.1_492","CaPziziphi","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"EY",122,0.613,2,40.77024,22.56827,0.95969,1,0,0,4,1,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,1,1,1
@@ -1004,7 +1004,7 @@
 "lcl|NZ_CP025121.1_prot_WP_121464100.1_507","CaPziziphi","predicted",3,"rf/-/gnb/mnb","n-LEAF_Warning",2,"EY",131,0,2,44.29208,22.22778,0.83075,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 "lcl|NZ_CP025121.1_prot_WP_121463765.1_103","CaPziziphi","predicted",3,"rf/-/gnb/mnb","n-LEAF_Warning",2,"EY",146,0,1,22.19231,22.14202,0.54099,1,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,2,0
 "lcl|NZ_CP025121.1_prot_WP_121463883.1_637","CaPziziphi","predicted",3,"rf/-/gnb/mnb","n-LEAF_Warning",2,"EY",298,0,1,22.89297,22.892,0.99451,1,0,0,2,3,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,2,0,1,0
-"ncs_p22 – lcl|NZ_CP025121.1_prot_WP_121463976.1_348","CaPziziphi","ncs_p22",3,"rf/-/gnb/mnb","n-LEAF_Warning",2,"EY",196,0,1,20.34684,20.19424,0.17933,1,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+"ncs_p22 - lcl|NZ_CP025121.1_prot_WP_121463976.1_348","CaPziziphi","ncs_p22",3,"rf/-/gnb/mnb","n-LEAF_Warning",2,"EY",196,0,1,20.34684,20.19424,0.17933,1,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
 "lcl|NZ_CP025121.1_prot_WP_121463883.1_235","CaPziziphi","predicted",3,"rf/-/gnb/mnb","n-LEAF_Warning",2,"EY",298,0,1,22.89297,22.892,0.99451,1,0,0,2,3,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,2,0,1,0
 "lcl|NZ_CP025121.1_prot_WP_121463979.1_352","CaPziziphi","predicted",3,"-/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"EY",238,0.679,2,38.64203,19.75005,0.99829,1,0,0,3,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1
 "lcl|NZ_CP025121.1_prot_WP_161554970.1_191","CaPziziphi","predicted",3,"-/xgb/gnb/mnb","n-LEAF_Warning",2,"EY",212,0,2,38.09356,36.91209,0.94384,1,0,0,3,2,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0
@@ -1087,7 +1087,7 @@
 "lcl|NZ_CP025121.1_prot_WP_121463925.1_398","CaPziziphi","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"EY",95,0,1,22.28529,11.99569,0.96127,1,27,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
 "lcl|NZ_CP025121.1_prot_WP_121464172.1_596","CaPziziphi","predicted",1,"-/-/gnb/-","n-LEAF_SignalP_Warning",1,"EY",1485,0.707,2,41.38242,21.46634,0.99736,1,70,0,31,32,0,0,0,0,0,0,0,0,0,0,0,1,2,1,1,8,8,8,9
 "lcl|NZ_CP025121.1_prot_WP_121464101.1_508","CaPziziphi","predicted",1,"-/-/-/mnb","y-LEAF",3,"EY",153,0,1,22.29659,0.01081,0.97224,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-"ncs_p12 – lcl|NZ_CP025121.1_prot_WP_161554974.1_240","CaPziziphi","ncs_p12",1,"-/-/-/mnb","y",3,"EY",58,0,0,0.00194,0.00194,0.6616,0,36,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+"ncs_p12 - lcl|NZ_CP025121.1_prot_WP_161554974.1_240","CaPziziphi","ncs_p12",1,"-/-/-/mnb","y",3,"EY",58,0,0,0.00194,0.00194,0.6616,0,36,1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0
 "lcl|NZ_CP025121.1_prot_WP_121463911.1_267","CaPziziphi","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"EY",267,0,6,128.27946,24.31766,0.99495,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
 "lcl|NZ_CP025121.1_prot_WP_121463927.1_288","CaPziziphi","predicted",1,"-/-/gnb/-","n-LEAF_Warning",2,"EY",400,0,1,22.0531,22.04825,0.97763,1,0,0,5,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,0,3,0,0,0
 "lcl|NZ_CP025121.1_prot_WP_121463925.1_286","CaPziziphi","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"EY",95,0,1,22.28529,11.99569,0.96127,1,27,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
@@ -1135,7 +1135,7 @@
 "lcl|NZ_CP025121.1_prot_WP_121464200.1_632","CaPziziphi","predicted",1,"-/-/-/mnb","y-LEAF",3,"EY",210,0,3,60.89958,2.90223,0.94474,0,0,0,6,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,2
 "lcl|NZ_CP025121.1_prot_WP_121463981.1_355","CaPziziphi","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"EY",259,0,6,133.55507,22.16544,0.99978,1,0,0,0,1,0,0,4,0,0,0,0,0,0,1,2,1,0,0,0,2,0,1,1
 "lcl|NZ_CP025121.1_prot_WP_121464154.1_565","CaPziziphi","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"EY",315,0,7,153.96945,36.31688,0.98689,1,23,1,3,2,0,0,2,0,0,0,0,0,0,0,0,2,1,1,0,1,2,0,1
-"ncs_p3 – lcl|NZ_CP025121.1_prot_WP_161554967.1_143","CaPziziphi","ncs_p3",1,"-/-/-/mnb","y",3,"EY",52,0,0,0.00281,0.00281,0.97454,0,26,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+"ncs_p3 - lcl|NZ_CP025121.1_prot_WP_161554967.1_143","CaPziziphi","ncs_p3",1,"-/-/-/mnb","y",3,"EY",52,0,0,0.00281,0.00281,0.97454,0,26,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0
 "lcl|NZ_CP025121.1_prot_WP_121463718.1_59","CaPziziphi","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"EY",213,0,7,143.81708,33.88977,0.95601,1,0,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0
 "lcl|NZ_CP025121.1_prot_WP_121463925.1_576","CaPziziphi","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"EY",95,0,1,22.28529,11.99569,0.96127,1,27,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
 "lcl|NZ_CP025121.1_prot_WP_121463703.1_43","CaPziziphi","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"EY",239,0,6,128.45826,22.87733,0.99999,1,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0
@@ -1786,163 +1786,163 @@
 "sp|B1V9H9|PLSY_PHYAS","CaPaustraliense","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"STOL",225,0,6,127.24629,28.04117,0.90559,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0
 "tr|B1V952|B1V952_PHYAS","CaPaustraliense","predicted",1,"-/-/gnb/-","n-LEAF_SignalP_Warning",1,"STOL",832,0.602,2,42.4797599999999,30.61098,0.12754,1,0,1,14,3,0,1,2,0,0,0,0,0,0,0,0,0,1,5,2,4,1,2,3
 "tr|B1VAC8|B1VAC8_PHYAS","CaPaustraliense","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"STOL",415,0,10,212.24921,24.73758,0.98975,1,0,0,3,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
-"USQ93565.1","CaPvitis","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"FD",86,0.66,1,21.46426,21.46426,0.98601,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,1
-"USQ93595.1","CaPvitis","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"FD",277,0.679,1,19.72079,19.72079,0.99197,1,46,1,7,4,0,0,4,0,0,2,0,0,0,2,0,3,2,3,1,5,2,1,3
-"USQ93590.1","CaPvitis","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"FD",170,0.603,1,22.67248,22.67139,0.59215,1,0,0,7,4,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,3,4
-"USQ93149.1","CaPvitis","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"FD",231,0.585,1,23.9099,23.26282,0.83801,1,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,2,0,0
-"USQ93301.1","CaPvitis","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"FD",113,0.693,1,21.99774,21.98748,0.1048,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
-"USQ93152.1","CaPvitis","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"FD",131,0.602,2,41.40803,20.11609,0.97036,1,0,0,3,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,1
-"USQ93374.1","CaPvitis","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"FD",364,0.78,1,19.81547,19.8143,0.98758,1,0,0,4,2,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,1,1,1,1
-"USQ93300.1","CaPvitis","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"FD",68,0.635,1,22.70816,22.70816,0.07147,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
-"USQ93380.1","CaPvitis","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"FD",122,0.787,1,20.29202,20.29202,0.10652,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-"USQ93395.1","CaPvitis","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_Warning",2,"FD",210,0,1,22.67911,22.67911,0.92704,1,0,1,5,3,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,1,1
-"USQ93163.1","CaPvitis","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"FD",186,0.665,1,22.29571,22.29349,0.23607,1,0,0,1,1,0,0,2,0,0,0,0,0,0,1,1,0,1,0,0,0,0,1,2
-"USQ93279.1","CaPvitis","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"FD",283,0.583,1,24.96056,20.98525,0.81986,1,0,0,6,4,0,0,1,0,0,1,0,0,0,1,0,1,1,1,0,1,1,1,2
-"USQ93277.1","CaPvitis","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"FD",324,0.73,1,19.6256,19.62548,0.89225,1,0,1,9,10,0,0,1,0,0,1,0,0,0,1,3,0,3,2,1,5,2,2,4
-"USQ93170.1","CaPvitis","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"FD",398,0.783,1,22.93243,22.8899,0.99787,1,0,1,2,2,0,0,2,0,0,1,0,0,0,1,0,0,2,4,0,0,1,2,4
-"USQ93171.1","CaPvitis","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_Warning",2,"FD",74,0,1,19.5333,19.53326,0.32532,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
-"USQ93552.1","CaPvitis","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"FD",36,0.649,1,20.07071,20.07071,0.8544,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-"USQ93261.1","CaPvitis","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"FD",204,0.603,2,42.40257,24.50408,0.83555,1,0,1,4,1,0,0,1,0,0,0,0,0,0,1,0,1,0,2,0,0,1,2,1
-"USQ93546.1","CaPvitis","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"FD",325,0.601,1,20.93488,20.90289,0.95326,1,0,0,3,5,0,0,2,0,0,0,0,0,0,2,0,1,2,0,1,0,4,2,1
-"USQ93544.1","CaPvitis","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"FD",125,0.797,1,19.1218,19.12171,0.18328,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-"USQ93542.1","CaPvitis","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"FD",137,0.74,1,22.37008,22.36985,0.9559,1,0,0,3,2,0,0,1,0,0,0,0,0,0,0,0,1,0,1,2,0,4,0,0
-"USQ93534.1","CaPvitis","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"FD",247,0.581,1,19.9884,19.97183,0.71457,1,0,0,4,0,0,0,2,0,0,1,0,0,0,0,0,1,0,1,0,0,1,0,1
-"USQ93531.1","CaPvitis","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"FD",329,0.657,1,23.23792,22.79807,0.99668,1,0,0,5,3,0,0,0,0,0,0,0,0,0,0,0,1,1,4,0,2,1,2,1
-"USQ93465.1","CaPvitis","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"FD",80,0.635,1,22.06387,22.05115,0.97048,1,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,0,0,3,1
-"USQ93522.1","CaPvitis","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"FD",234,0.8,1,20.46398,20.4636,0.93246,1,28,0,8,3,0,0,1,0,0,1,0,0,0,0,0,0,2,3,1,1,2,0,4
-"USQ93194.1","CaPvitis","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"FD",224,0.707,1,20.8055,20.80366,0.5243,1,32,1,3,3,1,0,1,0,0,0,0,0,0,1,0,2,0,3,1,3,1,2,1
-"USQ93304.1","CaPvitis","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"FD",129,0.644,1,21.7026,21.7026,0.16728,1,0,0,0,1,0,0,3,0,0,0,0,0,0,1,0,1,0,1,0,0,0,1,2
-"USQ93507.1","CaPvitis","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"FD",60,0.657,1,22.93459,22.93459,0.99557,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
-"USQ93139.1","CaPvitis","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"FD",450,0.709,1,22.27444,22.27444,0.99996,1,30,1,7,2,0,0,2,0,0,0,0,0,0,0,0,1,1,2,1,0,0,4,1
-"USQ93601.1","CaPvitis","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"FD",299,0.696,1,18.88287,18.8792,0.0981,1,34,0,2,3,0,0,0,0,0,0,0,0,0,1,0,1,0,3,1,2,2,0,2
-"USQ93325.1","CaPvitis","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"FD",210,0.623,1,22.71109,22.71109,0.9005,1,0,0,4,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0
-"USQ93603.1","CaPvitis","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"FD",213,0.592,1,26.95574,20.41863,0.99739,1,0,0,0,0,0,0,3,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0
-"USQ93338.1","CaPvitis","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"FD",241,0.72,1,19.89368,19.89353,0.8967,1,0,0,4,2,0,0,1,0,0,0,0,0,0,2,0,0,2,0,0,0,2,3,0
-"USQ93602.1","CaPvitis","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"FD",104,0.623,1,20.64921,20.64921,0.12138,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-"USQ93607.1","CaPvitis","predicted",3,"rf/xgb/gnb/-","n-LEAF_SignalP_Warning",1,"FD",460,0.607,1,20.74673,20.74388,0.95485,1,0,2,6,3,0,0,1,0,0,1,0,0,0,1,0,0,2,2,0,3,1,1,1
-"USQ93518.1","CaPvitis","predicted",3,"-/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"FD",382,0.625,1,22.48661,22.48105,0.98116,1,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0
-"USQ93462.1","CaPvitis","predicted",3,"rf/xgb/gnb/-","n-LEAF_SignalP_Warning",1,"FD",445,0.741,1,19.94514,19.90418,0.99105,1,0,2,3,4,0,0,1,0,0,2,0,0,0,0,1,1,0,2,1,1,3,0,2
-"USQ93328.1","CaPvitis","predicted",3,"-/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"FD",312,0.78,1,22.1095,22.10335,0.97297,1,0,0,3,3,0,0,2,0,0,0,0,0,0,0,0,1,4,0,0,3,1,1,0
-"USQ93412.1","CaPvitis","predicted",3,"-/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"FD",320,0.677,2,38.78746,19.74841,0.99381,1,0,0,14,4,0,0,4,0,0,0,0,0,0,2,0,0,1,2,0,4,3,3,2
-"USQ93578.1","CaPvitis","predicted",3,"-/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"FD",251,0.593,1,23.89969,23.64813,0.74782,1,0,1,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,1,0
-"USQ93596.1","CaPvitis","predicted",3,"-/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"FD",391,0.687,1,19.71605,19.71605,0.99777,1,152,1,10,4,0,0,1,0,0,0,0,0,0,1,0,0,2,2,1,1,3,4,3
-"USQ93545.1","CaPvitis","predicted",3,"rf/-/gnb/mnb","n-LEAF_Warning",2,"FD",92,0,2,40.01667,20.45217,0.9486,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-"USQ93181.1","CaPvitis","predicted",3,"-/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"FD",248,0.685,1,21.87433,21.86138,0.99729,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-"USQ93324.1","CaPvitis","predicted",3,"-/xgb/gnb/mnb","n-LEAF_Warning",2,"FD",190,0,2,42.20441,29.98619,0.26876,1,45,0,1,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,1
-"USQ93191.1","CaPvitis","predicted",3,"rf/-/gnb/mnb","n-LEAF_Warning",2,"FD",148,0,2,43.27702,21.35899,0.97497,1,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
-"USQ93438.1","CaPvitis","predicted",3,"-/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"FD",285,0.709,2,42.7955,20.26247,0.72146,1,201,0,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-"USQ93198.1","CaPvitis","predicted",3,"rf/xgb/gnb/-","n-LEAF_SignalP_Warning",1,"FD",542,0.615,1,21.02904,21.00317,0.90507,1,0,1,8,4,0,0,2,0,0,1,0,0,0,1,0,1,2,2,0,0,3,2,1
-"USQ93502.1","CaPvitis","predicted",3,"-/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"FD",309,0.688,1,19.64398,19.6438,0.04668,1,0,0,5,3,0,0,1,0,0,1,0,0,0,1,1,0,1,2,0,2,1,1,1
-"USQ93504.1","CaPvitis","predicted",3,"rf/-/gnb/mnb","n-LEAF_Warning",2,"FD",119,0,2,40.70036,18.98851,0.99352,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-"USQ93153.1","CaPvitis","predicted",3,"-/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"FD",381,0.672,2,39.23497,19.36594,0.19232,1,0,0,4,2,0,0,0,0,0,1,0,0,0,1,0,0,1,1,1,1,2,1,0
-"USQ93352.1","CaPvitis","predicted",3,"-/xgb/gnb/mnb","n-LEAF_Warning",2,"FD",156,0,1,22.67494,22.67476,0.20859,1,0,0,4,2,0,0,0,0,0,1,0,0,0,0,0,0,1,2,0,1,1,1,1
-"USQ93491.1","CaPvitis","predicted",2,"rf/-/-/mnb","n-LEAF_Warning",2,"FD",131,0,3,62.94096,23.99927,0.97371,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1
-"USQ93138.1","CaPvitis","predicted",2,"-/xgb/gnb/-","n-LEAF_SignalP_Warning",1,"FD",626,0.714,1,20.7678,20.76765,0.99474,1,27,1,9,5,0,0,1,0,0,0,0,0,0,0,0,0,4,4,1,2,2,0,5
-"USQ93196.1","CaPvitis","predicted",2,"-/xgb/gnb/-","n-LEAF_SignalP_Warning",1,"FD",601,0.622,2,42.38355,20.21642,0.47533,1,0,0,11,0,0,0,5,0,0,1,0,0,0,2,0,1,0,3,0,1,1,1,3
-"USQ93327.1","CaPvitis","predicted",2,"-/-/gnb/mnb","n-LEAF_Warning",2,"FD",547,0,2,40.26434,34.62357,0.00609,1,0,3,4,3,0,1,0,0,0,1,0,0,0,0,0,0,2,3,1,2,1,2,1
-"USQ93557.1","CaPvitis","predicted",2,"-/xgb/gnb/-","n-LEAF_Warning",2,"FD",412,0,1,19.4744,19.47423,0.98805,1,0,0,9,2,0,0,3,0,0,0,0,0,0,2,0,0,1,4,0,0,3,1,3
-"USQ93556.1","CaPvitis","predicted",2,"-/-/gnb/mnb","n-LEAF_Warning",2,"FD",236,0,1,18.35799,15.72593,0.88304,1,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,1
-"USQ93424.1","CaPvitis","predicted",2,"-/xgb/gnb/-","n-LEAF_SignalP_Warning",1,"FD",497,0.666,1,22.2732,22.27274,0.98059,1,0,0,9,3,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,0,0,2,2
-"USQ93241.1","CaPvitis","predicted",2,"-/-/gnb/mnb","n-LEAF_SignalP_Warning",1,"FD",674,0.685,2,45.52976,22.82554,0.00527,1,60,1,17,5,0,0,1,0,0,0,0,0,0,0,2,0,1,5,3,5,1,5,2
-"USQ93461.1","CaPvitis","predicted",2,"-/-/gnb/mnb","n-LEAF_SignalP_Warning",1,"FD",381,0.616,2,45.06327,22.2462,0.92414,1,0,0,10,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1
-"USQ93430.1","CaPvitis","predicted",2,"-/-/gnb/mnb","n-LEAF_SignalP_Warning",1,"FD",261,0.684,2,45.3636,22.54479,0.98062,1,0,0,4,0,0,0,1,0,0,1,0,0,0,0,0,0,0,2,0,1,0,1,0
-"USQ93593.1","CaPvitis","predicted",2,"-/xgb/gnb/-","n-LEAF_SignalP_Warning",1,"FD",584,0.614,1,33.7673000000001,17.46324,0.93525,1,0,0,10,2,0,0,3,0,0,1,0,0,0,2,0,1,2,2,0,3,0,2,2
-"USQ93263.1","CaPvitis","predicted",2,"-/-/gnb/mnb","n-LEAF_SignalP_Warning",1,"FD",196,0.722,2,45.26761,22.66739,0.67283,1,0,1,3,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0
-"USQ93371.1","CaPvitis","predicted",2,"-/-/gnb/mnb","n-LEAF_Warning",2,"FD",73,0,1,21.36536,14.21156,0.83257,1,33,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0
-"USQ93326.1","CaPvitis","predicted",2,"-/xgb/gnb/-","n-LEAF_SignalP_Warning",1,"FD",457,0.694,1,23.22204,22.98362,0.98494,1,0,0,4,0,0,0,1,0,0,1,0,0,0,0,0,0,0,3,0,1,0,2,0
-"USQ93373.1","CaPvitis","predicted",2,"-/-/gnb/mnb","n-LEAF_Warning",2,"FD",221,0,1,19.12001,18.91786,0.8207,1,0,0,3,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-"USQ93347.1","CaPvitis","predicted",2,"-/xgb/gnb/-","n-LEAF_SignalP_Warning",1,"FD",1546,0.761,1,20.95948,20.95735,0.99934,1,0,4,16,12,0,0,1,0,0,4,0,0,0,1,0,1,8,8,2,4,9,6,6
-"USQ93449.1","CaPvitis","predicted",2,"-/-/gnb/mnb","n-LEAF_Warning",2,"FD",245,0,1,35.33361,22.96239,0.00254,1,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,1
-"USQ93189.1","CaPvitis","predicted",2,"-/-/gnb/mnb","n-LEAF_Warning",2,"FD",252,0,3,58.9413900000001,43.88113,0.14382,1,0,0,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
-"USQ93180.1","CaPvitis","predicted",2,"-/xgb/gnb/-","n-LEAF_SignalP_Warning",1,"FD",550,0.638,1,22.70812,22.70812,0.9988,1,0,1,2,3,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,2,0,0,2
-"USQ93284.1","CaPvitis","predicted",2,"-/-/gnb/mnb","n-LEAF_Warning",2,"FD",73,0,2,41.3787,34.83377,0.5994,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
-"USQ93165.1","CaPvitis","predicted",2,"-/xgb/gnb/-","n-LEAF_SignalP_Warning",1,"FD",599,0.702,1,37.3474200000001,18.38325,0.98576,1,0,0,11,1,0,0,3,0,0,1,0,0,0,2,0,0,0,1,1,1,0,1,3
-"USQ93594.1","CaPvitis","predicted",2,"-/xgb/gnb/-","n-LEAF_Warning",2,"FD",601,0,1,18.72339,18.72293,0.99909,1,0,0,5,2,0,0,3,0,0,0,0,0,0,2,0,1,2,1,0,2,3,2,1
-"USQ93142.1","CaPvitis","predicted",2,"-/xgb/gnb/-","n-LEAF_SignalP_Warning",1,"FD",497,0.666,1,22.2732,22.27274,0.98059,1,0,0,9,3,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,0,0,2,2
-"USQ93604.1","CaPvitis","predicted",2,"-/xgb/gnb/-","n-LEAF_SignalP_Warning",1,"FD",1503,0.678,1,22.60539,22.5988,0.99994,1,0,5,14,9,0,0,2,0,0,3,0,0,0,2,0,0,4,6,1,6,4,6,5
-"USQ93540.1","CaPvitis","predicted",2,"-/-/gnb/mnb","n-LEAF_Warning",2,"FD",212,0,1,19.66109,19.6608,0.26753,1,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0
-"USQ93437.1","CaPvitis","predicted",2,"-/-/gnb/mnb","n-LEAF_SignalP_Warning",1,"FD",673,0.702,2,40.57703,20.60633,0.98311,1,588,0,13,2,0,0,1,0,0,0,0,0,0,1,0,0,0,3,2,0,0,2,5
-"USQ93606.1","CaPvitis","predicted",2,"-/-/gnb/mnb","n-LEAF_Warning",2,"FD",266,0,1,22.94661,22.94661,0.9902,1,0,0,7,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0
-"USQ93547.1","CaPvitis","predicted",2,"-/xgb/gnb/-","n-LEAF_SignalP_Warning",1,"FD",721,0.688,1,22.58508,22.55768,0.99998,1,0,0,9,5,0,0,6,0,0,0,0,0,0,2,1,1,2,5,1,2,3,3,4
-"USQ93459.1","CaPvitis","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"FD",653,0,7,150.06103,31.93484,0.999,1,0,1,8,6,0,0,5,0,0,0,0,0,0,2,1,0,5,7,0,5,5,4,2
-"USQ93246.1","CaPvitis","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"FD",209,0,5,115.32215,30.02936,0.12229,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-"USQ93245.1","CaPvitis","predicted",1,"-/-/-/mnb","n-LEAF_SignalP_Warning",1,"FD",124,0.595,3,66.56949,24.76293,0.63364,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
-"USQ93244.1","CaPvitis","predicted",1,"-/-/-/mnb","n-LEAF_SignalP_Warning",1,"FD",230,0.749,6,127.97386,30.6325,0.99957,1,0,0,6,0,0,0,1,0,0,0,0,0,0,0,0,1,0,2,0,1,2,0,0
-"USQ93332.1","CaPvitis","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"FD",205,0,6,123.74665,35.91977,0.99915,1,0,2,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,1,1,1
-"USQ93484.1","CaPvitis","predicted",1,"-/-/-/mnb","y-LEAF_SecP2",3,"FD",98,0,0,0.00038,0.00038,0.10205,0,38,0,1,4,0,0,1,0,0,0,0,0,0,0,0,1,1,2,2,0,0,4,2
-"USQ93216.1","CaPvitis","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"FD",413,0,10,204.05255,20.31191,0.99898,1,0,1,5,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,1
-"USQ93206.1","CaPvitis","predicted",1,"-/-/-/mnb","n-LEAF_SignalP_Warning",1,"FD",326,0.585,9,180.02693,32.69154,0.9958,1,0,0,4,1,0,0,1,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1,2
-"USQ93488.1","CaPvitis","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"FD",768,0,9,196.85777,11.26351,0.9955,1,0,0,5,5,0,0,2,0,0,0,0,0,0,1,0,0,2,1,1,2,2,2,0
-"USQ93473.1","CaPvitis","predicted",1,"-/-/gnb/-","n-LEAF_Warning",2,"FD",1059,0,2,41.8321299999999,21.70433,0.99729,1,0,0,14,14,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,2,4,6,2
-"USQ93363.1","CaPvitis","predicted",1,"-/-/-/mnb","n-LEAF_SignalP_Warning",1,"FD",204,0.576,4,87.6035400000001,37.84819,0.99748,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
-"USQ93442.1","CaPvitis","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"FD",243,0,6,126.48973,22.88944,0.99961,1,0,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
-"USQ93281.1","CaPvitis","predicted",1,"-/-/-/mnb","n-LEAF_SignalP_Warning",1,"FD",443,0.578,7,152.931060000001,20.19139,1,1,0,1,4,1,0,0,2,0,0,0,0,0,0,1,0,0,0,2,0,0,1,1,1
-"USQ93355.1","CaPvitis","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"FD",243,0,7,138.30268,29.65524,0.47674,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2,0,0
-"USQ93365.1","CaPvitis","predicted",1,"-/-/-/mnb","y-LEAF",3,"FD",197,0,3,73.2997900000001,0.22011,0.27886,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
-"USQ93353.1","CaPvitis","predicted",1,"-/-/gnb/-","n-LEAF_Warning",2,"FD",542,0,1,23.44158,22.69198,0.98536,1,0,2,6,4,0,0,1,0,0,0,0,0,0,0,0,1,2,3,0,0,2,1,3
-"USQ93368.1","CaPvitis","predicted",1,"-/-/-/mnb","n-LEAF_SignalP_Warning",1,"FD",243,0.67,6,130.21618,34.37523,0.99729,1,0,0,3,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0
-"USQ93317.1","CaPvitis","predicted",1,"-/-/-/mnb","n-LEAF_SignalP_Warning",1,"FD",216,0.67,5,116.85841,37.97168,0.24846,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-"USQ93376.1","CaPvitis","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"FD",357,0,8,179.03063,27.2169,0.62281,1,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,1
-"USQ93377.1","CaPvitis","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"FD",368,0,9,195.8172,41.04241,0.02434,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,1
-"USQ93381.1","CaPvitis","predicted",1,"-/-/gnb/-","n-LEAF_SignalP_Warning",1,"FD",431,0.574,1,14.67174,14.67063,0.79171,1,36,0,4,3,0,0,2,0,0,1,0,0,0,1,0,1,2,3,0,4,2,1,0
-"USQ93385.1","CaPvitis","predicted",1,"-/-/-/mnb","n-LEAF_SignalP",1,"FD",214,0.612,2,40.13211,0.00087,0.99472,0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-"USQ93394.1","CaPvitis","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"FD",267,0,6,130.27051,22.82632,0.99974,1,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
-"USQ93397.1","CaPvitis","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"FD",339,0,8,175.41909,17.71037,0.03764,1,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-"USQ93399.1","CaPvitis","predicted",1,"-/-/-/mnb","n-LEAF_SignalP_Warning",1,"FD",287,0.621,7,151.48296,37.40094,0.99821,1,0,0,2,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,2
-"USQ93280.1","CaPvitis","predicted",1,"-/-/gnb/-","n-LEAF_Warning",2,"FD",479,0,1,19.1158199999999,19.10785,0.89524,1,0,0,11,1,0,0,1,0,0,1,0,0,0,1,0,0,1,2,0,0,0,2,2
-"USQ93257.1","CaPvitis","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"FD",213,0,7,145.72923,33.86566,0.81768,1,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,1,0,0
-"USQ93200.1","CaPvitis","predicted",1,"-/-/gnb/-","n-LEAF_SignalP_Warning",1,"FD",1682,0.596,2,44.5445,21.67298,1,1,0,0,131,118,0,0,0,0,0,10,0,0,0,0,0,1,1,7,0,40,51,51,48
-"USQ93345.1","CaPvitis","predicted",1,"-/-/-/mnb","y-LEAF",3,"FD",480,0,4,91.1767000000001,0.06613,0.98917,0,0,0,9,1,0,0,2,0,0,1,0,0,0,2,1,0,0,3,1,5,3,0,0
-"USQ93409.1","CaPvitis","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"FD",260,0,6,134.74631,22.47166,0.99622,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
-"USQ93275.1","CaPvitis","predicted",1,"-/-/-/mnb","y-LEAF",3,"FD",155,0,1,21.48803,0,0.92207,0,0,1,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,1,0,1,0
-"USQ93269.1","CaPvitis","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"FD",300,0,8,172.65704,39.52553,0.88531,1,0,0,4,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
-"USQ93419.1","CaPvitis","predicted",1,"-/-/-/mnb","y-LEAF",3,"FD",565,0,4,106.86352,1.26467,0.74836,0,0,0,11,1,0,0,2,0,0,1,0,0,0,0,1,1,0,1,0,0,0,0,3
-"USQ93425.1","CaPvitis","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"FD",303,0,6,134.25875,22.74067,0.99972,1,0,0,4,3,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,1,1,1
-"USQ93426.1","CaPvitis","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"FD",308,0,6,133.81669,22.5182,0.99348,1,0,0,5,2,0,0,0,0,0,1,0,0,0,0,1,0,0,4,0,0,1,2,2
-"USQ93341.1","CaPvitis","predicted",1,"-/-/-/mnb","n-LEAF_SignalP_Warning",1,"FD",590,0.639,6,129.50253,24.73592,0.52252,1,0,0,3,2,0,0,2,0,0,1,0,0,0,2,0,0,0,1,1,0,0,1,3
-"USQ93337.1","CaPvitis","predicted",1,"-/-/-/mnb","n-LEAF_SignalP_Warning",1,"FD",538,0.637,12,285.73684,34.96854,0.81611,1,0,0,8,0,0,0,2,0,0,0,0,0,0,0,0,0,2,1,0,2,1,0,0
-"USQ93336.1","CaPvitis","predicted",1,"-/-/-/mnb","n-LEAF_SignalP_Warning",1,"FD",526,0.657,6,135.36877,19.93126,0.05379,1,0,0,4,5,0,0,3,0,0,1,0,0,0,2,0,0,2,2,2,2,5,0,1
-"USQ93432.1","CaPvitis","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"FD",479,0,10,218.68439,20.66848,0.98462,1,0,0,4,3,0,0,2,0,0,1,0,0,0,0,0,2,1,2,0,2,0,1,2
-"USQ93342.1","CaPvitis","predicted",1,"-/-/-/mnb","n-LEAF_SignalP_Warning",1,"FD",572,0.608,6,136.82178,34.25169,0.06607,1,0,1,6,1,0,0,1,0,0,0,0,0,0,1,0,0,0,3,0,0,0,2,2
-"USQ93127.1","CaPvitis","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"FD",212,0,5,112.08557,28.22591,0.85275,1,0,1,4,1,0,0,0,0,0,0,0,0,0,0,1,0,0,3,0,0,2,2,1
-"USQ93558.1","CaPvitis","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"FD",315,0,7,151.34305,37.71443,0.99501,1,0,1,6,1,0,0,2,0,0,0,0,0,0,1,0,0,0,3,0,0,0,0,4
-"USQ93520.1","CaPvitis","predicted",1,"-/-/-/mnb","y-LEAF",3,"FD",95,0,1,14.46379,0,0.62284,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-"USQ93550.1","CaPvitis","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"FD",75,0,1,15.67427,15.67427,0.47259,1,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
-"USQ93605.1","CaPvitis","predicted",1,"-/-/gnb/-","n-LEAF_SignalP_Warning",1,"FD",493,0.663,1,22.8203999999999,22.72505,0.96308,1,0,0,9,4,0,0,1,0,0,1,0,0,0,1,0,0,3,2,0,1,4,1,1
-"USQ93548.1","CaPvitis","predicted",1,"-/-/gnb/-","n-LEAF_SignalP_Warning",1,"FD",595,0.627,2,43.9441800000001,21.29782,0.21994,1,0,0,10,0,0,0,2,0,0,1,0,0,0,1,0,0,0,2,0,0,0,2,2
-"USQ93143.1","CaPvitis","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"FD",303,0,6,134.25875,22.74067,0.99972,1,0,0,4,3,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,1,1,1
-"USQ93144.1","CaPvitis","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"FD",308,0,6,133.81669,22.5182,0.99348,1,0,0,5,2,0,0,0,0,0,1,0,0,0,0,1,0,0,4,0,0,1,2,2
-"USQ93573.1","CaPvitis","predicted",1,"-/-/-/mnb","n-LEAF_SignalP_Warning",1,"FD",212,0.643,6,127.39873,38.15504,0.99771,1,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,2,1,0,0
-"USQ93537.1","CaPvitis","predicted",1,"-/-/-/mnb","y-LEAF",3,"FD",939,0,10,216.24053,3.47397,0.99864,0,0,0,12,7,0,0,3,0,0,0,0,0,0,1,0,2,2,4,2,2,5,1,3
-"USQ93568.1","CaPvitis","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"FD",423,0,4,84.1185400000002,25.0423,0.04143,1,0,1,6,1,0,0,2,0,0,0,0,0,0,0,0,0,1,4,1,1,1,2,2
-"USQ93592.1","CaPvitis","predicted",1,"-/-/-/mnb","y-LEAF_SecP2",3,"FD",52,0,0,0,0,0.60612,0,52,0,3,3,0,0,0,0,0,0,0,0,0,0,0,1,0,3,2,1,2,2,1
-"USQ93589.1","CaPvitis","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"FD",495,0,10,251.92068,26.48186,0.99009,1,0,0,2,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,2,1
-"USQ93524.1","CaPvitis","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"FD",257,0,7,149.63414,21.13484,0.97825,1,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0
-"USQ93169.1","CaPvitis","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"FD",333,0,8,176.449,18.41544,0.01937,1,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0
-"USQ93154.1","CaPvitis","predicted",1,"-/-/-/mnb","n-LEAF_SignalP_Warning",1,"FD",265,0.67,6,132.47599,22.5842,0.99619,1,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-"USQ93155.1","CaPvitis","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"FD",280,0,6,133.9967,22.81751,0.98477,1,0,0,4,2,0,0,3,0,0,0,0,0,0,1,1,0,1,0,0,1,1,1,0
-"USQ93517.1","CaPvitis","predicted",1,"-/-/gnb/-","n-LEAF_SignalP_Warning",1,"FD",528,0.584,1,24.66266,22.01379,0.86774,1,0,0,9,0,0,0,2,0,0,1,0,0,0,1,0,0,0,2,0,0,0,1,2
-"USQ93543.1","CaPvitis","predicted",1,"-/-/-/mnb","y-LEAF",3,"FD",323,0,7,155.45495,0.42332,0.97159,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0,2,0
-"USQ93133.1","CaPvitis","predicted",1,"-/-/-/mnb","n-LEAF_SignalP_Warning",1,"FD",192,0.571,5,113.24964,41.8018,0.03075,1,0,0,0,0,0,0,2,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,2
-"USQ93563.1","CaPvitis","predicted",1,"-/-/gnb/-","n-LEAF_Warning",2,"FD",516,0,1,19.5958899999999,19.5923,0.99431,1,0,2,5,1,0,0,0,0,0,0,0,0,0,1,0,0,1,3,0,4,0,0,1
-"USQ93130.1","CaPvitis","predicted",1,"-/-/-/mnb","y-LEAF",3,"FD",103,0,0,6.65405,6.63934,0.34258,0,0,2,2,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0
-"USQ93199.1","CaPvitis","predicted",1,"-/-/-/mnb","n-LEAF_SignalP_Warning",1,"FD",240,0.658,5,107.88537,30.24538,0.99939,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-"USQ93195.1","CaPvitis","predicted",1,"-/-/gnb/-","n-LEAF_Warning",2,"FD",699,0,1,20.9509,20.94427,0.99891,1,0,1,6,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,3,0,1
-"USQ93134.1","CaPvitis","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"FD",150,0,3,63.84745,20.28619,0.59606,1,0,0,3,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,2,0,0
-"USQ93532.1","CaPvitis","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"FD",244,0,5,114.96856,23.23282,0.00617,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
-"USQ93137.1","CaPvitis","predicted",1,"-/-/gnb/-","n-LEAF_Warning",2,"FD",767,0,1,22.76759,13.26607,0.99812,1,51,4,15,4,0,0,0,0,0,2,0,0,0,0,0,1,2,8,0,5,0,4,2
-"USQ93566.1","CaPvitis","predicted",1,"-/-/gnb/-","n-LEAF_SignalP_Warning",1,"FD",596,0.626,1,42.6549,16.0915,0.65777,1,0,1,13,1,0,0,1,0,0,0,0,0,0,0,0,1,0,4,0,1,2,1,2
-"USQ93567.1","CaPvitis","predicted",1,"-/-/-/mnb","y-LEAF",3,"FD",913,0,10,205.5532,0.2823,0.69105,0,0,0,11,4,0,0,1,0,0,0,0,0,0,1,0,0,1,4,1,2,4,1,0
+"USQ93565.1","flavescence dorée","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"FD",86,0.66,1,21.46426,21.46426,0.98601,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,1
+"USQ93595.1","flavescence dorée","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"FD",277,0.679,1,19.72079,19.72079,0.99197,1,46,1,7,4,0,0,4,0,0,2,0,0,0,2,0,3,2,3,1,5,2,1,3
+"USQ93590.1","flavescence dorée","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"FD",170,0.603,1,22.67248,22.67139,0.59215,1,0,0,7,4,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,3,4
+"USQ93149.1","flavescence dorée","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"FD",231,0.585,1,23.9099,23.26282,0.83801,1,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,2,0,0
+"USQ93301.1","flavescence dorée","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"FD",113,0.693,1,21.99774,21.98748,0.1048,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+"USQ93152.1","flavescence dorée","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"FD",131,0.602,2,41.40803,20.11609,0.97036,1,0,0,3,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,1
+"USQ93374.1","flavescence dorée","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"FD",364,0.78,1,19.81547,19.8143,0.98758,1,0,0,4,2,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,1,1,1,1
+"USQ93300.1","flavescence dorée","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"FD",68,0.635,1,22.70816,22.70816,0.07147,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+"USQ93380.1","flavescence dorée","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"FD",122,0.787,1,20.29202,20.29202,0.10652,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"USQ93395.1","flavescence dorée","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_Warning",2,"FD",210,0,1,22.67911,22.67911,0.92704,1,0,1,5,3,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,1,1
+"USQ93163.1","flavescence dorée","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"FD",186,0.665,1,22.29571,22.29349,0.23607,1,0,0,1,1,0,0,2,0,0,0,0,0,0,1,1,0,1,0,0,0,0,1,2
+"USQ93279.1","flavescence dorée","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"FD",283,0.583,1,24.96056,20.98525,0.81986,1,0,0,6,4,0,0,1,0,0,1,0,0,0,1,0,1,1,1,0,1,1,1,2
+"USQ93277.1","flavescence dorée","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"FD",324,0.73,1,19.6256,19.62548,0.89225,1,0,1,9,10,0,0,1,0,0,1,0,0,0,1,3,0,3,2,1,5,2,2,4
+"USQ93170.1","flavescence dorée","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"FD",398,0.783,1,22.93243,22.8899,0.99787,1,0,1,2,2,0,0,2,0,0,1,0,0,0,1,0,0,2,4,0,0,1,2,4
+"USQ93171.1","flavescence dorée","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_Warning",2,"FD",74,0,1,19.5333,19.53326,0.32532,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+"USQ93552.1","flavescence dorée","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"FD",36,0.649,1,20.07071,20.07071,0.8544,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"USQ93261.1","flavescence dorée","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"FD",204,0.603,2,42.40257,24.50408,0.83555,1,0,1,4,1,0,0,1,0,0,0,0,0,0,1,0,1,0,2,0,0,1,2,1
+"USQ93546.1","flavescence dorée","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"FD",325,0.601,1,20.93488,20.90289,0.95326,1,0,0,3,5,0,0,2,0,0,0,0,0,0,2,0,1,2,0,1,0,4,2,1
+"USQ93544.1","flavescence dorée","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"FD",125,0.797,1,19.1218,19.12171,0.18328,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"USQ93542.1","flavescence dorée","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"FD",137,0.74,1,22.37008,22.36985,0.9559,1,0,0,3,2,0,0,1,0,0,0,0,0,0,0,0,1,0,1,2,0,4,0,0
+"USQ93534.1","flavescence dorée","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"FD",247,0.581,1,19.9884,19.97183,0.71457,1,0,0,4,0,0,0,2,0,0,1,0,0,0,0,0,1,0,1,0,0,1,0,1
+"USQ93531.1","flavescence dorée","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"FD",329,0.657,1,23.23792,22.79807,0.99668,1,0,0,5,3,0,0,0,0,0,0,0,0,0,0,0,1,1,4,0,2,1,2,1
+"USQ93465.1","flavescence dorée","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"FD",80,0.635,1,22.06387,22.05115,0.97048,1,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,0,0,3,1
+"USQ93522.1","flavescence dorée","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"FD",234,0.8,1,20.46398,20.4636,0.93246,1,28,0,8,3,0,0,1,0,0,1,0,0,0,0,0,0,2,3,1,1,2,0,4
+"USQ93194.1","flavescence dorée","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"FD",224,0.707,1,20.8055,20.80366,0.5243,1,32,1,3,3,1,0,1,0,0,0,0,0,0,1,0,2,0,3,1,3,1,2,1
+"USQ93304.1","flavescence dorée","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"FD",129,0.644,1,21.7026,21.7026,0.16728,1,0,0,0,1,0,0,3,0,0,0,0,0,0,1,0,1,0,1,0,0,0,1,2
+"USQ93507.1","flavescence dorée","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"FD",60,0.657,1,22.93459,22.93459,0.99557,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+"USQ93139.1","flavescence dorée","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"FD",450,0.709,1,22.27444,22.27444,0.99996,1,30,1,7,2,0,0,2,0,0,0,0,0,0,0,0,1,1,2,1,0,0,4,1
+"USQ93601.1","flavescence dorée","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"FD",299,0.696,1,18.88287,18.8792,0.0981,1,34,0,2,3,0,0,0,0,0,0,0,0,0,1,0,1,0,3,1,2,2,0,2
+"USQ93325.1","flavescence dorée","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"FD",210,0.623,1,22.71109,22.71109,0.9005,1,0,0,4,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0
+"USQ93603.1","flavescence dorée","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"FD",213,0.592,1,26.95574,20.41863,0.99739,1,0,0,0,0,0,0,3,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0
+"USQ93338.1","flavescence dorée","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"FD",241,0.72,1,19.89368,19.89353,0.8967,1,0,0,4,2,0,0,1,0,0,0,0,0,0,2,0,0,2,0,0,0,2,3,0
+"USQ93602.1","flavescence dorée","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"FD",104,0.623,1,20.64921,20.64921,0.12138,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"USQ93607.1","flavescence dorée","predicted",3,"rf/xgb/gnb/-","n-LEAF_SignalP_Warning",1,"FD",460,0.607,1,20.74673,20.74388,0.95485,1,0,2,6,3,0,0,1,0,0,1,0,0,0,1,0,0,2,2,0,3,1,1,1
+"USQ93518.1","flavescence dorée","predicted",3,"-/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"FD",382,0.625,1,22.48661,22.48105,0.98116,1,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0
+"USQ93462.1","flavescence dorée","predicted",3,"rf/xgb/gnb/-","n-LEAF_SignalP_Warning",1,"FD",445,0.741,1,19.94514,19.90418,0.99105,1,0,2,3,4,0,0,1,0,0,2,0,0,0,0,1,1,0,2,1,1,3,0,2
+"USQ93328.1","flavescence dorée","predicted",3,"-/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"FD",312,0.78,1,22.1095,22.10335,0.97297,1,0,0,3,3,0,0,2,0,0,0,0,0,0,0,0,1,4,0,0,3,1,1,0
+"USQ93412.1","flavescence dorée","predicted",3,"-/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"FD",320,0.677,2,38.78746,19.74841,0.99381,1,0,0,14,4,0,0,4,0,0,0,0,0,0,2,0,0,1,2,0,4,3,3,2
+"USQ93578.1","flavescence dorée","predicted",3,"-/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"FD",251,0.593,1,23.89969,23.64813,0.74782,1,0,1,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,1,0
+"USQ93596.1","flavescence dorée","predicted",3,"-/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"FD",391,0.687,1,19.71605,19.71605,0.99777,1,152,1,10,4,0,0,1,0,0,0,0,0,0,1,0,0,2,2,1,1,3,4,3
+"USQ93545.1","flavescence dorée","predicted",3,"rf/-/gnb/mnb","n-LEAF_Warning",2,"FD",92,0,2,40.01667,20.45217,0.9486,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"USQ93181.1","flavescence dorée","predicted",3,"-/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"FD",248,0.685,1,21.87433,21.86138,0.99729,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"USQ93324.1","flavescence dorée","predicted",3,"-/xgb/gnb/mnb","n-LEAF_Warning",2,"FD",190,0,2,42.20441,29.98619,0.26876,1,45,0,1,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,1
+"USQ93191.1","flavescence dorée","predicted",3,"rf/-/gnb/mnb","n-LEAF_Warning",2,"FD",148,0,2,43.27702,21.35899,0.97497,1,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+"USQ93438.1","flavescence dorée","predicted",3,"-/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"FD",285,0.709,2,42.7955,20.26247,0.72146,1,201,0,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"USQ93198.1","flavescence dorée","predicted",3,"rf/xgb/gnb/-","n-LEAF_SignalP_Warning",1,"FD",542,0.615,1,21.02904,21.00317,0.90507,1,0,1,8,4,0,0,2,0,0,1,0,0,0,1,0,1,2,2,0,0,3,2,1
+"USQ93502.1","flavescence dorée","predicted",3,"-/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"FD",309,0.688,1,19.64398,19.6438,0.04668,1,0,0,5,3,0,0,1,0,0,1,0,0,0,1,1,0,1,2,0,2,1,1,1
+"USQ93504.1","flavescence dorée","predicted",3,"rf/-/gnb/mnb","n-LEAF_Warning",2,"FD",119,0,2,40.70036,18.98851,0.99352,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"USQ93153.1","flavescence dorée","predicted",3,"-/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"FD",381,0.672,2,39.23497,19.36594,0.19232,1,0,0,4,2,0,0,0,0,0,1,0,0,0,1,0,0,1,1,1,1,2,1,0
+"USQ93352.1","flavescence dorée","predicted",3,"-/xgb/gnb/mnb","n-LEAF_Warning",2,"FD",156,0,1,22.67494,22.67476,0.20859,1,0,0,4,2,0,0,0,0,0,1,0,0,0,0,0,0,1,2,0,1,1,1,1
+"USQ93491.1","flavescence dorée","predicted",2,"rf/-/-/mnb","n-LEAF_Warning",2,"FD",131,0,3,62.94096,23.99927,0.97371,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1
+"USQ93138.1","flavescence dorée","predicted",2,"-/xgb/gnb/-","n-LEAF_SignalP_Warning",1,"FD",626,0.714,1,20.7678,20.76765,0.99474,1,27,1,9,5,0,0,1,0,0,0,0,0,0,0,0,0,4,4,1,2,2,0,5
+"USQ93196.1","flavescence dorée","predicted",2,"-/xgb/gnb/-","n-LEAF_SignalP_Warning",1,"FD",601,0.622,2,42.38355,20.21642,0.47533,1,0,0,11,0,0,0,5,0,0,1,0,0,0,2,0,1,0,3,0,1,1,1,3
+"USQ93327.1","flavescence dorée","predicted",2,"-/-/gnb/mnb","n-LEAF_Warning",2,"FD",547,0,2,40.26434,34.62357,0.00609,1,0,3,4,3,0,1,0,0,0,1,0,0,0,0,0,0,2,3,1,2,1,2,1
+"USQ93557.1","flavescence dorée","predicted",2,"-/xgb/gnb/-","n-LEAF_Warning",2,"FD",412,0,1,19.4744,19.47423,0.98805,1,0,0,9,2,0,0,3,0,0,0,0,0,0,2,0,0,1,4,0,0,3,1,3
+"USQ93556.1","flavescence dorée","predicted",2,"-/-/gnb/mnb","n-LEAF_Warning",2,"FD",236,0,1,18.35799,15.72593,0.88304,1,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,1
+"USQ93424.1","flavescence dorée","predicted",2,"-/xgb/gnb/-","n-LEAF_SignalP_Warning",1,"FD",497,0.666,1,22.2732,22.27274,0.98059,1,0,0,9,3,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,0,0,2,2
+"USQ93241.1","flavescence dorée","predicted",2,"-/-/gnb/mnb","n-LEAF_SignalP_Warning",1,"FD",674,0.685,2,45.52976,22.82554,0.00527,1,60,1,17,5,0,0,1,0,0,0,0,0,0,0,2,0,1,5,3,5,1,5,2
+"USQ93461.1","flavescence dorée","predicted",2,"-/-/gnb/mnb","n-LEAF_SignalP_Warning",1,"FD",381,0.616,2,45.06327,22.2462,0.92414,1,0,0,10,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1
+"USQ93430.1","flavescence dorée","predicted",2,"-/-/gnb/mnb","n-LEAF_SignalP_Warning",1,"FD",261,0.684,2,45.3636,22.54479,0.98062,1,0,0,4,0,0,0,1,0,0,1,0,0,0,0,0,0,0,2,0,1,0,1,0
+"USQ93593.1","flavescence dorée","predicted",2,"-/xgb/gnb/-","n-LEAF_SignalP_Warning",1,"FD",584,0.614,1,33.7673000000001,17.46324,0.93525,1,0,0,10,2,0,0,3,0,0,1,0,0,0,2,0,1,2,2,0,3,0,2,2
+"USQ93263.1","flavescence dorée","predicted",2,"-/-/gnb/mnb","n-LEAF_SignalP_Warning",1,"FD",196,0.722,2,45.26761,22.66739,0.67283,1,0,1,3,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+"USQ93371.1","flavescence dorée","predicted",2,"-/-/gnb/mnb","n-LEAF_Warning",2,"FD",73,0,1,21.36536,14.21156,0.83257,1,33,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0
+"USQ93326.1","flavescence dorée","predicted",2,"-/xgb/gnb/-","n-LEAF_SignalP_Warning",1,"FD",457,0.694,1,23.22204,22.98362,0.98494,1,0,0,4,0,0,0,1,0,0,1,0,0,0,0,0,0,0,3,0,1,0,2,0
+"USQ93373.1","flavescence dorée","predicted",2,"-/-/gnb/mnb","n-LEAF_Warning",2,"FD",221,0,1,19.12001,18.91786,0.8207,1,0,0,3,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"USQ93347.1","flavescence dorée","predicted",2,"-/xgb/gnb/-","n-LEAF_SignalP_Warning",1,"FD",1546,0.761,1,20.95948,20.95735,0.99934,1,0,4,16,12,0,0,1,0,0,4,0,0,0,1,0,1,8,8,2,4,9,6,6
+"USQ93449.1","flavescence dorée","predicted",2,"-/-/gnb/mnb","n-LEAF_Warning",2,"FD",245,0,1,35.33361,22.96239,0.00254,1,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,1
+"USQ93189.1","flavescence dorée","predicted",2,"-/-/gnb/mnb","n-LEAF_Warning",2,"FD",252,0,3,58.9413900000001,43.88113,0.14382,1,0,0,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+"USQ93180.1","flavescence dorée","predicted",2,"-/xgb/gnb/-","n-LEAF_SignalP_Warning",1,"FD",550,0.638,1,22.70812,22.70812,0.9988,1,0,1,2,3,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,2,0,0,2
+"USQ93284.1","flavescence dorée","predicted",2,"-/-/gnb/mnb","n-LEAF_Warning",2,"FD",73,0,2,41.3787,34.83377,0.5994,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+"USQ93165.1","flavescence dorée","predicted",2,"-/xgb/gnb/-","n-LEAF_SignalP_Warning",1,"FD",599,0.702,1,37.3474200000001,18.38325,0.98576,1,0,0,11,1,0,0,3,0,0,1,0,0,0,2,0,0,0,1,1,1,0,1,3
+"USQ93594.1","flavescence dorée","predicted",2,"-/xgb/gnb/-","n-LEAF_Warning",2,"FD",601,0,1,18.72339,18.72293,0.99909,1,0,0,5,2,0,0,3,0,0,0,0,0,0,2,0,1,2,1,0,2,3,2,1
+"USQ93142.1","flavescence dorée","predicted",2,"-/xgb/gnb/-","n-LEAF_SignalP_Warning",1,"FD",497,0.666,1,22.2732,22.27274,0.98059,1,0,0,9,3,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,0,0,2,2
+"USQ93604.1","flavescence dorée","predicted",2,"-/xgb/gnb/-","n-LEAF_SignalP_Warning",1,"FD",1503,0.678,1,22.60539,22.5988,0.99994,1,0,5,14,9,0,0,2,0,0,3,0,0,0,2,0,0,4,6,1,6,4,6,5
+"USQ93540.1","flavescence dorée","predicted",2,"-/-/gnb/mnb","n-LEAF_Warning",2,"FD",212,0,1,19.66109,19.6608,0.26753,1,0,0,5,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0
+"USQ93437.1","flavescence dorée","predicted",2,"-/-/gnb/mnb","n-LEAF_SignalP_Warning",1,"FD",673,0.702,2,40.57703,20.60633,0.98311,1,588,0,13,2,0,0,1,0,0,0,0,0,0,1,0,0,0,3,2,0,0,2,5
+"USQ93606.1","flavescence dorée","predicted",2,"-/-/gnb/mnb","n-LEAF_Warning",2,"FD",266,0,1,22.94661,22.94661,0.9902,1,0,0,7,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0
+"USQ93547.1","flavescence dorée","predicted",2,"-/xgb/gnb/-","n-LEAF_SignalP_Warning",1,"FD",721,0.688,1,22.58508,22.55768,0.99998,1,0,0,9,5,0,0,6,0,0,0,0,0,0,2,1,1,2,5,1,2,3,3,4
+"USQ93459.1","flavescence dorée","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"FD",653,0,7,150.06103,31.93484,0.999,1,0,1,8,6,0,0,5,0,0,0,0,0,0,2,1,0,5,7,0,5,5,4,2
+"USQ93246.1","flavescence dorée","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"FD",209,0,5,115.32215,30.02936,0.12229,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"USQ93245.1","flavescence dorée","predicted",1,"-/-/-/mnb","n-LEAF_SignalP_Warning",1,"FD",124,0.595,3,66.56949,24.76293,0.63364,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+"USQ93244.1","flavescence dorée","predicted",1,"-/-/-/mnb","n-LEAF_SignalP_Warning",1,"FD",230,0.749,6,127.97386,30.6325,0.99957,1,0,0,6,0,0,0,1,0,0,0,0,0,0,0,0,1,0,2,0,1,2,0,0
+"USQ93332.1","flavescence dorée","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"FD",205,0,6,123.74665,35.91977,0.99915,1,0,2,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,1,1,1
+"USQ93484.1","flavescence dorée","predicted",1,"-/-/-/mnb","y-LEAF_SecP2",3,"FD",98,0,0,0.00038,0.00038,0.10205,0,38,0,1,4,0,0,1,0,0,0,0,0,0,0,0,1,1,2,2,0,0,4,2
+"USQ93216.1","flavescence dorée","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"FD",413,0,10,204.05255,20.31191,0.99898,1,0,1,5,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,1
+"USQ93206.1","flavescence dorée","predicted",1,"-/-/-/mnb","n-LEAF_SignalP_Warning",1,"FD",326,0.585,9,180.02693,32.69154,0.9958,1,0,0,4,1,0,0,1,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1,2
+"USQ93488.1","flavescence dorée","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"FD",768,0,9,196.85777,11.26351,0.9955,1,0,0,5,5,0,0,2,0,0,0,0,0,0,1,0,0,2,1,1,2,2,2,0
+"USQ93473.1","flavescence dorée","predicted",1,"-/-/gnb/-","n-LEAF_Warning",2,"FD",1059,0,2,41.8321299999999,21.70433,0.99729,1,0,0,14,14,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,2,4,6,2
+"USQ93363.1","flavescence dorée","predicted",1,"-/-/-/mnb","n-LEAF_SignalP_Warning",1,"FD",204,0.576,4,87.6035400000001,37.84819,0.99748,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+"USQ93442.1","flavescence dorée","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"FD",243,0,6,126.48973,22.88944,0.99961,1,0,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+"USQ93281.1","flavescence dorée","predicted",1,"-/-/-/mnb","n-LEAF_SignalP_Warning",1,"FD",443,0.578,7,152.931060000001,20.19139,1,1,0,1,4,1,0,0,2,0,0,0,0,0,0,1,0,0,0,2,0,0,1,1,1
+"USQ93355.1","flavescence dorée","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"FD",243,0,7,138.30268,29.65524,0.47674,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2,0,0
+"USQ93365.1","flavescence dorée","predicted",1,"-/-/-/mnb","y-LEAF",3,"FD",197,0,3,73.2997900000001,0.22011,0.27886,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+"USQ93353.1","flavescence dorée","predicted",1,"-/-/gnb/-","n-LEAF_Warning",2,"FD",542,0,1,23.44158,22.69198,0.98536,1,0,2,6,4,0,0,1,0,0,0,0,0,0,0,0,1,2,3,0,0,2,1,3
+"USQ93368.1","flavescence dorée","predicted",1,"-/-/-/mnb","n-LEAF_SignalP_Warning",1,"FD",243,0.67,6,130.21618,34.37523,0.99729,1,0,0,3,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0
+"USQ93317.1","flavescence dorée","predicted",1,"-/-/-/mnb","n-LEAF_SignalP_Warning",1,"FD",216,0.67,5,116.85841,37.97168,0.24846,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"USQ93376.1","flavescence dorée","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"FD",357,0,8,179.03063,27.2169,0.62281,1,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,1
+"USQ93377.1","flavescence dorée","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"FD",368,0,9,195.8172,41.04241,0.02434,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,1
+"USQ93381.1","flavescence dorée","predicted",1,"-/-/gnb/-","n-LEAF_SignalP_Warning",1,"FD",431,0.574,1,14.67174,14.67063,0.79171,1,36,0,4,3,0,0,2,0,0,1,0,0,0,1,0,1,2,3,0,4,2,1,0
+"USQ93385.1","flavescence dorée","predicted",1,"-/-/-/mnb","n-LEAF_SignalP",1,"FD",214,0.612,2,40.13211,0.00087,0.99472,0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"USQ93394.1","flavescence dorée","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"FD",267,0,6,130.27051,22.82632,0.99974,1,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+"USQ93397.1","flavescence dorée","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"FD",339,0,8,175.41909,17.71037,0.03764,1,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"USQ93399.1","flavescence dorée","predicted",1,"-/-/-/mnb","n-LEAF_SignalP_Warning",1,"FD",287,0.621,7,151.48296,37.40094,0.99821,1,0,0,2,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,2
+"USQ93280.1","flavescence dorée","predicted",1,"-/-/gnb/-","n-LEAF_Warning",2,"FD",479,0,1,19.1158199999999,19.10785,0.89524,1,0,0,11,1,0,0,1,0,0,1,0,0,0,1,0,0,1,2,0,0,0,2,2
+"USQ93257.1","flavescence dorée","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"FD",213,0,7,145.72923,33.86566,0.81768,1,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,1,0,0
+"USQ93200.1","flavescence dorée","predicted",1,"-/-/gnb/-","n-LEAF_SignalP_Warning",1,"FD",1682,0.596,2,44.5445,21.67298,1,1,0,0,131,118,0,0,0,0,0,10,0,0,0,0,0,1,1,7,0,40,51,51,48
+"USQ93345.1","flavescence dorée","predicted",1,"-/-/-/mnb","y-LEAF",3,"FD",480,0,4,91.1767000000001,0.06613,0.98917,0,0,0,9,1,0,0,2,0,0,1,0,0,0,2,1,0,0,3,1,5,3,0,0
+"USQ93409.1","flavescence dorée","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"FD",260,0,6,134.74631,22.47166,0.99622,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+"USQ93275.1","flavescence dorée","predicted",1,"-/-/-/mnb","y-LEAF",3,"FD",155,0,1,21.48803,0,0.92207,0,0,1,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,1,0,1,0
+"USQ93269.1","flavescence dorée","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"FD",300,0,8,172.65704,39.52553,0.88531,1,0,0,4,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+"USQ93419.1","flavescence dorée","predicted",1,"-/-/-/mnb","y-LEAF",3,"FD",565,0,4,106.86352,1.26467,0.74836,0,0,0,11,1,0,0,2,0,0,1,0,0,0,0,1,1,0,1,0,0,0,0,3
+"USQ93425.1","flavescence dorée","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"FD",303,0,6,134.25875,22.74067,0.99972,1,0,0,4,3,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,1,1,1
+"USQ93426.1","flavescence dorée","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"FD",308,0,6,133.81669,22.5182,0.99348,1,0,0,5,2,0,0,0,0,0,1,0,0,0,0,1,0,0,4,0,0,1,2,2
+"USQ93341.1","flavescence dorée","predicted",1,"-/-/-/mnb","n-LEAF_SignalP_Warning",1,"FD",590,0.639,6,129.50253,24.73592,0.52252,1,0,0,3,2,0,0,2,0,0,1,0,0,0,2,0,0,0,1,1,0,0,1,3
+"USQ93337.1","flavescence dorée","predicted",1,"-/-/-/mnb","n-LEAF_SignalP_Warning",1,"FD",538,0.637,12,285.73684,34.96854,0.81611,1,0,0,8,0,0,0,2,0,0,0,0,0,0,0,0,0,2,1,0,2,1,0,0
+"USQ93336.1","flavescence dorée","predicted",1,"-/-/-/mnb","n-LEAF_SignalP_Warning",1,"FD",526,0.657,6,135.36877,19.93126,0.05379,1,0,0,4,5,0,0,3,0,0,1,0,0,0,2,0,0,2,2,2,2,5,0,1
+"USQ93432.1","flavescence dorée","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"FD",479,0,10,218.68439,20.66848,0.98462,1,0,0,4,3,0,0,2,0,0,1,0,0,0,0,0,2,1,2,0,2,0,1,2
+"USQ93342.1","flavescence dorée","predicted",1,"-/-/-/mnb","n-LEAF_SignalP_Warning",1,"FD",572,0.608,6,136.82178,34.25169,0.06607,1,0,1,6,1,0,0,1,0,0,0,0,0,0,1,0,0,0,3,0,0,0,2,2
+"USQ93127.1","flavescence dorée","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"FD",212,0,5,112.08557,28.22591,0.85275,1,0,1,4,1,0,0,0,0,0,0,0,0,0,0,1,0,0,3,0,0,2,2,1
+"USQ93558.1","flavescence dorée","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"FD",315,0,7,151.34305,37.71443,0.99501,1,0,1,6,1,0,0,2,0,0,0,0,0,0,1,0,0,0,3,0,0,0,0,4
+"USQ93520.1","flavescence dorée","predicted",1,"-/-/-/mnb","y-LEAF",3,"FD",95,0,1,14.46379,0,0.62284,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"USQ93550.1","flavescence dorée","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"FD",75,0,1,15.67427,15.67427,0.47259,1,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+"USQ93605.1","flavescence dorée","predicted",1,"-/-/gnb/-","n-LEAF_SignalP_Warning",1,"FD",493,0.663,1,22.8203999999999,22.72505,0.96308,1,0,0,9,4,0,0,1,0,0,1,0,0,0,1,0,0,3,2,0,1,4,1,1
+"USQ93548.1","flavescence dorée","predicted",1,"-/-/gnb/-","n-LEAF_SignalP_Warning",1,"FD",595,0.627,2,43.9441800000001,21.29782,0.21994,1,0,0,10,0,0,0,2,0,0,1,0,0,0,1,0,0,0,2,0,0,0,2,2
+"USQ93143.1","flavescence dorée","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"FD",303,0,6,134.25875,22.74067,0.99972,1,0,0,4,3,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,1,1,1
+"USQ93144.1","flavescence dorée","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"FD",308,0,6,133.81669,22.5182,0.99348,1,0,0,5,2,0,0,0,0,0,1,0,0,0,0,1,0,0,4,0,0,1,2,2
+"USQ93573.1","flavescence dorée","predicted",1,"-/-/-/mnb","n-LEAF_SignalP_Warning",1,"FD",212,0.643,6,127.39873,38.15504,0.99771,1,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,2,1,0,0
+"USQ93537.1","flavescence dorée","predicted",1,"-/-/-/mnb","y-LEAF",3,"FD",939,0,10,216.24053,3.47397,0.99864,0,0,0,12,7,0,0,3,0,0,0,0,0,0,1,0,2,2,4,2,2,5,1,3
+"USQ93568.1","flavescence dorée","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"FD",423,0,4,84.1185400000002,25.0423,0.04143,1,0,1,6,1,0,0,2,0,0,0,0,0,0,0,0,0,1,4,1,1,1,2,2
+"USQ93592.1","flavescence dorée","predicted",1,"-/-/-/mnb","y-LEAF_SecP2",3,"FD",52,0,0,0,0,0.60612,0,52,0,3,3,0,0,0,0,0,0,0,0,0,0,0,1,0,3,2,1,2,2,1
+"USQ93589.1","flavescence dorée","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"FD",495,0,10,251.92068,26.48186,0.99009,1,0,0,2,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,2,1
+"USQ93524.1","flavescence dorée","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"FD",257,0,7,149.63414,21.13484,0.97825,1,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0
+"USQ93169.1","flavescence dorée","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"FD",333,0,8,176.449,18.41544,0.01937,1,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0
+"USQ93154.1","flavescence dorée","predicted",1,"-/-/-/mnb","n-LEAF_SignalP_Warning",1,"FD",265,0.67,6,132.47599,22.5842,0.99619,1,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"USQ93155.1","flavescence dorée","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"FD",280,0,6,133.9967,22.81751,0.98477,1,0,0,4,2,0,0,3,0,0,0,0,0,0,1,1,0,1,0,0,1,1,1,0
+"USQ93517.1","flavescence dorée","predicted",1,"-/-/gnb/-","n-LEAF_SignalP_Warning",1,"FD",528,0.584,1,24.66266,22.01379,0.86774,1,0,0,9,0,0,0,2,0,0,1,0,0,0,1,0,0,0,2,0,0,0,1,2
+"USQ93543.1","flavescence dorée","predicted",1,"-/-/-/mnb","y-LEAF",3,"FD",323,0,7,155.45495,0.42332,0.97159,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0,2,0
+"USQ93133.1","flavescence dorée","predicted",1,"-/-/-/mnb","n-LEAF_SignalP_Warning",1,"FD",192,0.571,5,113.24964,41.8018,0.03075,1,0,0,0,0,0,0,2,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,2
+"USQ93563.1","flavescence dorée","predicted",1,"-/-/gnb/-","n-LEAF_Warning",2,"FD",516,0,1,19.5958899999999,19.5923,0.99431,1,0,2,5,1,0,0,0,0,0,0,0,0,0,1,0,0,1,3,0,4,0,0,1
+"USQ93130.1","flavescence dorée","predicted",1,"-/-/-/mnb","y-LEAF",3,"FD",103,0,0,6.65405,6.63934,0.34258,0,0,2,2,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0
+"USQ93199.1","flavescence dorée","predicted",1,"-/-/-/mnb","n-LEAF_SignalP_Warning",1,"FD",240,0.658,5,107.88537,30.24538,0.99939,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"USQ93195.1","flavescence dorée","predicted",1,"-/-/gnb/-","n-LEAF_Warning",2,"FD",699,0,1,20.9509,20.94427,0.99891,1,0,1,6,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,3,0,1
+"USQ93134.1","flavescence dorée","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"FD",150,0,3,63.84745,20.28619,0.59606,1,0,0,3,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,2,0,0
+"USQ93532.1","flavescence dorée","predicted",1,"-/-/-/mnb","n-LEAF_Warning",2,"FD",244,0,5,114.96856,23.23282,0.00617,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+"USQ93137.1","flavescence dorée","predicted",1,"-/-/gnb/-","n-LEAF_Warning",2,"FD",767,0,1,22.76759,13.26607,0.99812,1,51,4,15,4,0,0,0,0,0,2,0,0,0,0,0,1,2,8,0,5,0,4,2
+"USQ93566.1","flavescence dorée","predicted",1,"-/-/gnb/-","n-LEAF_SignalP_Warning",1,"FD",596,0.626,1,42.6549,16.0915,0.65777,1,0,1,13,1,0,0,1,0,0,0,0,0,0,0,0,1,0,4,0,1,2,1,2
+"USQ93567.1","flavescence dorée","predicted",1,"-/-/-/mnb","y-LEAF",3,"FD",913,0,10,205.5532,0.2823,0.69105,0,0,0,11,4,0,0,1,0,0,0,0,0,0,1,0,0,1,4,1,2,4,1,0
 2570378957,"CaPtritici","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"WBD",157,0.719,1,22.8093,22.8093,0.95436,1,0,0,5,3,1,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,2,1,1
 2570378970,"CaPtritici","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"WBD",195,0.772,1,22.5283,22.52149,0.80297,1,0,1,6,1,0,0,1,0,0,0,0,0,0,1,0,0,1,2,0,0,1,2,1
 2570378963,"CaPtritici","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"WBD",156,0.711,1,22.96303,22.96303,0.97045,1,0,0,3,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
 2570378962,"CaPtritici","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"WBD",129,0.65,1,21.07465,21.0745,0.33966,1,0,0,4,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1
-"SWP16 – 2570378958","CaPtritici","SWP16",4,"rf/xgb/gnb/mnb","n",1,"WBD",69,0.712,1,22.3728,22.3728,0.36214,1,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0
+"SWP16 - 2570378958","CaPtritici","SWP16",4,"rf/xgb/gnb/mnb","n",1,"WBD",69,0.712,1,22.3728,22.3728,0.36214,1,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0
 2570378935,"CaPtritici","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_Warning",2,"WBD",69,0,1,20.33044,20.33043,0.23936,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,2,0,0
 2570378934,"CaPtritici","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"WBD",151,0.815,1,21.02491,21.02491,0.39137,1,0,0,0,2,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,1,1,0
 2570378924,"CaPtritici","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"WBD",199,0.828,1,21.42961,21.40795,0.76652,1,0,1,4,1,1,0,0,0,0,0,0,0,0,0,0,1,0,2,0,1,2,0,0
-"SWP12 – 2570378919","CaPtritici","SWP12",4,"rf/xgb/gnb/mnb","n",1,"WBD",142,0.656,1,21.80426,21.80091,0.99273,1,0,0,2,3,1,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,1,0,2
-"SWP11 – 2570378917","CaPtritici","SWP11",4,"rf/xgb/gnb/mnb","n",1,"WBD",124,0.755,1,20.35776,20.35776,0.21392,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,2,0
+"SWP12 - 2570378919","CaPtritici","SWP12",4,"rf/xgb/gnb/mnb","n",1,"WBD",142,0.656,1,21.80426,21.80091,0.99273,1,0,0,2,3,1,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,1,0,2
+"SWP11 - 2570378917","CaPtritici","SWP11",4,"rf/xgb/gnb/mnb","n",1,"WBD",124,0.755,1,20.35776,20.35776,0.21392,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,2,0
 2570378916,"CaPtritici","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"WBD",102,0.769,1,18.50927,18.50927,0.06006,1,23,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,1,2,0
 2570378915,"CaPtritici","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"WBD",72,0.664,1,22.27042,22.27042,0.65751,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 2570378909,"CaPtritici","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"WBD",208,0.639,1,19.29159,19.28162,0.93834,1,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0
@@ -1974,7 +1974,7 @@
 2570379024,"CaPtritici","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_Warning",2,"WBD",71,0,1,22.79303,22.79303,0.12288,1,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,2,1
 2570378782,"CaPtritici","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"WBD",137,0.849,1,20.3385,20.23727,0.93386,1,0,0,1,2,0,0,2,0,0,0,0,0,1,0,0,0,1,1,1,0,1,0,2
 2570379241,"CaPtritici","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"WBD",61,0.577,1,21.61378,21.61378,0.71662,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-"SWP1 – 2570378669","CaPtritici","SWP1",4,"rf/xgb/gnb/mnb","n",1,"WBD",112,0.753,1,19.95028,19.95028,0.06004,1,23,0,4,4,0,0,1,0,0,1,0,0,0,0,0,1,0,2,2,0,3,2,0
+"SWP1 - 2570378669","CaPtritici","SWP1",4,"rf/xgb/gnb/mnb","n",1,"WBD",112,0.753,1,19.95028,19.95028,0.06004,1,23,0,4,4,0,0,1,0,0,1,0,0,0,0,0,1,0,2,2,0,3,2,0
 2570378674,"CaPtritici","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_Warning",2,"WBD",153,0,1,25.78371,20.94461,0.56275,1,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,1
 2570378673,"CaPtritici","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"WBD",182,0.585,1,20.19435,20.19435,0.15283,1,0,0,4,2,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,2,0,0,1
 2570378671,"CaPtritici","predicted",4,"rf/xgb/gnb/mnb","n-LEAF_SignalP_Warning",1,"WBD",54,0.611,1,23.00174,23.00174,0.99586,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0
