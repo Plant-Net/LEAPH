@@ -21,6 +21,7 @@ The app will directly read, as inputs, the 2 files contained in ```../essentials
 - use the following singularity container. 
 
 **Using the provided singularity container**
+
 Please use the provided definition file to build up the ```EffectorComb.simg``` container. This step will take a while.
 ```
 sudo singularity build EffectorComb.simg ./EffectorComb.recipe
